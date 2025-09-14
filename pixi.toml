@@ -1,0 +1,14 @@
+[workspace]
+authors = ["Hong-yiii <hongyilin.mail@gmail.com>"]
+channels = ["conda-forge"]
+name = "graphrag"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+graphrag = ">=2.5.0, <3"
