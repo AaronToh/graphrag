@@ -7,14 +7,12 @@ This project uses pixi for env management:
 https://pixi.sh/dev/
 
 To initialize the pixi environment and activate the shell:
+```bash
+pixi install
+```
 
 ```bash
 pixi shell
 ```
 
-Or if you need to specify the manifest path:
-
-```bash
-pixi shell --manifest-path pixi.toml
-```
 This will activate the pixi environment with all dependencies configured in `pixi.toml`.
