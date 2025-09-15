@@ -1,0 +1,9 @@
+2025-09-15 17:55:18,565 - __main__ - INFO - 🎯 GraphRAG Pruning Lab - Stage 1: Baseline Index Builder
+2025-09-15 17:55:18,565 - __main__ - INFO - 📁 Project root: /Users/hongyilin/projects/graphrag
+2025-09-15 17:55:18,565 - __main__ - INFO - ⚙️  Config file: /Users/hongyilin/projects/graphrag/../workspace/settings.yaml
+2025-09-15 17:55:18,565 - __main__ - INFO - 📥 Input directory: /Users/hongyilin/projects/graphrag/data/input
+2025-09-15 17:55:18,565 - __main__ - INFO - 📤 Output directory: /Users/hongyilin/projects/graphrag/workspace/output
+2025-09-15 17:55:18,565 - __main__ - INFO - 📁 Output directory already exists
+2025-09-15 17:55:18,565 - __main__ - WARNING - ⚠️  Missing expected output files: ['entities.parquet', 'relationships.parquet', 'communities.parquet', 'community_reports.parquet', 'text_units.parquet', 'covariates.parquet']
+2025-09-15 17:55:18,565 - __main__ - WARNING - ⚠️  Existing output appears incomplete, rebuilding...
+2025-09-15 17:55:18,565 - __main__ - ERROR - ❌ Input validation failed
