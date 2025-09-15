@@ -59,6 +59,10 @@ This project explores **graph pruning for RAG**:
 **Key papers**  
 - [From Local to Global: A Graph RAG Approach to Query-Focused Summarization (2024)](https://arxiv.org/abs/2404.16130)  
 - [Survey on Graph Reduction Techniques (2024)](https://arxiv.org/abs/2402.03358)  
+- [PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths](https://arxiv.org/abs/2502.14902)
+
+**Additional References** 
+- [BenchmarkQED: Automated Benchmarking of RAG systems](https://www.microsoft.com/en-us/research/blog/benchmarkqed-automated-benchmarking-of-rag-systems/)
 
 ---
 
