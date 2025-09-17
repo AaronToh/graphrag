@@ -56,39 +56,40 @@ def check_input_data(input_dir: Path) -> bool:
 
     return True
 
-def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
-    """Run GraphRAG indexing pipeline."""
-    try:
-        # Import GraphRAG components
-        from graphrag.cli.index import run_index
+import subprocess
 
+def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
+    """Run GraphRAG indexing pipeline via CLI."""
+    try:
         logger.info("🚀 Starting GraphRAG indexing pipeline...")
 
-        # Change to workspace directory
-        original_cwd = os.getcwd()
-        os.chdir(workspace_dir)
-
-        # Run the indexing pipeline
-        run_index(
-            config_filepath=str(config_path),
-            verbose=True,
-            memprofile=False,
-            cache=False,
-            logger=logger
+        # Run the CLI command directly
+        result = subprocess.run(
+            ["graphrag", "index", "--root", str(workspace_dir)],
+            capture_output=True,
+            text=True,
+            check=False  # don’t raise immediately
         )
 
-        # Return to original directory
-        os.chdir(original_cwd)
+        # Log stdout and stderr
+        if result.stdout:
+            logger.info(result.stdout)
+        if result.stderr:
+            logger.error(result.stderr)
 
-        logger.info("✅ GraphRAG indexing completed successfully!")
-        return True
+        if result.returncode == 0:
+            logger.info("✅ GraphRAG indexing completed successfully!")
+            return True
+        else:
+            logger.error(f"❌ GraphRAG indexing failed with exit code {result.returncode}")
+            return False
 
-    except ImportError as e:
-        logger.error(f"❌ Failed to import GraphRAG: {e}")
-        logger.error("Please ensure graphrag package is installed: pip install graphrag")
+    except FileNotFoundError:
+        logger.error("❌ graphrag CLI not found. Did you install it in this pixi env?")
+        logger.error("   Try: pixi add graphrag")
         return False
     except Exception as e:
-        logger.error(f"❌ GraphRAG indexing failed: {e}")
+        logger.error(f"❌ Unexpected error running graphrag: {e}")
         return False
 
 def verify_outputs(output_dir: Path, logger: logging.Logger) -> bool:
@@ -130,7 +131,7 @@ def main():
     parser.add_argument(
         "--config",
         type=str,
-        default="../workspace/settings.yaml",
+        default="workspace/settings.yaml",
         help="Path to GraphRAG configuration file"
     )
     parser.add_argument(
