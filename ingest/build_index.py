@@ -24,17 +24,58 @@ from datetime import datetime
 workspace_dir = Path(__file__).parent.parent / "workspace"
 sys.path.insert(0, str(workspace_dir))
 
+# Ollama manager will be imported dynamically in initialize_ollama function
+
 def setup_logging():
     """Configure logging for the indexing process."""
+    # Ensure log file is created in the ingest directory regardless of where script is run from
+    script_dir = Path(__file__).parent
+    log_file = script_dir / 'indexing.log'
+
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler('indexing.log'),
+            logging.FileHandler(log_file),
             logging.StreamHandler()
         ]
     )
     return logging.getLogger(__name__)
+
+def initialize_ollama(logger: logging.Logger) -> bool:
+    """Initialize Ollama server and ensure models are ready."""
+    # Try to import OllamaManager dynamically
+    OllamaManager = None
+    try:
+        # Add project root to sys.path if not already there
+        project_root = Path(__file__).parent.parent
+        if str(project_root) not in sys.path:
+            sys.path.insert(0, str(project_root))
+
+        from model import OllamaManager
+        logger.info("✅ OllamaManager imported successfully")
+    except ImportError as e:
+        logger.warning("⚠️  OllamaManager not available, skipping Ollama initialization")
+        logger.warning(f"   Import error: {e}")
+        logger.warning("   Install required dependencies or ensure model/ module is available")
+        return True  # Don't fail if OllamaManager is not available
+
+    logger.info("🧠 Initializing Ollama environment...")
+
+    try:
+        with OllamaManager() as manager:
+            if manager.initialize():
+                logger.info("✅ Ollama initialization successful")
+                # Log model status
+                status_report = manager.get_model_status_report()
+                logger.info("📊 Model Status:\n" + status_report)
+                return True
+            else:
+                logger.error("❌ Ollama initialization failed")
+                return False
+    except Exception as e:
+        logger.error(f"❌ Ollama initialization error: {e}")
+        return False
 
 def check_input_data(input_dir: Path) -> bool:
     """Check if input data exists and is valid."""
@@ -63,13 +104,25 @@ def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
     try:
         logger.info("🚀 Starting GraphRAG indexing pipeline...")
 
-        # Run the CLI command directly
-        result = subprocess.run(
-            ["pixi", "run", "graphrag", "index", "--config", str(config_path)],
-            capture_output=True,
-            text=True,
-            check=False  # don't raise immediately
-        )
+        # Change to workspace directory so relative paths in config work correctly
+        workspace_dir = config_path.parent
+        original_cwd = os.getcwd()
+
+        try:
+            os.chdir(workspace_dir)
+            logger.info(f"📁 Changed working directory to: {workspace_dir}")
+
+            # Run the CLI command directly
+            result = subprocess.run(
+                ["pixi", "run", "graphrag", "index", "--config", str(config_path.name)],  # Use relative path since we're in workspace dir
+                capture_output=True,
+                text=True,
+                check=False  # don't raise immediately
+            )
+        finally:
+            # Always restore original working directory
+            os.chdir(original_cwd)
+            logger.info(f"📁 Restored working directory to: {original_cwd}")
 
         # Log stdout and stderr
         if result.stdout:
@@ -164,6 +217,11 @@ def main():
     logger.info(f"⚙️  Config file: {config_path}")
     logger.info(f"📥 Input directory: {input_dir}")
     logger.info(f"📤 Output directory: {output_dir}")
+
+    # Initialize Ollama (auto-start server and pull models)
+    if not initialize_ollama(logger):
+        logger.error("❌ Ollama initialization failed - cannot proceed with indexing")
+        return 1
 
     # Check if output already exists
     if output_dir.exists() and not args.overwrite:
