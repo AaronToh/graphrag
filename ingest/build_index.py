@@ -65,10 +65,10 @@ def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
 
         # Run the CLI command directly
         result = subprocess.run(
-            ["graphrag", "index", "--root", str(workspace_dir)],
+            ["pixi", "run", "graphrag", "index", "--config", str(config_path)],
             capture_output=True,
             text=True,
-            check=False  # don’t raise immediately
+            check=False  # don't raise immediately
         )
 
         # Log stdout and stderr

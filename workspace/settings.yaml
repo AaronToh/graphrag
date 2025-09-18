@@ -9,8 +9,8 @@ models:
     type: openai_chat # or azure_openai_chat
     api_base: http://localhost:11434/v1
     api_version: null
-    auth_type: api_key # or azure_managed_identity
-    api_key: "not needed" # set this in the generated .env file
+    auth_type: api_key # Ollama doesn't require authentication
+    api_key: ollama # dummy value for Ollama
     # audience: "https://cognitiveservices.azure.com/.default"
     # organization: <organization_id>
     model: mistral
@@ -27,8 +27,8 @@ models:
     type: openai_embedding # or azure_openai_embedding
     api_base: http://localhost:11434/v1
     api_version: null
-    auth_type: api_key # or azure_managed_identity
-    api_key: "not needed"
+    auth_type: api_key # Ollama doesn't require authentication
+    api_key: ollama # dummy value for Ollama
     # audience: "https://cognitiveservices.azure.com/.default"
     # organization: <organization_id>
     model: nomic-embed-text # text-embedding-3-small
