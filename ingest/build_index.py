@@ -42,8 +42,14 @@ def setup_logging():
     )
     return logging.getLogger(__name__)
 
-def initialize_ollama(logger: logging.Logger) -> bool:
-    """Initialize Ollama server and ensure models are ready."""
+def initialize_ollama(logger: logging.Logger) -> tuple[bool, object]:
+    """Initialize Ollama server and ensure models are ready.
+
+    Returns:
+        tuple: (success: bool, manager: OllamaManager or None)
+               If successful, returns (True, manager_instance) to keep server running
+               If failed, returns (False, None)
+    """
     # Try to import OllamaManager dynamically
     OllamaManager = None
     try:
@@ -58,24 +64,24 @@ def initialize_ollama(logger: logging.Logger) -> bool:
         logger.warning("⚠️  OllamaManager not available, skipping Ollama initialization")
         logger.warning(f"   Import error: {e}")
         logger.warning("   Install required dependencies or ensure model/ module is available")
-        return True  # Don't fail if OllamaManager is not available
+        return True, None  # Don't fail if OllamaManager is not available
 
     logger.info("🧠 Initializing Ollama environment...")
 
     try:
-        with OllamaManager() as manager:
-            if manager.initialize():
-                logger.info("✅ Ollama initialization successful")
-                # Log model status
-                status_report = manager.get_model_status_report()
-                logger.info("📊 Model Status:\n" + status_report)
-                return True
-            else:
-                logger.error("❌ Ollama initialization failed")
-                return False
+        manager = OllamaManager()
+        if manager.initialize():
+            logger.info("✅ Ollama initialization successful")
+            # Log model status
+            status_report = manager.get_model_status_report()
+            logger.info("📊 Model Status:\n" + status_report)
+            return True, manager  # Return manager to keep it alive
+        else:
+            logger.error("❌ Ollama initialization failed")
+            return False, None
     except Exception as e:
         logger.error(f"❌ Ollama initialization error: {e}")
-        return False
+        return False, None
 
 def check_input_data(input_dir: Path) -> bool:
     """Check if input data exists and is valid."""
@@ -218,8 +224,9 @@ def main():
     logger.info(f"📥 Input directory: {input_dir}")
     logger.info(f"📤 Output directory: {output_dir}")
 
-    # Initialize Ollama (auto-start server and pull models)
-    if not initialize_ollama(logger):
+    # Initialize Ollama (auto-start server and pull models) - keep manager alive
+    ollama_success, ollama_manager = initialize_ollama(logger)
+    if not ollama_success:
         logger.error("❌ Ollama initialization failed - cannot proceed with indexing")
         return 1
 
@@ -244,10 +251,11 @@ def main():
 
     # Run GraphRAG indexing
     start_time = datetime.now()
-    success = run_graphrag_index(config_path, logger)
+    indexing_success = run_graphrag_index(config_path, logger)
     end_time = datetime.now()
 
-    if success:
+    success = indexing_success
+    if indexing_success:
         duration = end_time - start_time
         logger.info(".1f")
 
@@ -255,13 +263,20 @@ def main():
         if verify_outputs(output_dir, logger):
             logger.info("🎉 Stage 1 completed successfully!")
             logger.info("📊 Ready for Stage 2: Pruning Layer")
-            return 0
         else:
             logger.error("❌ Output verification failed")
-            return 1
-    else:
-        logger.error("❌ Stage 1 failed")
-        return 1
+            success = False
+
+    # Clean up Ollama manager if it was created
+    if ollama_manager is not None:
+        logger.info("🔄 Shutting down Ollama manager...")
+        try:
+            ollama_manager.shutdown()
+            logger.info("✅ Ollama manager shutdown complete")
+        except Exception as e:
+            logger.warning(f"⚠️  Error shutting down Ollama manager: {e}")
+
+    return 0 if success else 1
 
 if __name__ == "__main__":
     sys.exit(main())
