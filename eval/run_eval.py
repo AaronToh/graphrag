@@ -1,428 +1,726 @@
 #!/usr/bin/env python3
 """
-GraphRAG Pruning Lab - Evaluation Runner
+End-to-End GraphRAG Evaluation Runner
 
-This script orchestrates the evaluation of baseline vs pruned GraphRAG systems.
+This module orchestrates comprehensive evaluation of baseline vs pruned GraphRAG systems.
+It handles:
+- Loading test questions and ground truth data
+- Running queries against baseline and pruned systems
+- Collecting performance metrics
+- Generating comparison reports
+- Running ablation studies
 
-Framework Structure:
-1. Load test queries and gold answers
-2. Run queries against baseline system
-3. Run queries against pruned system
-4. Evaluate and compare results
-5. Generate reports and visualizations
+Usage:
+    # Basic comparison
+    python eval/run_eval.py --baseline workspace/output --pruned workspace/pruned_output
+
+    # Ablation study
+    python eval/run_eval.py --ablation --config eval/ablation_config.json
+
+    # Custom test data
+    python eval/run_eval.py --baseline workspace/output --test-data data/gold/test_questions.json
 """
 
 import argparse
-import pandas as pd
-import numpy as np
-from pathlib import Path
-from typing import Dict, List, Tuple, Optional
-import logging
 import json
 import time
+from pathlib import Path
+from typing import List, Dict, Any, Optional, Tuple, Callable
+from dataclasses import dataclass, asdict
+import pandas as pd
 from datetime import datetime
+import logging
 
-from metrics import RAGEvaluator, load_test_queries_and_answers, simulate_rag_results
+from haystack import Document
+from eval import evaluate_rag_pipeline, evaluate_with_defaults
 
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
 
-class RAGEvaluationRunner:
-    """
-    Orchestrates the evaluation of RAG systems.
 
-    This class manages the complete evaluation pipeline:
-    1. Load test data
-    2. Query baseline and pruned systems
-    3. Collect performance metrics
-    4. Generate comparison reports
+@dataclass
+class TestQuestion:
+    """Structure for a test question with ground truth."""
+
+    question: str
+    ground_truth_answer: Optional[str] = None
+    ground_truth_doc_ids: Optional[List[str]] = None
+    metadata: Optional[Dict[str, Any]] = None
+
+
+@dataclass
+class SystemMetrics:
+    """Performance metrics for a RAG system."""
+
+    system_name: str
+    faithfulness_score: float
+    sas_score: Optional[float] = None
+    mrr_score: Optional[float] = None
+    avg_response_time: float = 0.0
+    total_queries: int = 0
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+
+class RAGSystemInterface:
+    """
+    Abstract interface for querying a RAG system.
+    Subclass this to implement specific GraphRAG query logic.
     """
 
-    def __init__(self, baseline_config: Dict, pruned_config: Dict,
-                 gold_data_path: Path, output_dir: Path):
+    def __init__(self, system_path: Path, system_name: str = "RAG System"):
+        """
+        Initialize RAG system interface.
+
+        Args:
+            system_path: Path to the system artifacts (e.g., workspace/output)
+            system_name: Human-readable name for this system
+        """
+        self.system_path = system_path
+        self.system_name = system_name
+
+    def query(self, question: str) -> Tuple[str, List[Document]]:
+        """
+        Query the RAG system.
+
+        Args:
+            question: The question to answer
+
+        Returns:
+            Tuple of (answer, retrieved_documents)
+        """
+        raise NotImplementedError("Subclasses must implement query()")
+
+
+class MockGraphRAGSystem(RAGSystemInterface):
+    """
+    Mock GraphRAG system for testing the evaluation framework.
+    Replace this with actual GraphRAG query implementation.
+    """
+
+    def query(self, question: str) -> Tuple[str, List[Document]]:
+        """Mock query implementation."""
+        # Simulate retrieved documents
+        docs = [
+            Document(
+                content=f"Mock document 1 for question: {question}",
+                meta={"source": "mock_doc_1.txt", "score": 0.95},
+            ),
+            Document(
+                content=f"Mock document 2 with additional context.",
+                meta={"source": "mock_doc_2.txt", "score": 0.85},
+            ),
+        ]
+
+        # Simulate answer generation
+        answer = f"Mock answer to: {question}"
+
+        return answer, docs
+
+
+class EvaluationRunner:
+    """
+    Orchestrates end-to-end evaluation of RAG systems.
+    """
+
+    def __init__(
+        self,
+        test_questions: List[TestQuestion],
+        faithfulness_llm_provider: str = "openai",
+        faithfulness_llm_model: str = "gpt-4o-mini",
+        faithfulness_api_base_url: Optional[str] = None,
+        faithfulness_api_key: Optional[str] = None,
+        sas_model: str = "sentence-transformers/all-MiniLM-L6-v2",
+    ):
         """
         Initialize evaluation runner.
 
         Args:
-            baseline_config: Configuration for baseline RAG system
-            pruned_config: Configuration for pruned RAG system
-            gold_data_path: Path to gold standard data
-            output_dir: Directory to save evaluation results
+            test_questions: List of test questions to evaluate
+            faithfulness_llm_provider: LLM provider for faithfulness eval
+            faithfulness_llm_model: Model name for faithfulness eval
+            faithfulness_api_base_url: API base URL (for Ollama/OpenRouter)
+            faithfulness_api_key: API key for authentication
+            sas_model: Model for semantic answer similarity
         """
-        self.baseline_config = baseline_config
-        self.pruned_config = pruned_config
-        self.gold_data_path = gold_data_path
-        self.output_dir = output_dir
-        self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.test_questions = test_questions
+        self.faithfulness_llm_provider = faithfulness_llm_provider
+        self.faithfulness_llm_model = faithfulness_llm_model
+        self.faithfulness_api_base_url = faithfulness_api_base_url
+        self.faithfulness_api_key = faithfulness_api_key
+        self.sas_model = sas_model
 
-        # Initialize evaluator
-        self.evaluator = RAGEvaluator()
-
-        # Load test data
-        self.queries, self.gold_answers = self._load_test_data()
-
-        logger.info(f"Initialized evaluation runner with {len(self.queries)} test queries")
-
-    def _load_test_data(self) -> Tuple[List[str], List[str]]:
-        """Load test queries and gold answers."""
-        if self.gold_data_path.exists():
-            return load_test_queries_and_answers(self.gold_data_path)
-        else:
-            logger.warning(f"Gold data not found: {self.gold_data_path}")
-            logger.warning("Using simulated test data")
-            return self._create_simulated_test_data()
-
-    def _create_simulated_test_data(self) -> Tuple[List[str], List[str]]:
-        """Create simulated test data for development."""
-        queries = [
-            "What is GraphRAG and how does it work?",
-            "How does graph pruning improve RAG performance?",
-            "What are the key components of a GraphRAG system?",
-            "How do you evaluate the quality of a pruned graph?",
-            "What are the trade-offs between graph size and retrieval quality?"
-        ]
-
-        answers = [
-            "GraphRAG is a retrieval-augmented generation system that uses knowledge graphs to improve answer quality and reasoning.",
-            "Graph pruning reduces computational overhead and noise while preserving important structural information for retrieval.",
-            "Key components include entities, relationships, communities, text units, and embeddings stored in vector databases.",
-            "Graph quality can be evaluated through metrics like connectivity, density, information preservation, and retrieval performance.",
-            "Larger graphs provide more context but increase latency and token usage, requiring careful pruning strategies."
-        ]
-
-        return queries, answers
-
-    def query_rag_system(self, config: Dict, system_name: str) -> Dict:
+    def run_queries(
+        self, rag_system: RAGSystemInterface
+    ) -> Tuple[List[str], List[List[Document]], List[str], List[float]]:
         """
-        Query a RAG system and collect results.
+        Run all test questions against a RAG system.
 
         Args:
-            config: System configuration
-            system_name: Name of the system ('baseline' or 'pruned')
+            rag_system: The RAG system to query
 
         Returns:
-            Dictionary with query results and performance metrics
+            Tuple of (questions, retrieved_docs, answers, response_times)
         """
-        logger.info(f"🔍 Querying {system_name} RAG system...")
-
-        results = {
-            'system': system_name,
-            'timestamp': datetime.now().isoformat(),
-            'answers': [],
-            'retrieved_docs': [],
-            'relevant_docs': [],  # TODO: Define based on your ground truth
-            'token_counts': [],
-            'latencies': [],
-            'memory_usage': [],
-            'graph_stats': config.get('graph_stats', {})
-        }
-
-        # TODO: Replace with actual RAG system calls
-        # For now, simulate results
-        for i, query in enumerate(self.queries):
-            start_time = time.time()
-
-            # Simulate RAG system call
-            answer, retrieved_docs, tokens_used = self._simulate_rag_query(query, config)
-
-            latency = time.time() - start_time
-
-            # Collect results
-            results['answers'].append(answer)
-            results['retrieved_docs'].append(retrieved_docs)
-            results['relevant_docs'].append([f"relevant_doc_{i}_{j}" for j in range(2)])  # Placeholder
-            results['token_counts'].append(tokens_used)
-            results['latencies'].append(latency)
-            results['memory_usage'].append(np.random.uniform(100, 500))  # Placeholder
-
-        logger.info(f"✅ {system_name} system queried successfully")
-        return results
-
-    def _simulate_rag_query(self, query: str, config: Dict) -> Tuple[str, List[str], int]:
-        """
-        Simulate a RAG system query (replace with actual implementation).
-
-        Args:
-            query: Input query
-            config: System configuration
-
-        Returns:
-            Tuple of (answer, retrieved_docs, token_count)
-        """
-        # TODO: Implement actual RAG system integration
-        # This is a placeholder simulation
-
-        # Simulate different performance based on system type
-        is_baseline = config.get('type') == 'baseline'
-        system_name = config.get('name', 'unknown')
-
-        # Simulate answer generation
-        if "GraphRAG" in query:
-            answer = f"GraphRAG is a sophisticated retrieval system that {system_name} uses to provide accurate answers."
-        elif "pruning" in query:
-            answer = f"Graph pruning in {system_name} reduces complexity while maintaining retrieval quality."
-        else:
-            answer = f"The {system_name} system provides comprehensive answers to your query."
-
-        # Simulate retrieved documents
-        num_docs = 5 if is_baseline else 3  # Pruned system retrieves fewer docs
-        retrieved_docs = [f"doc_{system_name}_{i}" for i in range(num_docs)]
-
-        # Simulate token usage (pruned system uses fewer tokens)
-        base_tokens = 800
-        token_multiplier = 1.0 if is_baseline else 0.7
-        token_count = int(base_tokens * token_multiplier * np.random.uniform(0.9, 1.1))
-
-        return answer, retrieved_docs, token_count
-
-    def run_evaluation_pipeline(self) -> Dict:
-        """
-        Run complete evaluation pipeline comparing baseline vs pruned systems.
-
-        Returns:
-            Comprehensive evaluation results
-        """
-        logger.info("🚀 Starting evaluation pipeline...")
-
-        # Query baseline system
-        baseline_results = self.query_rag_system(self.baseline_config, "baseline")
-
-        # Query pruned system
-        pruned_results = self.query_rag_system(self.pruned_config, "pruned")
-
-        # Run comprehensive evaluation
-        evaluation_results = self.evaluator.run_comprehensive_evaluation(
-            baseline_results, pruned_results,
-            self.queries, self.gold_answers
+        logger.info(
+            f"Running {len(self.test_questions)} queries against {rag_system.system_name}..."
         )
 
-        # Add system configurations to results
-        evaluation_results['systems'] = {
-            'baseline': self.baseline_config,
-            'pruned': self.pruned_config
-        }
+        questions = []
+        retrieved_docs = []
+        answers = []
+        response_times = []
 
-        # Save detailed results
-        self._save_detailed_results(baseline_results, pruned_results, evaluation_results)
+        for i, test_q in enumerate(self.test_questions, 1):
+            logger.info(
+                f"  Query {i}/{len(self.test_questions)}: {test_q.question[:50]}..."
+            )
 
-        logger.info("✅ Evaluation pipeline completed")
-        return evaluation_results
+            start_time = time.time()
+            try:
+                answer, docs = rag_system.query(test_q.question)
+                elapsed = time.time() - start_time
 
-    def _save_detailed_results(self, baseline_results: Dict, pruned_results: Dict,
-                              evaluation_results: Dict):
-        """Save detailed evaluation results to files."""
+                questions.append(test_q.question)
+                retrieved_docs.append(docs)
+                answers.append(answer)
+                response_times.append(elapsed)
 
-        # Save system results
-        baseline_path = self.output_dir / "baseline_results.json"
-        pruned_path = self.output_dir / "pruned_results.json"
-        eval_path = self.output_dir / "evaluation_results.json"
+                logger.info(f"    ✓ Response time: {elapsed:.2f}s")
+            except Exception as e:
+                logger.error(f"    ✗ Query failed: {e}")
+                # Add placeholder data for failed queries
+                questions.append(test_q.question)
+                retrieved_docs.append([])
+                answers.append(f"ERROR: {str(e)}")
+                response_times.append(0.0)
 
-        with open(baseline_path, 'w') as f:
-            json.dump(baseline_results, f, indent=2, default=str)
+        return questions, retrieved_docs, answers, response_times
 
-        with open(pruned_path, 'w') as f:
-            json.dump(pruned_results, f, indent=2, default=str)
-
-        with open(eval_path, 'w') as f:
-            json.dump(evaluation_results, f, indent=2, default=str)
-
-        # Generate summary report
-        self._generate_summary_report(evaluation_results)
-
-        logger.info(f"💾 Detailed results saved to {self.output_dir}")
-
-    def _generate_summary_report(self, results: Dict):
-        """Generate human-readable summary report."""
-        report_path = self.output_dir / "evaluation_report.md"
-
-        with open(report_path, 'w') as f:
-            f.write("# GraphRAG Pruning Evaluation Report\n\n")
-            f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-
-            # System comparison
-            f.write("## System Comparison\n\n")
-            comparison = results.get('comparison', {})
-
-            if 'answer_quality_change' in comparison:
-                change = comparison['answer_quality_change']
-                f.write(".3f"            if 'retrieval_quality_change' in comparison:
-                rq_change = comparison['retrieval_quality_change']
-                f.write("### Retrieval Quality Changes\n")
-                for metric, change in rq_change.items():
-                    f.write(".3f"            if 'efficiency_improvement' in comparison:
-                eff_imp = comparison['efficiency_improvement']
-                f.write("### Efficiency Improvements\n")
-                f.write(".1%"                f.write(".1%"            # Detailed metrics
-            f.write("## Detailed Metrics\n\n")
-
-            for system in ['baseline', 'pruned']:
-                if system in results:
-                    f.write(f"### {system.title()} System\n")
-                    sys_results = results[system]
-
-                    if 'answer_quality' in sys_results:
-                        aq = sys_results['answer_quality']
-                        f.write(".3f"                    if 'retrieval_quality' in sys_results:
-                        rq = sys_results['retrieval_quality']
-                        f.write("- Hit@1: .3f\n"                        f.write("- MRR: .3f\n"                    if 'efficiency' in sys_results:
-                        eff = sys_results['efficiency']
-                        f.write(".0f"                        f.write(".3f"                    f.write("\n")
-
-        logger.info(f"📊 Summary report generated: {report_path}")
-
-    def run_ablation_study(self, pruning_configs: List[Dict]) -> Dict:
+    def evaluate_system(
+        self, rag_system: RAGSystemInterface, run_name: Optional[str] = None
+    ) -> Dict[str, Any]:
         """
-        Run ablation study comparing different pruning configurations.
+        Evaluate a single RAG system.
 
         Args:
-            pruning_configs: List of pruning configurations to test
+            rag_system: The RAG system to evaluate
+            run_name: Name for this evaluation run
 
         Returns:
-            Ablation study results
+            Dictionary with evaluation results and metrics
         """
-        logger.info("🔬 Running ablation study...")
+        if run_name is None:
+            run_name = (
+                f"{rag_system.system_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+            )
 
-        ablation_results = {
-            'timestamp': datetime.now().isoformat(),
-            'baseline': self.query_rag_system(self.baseline_config, "baseline"),
-            'pruning_configs': []
+        logger.info(f"\n{'='*60}")
+        logger.info(f"Evaluating: {rag_system.system_name}")
+        logger.info(f"{'='*60}\n")
+
+        # Run queries
+        questions, retrieved_docs, answers, response_times = self.run_queries(
+            rag_system
+        )
+
+        # Prepare ground truth data
+        ground_truth_answers = []
+        ground_truth_documents = []
+        has_gt_answers = False
+        has_gt_docs = False
+
+        for test_q in self.test_questions:
+            if test_q.ground_truth_answer:
+                ground_truth_answers.append(test_q.ground_truth_answer)
+                has_gt_answers = True
+            else:
+                ground_truth_answers.append(None)
+
+            # TODO: Load ground truth documents from IDs
+            if test_q.ground_truth_doc_ids:
+                # Placeholder: would need to load actual documents
+                ground_truth_documents.append([])
+                has_gt_docs = True
+            else:
+                ground_truth_documents.append([])
+
+        # Run evaluation
+        logger.info("\nRunning evaluation metrics...")
+        eval_results = evaluate_with_defaults(
+            questions=questions,
+            retrieved_documents=retrieved_docs,
+            predicted_answers=answers,
+            ground_truth_answers=ground_truth_answers if has_gt_answers else None,
+            ground_truth_documents=ground_truth_documents if has_gt_docs else None,
+            run_name=run_name,
+            faithfulness_llm_provider=self.faithfulness_llm_provider,
+            faithfulness_llm_model=self.faithfulness_llm_model,
+            faithfulness_api_base_url=self.faithfulness_api_base_url,
+            faithfulness_api_key=self.faithfulness_api_key,
+            model=self.sas_model,
+        )
+
+        # Extract metrics
+        aggregated = eval_results["aggregated_report"]
+
+        metrics = SystemMetrics(
+            system_name=rag_system.system_name,
+            faithfulness_score=aggregated.get("faithfulness", {}).get("mean", 0.0),
+            sas_score=(
+                aggregated.get("sas_evaluator", {}).get("mean", None)
+                if has_gt_answers
+                else None
+            ),
+            mrr_score=(
+                aggregated.get("doc_mrr_evaluator", {}).get("mean", None)
+                if has_gt_docs
+                else None
+            ),
+            avg_response_time=(
+                sum(response_times) / len(response_times) if response_times else 0.0
+            ),
+            total_queries=len(questions),
+        )
+
+        logger.info("\n" + "=" * 60)
+        logger.info(f"Results for {rag_system.system_name}:")
+        logger.info("=" * 60)
+        logger.info(f"Faithfulness Score: {metrics.faithfulness_score:.4f}")
+        if metrics.sas_score is not None:
+            logger.info(f"SAS Score: {metrics.sas_score:.4f}")
+        if metrics.mrr_score is not None:
+            logger.info(f"MRR Score: {metrics.mrr_score:.4f}")
+        logger.info(f"Avg Response Time: {metrics.avg_response_time:.2f}s")
+        logger.info("=" * 60 + "\n")
+
+        return {
+            "metrics": metrics,
+            "eval_results": eval_results,
+            "response_times": response_times,
+            "run_name": run_name,
         }
 
-        # Test each pruning configuration
-        for i, config in enumerate(pruning_configs):
-            logger.info(f"Testing pruning config {i+1}/{len(pruning_configs)}")
-            results = self.query_rag_system(config, f"pruned_v{i+1}")
-            ablation_results['pruning_configs'].append({
-                'config': config,
-                'results': results
-            })
+    def compare_systems(
+        self,
+        baseline_system: RAGSystemInterface,
+        pruned_system: RAGSystemInterface,
+        output_dir: Optional[Path] = None,
+    ) -> Dict[str, Any]:
+        """
+        Compare baseline vs pruned systems.
 
-        # Save ablation results
-        ablation_path = self.output_dir / "ablation_study.json"
-        with open(ablation_path, 'w') as f:
-            json.dump(ablation_results, f, indent=2, default=str)
+        Args:
+            baseline_system: The baseline RAG system
+            pruned_system: The pruned RAG system
+            output_dir: Directory to save comparison reports
 
-        logger.info(f"✅ Ablation study completed: {ablation_path}")
-        return ablation_results
+        Returns:
+            Dictionary with comparison results
+        """
+        logger.info("\n" + "#" * 60)
+        logger.info("# BASELINE vs PRUNED SYSTEM COMPARISON")
+        logger.info("#" * 60 + "\n")
+
+        # Evaluate both systems
+        baseline_results = self.evaluate_system(baseline_system, run_name="baseline")
+        pruned_results = self.evaluate_system(pruned_system, run_name="pruned")
+
+        # Extract metrics
+        baseline_metrics = baseline_results["metrics"]
+        pruned_metrics = pruned_results["metrics"]
+
+        # Calculate improvements
+        faithfulness_change = (
+            (
+                (
+                    pruned_metrics.faithfulness_score
+                    - baseline_metrics.faithfulness_score
+                )
+                / baseline_metrics.faithfulness_score
+                * 100
+            )
+            if baseline_metrics.faithfulness_score > 0
+            else 0
+        )
+
+        response_time_change = (
+            (
+                (pruned_metrics.avg_response_time - baseline_metrics.avg_response_time)
+                / baseline_metrics.avg_response_time
+                * 100
+            )
+            if baseline_metrics.avg_response_time > 0
+            else 0
+        )
+
+        # Generate comparison report
+        logger.info("\n" + "=" * 60)
+        logger.info("COMPARISON SUMMARY")
+        logger.info("=" * 60)
+        logger.info(f"\nFaithfulness:")
+        logger.info(f"  Baseline: {baseline_metrics.faithfulness_score:.4f}")
+        logger.info(f"  Pruned:   {pruned_metrics.faithfulness_score:.4f}")
+        logger.info(f"  Change:   {faithfulness_change:+.2f}%")
+
+        if (
+            baseline_metrics.sas_score is not None
+            and pruned_metrics.sas_score is not None
+        ):
+            sas_change = (
+                (
+                    (pruned_metrics.sas_score - baseline_metrics.sas_score)
+                    / baseline_metrics.sas_score
+                    * 100
+                )
+                if baseline_metrics.sas_score > 0
+                else 0
+            )
+            logger.info(f"\nSemantic Answer Similarity:")
+            logger.info(f"  Baseline: {baseline_metrics.sas_score:.4f}")
+            logger.info(f"  Pruned:   {pruned_metrics.sas_score:.4f}")
+            logger.info(f"  Change:   {sas_change:+.2f}%")
+
+        logger.info(f"\nResponse Time:")
+        logger.info(f"  Baseline: {baseline_metrics.avg_response_time:.2f}s")
+        logger.info(f"  Pruned:   {pruned_metrics.avg_response_time:.2f}s")
+        logger.info(f"  Change:   {response_time_change:+.2f}%")
+        logger.info("=" * 60 + "\n")
+
+        comparison = {
+            "baseline": baseline_results,
+            "pruned": pruned_results,
+            "comparison": {
+                "faithfulness_change_pct": faithfulness_change,
+                "response_time_change_pct": response_time_change,
+            },
+        }
+
+        # Save results if output directory specified
+        if output_dir:
+            output_dir = Path(output_dir)
+            output_dir.mkdir(parents=True, exist_ok=True)
+
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+            # Save metrics as JSON
+            metrics_file = output_dir / f"comparison_metrics_{timestamp}.json"
+            with open(metrics_file, "w") as f:
+                json.dump(
+                    {
+                        "baseline": baseline_metrics.to_dict(),
+                        "pruned": pruned_metrics.to_dict(),
+                        "comparison": comparison["comparison"],
+                    },
+                    f,
+                    indent=2,
+                )
+            logger.info(f"✓ Saved metrics to {metrics_file}")
+
+            # Save detailed results as CSV
+            baseline_df = baseline_results["eval_results"]["detailed_results"]
+            pruned_df = pruned_results["eval_results"]["detailed_results"]
+
+            baseline_df.to_csv(
+                output_dir / f"baseline_details_{timestamp}.csv", index=False
+            )
+            pruned_df.to_csv(
+                output_dir / f"pruned_details_{timestamp}.csv", index=False
+            )
+            logger.info(f"✓ Saved detailed results to {output_dir}")
+
+        return comparison
+
+    def run_ablation_study(
+        self,
+        system_configs: List[Dict[str, Any]],
+        system_factory: Callable[[Dict[str, Any]], RAGSystemInterface],
+        output_dir: Optional[Path] = None,
+    ) -> pd.DataFrame:
+        """
+        Run ablation study with multiple system configurations.
+
+        Args:
+            system_configs: List of configuration dictionaries
+            system_factory: Function that creates RAGSystemInterface from config
+            output_dir: Directory to save ablation results
+
+        Returns:
+            DataFrame with results for all configurations
+        """
+        logger.info("\n" + "#" * 60)
+        logger.info("# ABLATION STUDY")
+        logger.info("#" * 60 + "\n")
+        logger.info(f"Testing {len(system_configs)} configurations...\n")
+
+        results = []
+
+        for i, config in enumerate(system_configs, 1):
+            logger.info(f"\n--- Configuration {i}/{len(system_configs)} ---")
+            logger.info(f"Config: {config}")
+
+            # Create system with this configuration
+            system = system_factory(config)
+
+            # Evaluate
+            eval_result = self.evaluate_system(
+                system, run_name=f"ablation_{i}_{config.get('name', 'unnamed')}"
+            )
+
+            # Collect results
+            metrics = eval_result["metrics"]
+            result_row = {
+                "config_id": i,
+                "config_name": config.get("name", f"config_{i}"),
+                **config,
+                **metrics.to_dict(),
+            }
+            results.append(result_row)
+
+        # Create results DataFrame
+        results_df = pd.DataFrame(results)
+
+        # Sort by faithfulness score
+        results_df = results_df.sort_values("faithfulness_score", ascending=False)
+
+        logger.info("\n" + "=" * 60)
+        logger.info("ABLATION STUDY RESULTS (sorted by faithfulness)")
+        logger.info("=" * 60)
+        logger.info(f"\n{results_df.to_string()}\n")
+
+        # Save results
+        if output_dir:
+            output_dir = Path(output_dir)
+            output_dir.mkdir(parents=True, exist_ok=True)
+
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_file = output_dir / f"ablation_results_{timestamp}.csv"
+            results_df.to_csv(output_file, index=False)
+            logger.info(f"✓ Saved ablation results to {output_file}")
+
+        return results_df
 
 
-def create_default_configs(baseline_dir: Path, pruned_dir: Path) -> Tuple[Dict, Dict]:
+def load_test_questions_from_json(test_data_path: Path) -> List[TestQuestion]:
     """
-    Create default configurations for baseline and pruned systems.
+    Load test questions from JSON file.
+
+    Expected format:
+    [
+        {
+            "question": "What is machine learning?",
+            "ground_truth_answer": "ML is...",
+            "ground_truth_doc_ids": ["doc1", "doc2"],
+            "metadata": {"category": "ML"}
+        },
+        ...
+    ]
+    """
+    with open(test_data_path, "r") as f:
+        data = json.load(f)
+
+    return [TestQuestion(**item) for item in data]
+
+
+def load_test_questions_from_pubmedqa(
+    split: str = "train",
+    max_samples: Optional[int] = None,
+    subset: Optional[str] = None,
+) -> List[TestQuestion]:
+    """
+    Load test questions from PubMedQA dataset on HuggingFace.
+
+    Dataset: vblagoje/PubMedQA_instruction
 
     Args:
-        baseline_dir: Directory with baseline artifacts
-        pruned_dir: Directory with pruned artifacts
+        split: Dataset split to use ('train', 'test', 'validation')
+        max_samples: Maximum number of samples to load (None = all)
+        subset: Optional subset name if dataset has multiple configurations
 
     Returns:
-        Tuple of (baseline_config, pruned_config)
+        List of TestQuestion objects
+
+    Raises:
+        ImportError: If datasets library is not installed
+
+    Example:
+        >>> questions = load_test_questions_from_pubmedqa(split='train', max_samples=10)
+        >>> print(f"Loaded {len(questions)} questions")
     """
-    baseline_config = {
-        'name': 'baseline',
-        'type': 'baseline',
-        'artifacts_dir': str(baseline_dir),
-        'graph_stats': {
-            'num_entities': 1000,  # TODO: Load from actual artifacts
-            'num_relationships': 5000,
-            'num_communities': 50
-        }
-    }
+    try:
+        from datasets import load_dataset
+    except ImportError:
+        raise ImportError(
+            "The 'datasets' library is required to load PubMedQA. "
+            "Install it with: pip install datasets"
+        )
 
-    pruned_config = {
-        'name': 'pruned',
-        'type': 'pruned',
-        'artifacts_dir': str(pruned_dir),
-        'graph_stats': {
-            'num_entities': 700,  # TODO: Load from actual artifacts
-            'num_relationships': 2500,
-            'num_communities': 35
-        }
-    }
+    logger.info(f"Loading PubMedQA dataset (split={split})...")
 
-    return baseline_config, pruned_config
+    # Load dataset
+    if subset:
+        ds = load_dataset("vblagoje/PubMedQA_instruction", subset, split=split)
+    else:
+        ds = load_dataset("vblagoje/PubMedQA_instruction", split=split)
+
+    # Limit samples if specified
+    if max_samples:
+        ds = ds.select(range(min(max_samples, len(ds))))
+
+    logger.info(f"Loaded {len(ds)} samples from PubMedQA")
+
+    # Convert to TestQuestion format
+    test_questions = []
+    for i, item in enumerate(ds):
+        # PubMedQA fields: 'instruction' (question), 'context' (ground truth docs), 'response' (answer)
+        test_q = TestQuestion(
+            question=item.get("instruction", ""),
+            ground_truth_answer=item.get("response", None),
+            ground_truth_doc_ids=None,  # Will use context directly
+            metadata={
+                "source": "PubMedQA",
+                "index": i,
+                "context": item.get("context", ""),  # Store context for potential use
+            },
+        )
+        test_questions.append(test_q)
+
+    return test_questions
 
 
 def main():
-    """Main evaluation execution."""
-    parser = argparse.ArgumentParser(description="Evaluate GraphRAG pruning performance")
+    """Main entry point for the evaluation runner."""
+    parser = argparse.ArgumentParser(
+        description="End-to-end GraphRAG evaluation runner"
+    )
+
     parser.add_argument(
-        "--baseline",
-        type=str,
-        default="../workspace/output",
-        help="Directory with baseline GraphRAG artifacts"
+        "--baseline", type=Path, help="Path to baseline system artifacts"
+    )
+    parser.add_argument("--pruned", type=Path, help="Path to pruned system artifacts")
+    parser.add_argument(
+        "--test-data",
+        type=Path,
+        help="Path to test questions JSON file (if not using --use-pubmedqa)",
     )
     parser.add_argument(
-        "--pruned",
-        type=str,
-        default="../workspace/output/pruned",
-        help="Directory with pruned GraphRAG artifacts"
+        "--use-pubmedqa",
+        action="store_true",
+        help="Load test questions from PubMedQA dataset instead of JSON file",
     )
     parser.add_argument(
-        "--gold-data",
-        type=str,
-        default="../data/gold/evaluation_data.json",
-        help="Path to gold standard evaluation data"
+        "--pubmedqa-split",
+        default="train",
+        choices=["train", "test", "validation"],
+        help="PubMedQA dataset split to use (default: train)",
     )
     parser.add_argument(
-        "--output",
-        type=str,
-        default="../workspace/output/evaluation",
-        help="Directory to save evaluation results"
+        "--pubmedqa-samples",
+        type=int,
+        help="Maximum number of PubMedQA samples to load (default: all)",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=Path("eval/results"),
+        help="Directory to save evaluation results",
     )
     parser.add_argument(
         "--ablation",
         action="store_true",
-        help="Run ablation study with multiple pruning configs"
+        help="Run ablation study instead of single comparison",
     )
     parser.add_argument(
-        "--verbose", "-v",
-        action="store_true",
-        help="Enable verbose logging"
+        "--ablation-config", type=Path, help="Path to ablation study configuration JSON"
+    )
+    parser.add_argument(
+        "--faithfulness-provider",
+        default="openai",
+        choices=["openai", "ollama", "openrouter"],
+        help="LLM provider for faithfulness evaluation",
+    )
+    parser.add_argument(
+        "--faithfulness-model",
+        default="gpt-4o-mini",
+        help="Model for faithfulness evaluation",
     )
 
     args = parser.parse_args()
 
-    # Setup logging
-    level = logging.DEBUG if args.verbose else logging.INFO
-    logging.basicConfig(level=level, format='%(asctime)s - %(levelname)s - %(message)s')
+    # Load test questions
+    if args.use_pubmedqa:
+        # Load from PubMedQA dataset
+        logger.info("Loading test questions from PubMedQA dataset...")
+        test_questions = load_test_questions_from_pubmedqa(
+            split=args.pubmedqa_split,
+            max_samples=args.pubmedqa_samples,
+        )
+    else:
+        # Load from JSON file
+        if not args.test_data:
+            logger.error("--test-data required when not using --use-pubmedqa")
+            logger.info("Either provide --test-data or use --use-pubmedqa")
+            return
 
-    logger.info("🎯 GraphRAG Pruning Lab - Stage 3: Evaluation")
-    logger.info(f"📁 Baseline: {args.baseline}")
-    logger.info(f"📁 Pruned: {args.pruned}")
-    logger.info(f"📤 Output: {args.output}")
+        if not args.test_data.exists():
+            logger.error(f"Test data file not found: {args.test_data}")
+            logger.info(
+                "Create a test questions file or use --use-pubmedqa for PubMedQA dataset"
+            )
+            return
 
-    # Create configurations
-    baseline_dir = Path(args.baseline)
-    pruned_dir = Path(args.pruned)
-    gold_data_path = Path(args.gold_data)
-    output_dir = Path(args.output)
+        test_questions = load_test_questions_from_json(args.test_data)
 
-    baseline_config, pruned_config = create_default_configs(baseline_dir, pruned_dir)
+    logger.info(f"Loaded {len(test_questions)} test questions")
 
-    # Initialize evaluation runner
-    runner = RAGEvaluationRunner(
-        baseline_config, pruned_config,
-        gold_data_path, output_dir
+    # Create evaluation runner
+    runner = EvaluationRunner(
+        test_questions=test_questions,
+        faithfulness_llm_provider=args.faithfulness_provider,
+        faithfulness_llm_model=args.faithfulness_model,
     )
 
-    try:
-        if args.ablation:
-            # TODO: Define multiple pruning configurations for ablation study
-            pruning_configs = [pruned_config]  # Placeholder
-            results = runner.run_ablation_study(pruning_configs)
-        else:
-            # Run standard evaluation
-            results = runner.run_evaluation_pipeline()
+    if args.ablation:
+        # Run ablation study
+        if not args.ablation_config:
+            logger.error("--ablation-config required for ablation study")
+            return
 
-        logger.info("🎉 Evaluation completed successfully!")
-        logger.info(f"📊 Results saved to {output_dir}")
+        with open(args.ablation_config, "r") as f:
+            configs = json.load(f)
 
-        return 0
+        def system_factory(config):
+            # TODO: Replace with actual system creation logic
+            return MockGraphRAGSystem(
+                Path(config.get("artifacts_path", "workspace/output")),
+                system_name=config.get("name", "unnamed"),
+            )
 
-    except Exception as e:
-        logger.error(f"❌ Evaluation failed: {e}")
-        return 1
+        runner.run_ablation_study(
+            system_configs=configs,
+            system_factory=system_factory,
+            output_dir=args.output_dir,
+        )
+    else:
+        # Run single comparison
+        if not args.baseline or not args.pruned:
+            logger.error("--baseline and --pruned required for comparison")
+            return
+
+        baseline_system = MockGraphRAGSystem(args.baseline, "Baseline")
+        pruned_system = MockGraphRAGSystem(args.pruned, "Pruned")
+
+        runner.compare_systems(
+            baseline_system=baseline_system,
+            pruned_system=pruned_system,
+            output_dir=args.output_dir,
+        )
 
 
 if __name__ == "__main__":
-    import sys
-    sys.exit(main())
+    main()

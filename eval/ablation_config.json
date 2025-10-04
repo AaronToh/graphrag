@@ -1,0 +1,48 @@
+[
+  {
+    "name": "baseline",
+    "artifacts_path": "workspace/output",
+    "pruning_strategy": "none",
+    "description": "Baseline system with no pruning"
+  },
+  {
+    "name": "prune_top_k_50",
+    "artifacts_path": "workspace/pruned_top_k_50",
+    "pruning_strategy": "top_k",
+    "k": 50,
+    "target": "nodes",
+    "description": "Keep top 50% of nodes by degree centrality"
+  },
+  {
+    "name": "prune_top_k_70",
+    "artifacts_path": "workspace/pruned_top_k_70",
+    "pruning_strategy": "top_k",
+    "k": 70,
+    "target": "nodes",
+    "description": "Keep top 70% of nodes by degree centrality"
+  },
+  {
+    "name": "prune_threshold",
+    "artifacts_path": "workspace/pruned_threshold",
+    "pruning_strategy": "threshold",
+    "threshold": 0.5,
+    "target": "nodes",
+    "description": "Keep nodes with score > 0.5"
+  },
+  {
+    "name": "prune_edges_top_5",
+    "artifacts_path": "workspace/pruned_edges_top_5",
+    "pruning_strategy": "top_k",
+    "k": 5,
+    "target": "edges",
+    "description": "Keep top 5 edges per node"
+  },
+  {
+    "name": "combined_pruning",
+    "artifacts_path": "workspace/pruned_combined",
+    "pruning_strategy": "combined",
+    "node_k": 70,
+    "edge_k": 5,
+    "description": "Combined node (70%) and edge (top 5) pruning"
+  }
+]
