@@ -169,3 +169,65 @@ pixi install
 ```bash
 pixi shell
 ```
+
+
+**Scoring (`pruning/scoring_utils.py`):**
+- `GraphScorer.score_nodes_*()` - Implement node scoring methods
+- `GraphScorer.score_edges_*()` - Implement edge scoring methods
+- `GraphScorer.score_communities_*()` - Implement community scoring methods
+- `GraphScorer.get_combined_*_scores()` - Combine multiple scoring methods
+
+**Pruning (`pruning/prune_graph.py`):**
+- `GraphPruner.prune_nodes()` - Implement node pruning strategies
+- `GraphPruner.prune_edges()` - Implement edge pruning strategies
+- `GraphPruner.prune_communities()` - Implement community pruning strategies
+- `GraphPruner.apply_pruning_pipeline()` - Orchestrate the pruning process
+
+**Evaluation (`eval/metrics.py`):**
+- `RAGEvaluator.evaluate_answer_quality()` - Implement answer quality metrics
+- `RAGEvaluator.evaluate_retrieval_quality()` - Implement retrieval metrics
+- `RAGEvaluator.evaluate_efficiency()` - Implement efficiency metrics
+
+### Example Implementation Workflow
+
+1. **Start with scoring:**
+   ```python
+   from pruning.scoring_utils import GraphScorer, load_graphrag_artifacts
+
+   # Load your baseline artifacts
+   entities_df, relationships_df, communities_df = load_graphrag_artifacts("workspace/output")
+   scorer = GraphScorer(entities_df, relationships_df, communities_df)
+
+   # Implement your first scoring method
+   def score_nodes_degree_centrality(self):
+       # Your implementation here
+       pass
+   ```
+
+2. **Add pruning logic:**
+   ```python
+   from pruning.prune_graph import GraphPruner
+
+   # Initialize pruner
+   pruner = GraphPruner(baseline_dir, output_dir)
+
+   # Implement your pruning strategy
+   def prune_nodes(self, strategy="top_k", **kwargs):
+       # Your pruning logic here
+       pass
+   ```
+
+3. **Add evaluation metrics:**
+   ```python
+   from eval.metrics import RAGEvaluator
+
+   # Initialize evaluator
+   evaluator = RAGEvaluator()
+
+   # Implement your evaluation method
+   def evaluate_answer_quality(self, predicted, reference):
+       # Your evaluation logic here
+       pass
+   ```
+
+The framework is designed to be modular - implement one component at a time and test incrementally!
