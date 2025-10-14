@@ -13,8 +13,10 @@
 workspace/output/
 workspace/cache/
 workspace/logs/
+ingest/logs/
+ingest/*.log
+model/*.log
 *.log
-indexing.log
 
 # Python
 __pycache__/

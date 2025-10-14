@@ -12,3 +12,4 @@ python = "3.12.*"
 
 [pypi-dependencies]
 graphrag = ">=2.5.0, <3"
+requests = "*"

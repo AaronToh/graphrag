@@ -24,17 +24,64 @@ from datetime import datetime
 workspace_dir = Path(__file__).parent.parent / "workspace"
 sys.path.insert(0, str(workspace_dir))
 
+# Ollama manager will be imported dynamically in initialize_ollama function
+
 def setup_logging():
     """Configure logging for the indexing process."""
+    # Ensure log file is created in the ingest directory regardless of where script is run from
+    script_dir = Path(__file__).parent
+    log_file = script_dir / 'indexing.log'
+
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler('indexing.log'),
+            logging.FileHandler(log_file),
             logging.StreamHandler()
         ]
     )
     return logging.getLogger(__name__)
+
+def initialize_ollama(logger: logging.Logger) -> tuple[bool, object]:
+    """Initialize Ollama server and ensure models are ready.
+
+    Returns:
+        tuple: (success: bool, manager: OllamaManager or None)
+               If successful, returns (True, manager_instance) to keep server running
+               If failed, returns (False, None)
+    """
+    # Try to import OllamaManager dynamically
+    OllamaManager = None
+    try:
+        # Add project root to sys.path if not already there
+        project_root = Path(__file__).parent.parent
+        if str(project_root) not in sys.path:
+            sys.path.insert(0, str(project_root))
+
+        from model import OllamaManager
+        logger.info("✅ OllamaManager imported successfully")
+    except ImportError as e:
+        logger.warning("⚠️  OllamaManager not available, skipping Ollama initialization")
+        logger.warning(f"   Import error: {e}")
+        logger.warning("   Install required dependencies or ensure model/ module is available")
+        return True, None  # Don't fail if OllamaManager is not available
+
+    logger.info("🧠 Initializing Ollama environment...")
+
+    try:
+        manager = OllamaManager()
+        if manager.initialize():
+            logger.info("✅ Ollama initialization successful")
+            # Log model status
+            status_report = manager.get_model_status_report()
+            logger.info("📊 Model Status:\n" + status_report)
+            return True, manager  # Return manager to keep it alive
+        else:
+            logger.error("❌ Ollama initialization failed")
+            return False, None
+    except Exception as e:
+        logger.error(f"❌ Ollama initialization error: {e}")
+        return False, None
 
 def check_input_data(input_dir: Path) -> bool:
     """Check if input data exists and is valid."""
@@ -63,13 +110,25 @@ def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
     try:
         logger.info("🚀 Starting GraphRAG indexing pipeline...")
 
-        # Run the CLI command directly
-        result = subprocess.run(
-            ["graphrag", "index", "--root", str(workspace_dir)],
-            capture_output=True,
-            text=True,
-            check=False  # don’t raise immediately
-        )
+        # Change to workspace directory so relative paths in config work correctly
+        workspace_dir = config_path.parent
+        original_cwd = os.getcwd()
+
+        try:
+            os.chdir(workspace_dir)
+            logger.info(f"📁 Changed working directory to: {workspace_dir}")
+
+            # Run the CLI command directly
+            result = subprocess.run(
+                ["pixi", "run", "graphrag", "index", "--config", str(config_path.name)],  # Use relative path since we're in workspace dir
+                capture_output=True,
+                text=True,
+                check=False  # don't raise immediately
+            )
+        finally:
+            # Always restore original working directory
+            os.chdir(original_cwd)
+            logger.info(f"📁 Restored working directory to: {original_cwd}")
 
         # Log stdout and stderr
         if result.stdout:
@@ -165,6 +224,12 @@ def main():
     logger.info(f"📥 Input directory: {input_dir}")
     logger.info(f"📤 Output directory: {output_dir}")
 
+    # Initialize Ollama (auto-start server and pull models) - keep manager alive
+    ollama_success, ollama_manager = initialize_ollama(logger)
+    if not ollama_success:
+        logger.error("❌ Ollama initialization failed - cannot proceed with indexing")
+        return 1
+
     # Check if output already exists
     if output_dir.exists() and not args.overwrite:
         logger.info("📁 Output directory already exists")
@@ -186,10 +251,11 @@ def main():
 
     # Run GraphRAG indexing
     start_time = datetime.now()
-    success = run_graphrag_index(config_path, logger)
+    indexing_success = run_graphrag_index(config_path, logger)
     end_time = datetime.now()
 
-    if success:
+    success = indexing_success
+    if indexing_success:
         duration = end_time - start_time
         logger.info(".1f")
 
@@ -197,13 +263,20 @@ def main():
         if verify_outputs(output_dir, logger):
             logger.info("🎉 Stage 1 completed successfully!")
             logger.info("📊 Ready for Stage 2: Pruning Layer")
-            return 0
         else:
             logger.error("❌ Output verification failed")
-            return 1
-    else:
-        logger.error("❌ Stage 1 failed")
-        return 1
+            success = False
+
+    # Clean up Ollama manager if it was created
+    if ollama_manager is not None:
+        logger.info("🔄 Shutting down Ollama manager...")
+        try:
+            ollama_manager.shutdown()
+            logger.info("✅ Ollama manager shutdown complete")
+        except Exception as e:
+            logger.warning(f"⚠️  Error shutting down Ollama manager: {e}")
+
+    return 0 if success else 1
 
 if __name__ == "__main__":
     sys.exit(main())
