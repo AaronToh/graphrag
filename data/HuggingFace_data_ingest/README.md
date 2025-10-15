@@ -180,10 +180,7 @@ Options:
 
 **1. Initial Testing (Recommended)**
 ```bash
-# Test with 100 records to verify everything works
-pixi run python data/HuggingFace_data_ingest/test_ingestion.py
-
-# Test with 1K records
+# Test with 1K records to verify everything works
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --limit 1000 --verbose
 ```
 
@@ -205,10 +202,11 @@ pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_lab
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_unlabeled
 ```
 
-**4. Monitoring Progress**
+**4. Monitor Progress**
 ```bash
-# In another terminal, monitor ingestion progress
-pixi run python data/HuggingFace_data_ingest/monitor_progress.py
+# Check progress by examining the output directory
+ls -la data/input/
+wc -l data/input/passages.jsonl
 ```
 
 ### 6.4 Output Files
@@ -284,19 +282,7 @@ head -n 1 data/input/passages.jsonl | jq .
 
 **Available Scripts:**
 
-- `ingest_pubmedqa.py` - Main ingestion script
-- `test_ingestion.py` - Quick test with 100 records  
-- `inspect_dataset.py` - Explore dataset structure
-- `monitor_progress.py` - Monitor ingestion progress
-
-**Running Tests:**
-```bash
-# Quick validation test
-pixi run python data/HuggingFace_data_ingest/test_ingestion.py
-
-# Inspect dataset structure
-pixi run python data/HuggingFace_data_ingest/inspect_dataset.py
-```
+- `ingest_pubmedqa.py` - Main ingestion script with built-in testing via --limit parameter
 
 ## 7. Summary
 
