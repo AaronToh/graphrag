@@ -32,18 +32,21 @@ graph TD
     S --> T
     I --> U[Stage 3: Evaluation]
     T --> U
-    U --> V[Query Processing]
-    V --> W[Answer Quality<br/>LLM-graded]
-    V --> X[Supporting Evidence<br/>Hit@k]
-    V --> Y[Cost/Latency<br/>tokens, wall-time]
-    W --> Z[A/B Comparison<br/>Tables & Plots]
-    X --> Z
-    Y --> Z
+    U --> V[Test Questions<br/>PubMedQA or Custom]
+    V --> W[Query GraphRAG<br/>Baseline & Pruned]
+    W --> X[Faithfulness Score<br/>LLM-verified grounding]
+    W --> Y[Semantic Answer Similarity<br/>SAS with ground truth]
+    W --> Z[Mean Reciprocal Rank<br/>MRR for retrieval]
+    W --> AA[Response Time<br/>Query latency]
+    X --> BB[A/B Comparison<br/>Tables & Plots]
+    Y --> BB
+    Z --> BB
+    AA --> BB
 
     style A fill:#e1f5fe
     style I fill:#c8e6c9
     style T fill:#c8e6c9
-    style Z fill:#fff3e0
+    style BB fill:#fff3e0
 ```
 
 ---
@@ -92,15 +95,16 @@ This project explores **graph pruning for RAG**:
   - Start with **Microsoft’s built-in pruning knobs** (`prune_graph` in `settings.yaml`).  
   - Extend with **custom scoring + reranking** logic (value-add).  
 
-### Stage 3 — **Evaluation**  
-- **Goal**: measure whether pruning improves RAG retrieval.  
-- **Eval Harness** (black-box for now, placeholder):  
-  - Will run queries against both **baseline GraphRAG** and **pruned GraphRAG**.  
-  - Compare on:  
-    - Answer quality (LLM-graded / rubric)  
-    - Supporting evidence retrieval (Hit@k)  
-    - Cost/latency (tokens, wall-time)  
-- **Output**: A/B comparison tables and plots.
+### Stage 3 — **Evaluation**
+- **Goal**: measure whether pruning improves RAG retrieval quality while maintaining efficiency.
+- **Test Data**: Uses PubMedQA dataset (biomedical Q&A) or custom test questions with ground truth answers (see `data/gold/test_questions.json` for example).
+- **Evaluation Metrics**:
+  - **Faithfulness Score** (0-1, higher better): LLM-verified answer grounding in retrieved documents. No ground truth needed.
+  - **Semantic Answer Similarity (SAS)** (-1 to 1, higher better): Semantic similarity to ground truth answers using sentence transformers.
+  - **Mean Reciprocal Rank (MRR)** (0-1, higher better): Retrieval quality metric measuring rank of relevant documents.
+  - **Response Time**: Average query latency in seconds (lower better).
+- **LLM Support**: OpenAI (default), Ollama (local), or OpenRouter (various models).
+- **Output**: A/B comparison tables, plots, and detailed per-question results.
 
 ---
 
@@ -120,8 +124,11 @@ graphrag-pruning-lab/
 │  ├─ prune_graph.py         # your script (scoring, reranking, pruning)
 │  └─ scoring_utils.py
 ├─ eval/
-│  ├─ run_eval.py            # black-box evaluation harness (placeholder first)
-│  └─ metrics.py             # Hit@k, token cost, answer grading
+│  ├─ run_eval.py            # evaluation runner for baseline vs pruned comparison
+│  ├─ eval.py                # core evaluation functions (faithfulness, SAS, MRR)
+│  ├─ eval_usage.py          # example usage with different LLM providers
+│  ├─ ablation_config.json   # configuration for ablation studies
+│  └─ pixi.toml              # evaluation environment dependencies
 └─ README.md                 # this file
 ````
 
@@ -140,10 +147,12 @@ graphrag-pruning-lab/
    * Keep top-k edges per node; re-cluster.
    * Save pruned artifacts.
 
-3. **Evaluation harness**
+3. **Evaluation harness setup**
 
-   * Set up placeholder eval with dummy queries.
-   * Later plug in real test set + gold Q\&A pairs.
+   * Set up eval environment: `cd eval && pixi install`
+   * Test evaluation with mock data: `python run_eval.py --baseline workspace/output --pruned workspace/pruned_output`
+   * Configure LLM provider (OpenAI/Ollama/OpenRouter) for faithfulness scoring
+   * Test with PubMedQA: `python run_eval.py --use-pubmedqa --pubmedqa-samples 10 [other args]`
 
 4. **Extended pruning**
 
@@ -154,6 +163,51 @@ graphrag-pruning-lab/
 
    * Summarize findings in tables/plots.
    * Answer: *does pruning improve efficiency without hurting quality?*
+
+---
+
+## 4) Running the Full Pipeline
+
+### Quick Start (Complete Workflow)
+
+```bash
+# 1. Set up environments
+pixi install                    # Main environment
+cd eval && pixi install        # Eval environment
+
+# 2. Build baseline index
+python ingest/build_index.py
+
+# 3. Apply pruning (implement your logic in pruning/scoring_utils.py & prune_graph.py)
+python pruning/prune_graph.py --baseline workspace/output --output workspace/pruned_output
+
+# 4. Run evaluation comparison
+python eval/run_eval.py \
+  --baseline workspace/output \
+  --pruned workspace/pruned_output \
+  --use-pubmedqa \
+  --pubmedqa-samples 50 \
+  --output-dir eval/results
+```
+
+### Ablation Study (Multiple Pruning Strategies)
+
+```bash
+python eval/run_eval.py \
+  --ablation \
+  --ablation-config eval/ablation_config.json \
+  --use-pubmedqa \
+  --pubmedqa-samples 100 \
+  --output-dir eval/results
+```
+
+### Key Integration Points
+
+1. **GraphRAG Query Interface**: The eval system expects a `RAGSystemInterface` implementation. Currently uses `MockGraphRAGSystem` - you'll need to create `GraphRAGSystem` that actually queries your GraphRAG index.
+
+2. **Test Data Alignment**: The eval system uses PubMedQA by default, but your input data is `book.txt`. Consider creating domain-relevant test questions that match your document content.
+
+3. **Pruning Artifacts**: The eval system expects pruned artifacts in the same format as baseline (parquet files + lancedb), so your pruning implementation needs to maintain this structure.
 
 ---
 
