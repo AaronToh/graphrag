@@ -152,16 +152,27 @@ The ingestion scripts are designed to be run from anywhere in the project. All s
 
 **From the project root:**
 ```bash
-# Full dataset ingestion (211K+ records)
-pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py
+# Recommended: Start with small percentage for testing (0.5% = ~1K records)
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.005
 
-# Test with smaller dataset (recommended first)
+# Alternative: Use exact record limit
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --limit 1000
+
+# Full dataset ingestion (211K+ records) - only after testing
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py
 
 # Run from any directory (scripts handle paths automatically)
 cd /any/directory
-pixi run python /path/to/graphrag/data/HuggingFace_data_ingest/ingest_pubmedqa.py
+pixi run python /path/to/graphrag/data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.01
 ```
+
+### 6.1.1 Percentage vs Limit Sampling
+
+**Percentage Sampling (Recommended)**
+- `--percentage 0.01` = 1% of dataset (~2,113 records)
+- Scales automatically with dataset size
+- Better for reproducible experiments across different dataset configurations
+- Ideal for development workflows
 
 ### 6.2 Command Line Options
 
@@ -169,22 +180,43 @@ pixi run python /path/to/graphrag/data/HuggingFace_data_ingest/ingest_pubmedqa.p
 python data/HuggingFace_data_ingest/ingest_pubmedqa.py [OPTIONS]
 
 Options:
-  --output-dir PATH     Output directory for processed files (default: data/input)
-  --config TEXT         Dataset configuration: pqa_artificial, pqa_labeled, pqa_unlabeled (default: pqa_artificial)
-  --limit INTEGER       Limit number of records to process (for testing)
-  --verbose            Enable verbose logging
-  --help               Show help message
+  --output-dir PATH       Output directory for processed files (default: data/input)
+  --config TEXT           Dataset configuration: pqa_artificial, pqa_labeled, pqa_unlabeled (default: pqa_artificial)
+  --limit INTEGER         Limit number of records to process (for testing)
+  --percentage FLOAT      Percentage of dataset to process (0.1 = 10%, 1.0 = 100%)
+  --verbose              Enable verbose logging
+  --help                 Show help message
+
+Note: --limit and --percentage are mutually exclusive. Use one or the other.
 ```
 
 ### 6.3 Example Usage Scenarios
 
 **1. Initial Testing (Recommended)**
 ```bash
-# Test with 1K records to verify everything works
+# Test with 0.5% of dataset (~1K records) - fastest for initial testing
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.005 --verbose
+
+# Test with 1% of dataset (~2K records)
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.01 --verbose
+
+# Alternative: Test with exact number of records
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --limit 1000 --verbose
 ```
 
-**2. Full Dataset Ingestion**
+**2. Development & Testing Subsets**
+```bash
+# Small subset for rapid iteration (1% = ~2K records)
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.01
+
+# Medium subset for validation (10% = ~21K records)
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.1
+
+# Large subset for final testing (50% = ~105K records)
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --percentage 0.5
+```
+
+**3. Full Dataset Ingestion**
 ```bash
 # Process all 211K+ records (takes ~15 seconds)
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --verbose
@@ -193,16 +225,16 @@ pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --verbose
 pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --output-dir /custom/path --verbose
 ```
 
-**3. Different Dataset Configurations**
+**4. Different Dataset Configurations**
 ```bash
-# Use labeled dataset (expert annotations)
-pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_labeled
+# Use labeled dataset (expert annotations) with percentage sampling
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_labeled --percentage 0.1
 
-# Use unlabeled dataset
-pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_unlabeled
+# Use unlabeled dataset with percentage sampling
+pixi run python data/HuggingFace_data_ingest/ingest_pubmedqa.py --config pqa_unlabeled --percentage 0.05
 ```
 
-**4. Monitor Progress**
+**5. Monitor Progress**
 ```bash
 # Check progress by examining the output directory
 ls -la data/input/
@@ -282,7 +314,16 @@ head -n 1 data/input/passages.jsonl | jq .
 
 **Available Scripts:**
 
-- `ingest_pubmedqa.py` - Main ingestion script with built-in testing via --limit parameter
+- `ingest_pubmedqa.py` - Main ingestion script with built-in testing via --limit and --percentage parameters
+
+**Recommended Development Workflow:**
+
+1. **Start Small**: Use `--percentage 0.005` (0.5%) for initial testing (~1K records)
+2. **Iterate**: Use `--percentage 0.01` (1%) for development (~2K records)  
+3. **Validate**: Use `--percentage 0.1` (10%) for validation (~21K records)
+4. **Production**: Use full dataset (100%) for final experiments
+
+This approach allows rapid iteration during development while ensuring your pipeline scales to the full dataset.
 
 ## 7. Summary
 

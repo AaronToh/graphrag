@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-GraphRAG Pruning Lab - Stage 1: Baseline Index Builder
+GraphRAG Pruning Lab - Stage 1: OpenAI-based Index Builder
 
-This script runs Microsoft's GraphRAG indexing pipeline to create baseline artifacts.
-It processes input documents and generates entities, relationships, communities, and embeddings.
+This script runs Microsoft's GraphRAG indexing pipeline using OpenAI API to create baseline artifacts.
+It processes input documents from data/text_input and generates entities, relationships, communities, and embeddings.
 
 Usage:
-    python ingest/build_index.py [--config CONFIG_FILE] [--overwrite]
+    python -m ingest.build_index [--config CONFIG_FILE] [--overwrite] [--verbose]
 
 Arguments:
-    --config: Path to GraphRAG configuration file (default: ../workspace/settings.yaml)
+    --config: Path to GraphRAG configuration file (default: workspace/settings.yaml)
     --overwrite: Overwrite existing output files if they exist
+    --verbose: Enable verbose logging
 """
 
 import argparse
@@ -19,152 +20,188 @@ import sys
 from pathlib import Path
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
 
-# Add the workspace directory to Python path for GraphRAG
-workspace_dir = Path(__file__).parent.parent / "workspace"
-sys.path.insert(0, str(workspace_dir))
+from ingest import PROJECT_ROOT, WORKSPACE_DIR
 
-# Ollama manager will be imported dynamically in initialize_ollama function
 
-def setup_logging():
-    """Configure logging for the indexing process."""
-    # Ensure log file is created in the ingest directory regardless of where script is run from
-    script_dir = Path(__file__).parent
-    log_file = script_dir / 'indexing.log'
+def setup_logging(verbose: bool = False) -> logging.Logger:
+    """Configure clean logging for the indexing process."""
+    from ingest.logging_config import setup_detailed_logging
+    
+    # Set up logging in ingest/logs directory
+    log_dir = PROJECT_ROOT / 'ingest' / 'logs'
+    level = logging.DEBUG if verbose else logging.INFO
+    
+    return setup_detailed_logging(log_dir, level)
 
-    logging.basicConfig(
-        level=logging.INFO,
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-        handlers=[
-            logging.FileHandler(log_file),
-            logging.StreamHandler()
-        ]
-    )
-    return logging.getLogger(__name__)
 
-def initialize_ollama(logger: logging.Logger) -> tuple[bool, object]:
-    """Initialize Ollama server and ensure models are ready.
-
-    Returns:
-        tuple: (success: bool, manager: OllamaManager or None)
-               If successful, returns (True, manager_instance) to keep server running
-               If failed, returns (False, None)
-    """
-    # Try to import OllamaManager dynamically
-    OllamaManager = None
-    try:
-        # Add project root to sys.path if not already there
-        project_root = Path(__file__).parent.parent
-        if str(project_root) not in sys.path:
-            sys.path.insert(0, str(project_root))
-
-        from model import OllamaManager
-        logger.info("✅ OllamaManager imported successfully")
-    except ImportError as e:
-        logger.warning("⚠️  OllamaManager not available, skipping Ollama initialization")
-        logger.warning(f"   Import error: {e}")
-        logger.warning("   Install required dependencies or ensure model/ module is available")
-        return True, None  # Don't fail if OllamaManager is not available
-
-    logger.info("🧠 Initializing Ollama environment...")
-
-    try:
-        manager = OllamaManager()
-        if manager.initialize():
-            logger.info("✅ Ollama initialization successful")
-            # Log model status
-            status_report = manager.get_model_status_report()
-            logger.info("📊 Model Status:\n" + status_report)
-            return True, manager  # Return manager to keep it alive
-        else:
-            logger.error("❌ Ollama initialization failed")
-            return False, None
-    except Exception as e:
-        logger.error(f"❌ Ollama initialization error: {e}")
-        return False, None
-
-def check_input_data(input_dir: Path) -> bool:
+def check_input_data(input_dir: Path, logger: logging.Logger) -> bool:
     """Check if input data exists and is valid."""
     if not input_dir.exists():
-        print(f"❌ Input directory does not exist: {input_dir}")
+        logger.error(f"❌ Input directory does not exist: {input_dir}")
         return False
 
     # Check for text files
-    text_files = list(input_dir.glob("*.txt")) + list(input_dir.glob("*.md"))
+    text_files = list(input_dir.glob("*.txt"))
     if not text_files:
-        print(f"❌ No .txt or .md files found in {input_dir}")
+        logger.error(f"❌ No .txt files found in {input_dir}")
         return False
 
-    print(f"✅ Found {len(text_files)} input files:")
+    logger.info(f"✅ Found {len(text_files)} text files:")
     for file in text_files[:5]:  # Show first 5
-        print(f"   - {file.name}")
+        logger.info(f"   - {file.name}")
     if len(text_files) > 5:
-        print(f"   ... and {len(text_files) - 5} more")
+        logger.info(f"   ... and {len(text_files) - 5} more")
 
     return True
 
-import subprocess
 
-def run_graphrag_index(config_path: Path, logger: logging.Logger) -> bool:
-    """Run GraphRAG indexing pipeline via CLI."""
+def load_environment_variables(workspace_dir: Path, logger: logging.Logger) -> bool:
+    """Load environment variables from .env file and verify API key."""
+    env_file = workspace_dir / '.env'
+    
+    if not env_file.exists():
+        logger.error(f"❌ .env file not found: {env_file}")
+        logger.error("   Run 'graphrag init --root workspace' to create it")
+        return False
+    
     try:
-        logger.info("🚀 Starting GraphRAG indexing pipeline...")
+        # Load environment variables from .env file
+        logger.info("🔧 Loading environment variables...")
+        load_dotenv(env_file)
+        
+        # Check if API key is loaded
+        api_key = os.getenv('GRAPHRAG_API_KEY')
+        if not api_key:
+            logger.error("❌ GRAPHRAG_API_KEY not found in environment!")
+            logger.error("   Check your workspace/.env file")
+            return False
+        
+        # Check for placeholder values
+        if api_key in ['<API_KEY>', 'your_openai_api_key_here']:
+            logger.error("❌ Please set your actual OpenAI API key in workspace/.env")
+            logger.error("   Replace the placeholder with your real API key")
+            return False
+        
+        # Show first and last few characters of API key for verification
+        key_start = api_key[:8] if len(api_key) >= 8 else api_key[:len(api_key)//2]
+        key_end = api_key[-8:] if len(api_key) >= 8 else api_key[len(api_key)//2:]
+        logger.info(f"✅ API key loaded: {key_start}...{key_end}")
+        
+        return True
+        
+    except Exception as e:
+        logger.error(f"❌ Error loading .env file: {e}")
+        return False
 
-        # Change to workspace directory so relative paths in config work correctly
-        workspace_dir = config_path.parent
+
+def check_openai_config(workspace_dir: Path, logger: logging.Logger) -> bool:
+    """Check if OpenAI API configuration is properly set up."""
+    env_file = workspace_dir / '.env'
+    
+    if not env_file.exists():
+        logger.error(f"❌ .env file not found: {env_file}")
+        logger.error("   Run 'graphrag init --root workspace' to create it")
+        return False
+    
+    # Check if API key is set
+    try:
+        with open(env_file) as f:
+            content = f.read()
+            if 'GRAPHRAG_API_KEY=' not in content:
+                logger.error("❌ GRAPHRAG_API_KEY not found in .env file")
+                return False
+            
+            if 'GRAPHRAG_API_KEY=<API_KEY>' in content or 'your_openai_api_key_here' in content:
+                logger.error("❌ Please set your actual OpenAI API key in workspace/.env")
+                logger.error("   Replace the placeholder with your real API key")
+                return False
+                
+        logger.info("✅ OpenAI API configuration appears to be set up")
+        return True
+        
+    except Exception as e:
+        logger.error(f"❌ Error checking .env file: {e}")
+        return False
+
+
+def run_graphrag_index(workspace_dir: Path, logger: logging.Logger) -> bool:
+    """Run GraphRAG indexing pipeline using the CLI."""
+    try:
+        logger.info("🚀 Starting GraphRAG indexing with GPT-4o Mini...")
+        
+        # Change to workspace directory for GraphRAG execution
         original_cwd = os.getcwd()
-
+        
         try:
             os.chdir(workspace_dir)
-            logger.info(f"📁 Changed working directory to: {workspace_dir}")
-
-            # Run the CLI command directly
+            logger.info(f"📁 Working in: {workspace_dir.name}")
+            
+            # Import and run GraphRAG indexing
+            import subprocess
+            
+            # Use pixi to run GraphRAG index command
+            cmd = ["pixi", "run", "graphrag", "index"]
+            logger.info("🔄 Running GraphRAG indexing...")
+            
+            # Run the indexing process
             result = subprocess.run(
-                ["pixi", "run", "graphrag", "index", "--config", str(config_path.name)],  # Use relative path since we're in workspace dir
+                cmd,
                 capture_output=True,
                 text=True,
-                check=False  # don't raise immediately
+                cwd=workspace_dir
             )
+            
+            # Log key output lines only
+            if result.stdout:
+                # Only log important progress lines
+                for line in result.stdout.split('\n'):
+                    if any(keyword in line.lower() for keyword in ['workflow', 'completed', 'error', 'failed', 'success']):
+                        logger.info(f"   {line.strip()}")
+            
+            if result.stderr and result.returncode != 0:
+                logger.warning("⚠️  GraphRAG errors:")
+                for line in result.stderr.split('\n'):
+                    if line.strip():
+                        logger.warning(f"   {line}")
+            
+            if result.returncode == 0:
+                logger.info("✅ GraphRAG indexing completed successfully!")
+                return True
+            else:
+                logger.error(f"❌ GraphRAG indexing failed (exit code: {result.returncode})")
+                if result.stderr:
+                    logger.error("Error details logged above")
+                return False
+            
+        except Exception as e:
+            logger.error(f"❌ Error running GraphRAG indexing: {e}")
+            logger.exception("Full traceback:")
+            return False
         finally:
-            # Always restore original working directory
             os.chdir(original_cwd)
             logger.info(f"📁 Restored working directory to: {original_cwd}")
-
-        # Log stdout and stderr
-        if result.stdout:
-            logger.info(result.stdout)
-        if result.stderr:
-            logger.error(result.stderr)
-
-        if result.returncode == 0:
-            logger.info("✅ GraphRAG indexing completed successfully!")
-            return True
-        else:
-            logger.error(f"❌ GraphRAG indexing failed with exit code {result.returncode}")
-            return False
-
-    except FileNotFoundError:
-        logger.error("❌ graphrag CLI not found. Did you install it in this pixi env?")
-        logger.error("   Try: pixi add graphrag")
-        return False
+            
     except Exception as e:
-        logger.error(f"❌ Unexpected error running graphrag: {e}")
+        logger.error(f"❌ Unexpected error in indexing: {e}")
         return False
+
 
 def verify_outputs(output_dir: Path, logger: logging.Logger) -> bool:
     """Verify that all expected output files were created."""
     expected_files = [
         "entities.parquet",
-        "relationships.parquet",
+        "relationships.parquet", 
         "communities.parquet",
         "community_reports.parquet",
-        "text_units.parquet",
-        "covariates.parquet"
+        "text_units.parquet"
     ]
 
     missing_files = []
     for file in expected_files:
-        if not (output_dir / file).exists():
+        file_path = output_dir / file
+        if not file_path.exists():
             missing_files.append(file)
 
     if missing_files:
@@ -180,13 +217,15 @@ def verify_outputs(output_dir: Path, logger: logging.Logger) -> bool:
     logger.info("✅ All expected output artifacts found:")
     for file in expected_files:
         file_path = output_dir / file
-        size = file_path.stat().st_size / 1024 / 1024  # MB
-        logger.info(".2f")
+        if file_path.exists():
+            size = file_path.stat().st_size / 1024 / 1024  # MB
+            logger.info(f"   - {file}: {size:.2f} MB")
 
     return True
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Build GraphRAG baseline index")
+    parser = argparse.ArgumentParser(description="Build GraphRAG baseline index using OpenAI API")
     parser.add_argument(
         "--config",
         type=str,
@@ -207,27 +246,23 @@ def main():
     args = parser.parse_args()
 
     # Setup paths
-    script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    config_path = project_root / args.config
-    input_dir = project_root / "data" / "input"
-    output_dir = project_root / "workspace" / "output"
+    config_path = PROJECT_ROOT / args.config
+    workspace_dir = config_path.parent
+    input_dir = PROJECT_ROOT / "data" / "text_input"
+    output_dir = workspace_dir / "output"
 
     # Setup logging
-    logger = setup_logging()
-    if args.verbose:
-        logger.setLevel(logging.DEBUG)
+    logger = setup_logging(args.verbose)
 
-    logger.info("🎯 GraphRAG Pruning Lab - Stage 1: Baseline Index Builder")
-    logger.info(f"📁 Project root: {project_root}")
-    logger.info(f"⚙️  Config file: {config_path}")
-    logger.info(f"📥 Input directory: {input_dir}")
-    logger.info(f"📤 Output directory: {output_dir}")
+    logger.info("🎯 GraphRAG Index Builder - Using GPT-4o Mini")
+    logger.info(f"📁 Project root: {PROJECT_ROOT}")
+    logger.info(f"⚙️  Config: {config_path.name}")
+    logger.info(f"📥 Input: {input_dir.name} ({len(list(input_dir.glob('*.txt')))} files)")
+    logger.info(f"📤 Output: {output_dir}")
 
-    # Initialize Ollama (auto-start server and pull models) - keep manager alive
-    ollama_success, ollama_manager = initialize_ollama(logger)
-    if not ollama_success:
-        logger.error("❌ Ollama initialization failed - cannot proceed with indexing")
+    # Load environment variables and check API key
+    if not load_environment_variables(workspace_dir, logger):
+        logger.error("❌ Environment setup failed")
         return 1
 
     # Check if output already exists
@@ -240,7 +275,7 @@ def main():
             logger.warning("⚠️  Existing output appears incomplete, rebuilding...")
 
     # Check input data
-    if not check_input_data(input_dir):
+    if not check_input_data(input_dir, logger):
         logger.error("❌ Input validation failed")
         return 1
 
@@ -251,13 +286,13 @@ def main():
 
     # Run GraphRAG indexing
     start_time = datetime.now()
-    indexing_success = run_graphrag_index(config_path, logger)
+    indexing_success = run_graphrag_index(workspace_dir, logger)
     end_time = datetime.now()
 
     success = indexing_success
     if indexing_success:
         duration = end_time - start_time
-        logger.info(".1f")
+        logger.info(f"⏱️  Indexing completed in {duration.total_seconds():.1f} seconds")
 
         # Verify outputs
         if verify_outputs(output_dir, logger):
@@ -267,16 +302,8 @@ def main():
             logger.error("❌ Output verification failed")
             success = False
 
-    # Clean up Ollama manager if it was created
-    if ollama_manager is not None:
-        logger.info("🔄 Shutting down Ollama manager...")
-        try:
-            ollama_manager.shutdown()
-            logger.info("✅ Ollama manager shutdown complete")
-        except Exception as e:
-            logger.warning(f"⚠️  Error shutting down Ollama manager: {e}")
-
     return 0 if success else 1
+
 
 if __name__ == "__main__":
     sys.exit(main())

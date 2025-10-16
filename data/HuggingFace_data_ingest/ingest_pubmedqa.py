@@ -6,7 +6,17 @@ Converts the HuggingFace PubMedQA dataset (pqa_artificial) into JSONL format
 compatible with Microsoft GraphRAG ingestion pipeline.
 
 Usage:
-    python ingest_pubmedqa.py [--output-dir OUTPUT_DIR] [--limit LIMIT] [--verbose]
+    python ingest_pubmedqa.py [--output-dir OUTPUT_DIR] [--limit LIMIT | --percentage PERCENT] [--verbose]
+
+Examples:
+    # Process 1% of dataset for testing
+    python ingest_pubmedqa.py --percentage 0.01
+    
+    # Process first 1000 records
+    python ingest_pubmedqa.py --limit 1000
+    
+    # Process 10% of dataset with verbose output
+    python ingest_pubmedqa.py --percentage 0.1 --verbose
 
 Output:
     - passages.jsonl: All passage-level records ready for GraphRAG ingestion
@@ -267,13 +277,14 @@ class PubMedQAIngester:
         
         return passage_record
     
-    def process_dataset(self, records: Any, limit: Optional[int] = None) -> List[Dict[str, Any]]:
+    def process_dataset(self, records: Any, limit: Optional[int] = None, percentage: Optional[float] = None) -> List[Dict[str, Any]]:
         """
         Process the entire dataset and convert to passage records.
         
         Args:
             records: Dataset records to process
             limit: Optional limit on number of records to process
+            percentage: Optional percentage of dataset to process (0.1 = 10%, 1.0 = 100%)
             
         Returns:
             List of passage records
@@ -281,8 +292,32 @@ class PubMedQAIngester:
         passages = []
         total_chars = 0
         
-        # Apply limit if specified
-        if limit:
+        # Apply percentage or limit if specified
+        if percentage is not None:
+            # Validate percentage
+            if not (0.0 < percentage <= 1.0):
+                raise ValueError(f"Percentage must be between 0.0 and 1.0, got {percentage}")
+            
+            try:
+                if hasattr(records, 'select') and hasattr(records, '__len__'):
+                    # Standard dataset with select method
+                    total_records = len(records)
+                    sample_size = int(total_records * percentage)
+                    records = records.select(range(sample_size))
+                    logger.info(f"Processing {percentage*100:.1f}% of dataset: {sample_size}/{total_records} records")
+                elif hasattr(records, '__iter__'):
+                    # For iterable datasets, we need to estimate or count first
+                    logger.warning("Percentage sampling on streaming dataset - converting to list first")
+                    records_list = list(records)
+                    total_records = len(records_list)
+                    sample_size = int(total_records * percentage)
+                    records = records_list[:sample_size]
+                    logger.info(f"Processing {percentage*100:.1f}% of dataset: {sample_size}/{total_records} records")
+                else:
+                    logger.warning("Could not apply percentage to dataset, processing all records")
+            except (TypeError, AttributeError) as e:
+                logger.warning(f"Could not apply percentage to dataset: {e}, processing all records")
+        elif limit:
             try:
                 if hasattr(records, 'select') and hasattr(records, '__len__'):
                     # Standard dataset with select method
@@ -382,13 +417,14 @@ class PubMedQAIngester:
         logger.info(f"Statistics saved to {stats_path}")
         return stats_path
     
-    def run_ingestion(self, config: str = "pqa_artificial", limit: Optional[int] = None) -> Dict[str, Path]:
+    def run_ingestion(self, config: str = "pqa_artificial", limit: Optional[int] = None, percentage: Optional[float] = None) -> Dict[str, Path]:
         """
         Run the complete ingestion pipeline.
         
         Args:
             config: Dataset configuration to use
             limit: Optional limit on records to process
+            percentage: Optional percentage of dataset to process (0.1 = 10%, 1.0 = 100%)
             
         Returns:
             Dictionary with paths to output files
@@ -402,7 +438,7 @@ class PubMedQAIngester:
         records = self.load_dataset(config=config)
         
         # Process records
-        passages = self.process_dataset(records, limit=limit)
+        passages = self.process_dataset(records, limit=limit, percentage=percentage)
         
         if not passages:
             raise ValueError("No passages were successfully processed")
@@ -445,12 +481,24 @@ def main():
         help="Limit number of records to process (for testing)"
     )
     parser.add_argument(
+        "--percentage",
+        type=float,
+        help="Percentage of dataset to process (0.1 = 10%%, 1.0 = 100%%)"
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Enable verbose logging"
     )
     
     args = parser.parse_args()
+    
+    # Validate arguments
+    if args.limit is not None and args.percentage is not None:
+        parser.error("Cannot specify both --limit and --percentage. Use one or the other.")
+    
+    if args.percentage is not None and not (0.0 < args.percentage <= 1.0):
+        parser.error("Percentage must be between 0.0 and 1.0 (e.g., 0.1 for 10%)")
     
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
@@ -462,7 +510,8 @@ def main():
         # Run ingestion
         output_files = ingester.run_ingestion(
             config=args.config,
-            limit=args.limit
+            limit=args.limit,
+            percentage=args.percentage
         )
         
         print("\n" + "="*60)

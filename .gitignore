@@ -9,6 +9,12 @@
 .env.test.local
 .env.production.local
 
+# GraphRAG outputs and logs
+workspace/cache/
+ingest/logs/
+ingest/*.log
+model/*.log
+*.log
 
 # data input
 data/input/
