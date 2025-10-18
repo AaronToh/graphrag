@@ -14,7 +14,7 @@ models:
     # api_base: https://<instance>.openai.azure.com
     # api_version: 2024-05-01-preview
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 20
+    concurrent_requests: 30
     async_mode: threaded # or asyncio
     retry_strategy: exponential_backoff
     max_retries: 10
@@ -28,7 +28,7 @@ models:
     model: text-embedding-3-large
     # api_base: https://<instance>.openai.azure.com
     # api_version: 2024-05-01-preview
-    concurrent_requests: 20
+    concurrent_requests: 30
     async_mode: threaded # or asyncio
     retry_strategy: exponential_backoff
     max_retries: 10
