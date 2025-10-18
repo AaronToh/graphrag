@@ -1,0 +1,7 @@
+Document ID: 27490767
+
+Breast reconstruction (BR) following mastectomy for breast cancer has been shown to improve quality of life and body image; however, there is significant geographic variation in BR rates. We explored factors associated with BR following mastectomy.
+
+This is a population-based data linkage study consisting of cancer registry records linked to hospital inpatient episodes for 4104 women aged 20 years and over-diagnosed with a first primary invasive localized stage breast cancer between 1997 and 2012 in Queensland, Australia, who underwent a mastectomy. Multivariate logistic regression was used to model predictors of BR.
+
+Overall, 481 women (11.7%) underwent reconstruction. Proportions increased over time and were higher for younger women. Younger age, more recent diagnosis, living in high or very high accessibility areas or less disadvantaged areas, smaller tumours and attending a private or high-volume hospital independently increased the odds of reconstruction. The geographical disparity reduced significantly over time.

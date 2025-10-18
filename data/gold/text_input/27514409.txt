@@ -1,0 +1,7 @@
+Document ID: 27514409
+
+To investigate whether autophagy can be induced by 1, 4-benzoquinone (1, 4-BQ) in HL60 cells, as well as the role of reactive oxygen species (ROS) in induced autophagy.
+
+In order to determine a suitable 1, 4-BQ treatment concentration for autophagy detection in HL60 cells, the cell vitality were examined by CCK8 assay. Logarithmic-growth-phased cells were divided into control group, 1, 4-BQ group (10μmol/L 1, 4-BQ, 24 h) , NAC group (antioxidant n-acetyl cysteine, 5mmol/L, 24 h) and the 1, 4-BQ+NAC group (5 mmol/L NAC were preincubated for 1h prior to the treatment with 10 μmol/L 1, 4-BQ for 24 h). The autophagic acidic vesicle were inspected by acridine orange staining, LC3 were detected by immunofluorescence staining, and expressions of LC3 and Beclin1 were quantitatively detected by Western blot.
+
+The results from cell viability test indicated that 1, 4-BQ exhibited a dose-dependent toxicity to HL60 cells. Compared with control group.the cell viability in 20.0、40.0μmol/L concentration were decreased obviously, and the differences had statistical significance (P<0.05). Compare with contrd group acidic vesicle, LC3II, LC3II/LC3I and Beclin1 protein expressions were increased in 1, 4-BQ group, after both respectively 12.4% and 27%, the differences had statistital significance. While 1, 4-BQ+NAC group was observed that acidic vesicle, LC3 and Beclin1 protein level were markedly lower than 1, 4-BQ group, after both decreased 12.6% and 22.6% respectively, both the difference were statistically significant (P<0.05).

@@ -1,0 +1,11 @@
+Document ID: 25443525
+
+To investigate, at a population level, whether a family history of abdominal aortic aneurysm (AAA) is independently related to increased aortic diameter and prevalence of AAA in men, and to elucidate whether the mean aortic diameter and the prevalence of AAA are different between participants with male and female relatives with AAA.
+
+Observational population-based cross-sectional study.
+
+18,614 male participants screened for AAA in the VIVA-trial 2008-2011 with information on both family history of AAA and maximal aortic diameter.
+
+Standardized ultrasound scan measurement of maximum antero-posterior aortic diameter. Family history obtained by questionnaire. Multivariate regression analysis was used to test for confounders: age, sex, smoking, comorbidity and medication.
+
+From the screened cohort, 569 participants had at least one first degree relative diagnosed with AAA, and 38 had AAA. Participants with a family history of AAA (+FH) had a significantly larger mean maximum aortic diameter (20.50 mm) compared with participants without family history of AAA (-FH) (19.07 mm, p < .0001), and +FH with female relatives with AAA had significantly larger mean maximum aortic diameter (21.8 mm) than +FH with male relatives (19.9 mm, p = .007). Furthermore the prevalence of AAA was significantly higher among +FH (6.7%) compared with -FH (3.0%) with an odds ratio (OR) of 2.2 (95% CI: 1.6 to 3.2, p < .001) and +FH with female relatives with AAA had a more than two and a half times increased prevalence of AAA compared with +FH with male relatives with AAA with an OR of 2.65.

@@ -1,0 +1,13 @@
+Document ID: 25439433
+
+In this study, single nucleotide polymorphisms (SNPs) at 19 loci, previously associated with age-related macular degeneration (AMD), were systematically tested for association in patients with chronic central serous chorioretinopathy (cCSC). In addition, we evaluated the effect of detailed phenotyping on these genetic associations.
+
+Case-control study.
+
+We included 292 cCSC patients, 1147 AMD patients, and 1311 control individuals.
+
+We genotyped SNPs at 19 AMD-associated loci and 6 additional SNPs at the complement factor H (CFH) locus. Phenotyping of all patients was based on fundoscopy, spectral-domain optical coherence tomography, fluorescein angiography (FA), and indocyanine green angiography.
+
+We measured the allele frequencies of 25 AMD-associated SNPs and CFH haplotype frequencies in patients with cCSC and the effect of phenotypic subdivision of cCSC on genetic associations.
+
+One SNP in ARMS2 (rs10490924) was significant after Bonferroni correction (Punadjusted=0.002; odds ratio [OR]=0.64). The SNPs at 3 other AMD loci (CFH, TNFRSF10A, ADAMTS9) showed a trend toward association with typical cCSC. Further analysis of the CFH locus identified 2 SNPs that significantly conferred increased risk for cCSC and 1 that was protective. The CFH-H3 haplotype was also found to be protective (P=0.01; OR=0.54). Using multimodal imaging, 197 patients were classified as having typical cCSC, 52 patients had unilateral abnormalities on FA that were otherwise typical of cCSC, and 43 patients had a clinical picture that could be compatible with cCSC, but with features that could also indicate other macular diseases. Significant differences of the minor allele frequencies of the tested SNPs were observed between these 3 phenotypic subgroups.

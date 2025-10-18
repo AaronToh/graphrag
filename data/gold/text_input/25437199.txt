@@ -1,0 +1,7 @@
+Document ID: 25437199
+
+The P301S mutation in exon 10 of the tau gene causes a hereditary tauopathy. While mitochondrial complex I inhibition has been linked to sporadic tauopathies. Piericidin A is a prototypical member of the group of the piericidins, a class of biologically active natural complex I inhibitors, isolated from streptomyces spp. with global distribution in marine and agricultural habitats. The aim of this study was to determine whether there is a pathogenic interaction of the environmental toxin piericidin A and the P301S mutation.
+
+Transgenic mice expressing human tau with the P301S-mutation (P301S+/+) and wild-type mice at 12 weeks of age were treated subcutaneously with vehicle (N = 10 P301S+/+, N = 7 wild-type) or piericidin A (N = 9 P301S+/+, N = 9 wild-type mice) at a dose of 0.5 mg/kg/d for a period of 28 days via osmotic minipumps. Tau pathology was measured by stereological counts of cells immunoreative with antibodies against phosphorylated tau (AD2, AT8, AT180, and AT100) and corresponding Western blot analysis.
+
+Piericidin A significantly increased the number of phospho-tau immunoreactive cells in the cerebral cortex in P301S+/+ mice, but only to a variable and mild extent in wild-type mice. Furthermore, piericidin A led to increased levels of pathologically phosphorylated tau only in P301S+/+ mice. While we observed no apparent cell loss in the frontal cortex, the synaptic density was reduced by piericidin A treatment in P301S+/+ mice.

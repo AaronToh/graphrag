@@ -1,0 +1,7 @@
+Document ID: 25445774
+
+Before guidelines were issued, many patients with hepatitis B flare and hepatic decompensation had discontinued lamivudine therapy instead of indefinite therapy. We investigated their outcomes.
+
+We performed a retrospective cohort study of 263 consecutive patients with chronic hepatitis B (94 with cirrhosis) who recovered from a flare of hepatitis with hepatic decompensation and were followed after cessation of lamivudine therapy. Clinical events that occurred during the follow-up period were assessed by chart review and analysis of results from retrospective assays.
+
+The mean duration of lamivudine therapy was 12.1 ± 8.6 months; data were collected from patients for 89.1 ± 38.7 months after therapy ended. In the first year off therapy, 29.9% of patients had clinical relapse, 16.2% had hepatitis flares, and 8.2% had hepatic decompensation. There was no significant difference in the incidence of hepatic decompensation between patients with and without cirrhosis. Hepatocellular carcinoma developed in 14 patients 20-109 months after cessation of therapy, with 5-year cumulative incidence of 5.2% in patients with cirrhosis. Three patients with cirrhosis died of hepatic decompensation 38-76 months after cessation of therapy (5-year cumulative mortality, 2.9%). Multivariate analyses showed that men were more likely than women to have recurrence of hepatic decompensation (hazard ratio [HR], 4.339; P = .014). Liver cirrhosis (HR, 2.766; P = .041) and age (HR, 1.054; P = .023) increased risk for hepatocellular carcinoma.

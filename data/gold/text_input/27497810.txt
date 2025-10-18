@@ -1,0 +1,7 @@
+Document ID: 27497810
+
+To investigate the prevalence and temporal development of N-methyl-d-aspartate receptor (NMDAR) autoantibodies in relation to neurocognitive performance in patients with herpes simplex encephalitis (HSE).
+
+This prospective observational study enrolled a total of 49 HSE patients within a randomized controlled trial of valacyclovir. Cerebrospinal fluid and serum samples were drawn in the initial stage of disease, after 2 to 3 weeks and after 3 months. Anti-NMDAR IgG was detected with HEK293 cells transfected with plasmids encoding the NMDA NR1 type glutamate receptor. A batch of neurocognitive tests, including the Mattis Dementia Rating Scale (MDRS), Glasgow Coma Scale (GCS), Reaction Level Scale (RLS85), Mini-Mental State Examination (MMSE) and National Institutes of Health (NIH) stroke scale, was performed during 24 months' follow-up.
+
+Anti-NMDAR IgG was detected in 12 of 49 participants. None were antibody positive in the initial stage of disease. In ten of 12 positive cases, specific antibodies were detectable only after 3 months. Notably, the development of NMDAR autoantibodies was associated with significantly impaired recovery of neurocognitive performance. After 24 months' follow-up, the median increase in MDRS total score was 1.5 vs. 10 points in antibody-positive and -negative participants (p=0.018).

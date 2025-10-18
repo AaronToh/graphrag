@@ -1,0 +1,9 @@
+Document ID: 27515577
+
+Viral causes of acute exacerbations of chronic obstructive pulmonary disease (AECOPD) are well recognised but only recently have rapid tests become available.
+
+To identify respiratory viruses in the general population and those associated with hospitalisation in AECOPD using polymerase chain reaction (PCR) on nasopharyngeal aspirate (NPA), and the relationship between symptoms, viral detection and inflammatory markers.
+
+A review of viruses detected in the general population in a health district between August 2014 and July 2015, using multiplex PCR for viruses from NPA samples. In addition, a single hospital, retrospective audit of patients admitted with suspected AECOPD was conducted.
+
+Of the 8811 NPA tested, 5599 (64%) were positive for at least one virus and 2069 of these were obtained from adults. In adults, the most common viruses identified were Influenza A (31%), Rhinovirus (27%) and respiratory syncytial virus A/B (10%). Most patients with AECOPD (102 of 153) had NPA sent for viral PCR testing and 59 (58%) were positive. The most common viruses identified were Influenza A (31%), Rhinovirus (24%) and respiratory syncytial virus A/B (17%) with co-infecting bacteria cultured in 22 sputum samples. Patients with influenza-like symptoms were more likely to have a positive viral PCR than those without symptoms (P < 0.004). The median C-reactive protein on admission was lower in the virus-infected than uninfected AECOPD (28 vs 60 mg/L, P < 0.026).

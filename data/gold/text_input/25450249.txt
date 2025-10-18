@@ -1,0 +1,9 @@
+Document ID: 25450249
+
+Aging and obesity are associated with elevated pro-inflammatory cytokines such as monocyte chemoattractant protein (MCP)-1 and tumor necrosis factor (TNF)α, which are linked to insulin resistance. Anti-inflammatory agents have marginal effect in improving insulin resistance. Hence, agents are needed to improve glycemic control despite the inflammation. Ad36, a human adenovirus, increases TNFα and MCP1 mRNA in adipose tissue, yet improves glycemic control in mice. Ad36 via its E4orf1 gene, up-regulates AKT/glucose transporter (Glut)-4 signaling to enhance cellular glucose uptake.
+
+Directly test a role of Ad36, or E4orf1 in enhancing cellular glucose uptake in presence of inflammatory cytokines.
+
+Experiment 1: 3T3-L1 preadipocytes were treated with 0, 10 or 100 ng/mL lipopolysaccharides (LPS), and infected with 0 or 5 plaque forming units (PFU) of Ad36/cell. 3T3-L1 cells that stably and inducibly express E4orf1 or a null vector (pTRE-E4orf1 or pTRE-null cells), were similarly treated with LPS and then with doxycycline, to induce E4orf1. Experiment 2: 3T3L1 preadipocytes were treated with 25 nM MCP1 or 20 nM TNFα for 16 h, followed by infection with 0 or 5 PFU of Ad36/cell. Experiment 3: pTRE-E4orf1 or -null cells were similarly treated with MCP1 or TNFα followed by doxycycline to induce E4orf1. Cellular glucose uptake and cellular signaling were determined 72 h post-Ad36 infection or E4orf1-induction, in continued presence of MCP1 or TNFα.
+
+In 3T3-L1 preadipocytes, Ad36, but not E4orf1, increased MCP1 and TNFα mRNA, in presence of LPS stimulation. Ad36 or E4orf1 up-regulated AKT-phosphorylation and Glut4 and increased glucose uptake (P < 0.05) in the presence of MCP1 or TNFα.

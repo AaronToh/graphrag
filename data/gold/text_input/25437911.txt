@@ -1,0 +1,7 @@
+Document ID: 25437911
+
+To investigate the influence of different phlebotomy postures on clinical chemistry testing.
+
+Nineteen volunteers were recruited from the laboratory staff. A first set of samples was drawn after 25 min of resting in supine position, a second after 20 min in sitting position, and a third after 20 min in upright position. Clinical chemistry testing was performed on Roche Cobas C501.
+
+The plasma volume change (PVC) was -3.4% from supine to sitting, -14.1% from supine to standing and -9.7% from sitting to standing. Compared to quality specifications for bias, hemoglobin, hematocrit, albumin and total proteins exhibited meaningful increases from supine to sitting, whereas meaningful increases were observed for hemoglobin, hematocrit, albumin, alkaline phosphatase (ALP), amylase, aspartate aminotransferase (AST), total bilirubin, calcium, total and high-density lipoprotein (HDL) cholesterol, gamma-glutamyl transferase (GGT), glucose, lactate dehydrogenase (LDH), magnesium, total protein and triglycerides from sitting to standing. The parameters with meaningful bias from sitting to upright were hemoglobin, hematocrit, albumin, ALP, total bilirubin, calcium, total and HDL cholesterol, glucose, LDH and total protein.

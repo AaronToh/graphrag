@@ -1,0 +1,7 @@
+Document ID: 25439211
+
+α-Actinins are myofibril anchor proteins that influence the contractile properties of skeletal muscles. ACTN2 is expressed in slow type I and fast type II fibers, whereas ACTN3 is expressed only in fast fibers. ACTN3 homozygosity for the 577X stop codon (ie, changing 577RR to 577XX, the R577X polymorphism) results in the absence of α-actinin-3 in about 18% of Europeans, diminishes fast contractile ability, enhances endurance performance, and reduces bone mass or bone mineral density. We have examined ACTN3 expression and genetic variation in the masseter muscle of orthognathic surgery patients to determine the genotype associations with malocclusion.
+
+Clinical information, masseter muscle biopsies, and saliva samples were obtained from 60 subjects. Genotyping for ACTN3 single nucleotide polymorphisms, real-time polymerase chain reaction quantitation of muscle gene message, and muscle morphometric fiber type properties were compared to determine statistical differences between genotype and phenotype.
+
+Muscle mRNA expression level was significantly different for ACTN3 single nucleotide polymorphism genotypes (P <0.01). The frequency of ACTN3 genotypes was significantly different for the sagittal and vertical classifications of malocclusion, with the clearest association being elevated 577XX genotype in skeletal Class II malocclusion (P = 0.003). This genotype also resulted in significantly smaller diameters of fast type II fibers in masseter muscles (P = 0.002).

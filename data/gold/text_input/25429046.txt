@@ -1,0 +1,7 @@
+Document ID: 25429046
+
+Previous findings are inconsistent; yet, converging evidence suggests an association between schizophrenia (SZ) and the impairment of posttranscriptional regulation of brain development through microRNA (miRNA) systems.
+
+This study aims to (1) compare the overall frequency of 121 rare variants (RVs) in 59 genes associated with the miRNA system in genome-wide association studies (GWAS)-derived data including 768 SZ cases and 1348 healthy controls and validated in an independent GWAS data including 1802 SZ cases and 1447 controls; (2) profile genome-wide miRNA expression in blood collected from 15 early-onset SZ (EOS) cases and 15 healthy controls; and (3) construct a miRNA-messenger RNA (mRNA) regulatory network using our previous genome-wide mRNA expression data generated from a separate sample of 18 EOS cases and 12 healthy controls.
+
+Our findings indicate that: (1) In genes associated with the control of miRNAs, there are approximately 50% more RVs in SZ cases than in controls (P ≤ 2.62E-10); (2) The observed lower miRNA activity in EOS patients compared with the healthy controls suggests that miRNAs are abnormally downregulated; (3) There exists a predicted regulatory network among some downregulated miRNAs and some upregulated mRNAs.

@@ -1,0 +1,7 @@
+Document ID: 25434497
+
+Acute pancreatitis (AP) is a systemic inflammatory disease, and cytokines are suggested to be related to the course of AP. Obesity and central fat distribution are considered to have been associated with severe AP. This study investigated the profile of inflammatory cytokines in AP to determine how they are related to obesity, central fat distribution, and AP severity.
+
+Fifty-nine patients with AP were prospectively enrolled in the study. Body mass index and waist circumference were obtained at admission. Serum levels of inflammatory cytokines, IL-Iβ, IL-1ra, IL-6, TNF-α, sTNFR-I, and sTNFR-II, were measured on day 1 and 2 of AP.
+
+Of the patients included in the study, 19 (32%) were overweight, 23 (39%) had central fat distribution, and 23 (39%) had moderate AP. IL-1ra and IL-6 were significantly higher in overweight patients compared with non-overweight patients. IL-1ra, IL-6, TNF-α, and sTNFR-I were significantly higher in patients with central fat distribution compared with patients with non-central fat distribution. IL-6, sTNFR-I, and sTNFR-II were significantly higher in patients with moderate pancreatitis compared to those with mild pancreatitis. Among the six cytokines, IL-6 was commonly elevated in patients with central fat distribution, overweight, and moderate AP. The areas under the receiver operating characteristic curves of IL-6 for predicting the association with overweight, central fat distribution, and AP severity were 0.678, 0.716, and 0.801, respectively (P < 0.05).

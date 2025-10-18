@@ -1,0 +1,7 @@
+Document ID: 25444169
+
+Excessive anticipatory reactions to potential future adversity are observed across a range of anxiety disorders, but the neurogenetic mechanisms driving interindividual differences are largely unknown. We aimed to discover and validate a gene-brain-behavior pathway by linking presumed genetic risk for anxiety-related psychopathology, key neural activity involved in anxious anticipation, and resulting aversive emotional states.
+
+The functional neuroanatomy of aversive anticipation was probed through functional magnetic resonance imaging in two independent samples of healthy subjects (n = 99 and n = 69), and we studied the influence of genetic variance in the serotonin transporter linked polymorphic region (5-HTTLPR). Skin conductance and startle data served as objective psychophysiological indices of the intensity of individuals' anticipatory responses to potential threat.
+
+Threat cues signaling risk of future electrical shock activated the dorsomedial prefrontal cortex (dmPFC), anterior insula, bed nucleus of the stria terminalis, thalamus, and midbrain consistently across both samples. Threat-related dmPFC activation was enhanced in 5-HTTLPR short allele carriers in sample 1 and this effect was validated in sample 2. Critically, we show that this region mediates the increase in anticipatory psychophysiological reactions in short allele carriers indexed by skin conductance (experiment 1) and startle reactions (experiment 2).

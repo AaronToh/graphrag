@@ -1,0 +1,7 @@
+Document ID: 25439526
+
+To investigate whether serum anti-high mobility group box 1 (anti-HMGB1) antibodies are related to the development of skin lesions in systemic lupus erythematosus (SLE).
+
+This study involved 21 SLE patients with skin lesions, 18 without skin lesions, and 22 healthy controls. The presence and serum levels of anti-HMGB1-IgG and -IgM were measured by western blot and enzyme-linked immunosorbent assay (ELISA), respectively. HMGB1 expression and serum antibodies deposited in the skin were visualized by immunofluorescence staining.
+
+Using western blot analysis, we detected anti-HMGB1-IgG antibodies in 13 out of 21 SLE patients with skin lesions and 11 out of 18 SLE patients without skin lesions (p > 0.05). Serum levels of anti-HMGB1-IgG measured by ELISA were also comparable between the two groups of SLE patients (p > 0.05) but were higher in patients than in healthy controls (p < 0.05). Similar results were found with serum anti-HMGB1-IgM antibodies. HMGB1 accumulated under the stratum corneum in lupus cutaneous lesions without forming immune complexes with IgG or IgM, which were mainly observed along the epidermal-dermal junction. Furthermore, serum anti-HMGB1-IgM was higher in the group of patients with arthritis than in those without arthritis.

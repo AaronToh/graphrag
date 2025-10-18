@@ -1,0 +1,7 @@
+Document ID: 27514530
+
+Accumulating evidences indicated that lncRNAs play crucial regulatory roles in oncogenesis and progression of cancers. BRAF activated non-coding RNA (BANCR) has been identified to contribute to the progression of some human cancers. However, the relationship between BANCR and bladder cancer (BC) is largely unclear.
+
+BANCR expression levels in BC, paired non-cancer tissues and BC cell lines were detected by real-time quantitative RT-PCR (qRT-PCR). The relationships between BANCR expression levels and the clinical characteristics were evaluated. BANCR expression was enhanced by transfecting a pcDNA-BANCR vector. We used both CCK-8 assay and Edu assay to detect cell proliferation. We also detect cell apoptosis and migration by using ELISA assay, Flow cytometry and transwell assay, respectively. All statistical analyses were executed by using the SPSS 20.0 software.
+
+BANCR expression levels were remarkably decreased in BC tissues compared with adjacent noncancerous tissues. BANCR expression levels in two BC cell lines were also significantly down-regulated. Clinicopathologic analysis revealed that low BANCR expression was positively correlated with TNM stage, but not associated with other clinicopathological characteristics. BANCR has been successfully overexpressed in BC cell lines (T24 and SW780) by transfecting a pcDNA-BANCR vector. Cell proliferation inhibition, apoptosis induction and migration suppression were also observed in pCDNA-BANCR-transfected T24 and SW780 cells.

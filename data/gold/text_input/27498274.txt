@@ -1,0 +1,7 @@
+Document ID: 27498274
+
+Serum uric acid (SUA) has been associated to incident hypertension and increased risk of cardiovascular diseases.
+
+Among the 2191 subjects enrolled during the last population survey of the Brisighella Heart Study, we identified 146 new cases of arterial hypertension and 394 treated but uncontrolled hypertensive patients with different levels of SUA. Their hemodynamic characteristics have been compared with those of age- and sex-matched normotensive (N. 324) and controlled hypertensive (N. 470) subjects. Then, by logistic regression analysis, we evaluated which factors were associated with a worse BP control under pharmacological treatment.
+
+SUA levels were significantly higher in untreated hypertensive and uncontrolled hypertensive patients when compared to normotensives and controlled hypertensive patients. Pulse wave velocity (PWV) was significantly higher (p<0.001) in undiagnosed and uncontrolled hypertensive patients, while controlled hypertensive patients had PWV values comparable to normotensive controls. A similar trend has been observed for the augmentation index (AI). A worse BP control was associated with SUA levels (OR 1277, 95% CI 1134-1600 per mg/dL), AI (OR 1066, 95%CI 1041-1092 per unit), and PWV (OR 1201, 95% CI 1089-1423, per m/s), but not with age, body mass index, nor estimated glomerular filtration rate.

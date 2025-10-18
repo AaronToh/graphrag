@@ -1,0 +1,7 @@
+Document ID: 27497962
+
+Extensive research has explored the role of aldosterone in insulin resistance. Recent evidence suggests that the mineralocorticoid receptor (MR) mediates aldosterone-induced dysregulation of cytokines, and most of this research has focused on adjustments in fat tissue and adipocytes. However, the direct effect of MR blockade on insulin resistance in cardiomyocytes remains largely unknown. In the present study, we investigated whether MR blockade improves insulin-sensitizing factors in insulin-resistant rats and attenuates the dysregulation of the aldosterone-related transport of adiponectin and glucose in cardiomyocytes and examined the underlying mechanisms.
+
+The effects of aldosterone, MR inhibitors (e.g., eplerenone), a peroxisome proliferator-activated receptor (PPAR) α agonist, and a p38 mitogen-activated protein kinase (MAPK) inhibitor on adiponectin and glucose transport were studied at the mRNA and protein levels in vitro and in vivo.
+
+Our data revealed that aldosterone reduced the expression of adiponectin and inhibited the transport of glucose in cardiomyocytes and that MR blockade reversed these affects. In vivo, MR blockade improved insulin-sensitive parameters and increased adiponectin expression in the myocardia of high-fat diet rats. Furthermore, aldosterone promoted p38MAPK expression but negatively affected PPARα expression, and the downregulation of adiponectin by aldosterone was reversed by MR blockade, a PPARα agonist, and a p38 MAPK inhibitor.

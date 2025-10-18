@@ -1,0 +1,7 @@
+Document ID: 27493882
+
+Thyroid cancer is the most common endocrine gland malignancy. Advances in understanding the genetic basis for thyroid cancer revealed the potential involvement of several genes in the formation of thyroid tumors. Mutations in the gene coding for succinate dehydrogenase subtype B (SDHB) have been implicated in papillary thyroid cancer (PTC). Succinate dehydrogenase (SDH) is a heterotetrameric protein composed of four subunits, SDHA, SDHB, SDHC, and SDHD, and participates in both the electron transport chain and the tricarboxylic acid cycle. The aim of the study was to evaluate the association between variants in the SDHA, SDHB, SDHC, and SDHD genes and familiar PTC in a large Brazilian family.
+
+Four patients with PTC, 1 patient with PTC and gastrointestinal stromal tumor (GIST), 1 patient with GIST, and their relatives - several of them with different thyroid problems - from a large Brazilian family were screened for genetic variations of SDHx genes with the use of polymerase chain reaction-single-stranded conformational polymorphism and direct sequencing.
+
+Only one rare variation in SDHA was found in some of the family members, but not segregating with the disease. No other genetic variants of these genes were detected in the family members that presented with PTC and/or GIST.

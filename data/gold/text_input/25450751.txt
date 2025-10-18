@@ -1,0 +1,7 @@
+Document ID: 25450751
+
+To assess the influence of vascular clamping and ischemia time on long-term post-operative renal function following partial nephrectomy (PN) for cancer in a solitary kidney.
+
+This is a retrospective study including 259 patients managed by PN between 1979 and 2010 in 13 centers. Clamping use, technique choice (pedicular or parenchymal clamping), ischemia time, and peri-operative data were collected. Pre-operative and last follow-up glomerular filtration rates were compared. A multivariate analysis using a Cox model was performed to assess the impact of ischemia on post-operative chronic renal failure risk.
+
+Mean tumor size was 4.0±2.3cm and mean pre-operative glomerular filtration rate was 60.8±18.9mL/min. One hundred and six patients were managed with warm ischemia (40.9%) and 53 patients with cold ischemia (20.5%). Thirty patients (11.6%) have had a chronic kidney disease. In multivariate analysis, neither vascular clamping (P=0.44) nor warm ischemia time (P=0.1) were associated with a pejorative evolution of renal function. Pre-operative glomerular filtration rate (P<0.0001) and blood loss volume (P=0.02) were significant independent predictive factors of long-term renal failure.

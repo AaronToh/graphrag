@@ -1,0 +1,7 @@
+Document ID: 27497670
+
+To explore the effects of sulforaphane (SFN) on neuronal apoptosis in hippocampus and memory impairment in diabetic rats.
+
+Thirty male rats were randomly divided into normal control, diabetic model and SFN treatment groups (N = 10 in each group). Streptozotocin (STZ) was applied to establish diabetic model. Water Morris maze task was applied to test learning and memory. Tunel assaying was used to detect apoptosis in hippocampus. The expressions of Caspase-3 and myeloid cell leukemia 1(MCL-1) were detected by western blotting. Neurotrophic factor levels and AKT/GSK3β pathway were also detected.
+
+Compared with normal control, learning and memory were apparently impaired, with up-regulation of Caspase-3 and down-regulation of MCL-1 in diabetic rats. Apoptotic neurons were also found in CA1 region after diabetic modeling. By contrast, SFN treatment prevented the memory impairment, decreased the apoptosis of hippocampal neurons. SFN also attenuated the abnormal expression of Caspase-3 and MCL-1 in diabetic model. Mechanically, SFN treatment reversed diabetic modeling-induced decrease of p-Akt, p-GSK3β, NGF and BDNF expressions.

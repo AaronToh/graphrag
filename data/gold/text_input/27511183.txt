@@ -1,0 +1,7 @@
+Document ID: 27511183
+
+To test the hypothesis that core and suggestive features in possible dementia with Lewy bodies (DLB) would vary in their ability to predict an abnormal dopamine transporter scan and therefore a follow-up diagnosis of probable DLB. A further objective was to assess the evolution of core and suggestive features in patients with possible DLB over time depending on the (123)I-FP-CIT SPECT scan result.
+
+A total of 187 patients with possible DLB (dementia plus one core or one suggestive feature) were randomized to have dopamine transporter imaging or to follow-up without scan. DLB features were compared at baseline and at 6-month follow-up according to imaging results and follow-up diagnosis.
+
+For the whole cohort, the baseline frequency of parkinsonism was 30%, fluctuations 29%, visual hallucinations 24%, and REM sleep behavior disorder 17%. Clinician-rated presence of parkinsonism at baseline was significantly (p = 0.001) more frequent and Unified Parkinson's Disease Rating Scale (UPDRS) score at baseline was significantly higher (p = 0.02) in patients with abnormal imaging. There was a significant increase in UPDRS score in the abnormal scan group over time (p < 0.01). There was relatively little evolution of the rest of the DLB features regardless of the imaging result.

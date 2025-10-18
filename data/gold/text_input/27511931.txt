@@ -1,0 +1,9 @@
+Document ID: 27511931
+
+Sugar intake has been associated with an increased prevalence of obesity, other noncommunicable diseases, and dental caries. The WHO recommends that free sugars should be <10% of total energy intake (TEI) and that additional health benefits could be obtained with a reduction below 5% of TEI.
+
+The objective of this study was to estimate the total, intrinsic, and added sugar intake in the Mexican diet and to identify the food groups that are the main sources of these sugars.
+
+We used data from a national probabilistic survey [ENSANUT (National Health and Nutrition Survey) 2012], which represents 3 geographic regions and urban and rural areas. Dietary information was obtained by administering a 24-h recall questionnaire to 10,096 participants. Total sugar intake was estimated by using the National Institute of Public Health (INSP) food-composition table and an established method to estimate added sugars.
+
+The mean intakes of total, intrinsic, and added sugars were 365, 127, and 238 kcal/d, respectively. Added sugars contributed 13% of TEI. Sugar-sweetened beverages (SSBs) were the main source of sugars, contributing 69% of added sugars. Food products high in saturated fat and/or added sugar (HSFAS) were the second main sources of added sugars, contributing 25% of added sugars.

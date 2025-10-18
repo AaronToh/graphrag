@@ -1,0 +1,9 @@
+Document ID: 27502297
+
+IL-17A is a key driver of human autoimmune diseases, particularly psoriasis.
+
+We sought to determine the role of IL-17A in psoriasis pathogenesis and to identify a robust and measurable biomarker of IL-17A-driven pathology.
+
+We studied 8 healthy subjects and 8 patients with psoriasis before and after administration of secukinumab, a fully human anti-IL-17A mAb, and used a combination of classical techniques and a novel skin microperfusion assay to evaluate the expression of 170 proteins in blood, nonlesional skin, and lesional skin. For validation, we also tested stored sera from 601 patients with a variety of autoimmune diseases.
+
+IL-17A was specifically expressed in lesional compared with nonlesional psoriatic skin (9.8 vs 0.8 pg/mL, P < .001). Proteomic and gene transcription analyses revealed dysregulated antimicrobial peptides, proinflammatory cytokines, and neutrophil chemoattractants, levels of which returned to normal after treatment with secukinumab. β-Defensin 2 (BD-2) was identified as a biomarker of IL-17A-driven pathology by comparing protein expression in patients with psoriasis versus that in healthy subjects (5746 vs 82 pg/mL in serum, P < .0001; 2747 vs <218 pg/mL in dermis, P < .001), responsiveness to secukinumab therapy, and synergistic induction by IL-17A and TNF-α in epidermal keratinocytes. In a validation set of sera from 601 patients with autoimmune diseases thought to be IL-17A driven, we found that BD-2 levels are most highly increased in patients with psoriatic skin lesions, and in patients with psoriasis, BD-2 levels correlated well with IL-17A levels (r = 0.70, n = 199, P < .001) and Psoriasis Area and Severity Index scores (r = 0.53, n = 281, P < .001).

@@ -1,0 +1,9 @@
+Document ID: 27513882
+
+Coagulation and complement systems are simultaneously activated at sites of tissue injury, leading to thrombin generation and opsonisation with C3b. Thrombomodulin (TM) is a cell-bound regulator of thrombin activation, but can also enhance the regulatory activity of complement factor H (FH), thus accelerating the degradation of C3b into inactive iC3b.
+
+This study sought to determine the biophysical interaction affinities of two recombinant TM analogs with thrombin, FH and C3b in order to analyze their ability to regulate serum complement activity.
+
+Surface plasmon resonance (SPR) analysis was used to determine binding affinities of TM analogs with FH and C3b, and compared to thrombin as positive control. The capacity of the two recombinant TM analogs to regulate complement in serum was tested in standard complement hemolytic activity assays.
+
+SPR analysis showed that both TM analogs bind FH and C3b-Factor H with nanomolar and C3b with micromolar affinity; binding affinity for its natural ligand thrombin was several fold higher than for FH. At a physiological relevant concentration, TM inhibits complement hemolytic activity in serum via FH dependent and independent mechanisms.

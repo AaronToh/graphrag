@@ -1,0 +1,7 @@
+Document ID: 27513465
+
+Previously, we found an 11-gene signature could predict pelvic lymph node metastasis (PLNM), and WNT2 is one of the key genes in the signature. This study explored the expression and underlying mechanism of WNT2 in PLNM of cervical cancer.
+
+WNT2 expression level in cervical cancer was detected using western blotting, quantitative PCR, and immunohistochemistry. Two WNT2-specific small interfering RNAs (siRNAs) were used to explore the effects of WNT2 on invasive and metastatic ability of cancer cells, and to reveal the possible mechanism of WNT2 affecting epithelial-mesenchymal transition (EMT). The correlation between WNT2 expression and PLNM was further investigated in clinical cervical specimens.
+
+Both WNT2 mRNA and protein expression was upregulated in cervical cancer. High WNT2 expression was significantly associated with tumor size, lymphovascular space involvement, positive parametrium, and most importantly, PLNM. PLNM and WNT2 expression were independent prognostic factors for overall survival and disease-free survival. WNT2 knockdown inhibited SiHa cell motility and invasion and reversed EMT by inhibiting the WNT2/β-catenin pathway. WNT2 overexpression in cervical cancer was associated with β-catenin activation and induction of EMT, which further contributed to metastasis in cervical cancer.

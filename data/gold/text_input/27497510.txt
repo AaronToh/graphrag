@@ -1,0 +1,7 @@
+Document ID: 27497510
+
+Complement activation is considered a major mechanism in innate immunity. Although it is mainly involved in initiating inflammation, recent data reported its involvement in other processes such as tissue regeneration. In the dental pulp, complement C5a fragment has been shown to be involved in the recruitment of dental pulp stem cells (DPSCs). This study sought to investigate the possible role of C3a, another complement fragment, in the early steps of dentin-pulp regeneration.
+
+Expression of C3a receptor (C3aR) was investigated by immunofluorescence and reverse transcriptase polymerase chain reaction on cultured pulp fibroblasts, STRO-1-sorted DPSCs, as well as on human tooth sections in vivo. The effect of C3a on proliferation of both DPSCs and pulp fibroblasts was investigated by MTT assay. Cell migration under a C3a gradient was investigated by using microfluidic chemotaxis chambers.
+
+C3aR was expressed in vivo as well as in cultured pulp fibroblasts co-expressing fibroblast surface protein and in DPSCs co-expressing STRO-1. Addition of recombinant C3a induced a significant proliferation of both cell types. When subjected to a C3a gradient, DPSCs were mobilized but not specifically recruited, whereas pulp fibroblasts were specifically recruited following a C3a gradient.

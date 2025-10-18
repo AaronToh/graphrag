@@ -1,0 +1,7 @@
+Document ID: 25445501
+
+Long noncoding RNA prostate cancer gene antigen 3 (PCA3) is one of the most prostate cancer-specific genes at present. Consequently, the prostate-specific expression and the sharp up-regulation of PCA3 RNA in prostate cancer suggest a unique transcriptional regulation, which possibly can be attributed to promoter polymorphism. In this study, we investigated a short tandem repeat (STR) polymorphism of TAAA in the promoter region of PCA3 gene found in our previous study in prostate cancer (PCa) patients and benign prostatic hypertrophy (BPH) patients, aiming to evaluate the association between the STR and increased risk for PCa.
+
+120 PCa cases and 120 benign prostatic hypertrophy (BPH) cases were identified among participants. The region encompassing the TAAA repeat was amplified with a specific primer set we designed and screened by PCR-based cloning and sequencing in paired peripheral blood leukocytes and prostate tissues. Genotype-specific risks were estimated as odds ratios (ORs) associated with 95% confidence intervals (CIs) and adjusted for age by means of unconditional logistic regression.
+
+5 PCA3 TAAA STR polymorphisms and 8 genotypes were found in both peripheral blood leukocytes and prostate tissues, the carriers with more TAAA repeats were associated with increased risk for PCa than individuals having less TAAA repeats. Interestingly, 18 (15.0%) of 120 PCa patients had more (TAAA)n repeats in prostate tissues than that in peripheral blood leukocytes, and 3 (2.5%) of 120 had less (TAAA)n repeats in prostate tissues.

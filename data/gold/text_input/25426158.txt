@@ -1,0 +1,5 @@
+Document ID: 25426158
+
+Urbanization can considerably impact animal ecology, evolution, and behavior. Among the new conditions that animals experience in cities is anthropogenic noise, which can limit the sound space available for animals to communicate using acoustic signals. Some urban bird species increase their song frequencies so that they can be heard above low-frequency background city noise. However, the ability to make such song modifications may be constrained by several morphological factors, including bill gape, size, and shape, thereby limiting the degree to which certain species can vocally adapt to urban settings. We examined the relationship between song characteristics and bill morphology in a species (the house finch, Haemorhous mexicanus) where both vocal performance and bill size are known to differ between city and rural animals.
+
+We found that bills were longer and narrower in more disturbed, urban areas. We observed an increase in minimum song frequency of urban birds, and we also found that the upper frequency limit of songs decreased in direct relation to bill morphology.

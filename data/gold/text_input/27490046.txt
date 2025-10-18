@@ -1,0 +1,15 @@
+Document ID: 27490046
+
+To identify the risk factors for suboptimal response to GnRH agonist (GnRH-a) trigger and evaluate the effect of hCG on the outcome of patients with suboptimal response to GnRH-a.
+
+A retrospective data analysis.
+
+A tertiary-care academic medical center.
+
+A total of 8,092 women undergoing 8,970 IVF/intracytoplasmic sperm injection (ICSI) treatment cycles.
+
+All women underwent hMG + medroxyprogesterone acetate (MPA)/P treatment cycles during IVF/ICSI, which were triggered using a GnRH-a alone or in combination with hCG (1,000, 2,000, or 5,000 IU). Viable embryos were cryopreserved for later transfer.
+
+The rates of oocyte retrieval, mature oocytes, fertilization, and the number of oocytes retrieved, mature oocytes, and embryos frozen.
+
+In total, 2.71% (243/8,970) of patients exhibited a suboptimal response to GnRH-a. The suboptimal responders (LH ≤15 mIU/mL) had a significantly lower oocyte retrieval rate (48.16% vs. 68.26%), fewer mature oocytes (4.10 vs. 8.29), and fewer frozen embryos (2.32 vs. 3.54) than the appropriate responders. Basal LH levels served as the single most valuable marker for differentiating suboptimal responders with the areas under the receiver operating curve of 0.805. Administering dual trigger (GnRH-a and hCG 1,000, 2,000, 5,000 IU) significantly increased oocyte retrieval rates (60.04% vs. 48.16%; 68.13% vs. 48.16%; and 65.76% vs. 48.16%, respectively) in patients with a suboptimal response.

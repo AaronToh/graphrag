@@ -1,0 +1,9 @@
+Document ID: 27494777
+
+In Crohn's disease (CD), rapid response to anti-tumor necrosis factor therapy improves short- and medium-term outcomes, but the relationship between early remission (ER) and long-term remission is unclear.
+
+This exploratory analysis of PRECiSE 3 (NCT00160524) assessed whether ER after initiation of certolizumab pegol predicted long-term remission.
+
+Patients enrolled in PRECiSE 3 had completed PRECiSE 1 or 2, two randomized placebo-controlled studies for moderate to severe CD, and received open-label certolizumab pegol 400 mg every 4 weeks for a total treatment duration of ≤7.5 years. Time to loss of remission between patients with and without ER (Harvey-Bradshaw Index ≤4 at or before Week 6 of PRECiSE 1 or 2) was compared by log-rank test of Kaplan-Meier estimates.
+
+At baseline, patients with (n = 242) and without (n = 148) ER had mean (standard deviation [SD]) durations of CD of 6.8 (6.6) and 7.4 (7.8) years, mean (SD) CD Activity Index scores of 280.3 (53.4) and 311.1 (55.5), with 45.5% and 41.9% of patients having ileocolonic CD, and median C-reactive protein concentrations of 8.0 and 5.0 mg/L, respectively. Median certolizumab pegol plasma concentrations during the first 6 weeks of therapy were similar in both groups. Mean time to loss of remission was significantly longer in patients with versus without ER (2.77 vs. 1.14 years, p < 0.0001).

@@ -1,0 +1,7 @@
+Document ID: 25445419
+
+To provide optimal treatment of heterogeneous triple negative breast cancer (TNBC), we need biomarkers that can predict the chemotherapy response.
+
+We retrospectively investigated BRCAness in 73 patients with breast cancer who had been treated with taxane- and/or anthracycline-based neoadjuvant chemotherapy (NAC). Using multiplex, ligation-dependent probe amplification on formalin-fixed core needle biopsy (CNB) specimens before NAC and surgical specimens after NAC. BRCAness status was assessed with the assessor unaware of the clinical information.
+
+We obtained 45 CNB and 60 surgical specimens from the 73 patients. Of the 45 CNB specimens, 17 had BRCAness (38.6% of all subtypes). Of the 23 TNBC CNB specimens, 14 had BRCAness (61% of TNBC cases). The clinical response rates were significantly lower for BRCAness than for non-BRCAness tumors, both for all tumors (58.8% vs. 89.3%, P = .03) and for TNBC (50% vs. 100%, P = .02). All tumors that progressed with taxane therapy had BRCAness. Of the patients with TNBC, those with non-BRCAness cancer had pathologic complete responses significantly more often than did those with BRCAness tumors (77.8% vs. 14.3%, P = .007). After NAC, the clinical response rates were significant lower for BRCAness than for non-BRCAness tumors in all subtypes (P = .002) and in TNBC cases (P = .008). After a median follow-up of 26.4 months, 6 patients-all with BRCAness-had developed recurrence. Patients with BRCAness had shorter progression-free survival than did those with non- BRCAness (P = .049).

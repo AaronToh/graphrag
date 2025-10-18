@@ -1,0 +1,7 @@
+Document ID: 25445220
+
+Previous investigations by our group have shown that prenatal treatment with lipopolysaccharide (LPS; 100 μg/kg, intraperitoneally) on gestation day (GD) 9.5 in rats, which mimics infections by Gram-negative bacteria, induces short- and long-term behavioral and neuroimmune changes in the offspring. Because LPS induces hypozincemia, dams were treated with zinc after LPS in an attempt to prevent or ameliorate the impairments induced by prenatal LPS exposure. LPS can also interfere with hypothalamic-pituitary-adrenal (HPA) axis development; thus, behavioral and neuroendocrine parameters linked to HPA axis were evaluated in adult offspring after a restraint stress session.
+
+We prenatally exposed Wistar rats to LPS (100 μg/kg, intraperitoneally, on GD 9.5). One hour later they received zinc (ZnSO4, 2 mg/kg, subcutaneously). Adult female offspring that were in metestrus/diestrus were submitted to a 2 h restraint stress session. Immediately after the stressor, 22 kHz ultrasonic vocalizations, open field behavior, serum corticosterone and brain-derived neurotrophic factor (BDNF) levels, and striatal and hypothalamic neurotransmitter and metabolite levels were assessed.
+
+Offspring that received prenatal zinc after LPS presented longer periods in silence, increased locomotion, and reduced serum corticosterone and striatal norepinephrine turnover compared with rats treated with LPS and saline. Prenatal zinc reduced acute restraint stress response in adult rats prenatally exposed to LPS.

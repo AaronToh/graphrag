@@ -1,0 +1,7 @@
+Document ID: 25442789
+
+Hippocampal neurodegeneration is one of the hallmarks in neurological and neurodegenerative diseases such as temporal lobe epilepsy and Alzheimer disease. Human embryonic kidney (HEK) cells are a mixed population of cells, including neurons, and their conditioned medium is enriched with erythropoietin (EPO). Because EPO is a known neuroprotectant, we hypothesized that infusion of HEK cells or HEK-conditioned medium (HEK-CM) may provide neuroprotection against kainic acid (KA)-induced hippocampal damage in mice.
+
+Adult CF1 mice were treated with KA to induce hippocampal damage. On 3rd and 5th days after KA treatment, HEK cells or HEK-CM was infused intravenously through the tail vein. On the 7th and 8th days after KA treatment, all groups of mice were subjected to cognitive and depression assessment by use of a novel object recognition test and a forced swim test, respectively. Subsequent to this assessment, mice were killed and the brain samples were used to assess the histopathology and messenger RNA expression for EPO and B-cell lymphoma-2 (Bcl-2).
+
+We found that infusion of HEK cells/HEK-CM improves cognitive function and alleviates symptoms of depression. Histological assessment demonstrates complete neuroprotection against KA-mediated excitotoxicity, and the hippocampal cytoarchitecture of HEK cells/HEK-CM treated mice was comparable to normal control mice. HEK cells/HEK-CM treatment could provide neuroprotection by upregulating the endogenous EPO and Bcl-2 in KA-treated mice.

@@ -1,0 +1,13 @@
+Document ID: 27513357
+
+Mesenchymal stromal cells are being investigated as a cell-based therapy for a number of disease processes, with promising results in animal models of systemic inflammation and sepsis. Studies are ongoing to determine ways to further improve the therapeutic potential of mesenchymal stromal cells. A gas molecule that improves outcome in experimental sepsis is carbon monoxide. We hypothesized that preconditioning of mesenchymal stromal cells with carbon monoxide ex vivo would promote further therapeutic benefit when cells are administered in vivo after the onset of polymicrobial sepsis in mice.
+
+Animal study and primary cell culture.
+
+Laboratory investigation.
+
+BALB/c mice.
+
+Polymicrobial sepsis was induced by cecal ligation and puncture. Mesenchymal stromal cells, mesenchymal stromal cells-conditioned with carbon monoxide, fibroblasts, or fibroblasts-conditioned with carbon monoxide were delivered by tail vein injections to septic mice. The mice were assessed for survival, bacterial clearance, and the inflammatory response during sepsis in each of the groups. Mesenchymal stromal cells were also assessed for their ability to promote bacterial phagocytosis by neutrophils, the production of specialized proresolving lipid mediators, and their importance for mesenchymal stromal cells function using gene silencing.
+
+Ex vivo preconditioning with carbon monoxide allowed mesenchymal stromal cells to be administered later after the onset of sepsis (6 hr), and yet maintain their therapeutic effect with increased survival. Carbon monoxide preconditioned mesenchymal stromal cells were also able to alleviate organ injury, improve bacterial clearance, and promote the resolution of inflammation. Mesenchymal stromal cells exposed to carbon monoxide, with docosahexaenoic acid substrate, produced specialized proresolving lipid mediators, particularly D-series resolvins, which promoted survival. Silencing of lipoxygenase pathways (5-lipoxygenase and 12/15-lipoxygenase), which are important enzymes for specialized proresolving lipid mediator biosynthesis, resulted in a loss of therapeutic benefit bestowed on mesenchymal stromal cells by carbon monoxide.

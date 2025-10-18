@@ -1,0 +1,7 @@
+Document ID: 25450204
+
+A vaccine against hepatitis C virus (HCV) is unavailable and cost-effective antivirals that prevent HCV infection and re-infection, such as in the transplant setting, do not exist. In a search for novel and economical prophylactic agents, we examined the antiviral activity of saikosaponins (SSa, SSb2, SSc, and SSd) from Bupleurum kaoi root (BK) as entry inhibitors against HCV infection.
+
+Infectious HCV culture systems were used to examine the effect of saikosaponins on the complete virus life cycle (entry, RNA replication/translation, and particle production). Antiviral activity against various HCV genotypes, clinical isolates, and infection of primary human hepatocytes were also evaluated.
+
+BK and the saikosaponins potently inhibited HCV infection at non-cytotoxic concentrations. These natural agents targeted early steps of the viral life cycle, while leaving replication/translation, egress, and spread relatively unaffected. In particular, we identified SSb2 as an efficient inhibitor of early HCV entry, including neutralization of virus particles, preventing viral attachment, and inhibiting viral entry/fusion. Binding analysis, using soluble viral glycoproteins, demonstrated that SSb2 acted on HCV E2. Moreover, SSb2 inhibited infection by several genotypic strains and prevented binding of serum-derived HCV onto hepatoma cells. Finally, treatment with the compound blocked HCV infection of primary human hepatocytes.

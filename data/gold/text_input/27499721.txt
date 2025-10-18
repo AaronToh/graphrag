@@ -1,0 +1,9 @@
+Document ID: 27499721
+
+Neurons have a very high energy requirement, and their metabolism is tightly regulated to ensure delivery of adequate substrate to sustain neuronal activity and neuroplastic changes. The mechanisms underlying the regulation of neuronal metabolism, however, are not completely clear.
+
+The objective of this study was to investigate the central carbon metabolism in neurons, in order to identify the regulatory pathways governing neuronal anabolism and catabolism.
+
+Here we first have applied MS-based endometabolomics to elucidate the metabolic dynamics in cultured hippocampal primary neurons. Using nanoLC-ESI-LTQ Orbitrap MS approach followed by statistical analysis, we measure the dynamics of uniformly labeled 
+
+According to non-parametric statistical analysis of metabolic dynamics, in cultured hippocampal neurons, the glycerol phosphate shuttle is active and correlates with the metabolic flux in the pentose phosphate pathway. In the hippocampus, glycerol-3-phosphate biosynthesis was activated in response to long-term potentiation together with the upregulation of glycolysis and the TCA cycle, but was inactive or silenced in basal conditions.

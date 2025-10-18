@@ -1,0 +1,7 @@
+Document ID: 27490741
+
+The human microbiota is a modulator of the immune system. Variations in the placental microbiota could be related with pregnancy disorders. We profiled the placental microbiota and microbiome in women with gestational diabetes (GDM) and studied its relation to maternal metabolism and placental expression of anti-inflammatory cytokines.
+
+Placental microbiota and microbiome and expression of anti-inflammatory cytokines (IL10, TIMP3, ITGAX, and MRC1MR) were analyzed in placentas from women with GDM and from control women. Fasting insulin, glucose, O'Sullivan glucose, lipids, and blood cell counts were assessed at second and third trimester of pregnancy.
+
+Bacteria belonging to the Pseudomonadales order and Acinetobacter genus showed lower relative abundance in women with GDM compared to control (P < 0.05). In GDM, lower abundance of placental Acinetobacter associated with a more adverse metabolic (higher O'Sullivan glucose) and inflammatory phenotype (lower blood eosinophil count and lower placental expression of IL10 and TIMP3) (P < 0.05 to P = 0.001). Calcium signaling pathway was increased in GDM placental microbiome.

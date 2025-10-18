@@ -1,0 +1,13 @@
+Document ID: 25439094
+
+To determine whether older adults with type 2 diabetes mellitus and cognitive dysfunction have poorer metabolic control of glycosylated hemoglobin, systolic blood pressure, and low-density lipoprotein cholesterol than those without cognitive dysfunction.
+
+Prospective cohort study.
+
+A minority cohort in New York City previously recruited for a trial of telemedicine.
+
+Persons aged 73.0 ± 3.0 (N = 613; 69.5% female; 82.5% Hispanic, 15.5% non-Hispanic black).
+
+Participants were classified with executive or memory dysfunction based on standardized score cutoffs (<16th percentile) for the Color Trails Test and Selective Reminding Test. Linear mixed models were used to compare repeated measures of the metabolic measures and evaluate the rates of change in individuals with and without dysfunction.
+
+Of the 613 participants, 331 (54%) had executive dysfunction, 202 (33%) had memory dysfunction, and 96 (16%) had both. Over a median of 2 years, participants with executive or memory dysfunction did not exhibit significantly poorer metabolic control than those without executive function or memory type cognitive dysfunction.

@@ -1,0 +1,9 @@
+Document ID: 25427957
+
+In recent years, the relationship between physical activity (PA) and smoking cessation has been increasingly studied. However, very few studies have investigated the possible protective role of PA on smoking relapse on the long term.
+
+This study evaluated the impact of self-reported PA in precessation on smoking relapse. Other variables evaluated included measures of dependence, socio-demographic factors and smoking-related variables. Several possible interactions between PA and well identified factors influencing smoking relapse rate were also explored.
+
+After the initial consultation, 345 smokers were consecutively recruited in a smoking-cessation unit. Smoking abstinence was collected regularly during consultation or by phone calls. PA was measured with the International Physical Activity Questionnaire short form. Cox proportional hazard model was performed to determine factors associated with smoking relapse.
+
+Among the initial sample, 227 adults were included in the survival analysis. After adjustment for potential cofounders, PA was not associated with smoking relapse. Self-efficacy level, absence of professional activity, previous attempts to quit and alcohol use disorders were associated with relapse. Secondary analysis showed a statistically significant effect of an interaction term for PA and antidepressant use on reducing smoking relapse (HR = .81, 95% CI: .66-.99).

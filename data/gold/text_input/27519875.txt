@@ -1,0 +1,9 @@
+Document ID: 27519875
+
+To determine the rate of persistent tracheocutaneous fistula (TCF) in pediatric patients managed with stomal maturation at the time of the tracheostomy.
+
+Retrospective chart analysis of all cases of tracheostomy performed at a tertiary pediatric care center between 2001 and 2011.
+
+The use of stomal maturation, number of decannulations, number of persistent TCFs, timing of TCF repair, and the overall mortality were assessed.
+
+A total of 264 patients received tracheostomy between 2001 and 2011. Of the total, 173 (66%) underwent stomal maturation. Of those 173 patients, 89 patients (51% of maturation group) underwent planned decannulation. Forty seven (53%) of the 89 decannulated were found to have a persistent TCF in the stomal maturation group. These were diagnosed an average of 1.3 years (range, 4-43 months) after decannulation. Of the 91 patients (34% of the total) who did not undergo stomal maturation, 44 (48% of nonmaturation group) underwent planned decannulation. Twenty of the 44 patients decannulated (45%) were diagnosed with a residual TCF 8 to 28 months later. Both groups achieved similar rates of decannulation (51% maturation vs. 48% non-maturation [P = .80]) and TCF (27% maturation vs. 22% non-maturation [P = .44]). Overall, mortality rates were (32/173) 18% (matured) versus (26/91) 29% (nonmatured). No mortalities were tracheostomy related. The mean (standard deviation) time from operation to TCF closure among those with TCF was 4.0 (1.9) years.

@@ -1,0 +1,7 @@
+Document ID: 27515912
+
+Transient receptor potential ankyrin 1 (TRPA1) is a membrane-associated cation channel, widely expressed in neuronal cells and involved in nociception and neurogenic inflammation. We showed recently that TRPA1 mediates cartilage degradation and joint pain in the MIA-model of osteoarthritis (OA) suggesting a hitherto unknown role for TRPA1 in OA. Therefore, we aimed to investigate whether TRPA1 is expressed and functional in human OA chondrocytes.
+
+Expression of TRPA1 in primary human OA chondrocytes was assessed by qRT-PCR and Western blot. The functionality of the TRPA1 channel was assessed by Ca(2+)-influx measurements. Production of MMP-1, MMP-3, MMP-13, IL-6, and PGE2 subsequent to TRPA1 activation was measured by immunoassay.
+
+We show here for the first time that TRPA1 is expressed in primary human OA chondrocytes and its expression is increased following stimulation with inflammatory factors IL-1β, IL-17, LPS, and resistin. Further, the TRPA1 channel was found to be functional, as stimulation with the TRPA1 agonist AITC caused an increase in Ca(2+) influx, which was attenuated by the TRPA1 antagonist HC-030031. Genetic depletion and pharmacological inhibition of TRPA1 downregulated the production of MMP-1, MMP-3, MMP-13, IL-6, and PGE2 in osteoarthritic chondrocytes and murine cartilage, respectively.

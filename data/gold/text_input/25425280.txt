@@ -1,0 +1,7 @@
+Document ID: 25425280
+
+The chemokine receptor CXCR3 is implicated in a variety of clinically important diseases, notably rheumatoid arthritis and atherosclerosis. Consequently, antagonists of CXCR3 are of therapeutic interest. In this study, we set out to characterize binding sites of the specific low MW CXCR3 antagonist VUF10085 and the broad spectrum antagonist TAK-779 which blocks CXCR3 along with CCR2 and CCR5.
+
+Molecular modelling of CXCR3, followed by virtual ligand docking, highlighted several CXCR3 residues likely to contact either antagonist, notably a conserved aspartate in helix 2 (Asp-112(2:63) ), which was postulated to interact with the quaternary nitrogen of TAK-779. Validation of modelling was carried out by site-directed mutagenesis of CXCR3, followed by assays of cell surface expression, ligand binding and receptor activation.
+
+Mutation of Asn-132(3.33) , Phe-207 and Tyr-271(6.51) within CXCR3 severely impaired both ligand binding and chemotactic responses, suggesting that these residues are critical for maintenance of a functional CXCR3 conformation. Contrary to our hypothesis, mutation of Asp-112(2:63) had no observable effects on TAK-779 activity, but clearly decreased the antagonist potency of VUF 10085. Likewise, mutations of Phe-131(3.32) , Ile-279(6.59) and Tyr-308(7.43) were well tolerated and were critical for the antagonist activity of VUF 10085 but not for that of TAK-779.

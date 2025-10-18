@@ -14,11 +14,11 @@ models:
     # api_base: https://<instance>.openai.azure.com
     # api_version: 2024-05-01-preview
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 5
+    concurrent_requests: 20
     async_mode: threaded # or asyncio
     retry_strategy: exponential_backoff
     max_retries: 10
-    tokens_per_minute: 200000
+    tokens_per_minute: 2000000
     requests_per_minute: null
   default_embedding_model:
     type: embedding
@@ -110,14 +110,14 @@ community_reports:
   max_input_length: 8000
 
 embed_graph:
-  enabled: false # if true, will generate node2vec embeddings for nodes
+  enabled: true # if true, will generate node2vec embeddings for nodes
 
 umap:
-  enabled: false # if true, will generate UMAP embeddings for nodes (embed_graph must also be enabled)
+  enabled: true # if true, will generate UMAP embeddings for nodes (embed_graph must also be enabled)
 
 snapshots:
-  graphml: false
-  embeddings: false
+  graphml: true
+  embeddings: true
 
 ### Query settings ###
 ## The prompt locations are required here, but each search method has a number of optional knobs that can be tuned.

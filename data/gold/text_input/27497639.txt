@@ -1,0 +1,9 @@
+Document ID: 27497639
+
+Sophora flavescens Aiton (Radix Sophorae Flavescentis, Kushen) is used in traditional Chinese medicine to treat chronic hepatitis B (CHB), and has the ability to clear heat and dampness from the body. Oxymatrine is one of the major bioactive compounds extracted from Sophora flavescens Aiton and constitutes more than 90% of the oxymatrine injection commonly used for CHB treatment in clinics in China.
+
+We aim to analyze the protein binding target of oxymatrine in treating CHB by screening a T7 phage display cDNA library of human CHB and examine the biochemistry of protein-ligand binding between oxymatrine and its ligands.
+
+A T7 phage cDNA library of human CHB was biopanned by affinity selection using oxymatrine as bait. The interaction of oxymatrine with its candidate binding protein was investigated by affinity assay, molecular docking, Isothermal Titration Calorimetry (ITC) and Surface Plasmon Resonance (SPR).
+
+A library of potential oxymatrine binding peptides was generated. Ubiquinol-cytochrome c reductase binding protein (UQCRB) was one of the candidate binding proteins of oxymatrine. UQCRB-displaying T7 phage binding numbers in the oxymatrine group were significantly higher than that in the control group, biotin group, and matrine group (p<0.05 or p<0.01). Three-dimensional structure modeling of the UQCRB with oxymatrine showed that their binding interfaces matched and oxymatrine inserted into a deeper pocket of UQCRB, which mainly involved amino acid residues Tyr21, Arg33, Tyr83, Glu84, Asp86, Pro88, and Glu91. The binding affinity constant (Kb) from SPR was 4.2mM. The Kb from ITC experiment was 3.9mM and stoichiometry was fixed as 1, which fit very well with the result of SPR. The binding of oxymatrine to UQCRB was driven by strong enthalpy forces such as hydrogen bonds and polar interactions as the heat released was about 157kcal/mol and ΔG was less than zero.

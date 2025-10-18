@@ -1,0 +1,7 @@
+Document ID: 27500218
+
+Mesenchymal stem cells (MSCs) are a valuable cell source in regenerative medicine. Recently, several studies have shown that MSCs can be easily isolated from human amnion. In this study, we investigated the therapeutic effect of transplantation of human amnion-derived MSCs (hAMSCs) in rats with liver fibrosis.
+
+Liver fibrosis was induced by an intraperitoneal injection of 2 mL/kg of 50% carbon tetrachloride twice a week for 6 weeks. At 3 weeks, hAMSCs (1 × 10(6) cells) were transplanted intravenously. Rats were sacrificed at 7 weeks, and histological analyses and quantitative reverse-transcription polymerase chain reaction were performed. In vitro experiments were conducted to investigate the effect of hAMSCs on the activation of Kupffer cells.
+
+Transplantation of hAMSCs significantly reduced the fibrotic area, deposition of type-I collagen, the number of α-smooth muscle actin-positive hepatic stellate cells, and CD68-positive Kupffer cells in the livers. messenger RNA expression of α-smooth muscle actin and tissue inhibitor of metalloproteinase-1 was significantly decreased and the expression of matrix metalloproteinase-9 and hepatocyte growth factor was significantly increased in the liver of hAMSC-treated rats. Transplantation of hAMSCs at 3 weeks plus 5 weeks did not have an additive effect. In vitro experiments demonstrated that Kupffer cell activation induced by lipopolysaccharide was significantly decreased by culturing with conditioned medium obtained from hAMSCs.

@@ -1,0 +1,7 @@
+Document ID: 25432142
+
+Nuclear apoptosis-inducing factor 1 (NAIF1) could induce apoptosis in gastric cancer cells. Previously, we have reported that the expression of NAIF1 protein is down-regulated in gastric cancer tissues compared with the adjacent normal tissues. However, the role of NAIF1 in gastric cancer cells is not fully understood.
+
+The effects of NAIF1 on cell viability were evaluated by MTT and colony formation assays. The ability of cellular migration and invasion were analyzed by transwell assays. The expression levels of targeted proteins were determined by western blot. The relative RNA expression levels were analyzed using quantitative polymerase chain reaction assays. Xenograft experiment was employed to determine the anti-tumor ability of NAIF1 in vivo.
+
+The study demonstrates that transient transfection of NAIF1 in gastric cancer cells BGC823 and MKN45 could inhibit the cell proliferation, migration, and invasion of the two gastric cancer cell lines. The tumor size is smaller in NAIF1-overexpressed MKN45 cell xenograft mice than in unexpressed group. Further in-depth analysis reveals that NAIF1 reduces the expression of MMP2 as well as MMP9, and inhibits the activation of FAK, all of which are key molecules involved in regulating cell migration and invasion. In addition, NAIF1 inhibits the expression of c-Jun N-terminal kinase (JNK) by accelerating its degradation through ubiquitin-proteasome pathway. Meanwhile, NAIF1 reduces the mRNA and protein expression of ERK1/2.

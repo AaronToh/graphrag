@@ -1,0 +1,7 @@
+Document ID: 25447452
+
+Myriocin is a fungal metabolite with antiviral activity, including influenza, hepatitis B, and hepatitis C viruses. We investigated whether myriocin has activity against human HSV-2, one of the most prevalent pathogens of sexually transmitted disease.
+
+Cell culture systems were used to evaluate myriocin effect on HSV-2 infection. Plaque forming assay and immunoblotting studies were used to determine virus production and viral protein expression, respectively.
+
+Myriocin showed no cytotoxic effect at up to 5 μM. Myriocin treatment did not inhibit HSV-2 infection. Instead, the treatment resulted in accelerated replication of HSV-2 and increased titers of infectious virion. The effect was detected at concentrations as low as 3 nM and plateaued at approximately 30 nM. Myriocin at 30 nM increased HSV-2 production by approximately 1.7 logs. Myriocin also promoted HSV-1 infection but required higher concentrations. A time course study revealed that myriocin promoted HSV-2 infection by acceleration of virus replication. Unlike trichostatin A that promotes HSV-2 infection and histone modifications, myriocin treatment did not alter histone modifications. Myriocin is a well characterized inhibitor of sphingolipid biosynthesis pathway. Structurally different inhibitors of the pathway showed no effect on HSV-2 infection. Exogenous sphingolipids did not reverse the effect of myriocin on HSV-2 infection either.

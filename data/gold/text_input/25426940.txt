@@ -1,0 +1,7 @@
+Document ID: 25426940
+
+Suboptimal adherence to antiretroviral therapy (ART) is a strong predictor of virologic failure (VF) among people with HIV. Various methods such as patient self-report, pill counts and pharmacy refills have been utilized to monitor adherence. However, there are limited data on the accuracy of combining methods to better predict VF in routine clinical settings. We examined various methods to assess adherence including pill count, medication possession ratio (MPR), and self-reported adherence in order to determine which was most highly associated with VF after > 6 months on ART.
+
+We conducted a secondary analysis of data from a case-control study. At enrollment, pharmacy refill data were collected retrospectively from the medical chart, pill counts were completed to derive a pill count adherence ratio (PCAR) and a self-report questionnaire was administered to all participants. Parametric smooth splines and receiver operator characteristic (ROC) analyses were carried out to assess the accuracy of the adherence methods.
+
+458 patients were enrolled from October 2010 to June 2012. Of these, 158 (34.50%) experienced VF (cases) and 300 (65.50%) were controls. The median (IQR) PCAR was 1.10 (0.99-1.14) for cases and 1.13 (1.08-1.18) for controls (p < 0.0001). The median MPR was 1.00 (0.97-1.07) for cases and 1.03 (0.96-1.07) for controls (p = 0.83). Combination of PCAR and self-reported questions was highly associated with VF.

@@ -1,0 +1,7 @@
+Document ID: 27512407
+
+Non-alcoholic fatty liver disease (NAFLD) and dyslipidemia are closely related. Diet plays an important role in the progression of these diseases, but the role of specific dietary components is not completely understood. Therefore, we investigated the role of dietary sucrose and fat/cholesterol on the development of dyslipidemia and NAFLD.
+
+Seventy female guinea pigs were block-randomized (based on weight) into five groups and fed a normal chow diet (control: 4 % fat), a very high-sucrose diet (vHS: 4 % fat, 25 % sucrose), a high-fat diet (HF: 20 % fat, 0.35 % cholesterol), a high-fat/high-sucrose diet (HFHS: 20 % fat, 15 % sucrose, 0.35 % cholesterol) or a high-fat/very high-sucrose diet (HFvHS: 20 % fat, 25 % sucrose, 0.35 % cholesterol) for 16 and 25 weeks.
+
+All three high-fat diets induced dyslipidemia with increased concentrations of plasma cholesterol (p < 0.0001), LDL-C (p < 0.0001) and VLDL-C (p < 0.05) compared to control and vHS. Contrary to this, plasma triglycerides were increased in control and vHS compared to high-fat fed animals (p < 0.01), while circulating levels of free fatty acids were even between groups. Histological evaluation of liver sections revealed non-alcoholic steatohepatitis (NASH) with progressive inflammation and bridging fibrosis in high-fat fed animals. Accordingly, hepatic triglycerides (p < 0.05) and cholesterol (p < 0.0001) was increased alongside elevated levels of alanine and aspartate aminotransferase (p < 0.01) compared to control and vHS.

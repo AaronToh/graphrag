@@ -1,0 +1,17 @@
+Document ID: 27496317
+
+Morphine and other opioids are routinely used systemically and as wound infusions in the postoperative period. Their effect on wound and fracture healing remains unclear.
+
+The primary outcome was to assess the potential cytotoxicity of clinically relevant concentrations of morphine on human fibroblasts.
+
+Laboratory in-vitro study.
+
+Institute of Physiology, Zurich Center for Integrative Human Physiology, University of Zurich.
+
+Monolayers of human fibroblasts.
+
+Exposure of human fibroblast monolayers to several concentrations of morphine, for different periods of time, with and without an artificially induced inflammatory process.
+
+Cell count, cell viability, cell proliferation and apoptosis.
+
+A concentration, time and exposure-dependent cytotoxic effect of morphine-mediated apoptosis was observed. Simulated inflammatory conditions seemed to lessen toxic effects.

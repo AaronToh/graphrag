@@ -1,0 +1,7 @@
+Document ID: 27506406
+
+To compare prognosis of clival chordomas with different dural penetration, and establish the relationship between dural penetration and platelet-derived growth factor receptor (PDGFR)-β signaling pathway.
+
+Tumors in Type I (33 cases) showed limited dural penetration, while those in Type II (34 cases) had more serious dural penetration. Cox multivariate regression analysis was used to analyze risk factors affecting survival. Kaplan-Meier analysis measured overall survival (OS) and progression-free survival (PFS). To determine relationship between dural penetration and PDGFR-β signaling, expression of PDGFR-β, Akt, mammalian target of rapamycin (mTOR), and phosphatase and tensin homolog (PTEN) expression was compared using immunohistochemistry, quantitative reverse transcription polymerase chain reaction, and western blotting.
+
+Total resection was achieved in nine cases in Type I and eleven in Type II. There were significant correlations between OS and dural penetration (P=0.032) and age (P=0.034). PFS correlated significantly with dural penetration (P=0.022), gender (P=0.001), and degree of resection (P=0.001). Mean OS in Type I was significantly longer than in Type II (P=0.046). Patients aged <55 years had longer OS than those aged ≥55 years (P=0.004). Total resection was correlated with longer PFS (P=0.011). Among patients with tumor totally resected, mean PFS in Type I was significantly longer than in Type II (P=0.007). Expression of PDGFR-β in Type II was higher than in Type I.

@@ -1,0 +1,7 @@
+Document ID: 27513656
+
+Bleeding in ACS patients is an independent marker of adverse outcomes. Its prognostic impact is even worse in elderly population. Current bleeding risk scores include chronological age but do not consider biologic vulnerability. No studies have assessed the effect of frailty on major bleeding. The aim of this study is to determine whether frailty status increases bleeding risk in patients with ACS.
+
+This prospective and observational study included patients aged ≥75years admitted due to type 1 myocardial infarction. Exclusion criteria were severe cognitive impairment, impossibility to measure handgrip strength, cardiogenic shock and limited life expectancy due to oncologic diseases. The primary endpoint was 30-day major bleeding defined as a decrease of ≥3g/dl of haemoglobin or need of transfusion.
+
+A total of 190 patients were included. Frail patients (72, 37.9%) were older, with higher comorbidity features and with a higher CRUSADE score at admission. On univariate analysis, frailty predicted major bleeding during 30-day follow-up despite less frequent use of a P2Y12 inhibitor (66.2% vs 83.6%, p=0.007) and decreased catheterisation rate (69.4% vs 94.1%, p<0.001). Major bleeding was associated with increased all-cause mortality at day 30 (18.2% vs 2.5%, p<0.001). On multivariate analysis, frailty was an independent predictor for major bleeding.

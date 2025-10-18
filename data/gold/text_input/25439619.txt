@@ -1,0 +1,7 @@
+Document ID: 25439619
+
+The aim of this study was to examine recent trends in imaging utilization in emergency departments (EDs) in the Medicare population.
+
+The 2002 to 2012 Medicare Part B databases were used. Imaging studies were categorized by modality. Medicare's place-of-service codes identified those studies performed in ED patients. Specialty codes identified the specialties of the interpreting physicians. Utilization rates per 1,000 Medicare beneficiaries were calculated. Trends were assessed in plain radiography (XR), CT, noncardiac ultrasound, MRI, and nuclear medicine.
+
+XR and CT were the most widely used modalities in ED patients. From 2002 to 2012, the XR utilization rate per 1,000 increased from 248.7 to 320.0 (+29%), and CT increased from 57.2 to 147.9 (+159%). Utilization rates of the other modalities were much lower. Ultrasound increased from 9.5 to 21.0 (+121%), while MRI increased from 1.4 to 5.1 (+264%). Growth in these 4 modalities was continuous and did not show the flattening that has characterized the utilization trends in other places of service. Nuclear medicine use was very low and remained essentially flat. During the study period, CT accrued 91 new examinations per 1,000, followed by XR at 71 and ultrasound at 11.5. The vast majority of examinations were interpreted by radiologists.

@@ -1,0 +1,7 @@
+Document ID: 27509907
+
+In anorexia nervosa (AN) hypercortisolism has been described using urine, plasma and saliva samples as short-term markers for the hypothalamic-pituitary-adrenal (HPA)-axis. Here, for the first time, we analyse hair cortisol concentration (HCC) as a marker for long-term integrated cortisol secretion in female patients with AN compared to female healthy controls (HC) and female psychiatric controls (PC).
+
+HCC was assessed in 22 female adolescent psychiatric inpatients with AN compared to 20 female HC and to 117 female PC of the same age range. For further analyses we examined the associations of age and body mass index (BMI) with HCC.
+
+Log HCC was lower in AN-patients compared to HC (p = 0.030). BMI-standard deviation scores (SDS) but not age correlated with log HCC (BMI-SDS: r = 0.19, bias corrected accelerated 95% confidence interval: [.04, .34], p = 0.015; age: r = 0.10, bias corrected accelerated 95% confidence interval: [-.07, .25], p = 0.213) when combining AN, HC and PC samples.

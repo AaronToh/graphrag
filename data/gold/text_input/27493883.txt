@@ -1,0 +1,9 @@
+Document ID: 27493883
+
+Hypothyroidism is a common endocrine disease associated with increased oxidative stress, increased cardiovascular (CV) risk, CV events and endothelial dysfunction. Endothelial progenitor cells (EPCs) are a well-known marker of CV risk.
+
+The aim of this work was to ascertain whether hypothyroidism is associated with lower EPC counts and if treatment with levothyroxine (LT4) or selenium (Se) improves EPC counts compared to placebo.
+
+Hypothyrod patients (n = 100) were randomly divided into five groups to receive placebo (group A), LT4 (group B) or Se at doses of 83 µg (group C), 166 µg (group D) or 249 µg (group E) for 3 months. Each group comprised 20 patients: 10 with 'mild' hypothyroidism and 10 with 'severe' hypothyroidism. A healthy control group (group F) with 20 euthyroid subjects was also recruited. Subjects had to be free of CV disease, diabetes and drugs that interfere with EPCs. Anthropometric measurements (height, weight, BMI), blood pressure, fasting lipids and EPC analyses were performed at baseline and after 3 months.
+
+EPC counts were significantly lower in hypothyroid patients compared to controls. EPCs increased after 3 months of treatment with LT4, but not with Se at any dosage. CD133+ and CD34+ EPC counts were negatively correlated with thyroid-stimulating hormone (TSH; r (2) = 0.523, p < 0.01 and r (2) = 0.517, p < 0.01, respectively) and positively correlated with FT4 (r (2) = 0.394, p < 0.01 and r (2) = 0.369, p < 0.01, respectively). TSH and FT4 were the only predictors of EPC counts.

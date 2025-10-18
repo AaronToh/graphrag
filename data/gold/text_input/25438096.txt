@@ -1,0 +1,7 @@
+Document ID: 25438096
+
+The objective of this study is to compare the serum levels of Dickkopf-1 (DKK1), a natural inhibitor of Wnt signalling, with parathyroid hormone (PTH) and bone involvement in patients with rheumatoid arthritis (RA).
+
+This cross-sectional study includes 154 postmenopausal women with RA and 125 healthy controls. DKK1, 25OH vitamin D (25OHD), bone turnover markers, and PTH serum levels were measured by ELISA; lumbar spine and hip bone mineral density (BMD) and the erosion score were obtained.
+
+The RA patients and healthy controls were not significantly different in terms of age, body mass index, and 25OHD serum levels. The mean level of DKK1 and PTH were significantly higher in patients with RA than in healthy controls (172±68 [SD] vs. 96±55 pmoL/L, and 30±15 vs 22±11, respectively; p<0.0001). DKK1 serum levels were positively correlated with age (p<0.05) only in the healthy controls, while they were correlated with PTH serum levels only in the RA patients (p<0.0001). Among the RA patients, DKK1 levels adjusted for age, PTH and disease duration were significantly higher in patients with bone erosions (176 vs. 167 pmoL/L, respectively; p<0.05). DKK1 levels adjusted for age and PTH were negatively correlated with total hip BMD (p<0.05). In the RA patients not on treatment with bisphosphonates, DKK1 serum levels positively correlated with C-terminal telopeptides of type I collagene serum levels (p<0.05).

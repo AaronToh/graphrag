@@ -1,0 +1,7 @@
+Document ID: 27489240
+
+Natural history of paediatric-onset ulcerative proctitis (UP) is poorly described. Our aim was to describe the phenotype and disease course of incident UP in a population-based study of paediatric-onset UC.
+
+All patients with UC diagnosed <17 years from 1988 to 2004, and followed during >2 years have been extracted from a population-based registry. UC location was defined according to the Paris classification. Cumulative risks for use of immunosuppressants (IS), anti-tumour necrosis factor alpha (TNF-α) therapy, colonic extension and colectomy were described using Kaplan-Meier method. Risk factors for colonic extension were assessed using Cox proportional hazards models.
+
+158 patients with paediatric-onset UC (91 females) with a median age at diagnosis of 14.5 years (Q1: 11.4-Q3: 16.1) have been identified and followed during a median of 11.4 years (8.2-15.8). Among them, 25% had UP (E1) at diagnosis and 49% of them presented a colonic extension at maximal follow-up. In these children, the cumulative risk for colonic extension was 10% at 1 year, 45% at 5 years and 52% at 10 years. No parameter at diagnosis was associated with colonic extension in the UP (E1 group). IS use was significantly lower in patients with UP than in those with E2, E3 or E4 location (p=0.049). For the UP cohort, the cumulative risk for colectomy was 3% at 1 year, 10% at 5 years, 13% at 10 years and 13% at 15 years. Risks for colonic extension, treatment with anti-TNF-α and colectomy did not differ between the E1 group and the E2-E3-E4 group.

@@ -1,0 +1,13 @@
+Document ID: 25423567
+
+It is well known that cyclooxygenase-2 (COX-2) and its major derivative product prostaglandin E2 (PGE2) play key regulatory roles in the ovulation process. Animal studies have demonstrated that the inhibition of nitric oxide (NO) suppresses ovarian PGE2 production and ovulation. Although the expression of NO synthases has been detected in human granulosa cells, the effect of NO on COX-2 expression and PGE2 production in these cells remains unknown.
+
+The purpose of this article was to investigate the effects of NO on COX-2 expression and PGE2 production in human granulosa cells.
+
+SVOG cells are human granulosa cells that were obtained from women undergoing in vitro fertilization and immortalized with simian virus 40 large T antigen. SVOG cells were used to investigate the effects of NO on COX-2 expression and PGE2 production.
+
+The study was conducted in an academic research center.
+
+The levels of mRNA and protein were examined by RT-quantitative real-time PCR and Western blotting, respectively. The accumulation levels of PGE2 were measured by ELISA.
+
+Treatment with the NO donor S-nitroso-N-acetyl-DL-penicillamine (SNAP) induced COX-2 expression and PGE2 production. In addition, the stimulatory effect of SNAP on COX-2 and PGE2 was mimicked by treatment with the cGMP analog 8-bromo-cGMP (8-Br-cGMP). Interestingly, neither SNAP nor 8-Br-cGMP affected the expression of COX-1. Moreover, our results showed that either SNAP or 8-Br-cGMP activated cAMP response element-binding protein (CREB) signaling and that the knockdown of CREB attenuated SNAP- and 8-Br-cGMP-induced COX-2 expression and PGE2 production.

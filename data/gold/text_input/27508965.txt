@@ -1,0 +1,7 @@
+Document ID: 27508965
+
+The nucleus accumbens shell is a key brain area mediating the reinforcing effects of ethanol (EtOH). Previously, it has been shown that the density of μ-opioid receptors in the nucleus accumbens shell is higher in alcohol-preferring Alko Alcohol (AA) rats than in alcohol-avoiding Alko Non-Alcohol rats. In addition, EtOH releases opioid peptides in the nucleus accumbens and opioid receptor antagonists are able to modify EtOH intake, all suggesting an opioidergic mechanism in the control of EtOH consumption. As the exact mechanisms of opioidergic involvement remains to be elucidated, the aim of this study was to clarify the role of accumbal μ- and κ-opioid receptors in controlling EtOH intake in alcohol-preferring AA rats.
+
+Microinfusions of the μ-opioid receptor antagonist CTOP (0.3 and 1 μg/site), μ-opioid receptor agonist DAMGO (0.03 and 0.1 μg/site), nonselective opioid receptor agonist morphine (30 μg/site), and κ-opioid receptor agonist U50488H (0.3 and 1 μg/site) were administered via bilateral guide cannulas into the nucleus accumbens shell of AA rats that voluntarily consumed 10% EtOH solution in an intermittent, time-restricted (90-minute) 2-bottle choice access paradigm.
+
+CTOP (1 μg/site) significantly increased EtOH intake. Conversely, DAMGO resulted in a decreasing trend in EtOH intake. Neither morphine nor U50488H had any effect on EtOH intake in the used paradigm.

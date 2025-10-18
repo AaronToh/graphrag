@@ -1,0 +1,7 @@
+Document ID: 25440763
+
+To assess the activity of mTOR and downstream effector proteins in the mTOR pathway after treatment with a dual mTOR complex 1 and 2 (mTORC1/2) inhibitor (PP242) compared with that of mTOR complex 1 (mTORC1) inhibitor (rapamycin) using a xenograft tumor model.
+
+Pheochromocytoma PC12 cell were xenografted into nude mice. Animals were treated with PP242 and rapamycin. Mean tumor volume was compared across groups. Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling staining was used to detect apoptosis. Immunoblot analysis was performed to assess mTORC1/2 activity using p-Akt, p-S6, and p-4E-BP1. The expression of the antiapoptotic protein Bcl-2, pro-apoptotic protein Bax, and the mediator of angiogenesis vascular endothelial growth factor were also investigated.
+
+The mean tumor volume of PP242 was significantly lower than in other groups. The terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling results showed that PP242 markedly increased cell apoptosis compared with other groups. Immunoblot analysis of tumor lysates treated with PP242 demonstrated inhibition of activated p-Akt. We also observed that only PP242, but not rapamycin, significantly reduced Bcl-2 expression and markedly increased Bax expression. Rapamycin decreased vascular endothelial growth factor expression, but not nearly as striking as seen in the PP242 group.

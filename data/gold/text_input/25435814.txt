@@ -1,0 +1,7 @@
+Document ID: 25435814
+
+In primary care surveillance systems based on voluntary participation, biased results may arise from the lack of representativeness of the monitored population and uncertainty regarding the population denominator, especially in health systems where patient registration is not required.
+
+Based on the observation of a positive association between number of cases reported and number of consultations by the participating general practitioners (GPs), we define several weighted incidence estimators using external information on consultation volume in GPs. These estimators are applied to data reported in a French primary care surveillance system based on voluntary GPs (the Sentinelles network) for comparison.
+
+Depending on hypotheses for weight computations, relative changes in weekly national-level incidence estimates up to 3% for influenza, 6% for diarrhea, and 11% for varicella were observed. The use of consultation-weighted estimates led to bias reduction in the estimates. At the regional level (NUTS2 level - Nomenclature of Statistical Territorial Units Level 2), relative changes were even larger between incidence estimates, with changes between -40% and +55%. Using bias-reduced weights decreased variation in incidence between regions and increased spatial autocorrelation.

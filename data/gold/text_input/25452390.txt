@@ -1,0 +1,7 @@
+Document ID: 25452390
+
+Accumulation and infiltration of microglia/brain macrophages around and into glioma tissue promote tumor invasion and expansion. One tumor-promoting mechanism of microglia/brain macrophages is upregulation of membrane type 1 matrix metalloprotease (MT1-MMP), which promotes the degradation of extracellular matrix. MT1-MMP upregulation is induced by soluble factors released by glioma cells activating microglial Toll-like receptor 2 (TLR2).
+
+Versican identified by proteomics was silenced in glioma cells by short interference RNA and short hairpin RNA approaches and studied in vitro and after injection into mouse brains or organotypic brain slices.
+
+The splice variants V0/V1 of the endogenous TLR2 ligand versican are highly expressed in mouse and human glioma tissue. Versican-silenced gliomas induced less MT1-MMP expression in microglia both in vitro and in vivo, which resulted in smaller tumors and longer survival rates as compared with controls. Recombinant versican V1 induced significantly higher levels of MT1-MMP in wild-type microglia compared with untreated and treated TLR2 knockout microglial cells. Using glioma-injected organotypic brain slices, we found that the impact of versican signaling on glioma growth depended on the presence of microglia. Moreover, we found that TLR2 expression is upregulated in glioma-associated microglia but not in astrocytes. Additionally, an established TLR2 neutralizing antibody reduced glioma-induced microglial MT1-MMP expression as well as glioma growth ex vivo.

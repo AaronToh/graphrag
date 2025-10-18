@@ -1,0 +1,7 @@
+Document ID: 25424898
+
+The purpose of our study was to investigate the therapeutic potential of Celecoxib for epithelial ovarian cancer, especially on cellular morphological changes, proliferation invasion and epithelial-mesenchymal transition (EMT).
+
+The MTT and transwell assays were performed to evaluate the effect of Celecoxib on proliferation and invasion ability of ovarian cancer cell lines, respectively. Western blot was carried out to detect the expression of epithelial phenotypes, E-cadherin and Keratin, and mesenchymal phenotypes, N-cadherin and Vimentin, as well as p-AKT, p-ERK and ZEB1. ZEB1 small-interfering RNA (siRNA) was used to downregulate the expression of ZEB1 to further inquiring into the downstream of Celecoxib-induced EMT.
+
+Cellular morphological assessment revealed that both A2780 and SKOV3 cells gradually appeared in the morphology of mesenchymal cells after Celecoxib treatment. The MTT assay demonstrated that celecoxib had no effect on cell proliferation. Transwell assay showed that Celecoxib significantly increased the cell invasion ability. Western blot data proved that the expression of E-cadherin and keratin was elevated, whereas the expression of N-cadherin and Vimentin was decreased in a dose-dependent manner compared with the untreated cells, the expression of p-AKT, p-ERK and ZEB1 was also obviously elevated. However, ZEB1 siRNA reversed Celecoxib-induced E-cadherin expression and N-cadherin expression, as well as cellular invasiveness.

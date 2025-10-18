@@ -1,0 +1,7 @@
+Document ID: 27490740
+
+The preterm newborn is at high risk of developing cardiovascular compromise during the first day of life and this is associated with increased risk of brain injury. Standard treatments are volume expansion and administration of inotropes, typically dopamine and/or dobutamine, but there is limited evidence that inotropes improve clinical outcomes. This study investigated the efficacy of dopamine and dobutamine for the treatment of cardiovascular compromise in the preterm newborn using a piglet model.
+
+Preterm and term piglets were assigned to either dopamine, dobutamine or control infusions. Heart rate, left ventricular contractility, cardiac output, blood pressure, and cerebral and regional blood flows were measured during baseline, low (10 µg/kg/h), and high (20 µg/kg/h) dose infusions.
+
+At baseline, preterm piglets had lower cardiac contractility, cardiac output, blood pressure, and cerebral blood flow compared to term piglets. The response of preterm piglets to either dopamine or dobutamine administration was less than in term piglets. In both preterm and term piglets, cardiac output and cerebral blood flow were unaltered by either inotrope.

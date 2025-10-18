@@ -1,0 +1,7 @@
+Document ID: 25442871
+
+To determine whether the presence of a capsule regulator gene [i.e., regulator of mucoid phenotype A (rmpA) gene] contributes to virulence on extended-spectrum β-lactamase-producing Klebsiella pneumoniae (ESBL-KP) with serotype non-K1/K2 strains.
+
+Twenty-eight ESBL-KP and non-ESBL-KP isolates were collected from the Tri-Service General Hospital (Taipei, Taiwan). The impact of the virulent rmpA gene in different capsular polysaccharide serotypes on ESBL-KP and non-ESBL-KP isolates was studied by a neutrophil phagocytosis reaction, a serum bactericidal assay, and an animal survival model.
+
+Resistance to broad spectrum antibiotics was more prevalent in ESBL-KP strains than in non-ESBL-KP strains (p < 0.01). The ESBL-KP strains had different molecular patterns from non-ESBL-KP strains, based on pulsed-field gel electrophoresis. The frequency of serum-resistant isolates was the highest among ESBL-KP strains with rmpA (i.e., rmpA(+)) [71.4% (5/7)] than among of non-ESBL-KP rmpA(+) strains [42.8% (6/14)], ESBL-KP strains without rmpA (rmpA(-)) [33.3% (7/21)], and non-ESBL-KP rmpA(-) strains [14.2% (2/14)]. The most significant increase in neutrophil resistance occurred in the ESBL-KP rmpA(+) strains in comparison to the non-ESBL-KP rmpA(+), ESBL-KP rmpA(-), and non-ESBL-KP rmpA(-) strains (p < 0.01). The results of the animal survival model were compatible with the neutrophil phagocytosis reaction and serum bactericidal assay.

@@ -1,0 +1,7 @@
+Document ID: 25451268
+
+The dynamics of intestinal stem cells are crucial for regulation of intestinal function and maintenance. Although crypt stem cells have been identified in the intestine by genetic marking methods, identification of plural crypt stem cells has not yet been achieved as they are visualised in the same colour.
+
+Intestinal organoids were transferred into Matrigel® mixed with lentivirus encoding mCherry. The dynamics of mCherry-positive cells was analysed using time-lapse imaging, and the localisation of mCherry-positive cells was analysed using 3D immunofluorescence.
+
+We established an original method for the introduction of a transgene into an organoid generated from mouse small intestine that resulted in continuous fluorescence of the mCherry protein in a portion of organoid cells. Three-dimensional analysis using confocal microscopy showed a single mCherry-positive cell in an organoid crypt that had been cultured for >1year, which suggested the presence of long-lived mCherry-positive and -negative stem cells in the same crypt. Moreover, a single mCherry-positive stem cell in a crypt gave rise to both crypt base columnar cells and transit amplifying cells. Each mCherry-positive and -negative cell contributed to the generation of organoids.

@@ -1,0 +1,11 @@
+Document ID: 25439409
+
+To determine the relationship between preoperative catecholamine levels and intraoperative peak plasma lactate levels in patients who underwent adrenalectomy for pheochromocytoma.
+
+Retrospective observational study.
+
+Operating room in one university hospital.
+
+The records of 27 ASA physical status 1 and 2 patients who underwent adrenalectomy for pheochromocytoma were studied. Preoperative catecholamine levels and intraoperative plasma lactate levels were recorded.
+
+Twenty cases had high lactate levels (>2 mmol/L). Preoperative urine epinephrine levels and urine metanephrine levels showed a moderate correlation with intraoperative peak plasma lactate levels (rs = 0.475 and rs = 0.499, respectively; Spearman's rank correlation test). Receiver operating characteristic (ROC) curve analysis for preoperative urine epinephrine levels showed good performance for prediction of high lactate levels [>2 mmol/L, area under the curve (AUC) =0.800], whereas ROC for preoperative urine norepinephrine levels showed no predictive performance for high lactate levels.

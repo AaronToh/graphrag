@@ -1,0 +1,7 @@
+Document ID: 25427583
+
+This study aims to characterize the function of downregulated MicroRNA miR-205 in renal cell carcinoma (RCC), and show how the downstream zinc finger E-box-binding homeobox 2 (ZEB2) is negatively regulated by miR-205.
+
+The expression of miR-205 was detected in RCC and adjacent non-tumor tissues using real-time polymerase chain reaction (PCR). The expression of miR-205 and ZEB2 was detected in RCC cell lines using real-time PCR. The luciferase reporter assay was used to assess ZEB2 as a target of miR-205. Protein levels of ZEB2, E-cadherin, and vimentin were measured by western blot after overexpression of miR-205 in ACHN cells. In vivo functions of miR-205 in ACHN cells were measured by MTT assays, migration and invasion assays, and flow cytometry.
+
+MiR-205 was significantly downregulated in RCC samples and cell lines compared with matched non-tumor tissues and HK-2 cells, respectively. No significant difference was found in miR-205 expression between well differentiated and poorly to moderately differentiated groups or between phase I and phase II-III. ZEB2 was upregulated in RCC cell lines compared with expression in HK-2 cells. Upregulation of miR-205 expression caused the downregulation of ZEB2 and vimentin, and the upregulation of E-cadherin in ACHN cells. miR-205 also inhibited proliferation, migration, and invasion, and induced apoptosis of ACHN cells.

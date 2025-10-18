@@ -1,0 +1,7 @@
+Document ID: 25451447
+
+Research evidence supports a positive link between soft drinks and depressive symptoms. However, data thus far are only from Caucasian populations. We investigated whether high levels of consumption of soft drinks were associated with the depressive symptoms among adults in China.
+
+A cross-sectional survey was conducted with 3667 adults in Tianjin, China. Dietary intake was assessed using a valid self-administered food frequency questionnaire, and depressive symptoms were assessed with the Zung Self-Rating Depression Scale (SDS), cut-off point of 40, 45 or 50 indicating elevated depressive symptoms.
+
+The prevalence of elevated depressive symptoms was 7.6% (SDS ≥50). After adjustments for potentially confounding factors, the odds ratios (95% confidence interval) of having elevated depressive symptoms by increasing levels of soft drink consumption were 1.00, 1.43 (1.01, 2.01) and 2.00 (1.15, 3.37) (p for trend <0.01). Similar relations were observed when SDS ≥40 or 45 were used as a definition of depressive symptoms.

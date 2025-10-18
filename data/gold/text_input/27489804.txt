@@ -1,0 +1,7 @@
+Document ID: 27489804
+
+One of the most important tools against foot-and-mouth disease, a highly contagious and variable viral disease of cloven-hoofed animals, is vaccination. However, the effectiveness of foot-and-mouth disease vaccines on slowing the spread of the disease is questionable. In contrast, high potency vaccines providing early protection may solve issues with the spread of the disease, escaping mutants, and persistency. To increase the potency of the vaccine, additives such as saponin and aluminium hydroxide are used. However, the use of saponin with an oil adjuvant is not common and is sometimes linked to toxicity. QS-21, which is less toxic than Quil A, has been presented as an alternative for use with saponin. In this study, the addition of QS-21 to a commercially available foot-and-mouth disease water-in-oil-in-water emulsion vaccine was evaluated in cattle.
+
+After vaccination, serum samples were collected periodically over 3 months. Sera of the QS-21 and normal oil vaccine groups were compared via serum virus neutralization antibody titre and liquid phase blocking enzyme-linked immunosorbent assay antibody titre.
+
+The results showed that there was a significant early antibody increase in the QS-21 group.

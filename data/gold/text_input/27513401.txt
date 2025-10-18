@@ -1,0 +1,7 @@
+Document ID: 27513401
+
+The aim of this study was to investigate the association of lipoprotein(a) [Lp(a)] with the severity of coronary heart disease (CHD) in Han Chinese people.
+
+Six hundred and seventy-nine patients with angiographically defined CHD were enrolled in this cross-sectional study. Fasting lipids were measured, and the severity of CHD was quantitatively assessed for each patient according to the number of stenotic coronary branches and the Gensini scoring system.
+
+The levels of Lp(a), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), very low-density lipoprotein cholesterol (VLDL-C), and apolipoprotein (apo) B100 increased, while high-density lipoprotein cholesterol (HDL-C) and apoAI decreased significantly with the number of stenotic vessels. The levels of Lp(a) increased and HDL-C and apoAI decreased significantly with the Gensini scores. The logistic regression analyses showed that Lp(a) and HDL-C were independently associated with the number of stenotic coronary vessels after adjusting for age, weight, body mass index, sex, smoking, alcohol consumption, hypertension, diabetes, triglycerides, TC, LDL-C, VLDL-C, apoAI, and apoB100. However, only Lp(a) was independently associated with the Gensini scores after adjustment.

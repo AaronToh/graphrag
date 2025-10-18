@@ -1,0 +1,7 @@
+Document ID: 27495039
+
+Barrett esophagus (BE) is considered precursor condition of esophageal adenocarcinoma. Its incidence and prevalence are increasing in general population. Studies reported that metabolic syndrome (MS) or diabetes mellitus (DM) is related to increased risk of BE. Current study was to assess and better understand the relationship between MS /DM and BE.
+
+Electronic search was conducted in the database Pubmed/Medline (-December, 2015), Embase (-December, 2015), Cochrane Library (-December, 2015), and Web of Knowledge (-December, 2015). Studies included were assessed with summary odds ratios (ORs) with 95% confidence intervals (CIs) and compared exposure group with control group. The heterogeneity was examined by the funnel plot and the Egger's test. Subgroup analyses and sensitive analyses were performed for the detection of possible heterogeneity and impact on stability of analysis results.
+
+Twelve publications met the criteria and included 355,311 subjects were analyzed. The pooled results showed MS was closely associated with increased risk of BE (OR = 1.23; 95%CI 1.03-1.47; P = 0.024), and yet DM did not significantly increase the risk of BE (OR = 1.07; 95%CI 0.82-1.38; P = 0.627). Substantial heterogeneities were detected. No significant publication bias was detected by Egger's test (P = 0.23).

@@ -1,0 +1,7 @@
+Document ID: 25441581
+
+The aim of this study was to evaluate the effects of maternal obesity on pancreas structure and carbohydrate metabolism in early adult life, focusing on the F1 and F2 generations after F0 maternal pregestational, gestation, and lactation high-fat diet (HF).
+
+C57 BL/6 female mice (F0) were fed standard chow (SC) or an HF diet for 8 wk before mating and during the gestation and lactation periods to provide the F1 generation (F1-SC and F1-HF). At 3 mo old, F1 females were mated to produce the F2 generation (F2-SC and F2-HF). The male offspring from all groups were evaluated at 3 mo old.
+
+F0-HF and F1-HF dams were overweight before gestation and had a higher body mass gain and energy intake during gestation, although only F0-HF dams presented pregestational hyperglycemia. The F1-HF offspring had higher body mass, energy intake, fasting glucose levels, and were glucose intolerant compared with F1-SC offspring. These parameters were not significantly altered in F2-HF offspring. Both F1-HF and F2-HF offspring showed hyperinsulinemia, hyperleptinemia, decreased adiponectin levels, increased pancreatic mass, and islet volume density with elevated α- and β-cell mass, hypertrophied islet characterized by an altered distribution of α- and β-cells and weak pancreatic-duodenal homeobox (Pdx)1 immunoreactivity.

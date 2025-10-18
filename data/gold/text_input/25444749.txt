@@ -1,0 +1,7 @@
+Document ID: 25444749
+
+SULF2 is an extracellular sulfatase that acts on heparan sulfate proteoglycans and modulates multiple signaling pathways. It is normally bound to the cell surface but can be released into the medium of cultured cells. SULF2 is known to be increased in cirrhotic liver compared to healthy liver. We asked whether SULF2 protein was present in the blood of healthy controls and increased in patients with liver cirrhosis.
+
+We devised a sandwich ELISA for SULF2 using 2 novel monoclonal antibodies (mAbs) and measured its levels in sera of normal individuals and cirrhosis patients.
+
+SULF2 was higher in cirrhosis patients (1460 ± 1160 pg/ml, N=34) than in healthy individuals (728 ± 400 pg/ml, N=37). SULF2 levels increased with age in both healthy and patient groups.

@@ -1,0 +1,7 @@
+Document ID: 25440280
+
+Acute kidney injury (AKI) is an established indicator of all-cause mortality in a coronary care unit (CCU), and evaluating the risks of renal dysfunction can guide treatment decisions. In this study we used the Society of Thoracic Surgeons (STS) score to predict the incidence of AKI in CCU patients who had not undergone coronary artery bypass surgery (CABG) after a cardiac angiogram.
+
+The study cohort comprised 126 patients diagnosed with 2 or 3 coronary vessels disease who did not receive CABG during their hospital course. This study was performed in the CCU of a tertiary referral university hospital between September 2012 and August 2013. The STS score was evaluated with adjustment in all patients and the outcomes of the risk of mortality, morbidity, or mortality and renal failure were selected for predicting assessment. Furthermore, the performance of the STS scores was compared with that of other scoring systems.
+
+A total of 28.5% (36 of 126) of the patients had AKI of varying severity. For predicting AKI, the STS renal failure score was excellent, with areas under the receiver operating characteristic curve of 0.851 ± 0.039, p < 0.001. When compared with other scoring systems, the STS renal failure score demonstrated the highest discriminatory power, the most favorable Youden index, and the highest overall correctness of prediction.

@@ -1,0 +1,7 @@
+Document ID: 27499033
+
+Recent research has revealed that classically trained tenors tend to constrict epilaryngeal structures when singing in and above the passaggio (ie, the frequency region where register events typically occur). These constrictions complicate visibility of vocal fold oscillatory patterns with transoral rigid high-speed video endoscopy, thus limiting the current understanding of laryngeal dynamics in the passaggio region of tenors.
+
+This investigation analyzed seven professionally trained western classical tenors using high-speed digital imaging (HSDI) at 20,000 frames per second via transnasal flexible endoscopy. The participants produced transitions (a) from modal to falsetto register and (b) from modal to stage voice above the passaggio (SVaP) during ascending pitch glides from A3 (220 Hz) to A4 (440 Hz) on vowel /i/. HSDI data were complemented by simultaneous acoustic and electroglottographic recordings.
+
+For many subjects both transition types were associated with constrictions of the epilaryngeal structures during the pitch glide. These constrictions appeared to be more distinct for the SVaP than for falsetto. No major irregularities of vocal fold oscillations in the sense of fundamental frequency jumps were observed for either transition type. However, during the transitions, the open quotient derived from the glottal area waveform (OQ

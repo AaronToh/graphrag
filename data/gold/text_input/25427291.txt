@@ -1,0 +1,9 @@
+Document ID: 25427291
+
+It is still debatable whether anemia predicts stroke outcome.
+
+To describe the characteristics of patients with acute ischemic stroke (AIS) and anemia and identify whether hemoglobin status on admission is a prognostic factor of AIS outcome.
+
+All 2439 patients of the Acute Stroke Registry and Analysis of Lausanne (ASTRAL) between January 2003 and June 2011 were selected. Demographics, risk factors, prestroke treatment, clinical, radiological and metabolic variables in patients with and without anemia according to the definition of the World Health Organization were compared. Functional disability and mortality were recorded up to 12 months from admission.
+
+Anemic patients (17.5%) were older, had lower body mass index, higher rates of coronary artery disease (CAD), atrial fibrillation, diabetes mellitus and peripheral artery disease. Anemia was associated with more severe stroke manifestations, lower systolic and diastolic blood pressure measurements, worse estimated glomerular filtration rate and elevated C-reactive protein concentrations upon admission and with increased modified Rankin scores during the follow-up. Anemic patients had higher 7-day, 3-month and 12-month mortality, which was associated with hemoglobin status and other factors, including age, CAD, stroke severity, and baseline C-reactive levels. Hemoglobin levels were inversely associated with recurrent stroke and mortality throughout the 12-month follow-up.

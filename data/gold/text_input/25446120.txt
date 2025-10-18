@@ -1,0 +1,7 @@
+Document ID: 25446120
+
+The purpose of this study was to investigate the relationship between huntingtin-associated protein1 (HAP1) gene and radiation therapy of breast cancer cells.
+
+HAP1 gene was transfected into breast cancer MCF-7 cells, which was confirmed by quantitative reverse transcription-polymerase chain reaction analysis (qRT-PCR) and Western blot in vitro. The changes of cell radiosensitivity were assessed by colony formation assay. Apoptosis were examined by flow cytometry. The expressions of two radiation-induced genes were evaluated by Western blot. Tumor growth was investigated in nude mice xenograft models in vivo.
+
+Our data showed that HAP1 gene expression was significantly increased in HAP1-transfected MCF-7 cells in comparison with the parental cells or negative control cells. The survival rate in MCF-7/HAP1 cells was significantly decreased after irradiation (0, 2, 4, 6, 8Gy), compared to cells in MCF-7 and MCF-7/Pb groups in vitro. HAP1 gene increased apoptosis in MCF-7 cells after irradiation. Additionally, the tumor volume and weight in MCF-7/HAP1+RT group were observably lower than in MCF-7/HAP1 group and MCF-7/Pb+RT group.

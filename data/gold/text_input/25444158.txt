@@ -1,0 +1,7 @@
+Document ID: 25444158
+
+Genetic haploinsufficiency of SYNGAP1/Syngap1 commonly occurs in developmental brain disorders, such as intellectual disability, epilepsy, schizophrenia, and autism spectrum disorder. Thus, studying mouse models of Syngap1 haploinsufficiency may uncover pathologic developmental processes common among distinct brain disorders.
+
+A Syngap1 haploinsufficiency model was used to explore the relationship between critical period dendritic spine abnormalities, cortical circuit assembly, and the window for genetic rescue to understand how damaging mutations disrupt key substrates of mouse brain development.
+
+Syngap1 mutations broadly disrupted a developmentally sensitive period that corresponded to the period of heightened postnatal cortical synaptogenesis. Pathogenic Syngap1 mutations caused a coordinated acceleration of dendrite elongation and spine morphogenesis and pruning of these structures in neonatal cortical pyramidal neurons. These mutations also prevented a form of developmental structural plasticity associated with experience-dependent reorganization of brain circuits. Consistent with these findings, Syngap1 mutant mice displayed an altered pattern of long-distance synaptic inputs into a cortical area important for cognition. Interestingly, the ability to genetically improve the behavioral endophenotype of Syngap1 mice decreased slowly over postnatal development and mapped onto the developmental period of coordinated dendritic insults.

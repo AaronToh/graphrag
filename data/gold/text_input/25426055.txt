@@ -1,0 +1,9 @@
+Document ID: 25426055
+
+The role of sleep in the enhancement of motor skills has been studied extensively in adults. We aimed to determine involvement of sleep and characteristics of spindles and slow waves in a motor skill in children.
+
+We hypothesized sleep-dependence of skill enhancement and an association of interindividual differences in skill and sleep characteristics.
+
+30 children (19 females, 10.7 ± 0.8 years of age; mean ± SD) performed finger sequence tapping tasks in a repeated-measures design spanning 4 days including 1 polysomnography (PSG) night. Initial and delayed performance were assessed over 12 h of wake; 12 h with sleep; and 24 h with wake and sleep. For the 12 h with sleep, children were assigned to one of three conditions: modulation of slow waves and spindles was attempted using acoustic perturbation, and compared to yoked and no-sound control conditions.
+
+Mixed effect regression models evaluated the association of sleep, its macrostructure and spindles and slow wave parameters with initial and delayed speed and accuracy.

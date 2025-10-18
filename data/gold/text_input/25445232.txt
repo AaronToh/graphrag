@@ -1,0 +1,7 @@
+Document ID: 25445232
+
+Dipeptidyl peptidase-4 (DPP4) was recently proposed as a novel adipokine linked to insulin resistance (IR). As IR represents a cluster of disorders in hepatic and muscle cell insulin signalisation, we aimed to assess the possible correlation between fasting serum DPP4 activity, IR and liver enzymes in order to elucidate the question of hepatic contribution to serum DPP4 activity.
+
+This cross-sectional study comprised 44 T1DM patients aged 18 to 65years. IR was estimated using the equation derived from euglycemic-hyperinsulinemic clamp studies-estimated glucose disposal rate (eGDR). DPP4 serum activity was determined spectrophotometrically as a rate of cleavage of 7-amino-4-methyl coumarin (AMC) from H-Gly-Pro-AMC. The patients were divided into two groups according to the mean value of fasting serum DPP4 activity (31.42U/L).
+
+The group with lower fasting serum DPP4 activity had lower mean rate of liver biomarkers alanine aminotransferase (ALT) (p=0.001) and aspartate aminotransferase (AST) (p=0.002) while higher eGDR (p=0.003) compared to group with higher DPP4 activity. DPP4 activity showed positive correlation with AST (r=0.358, p=0.017) and ALT (r=0.364, p=0.015) while negative correlation with eGDR (r=-0.612, p<0.001). ALT remained positively associated with fasting serum DPP4 activity after controlling for age, gender, diabetes duration, the use of statins and antihypertensives (p=0.025).

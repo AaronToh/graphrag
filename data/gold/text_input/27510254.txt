@@ -1,0 +1,7 @@
+Document ID: 27510254
+
+Longer-term tuberculosis (TB) drug resistance surveillance among children is rare. We determined the prevalence of drug resistance among children with culture-confirmed TB from 2011 to 2013, compared these results with four previous consecutive 2-year periods and documented other mycobacterial isolates identified.
+
+Surveillance study of mycobacterial culture in all children aged <13 years conducted from March 2011 to February 2013 at the Tygerberg Children's Hospital, Cape Town, South Africa. Drug susceptibility testing against isoniazid (INH) and rifampicin (RMP) was performed using line-probe assay (GenoType(®) MTBDRplus). Clinical data were obtained through folder review.
+
+Of 381 children, 323 (84.8%; 324 episodes) had Mycobacterium tuberculosis, 46 (12.1%) had M. bovis bacille Calmette-Guérin and 12 (3.1%) had non-tuberculous mycobacteria isolated. Forty-one (12.7%) children had M. tuberculosis resistant to INH and/or RMP; 15 (4.7%) had multidrug-resistant TB (MDR-TB). The prevalence of INH mono- or polyresistance remained stable; however, RMP monoresistance increased (0/313 in 2003-2005 vs. 6/324, 1.9%, in 2011-2013; P = 0.041); MDR-TB prevalence has declined significantly, from 26/292 (8.9%) in 2007-2009 to 15/324 (4.7%) in 2011-2013 (OR 0.50, 95%CI 0.24-0.99). The prevalence of human immunodeficiency virus co-infection has decreased significantly, from a peak of 29% to 15.3%.

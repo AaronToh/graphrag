@@ -1,0 +1,7 @@
+Document ID: 25442486
+
+The purpose of this study was to determine the prevalence of vitamin D deficiency in CTCL patients and whether supplementation corrects vitamin D deficiency or treatment outcome.
+
+Three hundred eleven CTCL patients including 27/311 (8.7%) with Sézary syndrome (SS), 169 cancer controls, and 69 normal controls from the M.D. Anderson clinics had 25(OH)D3 levels determined and categorized as deficient (< 20 ng/mL),insufficient (20-29 ng/mL), or sufficient (≥ 30 ng/mL). Clinical response was determined according to a change in percent body surface area involvement.
+
+Low 25(OH)D3 (< 30 ng/mL) levels were present in 76.9% of mycosis fungoides/SS patients, 75.2% of cancer controls, and 66.7% of healthy controls (P ¼ .05, .07) and in 30% to 39% of historical normal controls. Correction of deficiency was successful in 35% or 55 of 156 patients who were given dealer's choice of either vitamin D2 at 50,000 IU orally (p.o.) biweekly or D3 1000 IU p.o. daily. Correction of vitamin D levels was noted in 27 of 100 (27%) patients given D3 and 28 of 56 (50%) given D2. Responses to standard CTCL therapy was similar among patients with corrected and persistently low levels (P ¼ .51).

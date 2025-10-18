@@ -1,0 +1,7 @@
+Document ID: 25440025
+
+The optimal type of mesh for complex abdominal wall reconstruction has not been elucidated. We hypothesized that AWRs using acellular dermal matrix (ADM) experience low rates of surgical site occurrence (SSO) and surgical site infection, despite increasing degrees of wound contamination.
+
+We retrospectively reviewed prospectively collected data from consecutive abdominal wall reconstructions with ADM over a 9-year period. Outcomes of abdominal wall reconstructions were compared between patients with different CDC wound classifications. Univariate and multivariate logistic regression and Cox proportional hazard regression analyses identified potential associations and predictive/protective factors.
+
+The 359 patients had a mean follow-up of 28.3 ± 19.0 months. Reconstruction of clean wounds (n = 171) required fewer reoperations than that of combined contaminated (n = 188) wounds (2.3% vs 11.2%; p = 0.001) and trended toward experiencing fewer SSOs (19.9% vs 28.7%, p = 0.052). There were no significant differences between clean and combined contaminated cases in 30-day SSI (8.8% vs 8.0%), hernia recurrence (9.9% vs 10.1%), and mesh removal (1.2% vs 1.1%) rates. Independent predictors of SSO included body mass index ≥30 kg/m(2) (odds ratio [OR] 3.6; p < 0.001), 1 or more comorbidities (OR 2.5; p = 0.008), and defect width ≥15 cm (OR 1.8; p = 0.02).

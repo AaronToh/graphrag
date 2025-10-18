@@ -1,0 +1,7 @@
+Document ID: 25440013
+
+Oxidative stress plays an important role in Alzheimer's disease (AD) etiopathogenesis. There were several studies that showed impaired antioxidant defense system (ADS) enzymes expression or activity in AD patients. There are only few studies evaluating the importance of ADS gene single nucleotide polymorphisms (SNPs) as risk factors of AD. We evaluated association between chosen SNPs of the enzymes of the ADS and risk of AD.
+
+We included 400 AD patients and 402 healthy controls. We studied rs1041740, rs4998557 and rs2070424 of the SOD1 gene, rs2855116, rs5746136 and rs4880 of the SOD2 gene and rs3448, rs1050450 and rs1800668 of the GPx-1 gene (real time PCR). To determine the APOE gene common polymorphism, two single-nucleotide polymorphisms (SNPs; NCBI SNPs rs429358 and rs7412) were genotyped (TaqMan assays, Applied Biosystems [ABI], Foster City, CA, USA). The genotype and gender frequencies were compared between the studied groups by the χ(2) test and mean age by the t-Student test.
+
+Among all studied SNPs only rs2070424 of the SOD1 gene was a protective factor for AD in an additive (OR=0.47; 95% CI=0.30-0.74, p=0.001) and recessive (OR=0.47; 95% CI=0.30-0.75, p=0.002) models including age, gender and APOE gene status.

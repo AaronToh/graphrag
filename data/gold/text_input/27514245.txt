@@ -1,0 +1,9 @@
+Document ID: 27514245
+
+The Affordable Care Act (ACA) Medicaid expansion varies in availability across states.
+
+We compared characteristics of low-income uninsured residents in both Medicaid nonexpanding and expanding states with respect to their dietary quality, health risk factors, and access to care.
+
+Data from the 2007-2012 National Health and Nutrition Examination Survey was matched with the Kaiser Family Foundation Medicaid expansion data. Bivariate and multivariate regressions were estimated to assess differences across expanding and non-expanding states.
+
+The non-expansion group had a lower Healthy Eating Index score (41.8 vs. 44.1, p-value=0.006), a higher Body Mass Index (29.9 vs. 28.9, p-value=0.032), higher obesity prevalence (41% vs. 33%, p-value=0.007), and lower asthma prevalence (14.8% vs. 19.7%, p-value=0.037) compared with the expansion group.

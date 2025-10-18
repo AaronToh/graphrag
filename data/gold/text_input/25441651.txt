@@ -1,0 +1,7 @@
+Document ID: 25441651
+
+A significant proportion of school-aged children experience special health care needs (SCHN) and seek care from pediatricians with a wide range of condition types and severity levels. This study examines the learning pathways of children with established (already diagnosed at school entry) and emerging (teacher identified) SHCN from school entry through the elementary school years.
+
+The Longitudinal Study of Australian Children (LSAC) is a nationally representative clustered cross-sequential sample of 2 cohorts of Australian children which commenced in May 2004. Data were analyzed from the LSAC kindergarten cohort (n = 4,983), as well as a subsample of 720 children for whom teachers also completed the Australian Early Development Index checklist, a measure of early childhood development at school entry that includes SHCN.
+
+Latent class analysis was utilized to establish 3 academic trajectories from 4-5 to 10-11 years: high (24.3%), average (49.8%), and low (23.6%). Descriptive statistics revealed a trend for both children with established and emerging SHCN to fall into weaker performing learning pathways. Multinomial logistic regression focusing on those children with emerging SHCN confirmed this pattern of results, even after adjustment for covariates (relative risk 3.06, 95% confidence interval 1.03-9.10). Children who additionally had low socioeconomic standing were particularly at risk.

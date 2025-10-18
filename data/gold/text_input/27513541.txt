@@ -1,0 +1,13 @@
+Document ID: 27513541
+
+Visceral and subcutaneous adipose tissue may contribute differentially to the septic inflammatory response. Accordingly, we tested the hypothesis that the ratio of visceral to subcutaneous adipose tissue is associated with altered sepsis outcome.
+
+A retrospective analysis from a cohort of sepsis patients admitted between 2004 and 2009.
+
+A mixed medical-surgical ICU at St. Paul's Hospital in Vancouver, Canada.
+
+Patients older than 16 years old who had sepsis and underwent abdominal CT scan (n = 257) for clinical reasons.
+
+None.
+
+We measured the visceral adipose tissue and subcutaneous adipose tissue areas and calculated the visceral adipose tissue-to-subcutaneous adipose tissue ratio. Visceral adipose tissue/subcutaneous adipose tissue was not correlated with body mass index (r = -0.015, p = NS) and therefore provides additional unique information independent of body mass index. Sepsis patients with higher visceral adipose tissue/subcutaneous adipose tissue had greater 90-day mortality than patients with lower visceral adipose tissue/subcutaneous adipose tissue (log-rank test, linear-by linear association p < 0.005). After adjustment for significant covariates using Cox regression, increased visceral adipose tissue/subcutaneous adipose tissue quartile was significantly associated with increased 90-day mortality with hazard ratios of 2.01 (95% CI, 1.01-3.99) for the third visceral adipose tissue/subcutaneous adipose tissue quartile compared with the first quartile and 2.32 (95% CI, 1.15-4.69) for the highest visceral adipose tissue/subcutaneous adipose tissue quartile when compared with the first quartile. Increased mortality for patients with higher visceral adipose tissue/subcutaneous adipose tissue was found for both patients with body mass index less than 25 kg/m (p = 0.004) and for body mass index greater than or equal to 25 kg/m (p = 0.023). Furthermore, we found significantly greater need for mechanical ventilation, renal replacement therapy, and ICU stay in patients in the highest visceral adipose tissue/subcutaneous adipose tissue quartile. The ratio of proinflammatory (interleukin-8) to anti-inflammatory (interleukin-10) plasma cytokine levels was greater in patients with higher visceral adipose tissue/subcutaneous adipose tissue than in those with lower visceral adipose tissue/subcutaneous adipose tissue (p = 0.043).

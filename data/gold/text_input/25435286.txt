@@ -1,0 +1,7 @@
+Document ID: 25435286
+
+Danzhi Xiaoyao San (DXS) is a canonical Chinese medicine formula from Principles of Internal Medicine, which was written during the Ming dynasty. This formula is approved and commercialized for use in the prevention and treatment of affective disorders. This study is aimed to investigate the hypothesis that DXS treats depressive-like behavior by shifting the balance of the kynurenine (Kyn)/serotonin (5-HT) pathway toward the 5-HT pathway through the downregulation of hippocampal indoleamine 2,3-dioxygenase (IDO).
+
+Chemical fingerprints of gardenoside, paeoniflorin, ferulic acid, paeonol, and ligustilide in standard extraction were used as the material bases of DXS. Rats with depressive-like behavior induced by chronic unpredictable mild stress (CUMS) were randomly divided into four groups, namely the control, model, DXS, and fluoxetine groups. Cytokines, IDO, and tryptophan (Trp) catabolites were analyzed by enzyme-linked immunosorbent assay, western blot, and liquid chromatography-electrospray ionization tandem mass spectrometry, respectively.
+
+DXS significantly increased crossing grid numbers, sucrose consumption, and body weight. This treatment significantly decreased the serum levels of tumor necrosis factor-α and interleukin 6 (IL-6). However, DXS elicited no significant effects on IL-1β, IL-2, and interferon γ. DXS downregulated the activity of IDO and subsequent production of Kyn in the hippocampus. This treatment upregulated the hippocampal contents of Trp and 5-HT but did not influence 5-HT turnover.

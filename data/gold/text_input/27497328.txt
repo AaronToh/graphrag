@@ -1,0 +1,7 @@
+Document ID: 27497328
+
+Serotonergic dysfunction is implicated in depression, psychiatric disorders and suicidal behaviors. The first and rate-limiting step in the synthesis of serotonin is catalyzed by tryptophan hydroxylase (TPH) which is encoded by TPH1 and THP2 genes. Genetic association studies have revealed contradictory results about the effect of the TPH1 A218C (rs1800532) polymorphism on suicidal behavior in different populations.
+
+In this study, we investigated A218C polymorphism in 109 suicide attempters and 98 healthy controls. Socio-demographic characteristics of participants were obtained through questionnaire. DNA was extracted from peripheral blood and genotyping was performed by Real Time PCR. Fisher's exact test was used to evaluate the significance of the difference among the independent variables. Hardy-Weinberg equilibrium was tested using Pearson's goodness-of-fit chi-squared test.
+
+The frequency of A allele was significantly higher in suicide attempters than controls (46.33% vs. 35.71%, p=0.0357). However, there were no differences in genotype frequencies of this locus between participants having attempted suicide and controls (p>0.05). Among males, frequencies of CC genotype and C allele were found to be significantly higher in controls (p=0.0125, p=0.0298). With regard to the female subjects and female controls, no significant association was detected between suicidal behavior and genotype/allele frequencies (p>0.05).

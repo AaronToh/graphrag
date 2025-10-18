@@ -1,0 +1,7 @@
+Document ID: 25427270
+
+Increased C-reactive protein levels have been found in all active inflammations, including periodontitis. This study aims to assess the C-reactive protein levels in periodontal disease progression.
+
+Forty-five patients were divided into the following three groups (n=15) based on gingival index, probing pocket depth, and clinical attachment level: healthy (group I), gingivitis (group II), and chronic periodontitis (group III). Gingival crevicular fluid and serum samples were quantified for C-reactive protein using enzyme-linked immunosorbent assay.
+
+The mean C-reactive protein concentration in gingival crevicular fluid and serum was found to be highest in group III (1233.33ng/mL for gingival crevicular fluid, 5483.33ng/mL for serum), and least in group I (60 ng/mL and 413 ng/mL for gingival crevicular fluid and serum, respectively) The mean C-reactive protein concentration in group II (453.33ng/mL for gingival crevicular fluid and 3565.33 ng/mL for serum) was found to be intermediate.

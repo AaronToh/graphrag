@@ -1,0 +1,7 @@
+Document ID: 25432663
+
+Increased small airway resistance and decreased lung elasticity contribute to the airflow limitation in chronic obstructive pulmonary disease (COPD). The lesion that corresponds to loss of lung elasticity is emphysema; the small airway obstruction is due to inflammatory narrowing and obliteration. Despite their convergence in altered physiology, different mechanisms contribute to these processes. The relationships between gene expression and these specific phenotypes may be more revealing than comparison with lung function.
+
+We measured the ratio of alveolar surface area to lung volume (SA/V) in lung tissue from 43 smokers. Two samples from 21 subjects, in which SA/V differed by >49 cm2/mL were profiled to select genes whose expression correlated with SA/V. Significant genes were tested for replication in the 22 remaining subjects.
+
+The level of expression of 181 transcripts was related to SA/V ( p < 0.05). When these genes were tested in the 22 remaining subjects as a replication, thirty of the 181 genes remained significantly associated with SA/V (P < 0.05) and the direction of association was the same in 164/181. Pathway and network analysis revealed enrichment of genes involved in protein ubiquitination, and western blotting showed altered expression of genes involved in protein ubiquitination in obstructed individuals.

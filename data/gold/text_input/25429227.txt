@@ -1,0 +1,7 @@
+Document ID: 25429227
+
+In emergency cases, finger stick testing is primarily used to check the blood glucose value of patients since it takes longer to obtain the venous value. In critical patients, under conditions that cause an increase in metabolic state and level of stress, there occurs considerable difference in glucose levels between capillary and venous measurements. This study aimed to investigate the comparability of capillary and venous glucose values, according to the perfusion index level obtained with the Masimo Radical-7(®) device, in critical patients aged 18 years and over.
+
+We conducted this prospective and observational study in the emergency department of the Eskisehir Osmangazi University hospital between November 3, 2008 and February 2, 2009.
+
+The blood glucose of 300 critical patients was checked by finger stick in the emergency unit. The participants with normal vital signs had perfusion index between 0 and 5; the results obtained by the two methods were more consistent for perfusion index values of 6 and over. The results were most consistent in aged participants with normal vital sign findings and low perfusion index and in young patients with high perfusion index. In the cases where at least one of the vital signs was abnormal, the glucose values obtained by the two methods were more consistent when the perfusion index was 6 or over. In this group, independently from the perfusion index value, the consistency was higher in younger patients compared with aged patients.

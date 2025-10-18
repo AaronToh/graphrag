@@ -1,0 +1,9 @@
+Document ID: 25446341
+
+Freezing of gait (FOG) is a major concern for Parkinson's disease (PD) patients because it is a leading cause of falls and is associated with poor quality of life. The pathophysiology is unknown but it is hypothesized that it relates to cognitive abnormalities; particularly executive and visuospatial dysfunction. However, prior results have been discrepant. Pharmacologic subtypes of FOG include those that are responsive and unresponsive to levodopa.
+
+To determine whether executive and visuospatial dysfunction are associated specifically with the levodopa unresponsive subtype of FOG.
+
+135 PD subjects completed a single assessment included FOG questionnaire, UPDRS motor scale, comprehensive cognitive battery and measure of hallucinations. Analyses compared unresponsive (n = 16), responsive (n = 20) and no FOG (n = 99) subtypes.
+
+The unresponsive subtype had a significantly older age of onset of PD than the responsive group (p = .03) and had worse motor scores (p = .003) than the no FOG group. Longer disease duration was associated with the responsive group compared to the no FOG group (p = .002). The unresponsive FOG group had significantly poorer visuospatial ability (p = .001) and executive functioning (p = .02) than both the no and responsive FOG subgroups. These latter groups were not significantly different. The responsive FOG group was associated with the presence of hallucinations.

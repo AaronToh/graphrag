@@ -1,0 +1,9 @@
+Document ID: 27520394
+
+Carriage of the HLA-Cw*0602 allele is associated with a particular set of clinical features and treatment responses in psoriasis. Tonsillectomy can improve psoriasis.
+
+We sought to evaluate whether HLA-Cw*0602 predicts a favorable outcome after tonsillectomy of patients with psoriasis.
+
+This prospective case series followed up 28 tonsillectomized patients with plaque psoriasis for 24 months. The Psoriasis Area and Severity Index, Psoriasis Disability Index, and Psoriasis Life Stress Inventory were used for assessment. Tonsils were swabbed for bacteria and patients genotyped for HLA-Cw*0602.
+
+After tonsillectomy, HLA-Cw*0602 homozygotes showed significantly more improvement, compared with heterozygous and HLA-Cw*0602-negative patients. Thus, Psoriasis Area and Severity Index score was reduced by 82% in the homozygous patients compared with 42% and 31%, respectively (P < .001), Psoriasis Disability Index score improved by 87% compared with 38% and 41%, respectively (P < .001), and Psoriasis Life Stress Inventory score was 82% reduced compared with 60% and 54%, respectively (P < .001). The homozygotes more often had psoriasis onset associated with a throat infection (P = .007) and an increased frequency of streptococcal throat infections per lifetime (P = .038).

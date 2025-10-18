@@ -1,0 +1,7 @@
+Document ID: 25444556
+
+Selenium deficiency has been shown to affect the neurological development in animals, but human research in this area is scarce. We aimed to assess the impact of selenium status during pregnancy on child development at 1.5 years of age.
+
+This prospective cohort study was nested into a food and micronutrient supplementation trial (MINIMat) conducted in rural Bangladesh. Using inductively coupled plasma mass spectrometry, we measured selenium concentrations in erythrocyte fraction of blood collected from 750 mothers at gestational week 30, and calculated μg per g hemoglobin. A revised version of Bayley Scales of Infant Development was used to assess children's mental and psychomotor development. A Bangladeshi version of MacArthur's Communicative Development Inventory was used to assess language comprehension and expression. Linear regression analyses adjusted for multiple covariates were used to assess the associations.
+
+Maternal erythrocyte selenium concentrations varied considerably, from 0.19 to 0.87 μg/g hemoglobin (median 0.46 μg/g hemoglobin), and were associated with developmental measures. An increase in erythrocyte selenium by 0.50 μg/g hemoglobin was associated with an increase in children's language comprehension by 3.7 points (0.5 standard deviations; 95% confidence interval: 0.40, 7.1; p = 0.028). The same increase in erythrocyte selenium corresponded to an increase in the girls' psychomotor development by 12 points (0.9 standard deviation; 95% confidence interval: 4.3, 19; p = 0.002), but much less in boys.

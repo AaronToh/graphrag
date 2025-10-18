@@ -1,0 +1,7 @@
+Document ID: 27493792
+
+This article reports relationships between serum cytokine levels and patient-reported levels of fatigue, in the chronic immunological condition primary Sjögren's syndrome (pSS).
+
+Blood levels of 24 cytokines were measured in 159 patients with pSS from the United Kingdom Primary Sjögren's Syndrome Registry and 28 healthy non-fatigued controls. Differences between cytokines in cases and controls were evaluated using Wilcoxon test. Patient-reported scores for fatigue were evaluated, classified according to severity and compared with cytokine levels using analysis of variance. Logistic regression was used to determine the most important predictors of fatigue levels.
+
+14 cytokines were significantly higher in patients with pSS (n=159) compared to non-fatigued healthy controls (n=28). While serum levels were elevated in patients with pSS compared to healthy controls, unexpectedly, the levels of 4 proinflammatory cytokines-interferon-γ-induced protein-10 (IP-10) (p=0.019), tumour necrosis factor-α (p=0.046), lymphotoxin-α (p=0.034) and interferon-γ (IFN-γ) (p=0.022)-were inversely related to patient-reported levels of fatigue. A regression model predicting fatigue levels in pSS based on cytokine levels, disease-specific and clinical parameters, as well as anxiety, pain and depression, revealed IP-10, IFN-γ (both inversely), pain and depression (both positively) as the most important predictors of fatigue. This model correctly predicts fatigue levels with reasonable (67%) accuracy.

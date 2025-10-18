@@ -1,0 +1,7 @@
+Document ID: 25444747
+
+To characterize cholesterol regulation in the liver of patients with Alagille syndrome (AGS).
+
+Serum total cholesterol (TC) and total bile acid (TBA) levels were measured in 23 AGS patients. The expressions of genes involved in cholesterol regulation, including low-density lipoprotein receptor (LDLR), scavenger receptor class B type I (SR-BI), 3-hydroxy-3-methylglutaryl coenzyme A reductase (HMGCR), cholesterol 7α-hydroxylase (CYP7A1), ATP-binding cassette transporter (ABC) A1, and ABCG1/5/8, were measured in liver tissues from five of these patients. Expression of regulators for these genes, including farnesoid X receptor/small heterodimer partner (SHP), liver X receptor α (LXRα) and mature Sterol regulatory element-binding protein 2 (SREBP2) was measured. The expression of mature SREBP2 protein was also examined.
+
+Serum TC and TBA levels were correlated in the AGS patients. Liver cholesterol was also increased compared with controls, and correlated with bile acid contents. LDLR, SR-BI, HMGCR, and ABCGs mRNA expression were upregulated, while CYP7A1 mRNA expression was downregulated in AGS livers. SHP and LXRα mRNA expression was also increased, but maturation of SREBP2 was not suppressed in the patients.

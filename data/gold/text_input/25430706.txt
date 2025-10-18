@@ -1,0 +1,7 @@
+Document ID: 25430706
+
+Diabetic patients commonly suffer from disturbances in production and clearance of plasma lipoproteins, known as diabetic dyslipidemia, resulting in an increased risk of coronary heart disease. The study aimed to examine the cause of hypobetalipoproteinemia in two patients with type 1 diabetes.
+
+The Diabetes Control and Complications Trial (DCCT) is a study demonstrating that intensive blood glucose control delays the onset and progression of type 1 diabetes complications. Hypobetalipoproteinemia was present in two DCCT subjects, IDs 1427 and 1078, whose LDL-C levels were 36 and 28 mg/dL, respectively, and triglyceride levels were 20 and 28 mg/dL, respectively. We performed exome sequencing on genomic DNA from the two patients with hypobetalipoproteinemia.
+
+The subjects 1427 and 1078 had heterozygous loss-of-function mutations in the gene apolipoprotein B (ApoB), and these mutations resulted in premature stop codons at amino acid 1333 (ApoB-29) and 3680 (ApoB-81), respectively. Indeed, the plasma ApoB level of subject 1427 (19 mg/dL) was the lowest and that of subject 1078 (26 mg/dL) was the second to the lowest among all the 1,441 DCCT participants. Sequencing genomic DNA of family members showed that probands 1427 and 1078 inherited the mutations from the father and the mother, respectively.

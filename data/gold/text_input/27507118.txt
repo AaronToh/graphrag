@@ -1,0 +1,7 @@
+Document ID: 27507118
+
+A safety event drew attention to unsafe and inappropriate payer formulary alerts. These alerts display formulary, coverage, and eligibility data from the pharmacy benefits manager in response to an electronic prescription. They are intended to redirect prescribers to medications that are covered by insurance; however, these alerts were found to be inaccurate and contribute to potentially harmful alerts. Our objective was to reduce inappropriate payer formulary alerts by 30% within 1 year and to change the ePrescribing certification requirements to prevent future instances of harm.
+
+Using process mapping we identified the changes that were required both locally and nationally through our electronic health record (EHR) vendor and ePrescribing transaction broker. We partnered with vendors to show the safety risk and to suggest modifications to the payer formulary alert content and ePrescribing certification criteria. On the basis of the new criteria, we modified and deactivated inappropriate alerts. Rates were followed weekly for 13 months and a control chart was used to track progress.
+
+From January 2014 to January 2015, we reviewed 59 325 payer formulary alerts from ambulatory care and 11 630 from the emergency department and inpatient wards. Both local and national modifications resulted in significant and sustained decreases in inappropriate alerts.

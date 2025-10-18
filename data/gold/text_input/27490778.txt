@@ -1,0 +1,7 @@
+Document ID: 27490778
+
+The natural product tetramethylpyrazine (TMP) and resveratrol have a variety of biologic activities, including anti-cancer effects. However the pharmacological function of CSTMP (a newly designed and synthesized TMP and resveratrol derivative) in cancer have not been elucidated.
+
+In RPMI8226 cells, the cytotoxic effects and apoptosis were detected by MTT and Double staining for Annexin V-FITC and propidium iodide (PI). The protein and mRNA expression levels were detected by Real Time PCR and Western blot, respectively. The localization of cleaved caspase-12 was evaluated by immunofluorescent staining. The activation of caspase were measured by colorimetric assays and Western blot.
+
+CSTMP showed significantly cytotoxic effects and induced apoptosis in RPMI8226 cells. Caspase activation, Cytochrome c release and Bax, Bcl-2 and Bcl-XL levels analyses demonstrated that the anti-cancer effect of CSTMP in RPMI8226 cells was mediated by promoting caspase- and mitochondria-dependent apoptosis. In addition, CSTMP induced the increased expression of endoplasmic reticulum (ER) stress related proteins (CHOP, GRP78, GRP94 and cleaved caspase-12) and the activation of multiple branches of ER stress transducers (PERK-eIF2α, IRE1α and ATF6). Moreover, knockdown of CHOP by siRNA markedly inhibited CSTMP-induced cytotoxic effects, caspases activity and mitochondrial dysfunction in RPMI8226 cells.

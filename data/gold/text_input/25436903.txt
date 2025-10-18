@@ -1,0 +1,9 @@
+Document ID: 25436903
+
+Recent immunohistochemical studies have demonstrated Sry-related HMG-Box gene 10 (SOX10) expression in malignant melanomas, malignant peripheral nerve sheath tumors, a subset of breast carcinomas, and gliomas. SOX10 has shown important clinical utility in its ability to detect desmoplastic and spindle cell melanomas. To date, most publications have employed a research use-only goat polyclonal SOX10 antibody for immunohistochemical staining.
+
+To describe the development of a new mouse monoclonal SOX10 antibody (BC34) and evaluate its immunohistochemical staining profile in a wide range of normal and neoplastic tissues, with an emphasis on melanoma.
+
+SOX10 antibody was optimized for staining using a polymer detection system and visualization with diaminobenzidine.
+
+In normal tissues, SOX10 was expressed in skin melanocytes and eccrine cells, breast myoepithelial and lobular epithelial cells, salivary gland myoepithelial cells, peripheral nerve Schwann cells, and central nervous system glial cells. SOX10 was expressed in 238 of 257 melanomas (92.6%), including 50 of 51 of both spindle cell and desmoplastic melanomas (98%). SOX10 was expressed in 100% of nevi (20 of 20) and schwannomas (28 of 28). In other neoplasms, SOX10 was expressed in 18 of 109 invasive ductal breast carcinomas (16.5%). All other carcinomas were negative for SOX10. SOX10 was identified in 25 of 52 central nervous system neoplasms, primarily in astrocytomas (22 of 41; 53.7%), and in 4 of 99 various sarcomas examined (4.0%).

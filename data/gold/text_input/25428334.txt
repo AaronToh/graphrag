@@ -1,0 +1,7 @@
+Document ID: 25428334
+
+Vaccines are very important to reduce morbidity and mortality by preventable infectious diseases, especially during childhood. Optimal coverage is not always achieved, for several reasons. Here we assessed vaccine coverage for the first 12 months of age in children between 12 and 59 months old, residing in the urban area of a small Amazonian city, and factors associated with incomplete vaccination.
+
+A census was performed in the urban area of Assis Brasil, in the Brazilian Amazon, in January 2010, with mothers of 282 children aged 12 to 59 months old, using structured interviews and data from vaccination cards. Mixed logistic regression was used to determine factors associated with incomplete vaccination schemes.
+
+Only 82.6% of all children had a completed the basic vaccine scheme for the first year of life. Vaccine coverage ranged from 52.7% coverage (oral rotavirus vaccine) to 99.7% coverage (for Bacille Calmette-Guérin). The major deficiencies occurred in doses administered after the first six months of life. Incomplete vaccination was associated with not having enough income to buy a house (aOR = 2.12, 95% CI 1.06-4.21), low maternal schooling (aOR = 2.60, 95% CI 1.28 - 5.29) , and time of residence of the child in the urban area of the city (aOR = 0.73, 95% CI 0.55 - 0.95).

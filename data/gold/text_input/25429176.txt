@@ -1,0 +1,7 @@
+Document ID: 25429176
+
+Stroke is the third leading cause of invalidism and death in industrialized countries. There are conflicting reports about the effects of Angiotensin II on ischemia-reperfusion brain injuries and most data have come from chronic hypertensive rats. In this study, hypotensive and non-hypotensive doses of candesartan were used to investigate the effects of angiotensin II AT1 receptor blockade by transient focal cerebral ischemia in normotensive rats.
+
+In this experimental study, 48 male Sprague-Dawley rats were randomly divided into four groups (n=12). Sham group, the control ischemic group, and two ischemic groups received candesartan at doses of 0.1 or 0.5 mg/kg at one hour before ischemia. Transient focal cerebral ischemia was induced by 60 minutes occlusion of the middle cerebral artery, followed by 24 h reperfusion. The neurological deficit score was evaluated at the end of the reperfusion period. The total cortical and striatal infarct volumes were determined using triphenyltetrazolium chloride staining technique. Tissue swelling was calculated for the investigation of ischemic brain edema formation.
+
+In comparison with the control ischemic group, AT1 receptor blockade with both doses of candesartan (0.1 or 0.5 mg/kg) significantly improved neurological deficit and lowered cortical and striatal infarct sizes. In addition, pretreatment with candesartan significantly reduced ischemia induced tissue swelling.

@@ -1,0 +1,7 @@
+Document ID: 25423540
+
+Trauma centers often receive transfers from lower-level trauma centers or nontrauma hospitals. The aim of this study was to analyze the incidence and pattern of secondary overtriage to our Level I trauma center.
+
+We performed a 2-year retrospective analysis of all trauma patients transferred to our Level I trauma center and discharged within 24 hours of admission. Reason for referral, referring specialty, mode of transport, and intervention details were collected. Outcomes measures were incidence of secondary overtriage as well as requirement of major or minor procedure. Major procedure was defined as surgical intervention in the operating room. Minor procedures were defined as procedures performed in the emergency department.
+
+A total of 1,846 patients were transferred to our Level I trauma center, of whom 440 (24%) were discharged within 24 hours of admission. The mean (SD) age was 35 (21) years, 72% were male, and mean (SD) Injury Severity Score (ISS) 4 (4). The most common reasons for referral were extremity fractures (31%), followed by head injury (23%) and soft tissue injuries (13%).Of the 440 patients discharged within 24 hours, 380 (86%) required only observation (268 of 380) or minor procedure (112 of 380). Minor procedures were entirely consisted of fracture management (n = 47, 42%) and wound care (n = 65, 58%). The mean (SD) interfacility transfer distance was 45 (46) miles. Mean (SD) hospital charges per transfer were $12,549 ($5,863).

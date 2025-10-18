@@ -1,0 +1,7 @@
+Document ID: 25437821
+
+Helminth-derived molecules are being identified as a new therapeutic approach for immune-mediated diseases. We investigated the anti-inflammatory effect and the immunological mechanisms of Schistosoma mansoni soluble egg antigens (SmSEA) in a mouse model of chronic colitis.
+
+Colitis was induced in immunocompromised severe combined immunodeficiency mice by the adoptive transfer of CD4CD25CD62L T cells. Two weeks post-transfer, SmSEA treatments were started (study 1: 1 × 20 μg SmSEA per week 5 times; study 2: 2 × 20 μg SmSEA per week 3 times). From the start of the treatment (week 2), the clinical outcome and colonic inflammation were assessed at different time points by a clinical disease score and colonoscopy, respectively. At the end of the studies, the colons were harvested for macroscopic examination, and colonic lamina propria mononuclear cells were isolated for flow cytometric T-cell characterization.
+
+In both studies, administration of SmSEA in colitis mice improved all the inflammatory parameters studied. However in study 1, this beneficial effect on inflammation diminished with time, and the T-cell characterization of the lamina propria mononuclear cells, performed at week 6, revealed no immunological effects of the SmSEA treatment. In study 2, mice were killed earlier (week 4) and at that time point, we found a significant downregulation of the number of interleukin-17A-producing T cells and a significant upregulation of the number of interleukin-4-producing T cells in the colon of the SmSEA-treated colitis mice.

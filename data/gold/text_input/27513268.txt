@@ -1,0 +1,7 @@
+Document ID: 27513268
+
+The aim of this study was to investigate the antiproliferative and cytotoxic effects of a newly synthesized molecule named paracetamol acetohydroxamic acid (PaCaHa) on human neoplastic cell lines.
+
+A549, CRL 2923, HeLa, and ARPE were treated with various concentrations of PaCaHa and DMSO (vehicle control). The cytotoxic/cytostatic effects of PaCaHa were determined after a 24-h incubation period and compared to the DMSO control. The cytotoxic and antiproliferative effects were determined by the trypan blue dye exclusion and MTT methods.
+
+A higher susceptibility to PaCaHA was found in CRL 2923 and HeLa cells, while A549 and ARPE cells were less responsive to PaCaHa. The percent of cytotoxicity resulting from 400 µg/mL of PaCaHa were >90 for CRL-2923 and HeLa, 68 for A549, and 64 for ARPE cells. The cytotoxic difference between CRL-2923/HeLa and ARPE/A549 cells was significant (P < 0.05).

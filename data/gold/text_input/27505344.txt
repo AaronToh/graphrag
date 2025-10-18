@@ -1,0 +1,7 @@
+Document ID: 27505344
+
+Erectile dysfunction (ED) and atherosclerotic cardiovascular disease (ASCVD) share many common risk factors, and vascular ED is a marker for increased ASCVD risk. Low 25-hydroxyvitamin D [25(OH)D] concentrations have been associated with increased ASCVD risk, but less is known regarding the relationship of low 25(OH)D with ED. We determined whether 25(OH)D deficiency is associated with ED independent of ASCVD risk factors.
+
+We performed cross-sectional analyses of 3390 men aged ≥20 years free of ASCVD who participated in NHANES 2001-2004. Serum 25(OH)D was measured by the DiaSorin radioimmunoassay; deficiency was defined as levels <20 ng/ml (<50 nmol/L). Self-reported ED, assessed by a single validated question, was defined as men who reported being "never" or "sometimes able" to maintain an erection. We assessed the relationship between 25(OH)D deficiency and ED prevalence using adjusted Poisson regression methods.
+
+After accounting for NHANES sampling, the weighted prevalence of 25(OH)D deficiency and of ED were 30% and 15.2%, respectively. 25(OH)D levels were lower in men with vs. those without ED (mean 22.8 vs 24.3 ng/mL, respectively; p = 0.0005). After adjusting for lifestyle variables, comorbidities, and medication use, men with 25(OH)D deficiency had a higher prevalence of ED compared to those with levels ≥30 ng/ml (Prevalence Ratio 1.30, 95% CI 1.08-1.57).

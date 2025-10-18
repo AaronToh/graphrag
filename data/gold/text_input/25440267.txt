@@ -1,0 +1,7 @@
+Document ID: 25440267
+
+The interval between neoadjuvant chemoradiation treatment and surgery has been described as an important predictor of pathologic response to therapy in nonesophageal cancer sites. We retrospectively reviewed our experience with patients who underwent neoadjuvant chemoradiation and esophagectomy to better understand the impact of the timing of surgery on pathologic complete response rates in esophageal cancer.
+
+Two hundred thirty-one sequentially treated patients from 2000 to 2011 were identified for this study; 88 of these patients completed neoadjuvant chemoradiation followed by esophagectomy at our institution. The interval between completion of chemoradiation and surgery was calculated for each patient. The patients were categorized into quartiles and also into 3-week interval groups. Treatment factors and surgical morbidity data, including the estimated blood loss and length of operative stay, were also assessed.
+
+Quartiles for the neoadjuvant chemoradiation to surgery interval were less than 45 days, 46 to 50 days, 51 to 63 days, and 64+ days. Corresponding pathologic complete response rates were 12.5%, 20.0%, 22.7%, and 40.9% (p = 0.03). Results for 3-week intervals were similar (p = 0.02). There was no association between increasing time interval between the ending of neoadjuvant chemoradiation to surgery and length of stay longer than 2 weeks.
