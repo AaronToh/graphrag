@@ -1,0 +1,7 @@
+Document ID: 25450037
+
+The purpose of the study was to determine whether racial differences exist in the pattern of local disease progression among men treated with radical prostatectomy (RP) for localized prostate cancer (PCa), which is currently unknown. In this study we evaluated the pattern of adverse pathologic features in an identical cohort of African-American (AA) and Caucasian (CS) men with PCa.
+
+The overall cohort consisted of 1104 men (224 AA, and 880 CS) who underwent RP between 1990 and 2012. We compared preoperative factors and pathologic outcomes after RP across race groups. Multivariate analysis was used to identify factors predictive of adverse pathologic outcomes. The effect of race on adverse pathologic outcomes and biochemical control rate (BCR) was evaluated using multivariate regression model and Kaplan-Meier analysis.
+
+The 10-year BCR was 59% versus 82% in AA and CS men, respectively (P = .003). There was no significant difference in extraprostatic spread (P = .14), positive surgical margin (P = .81), lymph node involvement (P = .71), or adverse pathologic features (P = .16) across race groups. However, among patients with ≥ 1 adverse pathologic features, AA men had higher rate of seminal vesicle invasion (SVI) compared with CS men (51% vs. 30%; P = .01). After adjusting for known predictors of adverse pathologic features AA race remained a predictor of SVI.

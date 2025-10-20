@@ -1,0 +1,9 @@
+Document ID: 27497671
+
+Perinatal asphyxia and ensuing reoxygenation change the antioxidant capacity of cells and organs.
+
+To analyze the neuroprotective effect of the antioxidant N-acetylcysteine amide (NACA) after perinatal hypoxia-reoxygenation with an emphasis on proinflammatory cytokines and the transcription factor NF-x03BA;B in the prefrontal cortex of neonatal pigs.
+
+Twenty-nine newborn pigs, aged 12-36 h, were subjected to global hypoxia and hypercapnia. One sham-operated group (n = 5) and 2 experimental groups (n = 12) were exposed to 8% oxygen, until the base excess was -20 mmol/l or the mean arterial blood pressure fell to <20 mm Hg (asphyxia with NACA or saline). The pigs were observed for 9.5 h after hypoxia. Samples of prefrontal cortex and plasma were analyzed.
+
+Cortex: there was no significant difference in mRNA expression between the intervention groups regarding IL-1β, IL6, TNFα, MMP2, MMP9 or IL18. Pigs exposed to hypoxia-reoxygenation and treatment with NACA (NACA-pigs) had a significantly lower protein concentration of IL-1β than pigs treated with saline (placebo controls), i.e. 8.8 ± 3.9 versus 16.8 ± 10.5 pg/mg protein (p = 0.02). The activation of the transcription factor NF-x03BA;B (measured as the fold-change of phosphorylated p65Ser 536), was reduced in the NACA-pigs when compared to the placebo controls (5.2 ± 4.3 vs. 16.0 ± 13.5; p = 0.02). No difference between the intervention groups regarding brain histopathology or in the levels of 8-oxoguanine measured in the prefrontal cortex were observed. Plasma: the NACA-pigs had a stronger reduction of TNFα in the first 30 min following asphyxia compared with the placebo controls, i.e. 36 (30-44) versus 24 (14-32)% (p = 0.01).

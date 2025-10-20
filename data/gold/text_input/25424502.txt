@@ -1,0 +1,7 @@
+Document ID: 25424502
+
+Aerobic exercise can decrease postprandial triglyceride (TG) concentrations but the relationship between exercise-induced energy deficits and postprandial lipemia is still unclear. The aim of the present study was to examine the effect of a single bout of aerobic exercise, with and without energy replacement, on postprandial lipemia and on peripheral blood mononuclear cell (PBMC) mRNA expression of very low density lipoprotein (VLDL) and low density lipoprotein (LDL) receptors and 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR).
+
+Nine healthy male humans completed three two-day trials in a random order. On day 1, volunteers rested (CON), completed 60 minutes of treadmill walking at 50% of VO2peak (EX) or completed the same bout of walking but with the energy replaced afterwards with a glucose solution (EXG). On day 2, volunteers rested and consumed a high fat test meal in the morning.
+
+Total and incremental TG AUC were significantly lower on the EXG (P < 0.05) and EX (P < 0.05) trials than the CON trial with no difference between the two exercise trials. No significant difference was observed in VLDL or LDL receptor mRNA expression among the trials (P > 0.05).

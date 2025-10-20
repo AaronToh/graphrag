@@ -1,0 +1,7 @@
+Document ID: 25433008
+
+Cenicriviroc is a potent antagonist of the chemokine coreceptors 5 and 2 (CCR5/CCR2) and blocks HIV-1 entry. The CCR5 inhibitor maraviroc has been shown in tissue culture to be able to repel cell-free virions from the cell surface into extracellular space. We hypothesized that cenicriviroc might exhibit a similar effect, and tested this using clinical samples from the Phase IIb study 652-2-202, by measuring rates of intracellular DNA decline. We also monitored viral RNA levels in culture fluids.
+
+We infected PM-1 cells with CCR5-tropic HIV-1 BaL in the presence or absence of inhibitory concentrations of cenicriviroc (20 nM) or maraviroc (50 nM) or controls. Viral load levels and p24 were measured by ELISA, quantitative PCR and quantitative real-time reverse transcription PCR at 4 h post-infection. Frozen PBMC DNA samples from 30 patients with virological success in the Phase IIb study were studied, as were early and late reverse transcript levels. Docking studies compared binding between cenicriviroc/CCR5 and maraviroc/CCR5.
+
+Unlike maraviroc, cenicriviroc did not cause an increase in the amount of virus present in culture fluids at 4 h compared with baseline. The use of cenicriviroc did, however, result in lower levels of intracellular viral DNA after 4 h. Structural modelling indicates that cenicriviroc binds more deeply than maraviroc to the hydrophobic pocket of CCR5, providing an explanation for the absence of viral rebound with cenicriviroc.

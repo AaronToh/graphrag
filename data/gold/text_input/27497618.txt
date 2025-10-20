@@ -1,0 +1,7 @@
+Document ID: 27497618
+
+This study aims to evaluate the relationship between serum thymus and activation-regulated chemokine (TARC) levels with various clinicopathological conditions in patients with drug eruptions. The value of TARC in diagnosing drug-induced hypersensitivity syndrome (DIHS) was also examined.
+
+Study participants included 84 patients who presented with generalized eruptions suspected to be drug-related, including DIHS, Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN), maculopapular exanthema (MPE), erythema multiforme (EM), erythroderma, and toxicoderma. The correlation coefficients between serum TARC levels and clinical parameters in peripheral blood samples were calculated.
+
+Serum TARC levels in patients with DIHS were higher than those found in patients with SJS/TEN, MPE, EM, and toxicoderma. TARC levels had 100% sensitivity and 92.3% specificity in diagnosing DIHS, with a threshold value of 13,900 pg/mL. Serum TARC levels positively correlated with age, white blood cell (WBC) count, neutrophil count, eosinophil count, monocyte count, atypical lymphocyte (Aty-ly) count, serum blood urea nitrogen (BUN) levels, and creatinine (Cr) levels. It negatively correlated with serum total protein (TP), albumin (Alb), and estimated glomerular filtration rate (eGFR). Among these clinical parameters, blood eosinophil counts were most strongly correlated with serum TARC levels, with a correlation coefficient of 0.53.

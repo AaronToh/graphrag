@@ -1,0 +1,7 @@
+Document ID: 25433812
+
+The aim of this study was to investigate PD-1/PD-L1 involvement in the hyporesponsiveness of rheumatoid arthritis (RA) synovial fluid (SF) CD4 T cells upon stimulation by thymic stromal lymphopoietin (TSLP)-primed CD1c myeloid dendritic cells (mDCs).
+
+Expression of PD-1 on naïve (Tn), central memory (Tcm) and effector memory (Tem) CD4 T cell subsets was assessed by flow cytometry. PD-L1 expression and its regulation upon TSLP stimulation of mDCs from peripheral blood (PB) and SF of RA patients were investigated by quantitative RT-PCR and flow cytometry. The involvement of PD-1/PD-L1 interactions in SF T cell hyporesponsiveness upon (TSLP-primed) mDC activation was determined by cell culture in the presence of PD-1 blocking antibodies, with or without interleukin 7 (IL-7) as a recognized suppressor of PD-1 expression.
+
+PD-1 expression was increased on CD4 T cells derived from SF compared with PB of RA patients. TSLP increased PD-L1 mRNA expression in both PB and SF mDCs. PD-L1 protein expression was increased on SF mDCs compared with PB mDCs and was associated with T cell hyporesponsiveness. Blockade of PD-1, as well as IL-7 stimulation, during cocultures of memory T cells and (TSLP-primed) mDCs from RA patients significantly recovered T cell proliferation.

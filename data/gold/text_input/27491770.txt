@@ -1,0 +1,7 @@
+Document ID: 27491770
+
+The study aimed to investigate key intrafollicular prognostic factors among various cytokines and angiogenic molecules for prediction of mature oocytes and good-quality embryos in women with endometriosis undergoing in vitro fertilization (IVF).
+
+Paired follicular fluid and serum samples were collected from 200 women with advanced stage endometriosis and 140 normal ovulating women during oocyte retrieval. The concentrations of cytokines (pro-inflammatory: IL-1β, TNF-α, IL-2, IL-8, IL-12, IFN-γ; anti-inflammatory: IL-4, IL-6, IL-10) and angiogenic molecules (vascular endothelial growth factor (VEGF), adrenomedullin, angiogenin) were determined in follicular fluid and serum using ELISA. Expression of these molecules was subjected to multivariate analysis for the identification of major predictive markers of oocyte and embryo quality. Receiver operating characteristic (ROC) curve was applied to determine the best cutoff point for the discrimination between mature and immature oocytes in these women.
+
+Significant increases in levels of cytokines and angiogenic molecules were observed in women with endometriosis compared to controls (P < 0.001). From the validated partial least squares-discriminant analysis (PLS-DA) model, IL-8, IL-12, and adrenomedullin were identified as the most important factors contributing to endometriosis and were negatively associated with oocyte maturity and embryo quality.

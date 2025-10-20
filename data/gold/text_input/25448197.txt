@@ -1,0 +1,7 @@
+Document ID: 25448197
+
+Subarachnoid hemorrhage (SAH) is a devastating neurological injury associated with significant morbidity and mortality. We postulated that lipopolysaccharide (LPS) preconditioning induces neuroprotection against early brain injury (EBI) after experimental SAH.
+
+72 male Sprague-Dawley rats (250 to 300 g) were used. SAH was produced by injecting autologous arterial blood into the pre-chiasmatic cistern. Rats were given an intraperitoneal injection of LPS 24 hours prior SAH. Matrix metalloproteinase 9 (MMP-9) protein expression was measured by western blot; apoptosis in the cerebral cortex were studied by terminal deoxynucleotidyl transferasemediated deoxyuridine triphosphate-biotin nick-end labeling (TUNEL) and 4'6-diamidino-2-phenylindole dihydrochloride (DAPI) staining at 24 h after SAH. Brain water content was also examined.
+
+MMP-9 expression was increased after SAH and decreased by LPS preconditioning at 24 h after SAH. The number of neuronal death in cortex was increased after SAH and decreased by LPS preconditioning. In addition, brain water content was attenuated by LPS preconditioning.

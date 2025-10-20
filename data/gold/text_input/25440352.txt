@@ -1,0 +1,7 @@
+Document ID: 25440352
+
+Prolonged cardiac monitoring detects higher rates of atrial fibrillation (AF) in ischemic stroke and transient ischemic attack (TIA) but is costly and has practical implications. The use of admission troponin-I (TnI) level to identify patients at high risk of delayed AF detection was investigated.
+
+Consecutive ischemic stroke and TIA cases presenting to our institute over a 13-month period were identified from the Irish Stroke and TIA Register. Electronic databases and case notes were examined. "Delayed" AF was diagnosed after a sinus rhythm admission electrocardiogram and no documented history. Group comparisons were made by AF status. The association between TnI and AF was investigated using a multivariate regression model.
+
+A total of 185 cases (130 ischemic stroke) were analyzed. Mean age (standard deviation) was 73.3 (13.9) years, 47% female. Sixty-two cases (33.5%) had AF. The first documented presentation of AF was found in 21 cases, on admission electrocardiogram (n = 11) or inpatient telemetry (delayed, n = 10). TnI was higher in those with delayed AF than in those without AF (W = 194; P = .036). A higher proportion of those with an elevated TnI (30%) than those with a normal TnI (6.1%) had delayed diagnosis of AF (χ(2) = 6.41, P = .011). Having an abnormal TnI was a significant independent predictor of delayed AF detection (odds ratio, 5.8; P = .037).

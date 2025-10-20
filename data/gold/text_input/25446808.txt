@@ -1,0 +1,7 @@
+Document ID: 25446808
+
+Previous reports revealed the potential value of the soluble CD30 level (sCD30) as biomarker for the risk of acute rejection and graft failure after renal transplantation, here we examined its use for the prediction of safe tapering of calcineurin inhibitors as well as late acute rejection.
+
+In a cohort of renal transplant patients receiving triple immunosuppressive therapy we examined whether sCD30 can be used as a marker for safe (rejection-free) discontinuation of tacrolimus at six months after transplantation (TDS cohort: 24 rejectors and 44 non-rejecting controls). Also, in a second cohort of patients (n=22, rejectors n=11 and non-rejectors n=11), participating in a clinical trial of rituximab as induction therapy after renal transplantation (RITS cohort), we examined whether sCD30 could predict the occurrence of late (>3months post-transplant) acute rejection episodes. sCD30 was measured by ELISA in serum taken before and at several time points after transplantation.
+
+Overall, in the TDS cohort sCD30 decreased after transplantation. No difference in sCD30 was observed between rejectors and non-rejecting controls at any of the time points measured. In addition, in the RITS cohort, sCD30 measured at three months after transplantation were not indicative for the occurrence of late acute rejection.

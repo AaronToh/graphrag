@@ -1,0 +1,7 @@
+Document ID: 25427972
+
+To ensure that clinical practice guidelines (CPGs) form a sound basis for decision-making in health care, it is necessary to be able to reliably assess and ensure their quality. This results in the need to assess the content of guidelines systematically, particularly with regard to the validity of their recommendations.The aim of the present analysis was to determine the suitability and applicability of frequently used assessment tools for evidence syntheses with regard to the assessment of guideline content.
+
+We conducted a systematic comparison and analysis of established tools for the assessment of evidence syntheses (guidelines, systematic reviews, health technology assessments). The tools analyzed were: ADAPTE, AGREE II, AMSTAR, GLIA and the INAHTA checklist. We analyzed methodological steps related to the assessment of the reliability and validity of guideline recommendations. Data were extracted and analyzed by two persons independently of one another.
+
+Widely used tools for the methodological assessment of evidence syntheses are not suitable for a comprehensive content-related assessment. They remain mostly at the level of assessment of the documentation of processes. Some tools assess selected content-related aspects, but operationalization is either unspecific or lacking.

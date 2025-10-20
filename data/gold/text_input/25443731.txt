@@ -1,0 +1,7 @@
+Document ID: 25443731
+
+According to reports in the literature, more than 30% of depressive patients fail to achieve remission. Therapy with the conventional antidepressant drugs may induce the serious adverse reactions. Moreover, its benefits may be seen at least 2-4 weeks after the first dose. Therefore, the alternative strategies for prevention and treatment of depression are sought. The main aim of our study was to assess the effects of ifenprodil given at a non-active dose (10mg/kg) on the activity of antidepressant agents from diverse pharmacological groups.
+
+The antidepressant-like effect was assessed by the forced swim test in mice.
+
+Ifenprodil potentiated the antidepressant-like effect of imipramine (15mg/kg) and fluoxetine (5mg/kg) while did not reduce the immobility time of animals which simultaneously received reboxetine (2.5mg/kg) or tianeptine (15mg/kg).

@@ -1,0 +1,7 @@
+Document ID: 25429902
+
+Immune monitoring (IM) has not been shown to be associated with cardiac allograft vasculopathy (CAV).
+
+Maximal intimal area, average percent stenosis, plaque volume, and maximal intimal thickness (MIT) were measured for matched baseline and one-yr IVUS segments in a blinded fashion. Patients were divided into quartiles by IM scores and outcomes compared. Optimal IM cutoff was determined.
+
+IM assays were measured at 63.7 ± 16.4 d after transplantation in fifty patients. Progression of maximal intimal area (p = 0.005), average percent stenosis (p < 0.001), plaque volume (p = 0.005), and MIT (p = 0.001) were increased across the quartiles. An optimal IM assay cutoff of 406.0 ng ATP/mL demonstrated a sensitivity of 66.7% and specificity of 94.3% for predicting rapid progression of MIT ≥ 0.5 mm. Mean IM scores for Group 1 vs. Group 2 were 176.4 ± 102.2 and 616.3 ± 239.5 ngATP/mL, respectively. Rapid progression of MIT ≥ 0.5 mm occurred in 5/38 patients (13.2%) in Group 1 vs. 10/12 patients (83.3%) in Group 2 (p < 0.001). The risk ratio for rapid progression with elevated IM was 11.7 (p < 0.001).

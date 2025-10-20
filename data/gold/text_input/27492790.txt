@@ -1,0 +1,7 @@
+Document ID: 27492790
+
+Antibiotic resistance is a challenge in long-term care facilities (LTCFs). The objective of this study was to demonstrate that a novel, minimally invasive program not interfering with activities of daily living or socialization could lower methicillin-resistant Staphylococcus aureus (MRSA) disease.
+
+This was a prospective, cluster-randomized, nonblinded trial initiated at 3 LTCFs. During year 1, units were stratified by type of care and randomized to intervention or control. In year 2, all units were converted to intervention consisting of universal decolonization using intranasal mupirocin and a chlorhexidine bath performed twice (2 decolonization-bathing cycles 1 month apart) at the start of the intervention period. Subsequently, after initial decolonization, all admissions were screened on site using real-time polymerase chain reaction, and those MRSA positive were decolonized, but not isolated. Units received annual instruction on hand hygiene. Enhanced bleach wipe cleaning of flat surfaces was done every 4 months.
+
+There were 16,773 tests performed. The MRSA infection rate decreased 65% between baseline (44 infections during 365,809 patient days) and year 2 (12 infections during 287,847 patient days; P <.001); a significant reduction was observed at each of the LTCFs (P <.03).

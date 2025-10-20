@@ -1,0 +1,7 @@
+Document ID: 27491292
+
+The aim of this study is to investigate the relationship between sleep duration and hypertension in a middle-aged Chinese population.
+
+Cross-sectional data of 20,505 individuals aged 35-64 years from Taizhou longitudinal study was used. Logistic regression models were used to calculate odds ratios (ORs) for the risk of pre-hypertension and hypertension in association with sleep duration.
+
+Short sleep duration was associated with high systolic and diastolic blood pressure in comparison with sleep duration of 7-8 h in females. Short sleep duration was also associated with an increased risk of hypertension in females. Age-stratified analysis showed that as compared with sleep duration of 7-8 h, sleep duration <6 h increased risk of hypertension after controlling for multiple covariates with an OR of 1.766 (1.024-2.775) in early middle-aged females of 35-44 years. More importantly, sleeping less than 6 h is associated with increased risk of pre-hypertension in females of this age category, after controlling for multiple covariates with an OR of 1.769 (1.058-2.958).

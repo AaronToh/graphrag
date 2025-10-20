@@ -1,0 +1,7 @@
+Document ID: 27499636
+
+Combination therapy for cancer is more effective than using only standard chemo- or radiotherapy. Our previous results showed that dendritic cell-activated α-fetoprotein (AFP)-specific T-cells inhibit tumor in vitro and in vivo. In this study, we focused on antitumor function of CD8(+) T-cells combined with or without JAK2 inhibitor.
+
+Proliferation and cell cycle were analyzed by CCK-8 and flow cytometry. Western blot was used to analyze the expression level of related protein and signaling pathway.
+
+We demonstrated reduced viability and induction of apoptosis of tumor cells with combination treatment. Intriguingly, cell cycle was blocked at the G1 phase by using AFP-specific CD8(+) T-cells combined with JAK2 inhibitor (AG490). Furthermore, an enhanced expression of BAX but no influence on Fas/FasL was detected from the tumor cells.

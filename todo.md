@@ -10,25 +10,23 @@
 - [x] Verify settings.yaml loads correctly with `python -c "from graphrag.config import load_config; load_config('.')"`
 
 ### **1.2 Environment & Dependencies**
-
-- [ ] Install and verify all dependencies from requirements.txt
-- [ ] Test graphrag CLI commands work: `python -m graphrag --help`
-- [ ] Verify API keys and environment variables are properly configured
-- [ ] Test basic graphrag functionality with minimal data
+- [x] Install and verify all dependencies from requirements.txt
+- [x] Test graphrag CLI commands work: `python -m graphrag --help`
+- [x] Verify API keys and environment variables are properly configured
+- [x] Test basic graphrag functionality with minimal data
 
 ### **1.3 Project Structure Validation**
 
 - [x] Verify all directories exist: data/, workspace/, ingest/, pruning/, eval/
-- [x] Confirm all **init**.py files are in place
-- [ ] Test Python imports work: `python -c "from pruning.scoring_utils import GraphScorer"`
+- [x] Confirm all __init__.py files are in place
+- [x] Test Python imports work: `python -c "from pruning.scoring_utils import GraphScorer"`
 
 ---
 
 ## 🎯 **PHASE 2: Data Preparation & Baseline**
 
 ### **2.1 Create Test Dataset**
-
-- [ ] Research and select appropriate test dataset (Wikipedia articles, technical docs, etc.)
+- [x] Research and select appropriate test dataset (Wikipedia articles, technical docs, etc.)
 - [ ] Download/create sample documents for initial testing (start with 5-10 documents)
 - [ ] Place documents in `data/input/` directory
 - [ ] Verify file formats are compatible (.txt, .md supported)

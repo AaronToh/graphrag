@@ -1,0 +1,7 @@
+Document ID: 27518498
+
+Emerging evidence has indicated the bad effect of periodontal inflammation on diabetes control. However, the exact regulatory mechanisms within the association between periodontitis and diabetic development remain unclear. This study aims to investigate the function of microRNAs in regulating periodontitis-induced inflammation in an obese rat model.
+
+Experimental periodontitis was introduced into OLETF and LETO rat. Intraperitoneal glucose tolerance test was performed to detect diabetic development. Serum cytokines levels and microRNAs expression were detected by ELISA and RT-PCR analysis respectively. And, macrophages were isolated for gain- and loss-of-function studies, to investigate the regulatory mechanism of miR-147 in periodontitis-induced inflammation.
+
+Periodontitis induced proinflammatory response with classical activated macrophages in both rats, but distinctively aggravated the impaired glucose tolerance of OLETF rat with spontaneous type 2 diabetes. Analysis for serum microRNAs expression showed the distinctive and synergistic upregulation of miR-147 with periodontitis-induced effects in rats, while further experiments demonstrated the positive regulatory mechanism of miR-147 on classical activated macrophages with overexpressed proinflammatory markers, showing M1 phenotype.

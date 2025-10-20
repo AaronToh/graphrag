@@ -1,0 +1,7 @@
+Document ID: 27500370
+
+Irritancy levels of surfactants on human skin have not been clarified completely. The relationships between skin damage and changes of skin properties caused by various surfactants were investigated using non-invasive measurements.
+
+Aqueous solutions of seven kinds of anionic, non-ionic, and amphoteric surfactants were exposed to the inside of forearm skin of 20 human subjects in two separate studies using the cup method. Hydration of the stratum corneum (SC), transepidermal water loss (TEWL), pH, skin surface roughness, and contents of the SC were measured before and after one exposure and after five and nine consecutive exposures to various surfactants. The discontinuation ratio of subjects for testing in each surfactant was determined by skin irritation symptoms and was defined as the degree of skin damage.
+
+Significant changes were observed only in hydration, TEWL, and natural moisturizing factors (NMF) content in the SC following surfactant exposure. A significant correlation was observed between the discontinuation ratio of each surfactant and the changes of hydration, TEWL, and NMF. Especially, the change of SC hydration showed an excellent correlation with the discontinuation ratio both for single (r = 0.942, P < 0.001) and for chronic exposures (r = 0.934, P < 0.001).

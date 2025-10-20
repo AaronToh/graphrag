@@ -1,0 +1,5 @@
+Document ID: 27514510
+
+The Bacillus anthracis S-layer protein, BslA, plays a crucial role in mammalian infection. BslA is required to mediate adherence between host cells and vegetative forms of bacteria and this interaction promotes target organs adherence and blood-brain barrier (BBB) penetration in vivo. This study attempts to identify the potential eukaryotic ligand(s) for B. anthracis BslA protein.
+
+Biochemical approaches have indicated that the putative host cell ligand(s) for BslA is a surface protein, which is independent of the sugar components for binding to Bs1A. A ligand screening using blot overlays, far Western blots and mass spectrometry analyses revealed that BslA binds to mammalian laminin. ELISA based solid-phase binding assays and surface plasmon resonance assays demonstrated that there were high affinity interactions between BslA(260-652) and laminin. The SPR results also revealed the dissociation constants values of 3.172 × 10(-9)M for the binding of BslA(260-652) to laminin.

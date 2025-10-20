@@ -1,0 +1,7 @@
+Document ID: 25430589
+
+Recently, pluripotency of induced pluripotent stem (iPS) cells has been displayed after producing adult mice, in tetraploid complementation assays. These studies lead us to the last piece of the puzzle for reprogramming somatic cells into fully pluripotent cells which function as embryonic stem cells in most applications. However, in all of previous studies, skin fibroblasts were used as the starting population for reprogramming, raising questions as to whether the pluripotency of the iPS cells was dependent on the particular starting cell type.
+
+Our iPS cell lines were prepared from murine adipose stem cells (ASCs). Their multi-potency was first tested by teratoma formation in nude mice. Then, tetraploid complementation was performed to generate progeny from them.
+
+We succeeded to the birth of viable and fertile adult mice derived entirely from reprogrammed ASC, indicating cell types other than fibroblasts can also be restored to the embryonic level of pluripotency.

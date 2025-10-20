@@ -1,0 +1,7 @@
+Document ID: 25439321
+
+Neuroendocrine tumors (NETs) of the ileum are sporadic tumors derived from submucosal gastrointestinal stem cells. They often show clinical symptoms only after hepatic metastasation when curative therapy is limited or impossible. In this study, we analyzed the expression of the candidate genes mammalian target of rapamycin (mTOR), alpha thalassemia/mental retardation syndrome X-linked (ATRX), and death domain-associated protein (DAXX) to investigate the specific oncogenetics and potential therapeutic options for ileal NETs.
+
+In a prospective database, all patients who underwent surgical removal of a NET of the ileum between 2001 and 2011 were specified. Expression analysis was performed for mTOR, ATRX, and DAXX by immunohistochemistry of paraffin-embedded tumor samples. To evaluate the results the immunoreactive score was applied. Normal tissue and tumor tissue were analyzed for the comparison of gene expression levels using quantitative-real-time polymerase chain reaction for ATRX and mTOR genes. Results were correlated under pathologic and clinical aspects.
+
+A total of 69 patients were admitted to the study. Positive cytosolic expression of the potential oncogene mTOR was immunohistochemically detected in 76.2% of the human probes. A loss of nuclear ATRX expression was detected in 13.0% of the samples. A nonexpression of the DAXX-protein in cell nuclei was not found (0%). Gene transcript levels did not show a significant alteration in ileal NETs in comparison with normal tissue.

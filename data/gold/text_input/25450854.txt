@@ -1,0 +1,7 @@
+Document ID: 25450854
+
+To investigate the specific role of Frizzled-related protein (FRZB) and Secreted frizzled-related protein 1 (SFRP1) in the onset and progression of Osteoarthritis (OA) using Frzb(-/-) and Sfrp1(-/-) mice in the destabilization of medial meniscus model (DMM), a slowly progressing model of OA. Secreted frizzled-related proteins (SFRPs) were identified as secreted Wingless-type (Wnt) antagonists. The Wnt signaling cascade is a major regulator in cartilage development, homeostasis and degeneration.
+
+The DMM model was surgically induced in eight-week-old male C57/Bl6 Frzb(-/-), Sfrp1(-/-) or wild-type mice by transection of the medial meniscotibial ligament. Cartilage damage in the femoral and tibial articular surfaces was calculated following the Osteoarthritis Research Society International (OARSI) histopathology initiative guidelines. Histomorphometry was used to evaluate the subchondral bone plate thickness.
+
+OA severity scores were significantly higher in the tibia of Frzb(-/-) mice as compared to littermates, whereas no interaction was seen between genotype and intervention in Sfrp1(-/-) mice. Moreover, the DMM model resulted in significantly greater subchondral bone changes compared to sham but was not different between Frzb(-/-) mice and littermates. In contrast, the subchondral bone properties in Sfrp1(-/-) mice were significantly different from littermates.

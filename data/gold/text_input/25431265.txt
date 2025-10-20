@@ -1,0 +1,5 @@
+Document ID: 25431265
+
+Transposable elements form a significant proportion of eukaryotic genomes. Recently, Lexa et al. (Nucleic Acids Res 42:968-978, 2014) reported that plant long terminal repeat (LTR) retrotransposons often contain potential quadruplex sequences (PQSs) in their LTRs and experimentally confirmed their ability to adopt four-stranded DNA conformations.
+
+Here, we searched for PQSs in human retrotransposons and found that PQSs are specifically localized in the 3'-UTR of LINE-1 elements, in LTRs of HERV elements and are strongly accumulated in specific regions of SVA elements. Circular dichroism spectroscopy confirmed that most PQSs had adopted monomolecular or bimolecular guanine quadruplex structures. Evolutionarily young SVA elements contained more PQSs than older elements and their propensity to form quadruplex DNA was higher. Full-length L1 elements contained more PQSs than truncated elements; the highest proportion of PQSs was found inside transpositionally active L1 elements (PA2 and HS families).

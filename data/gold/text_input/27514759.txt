@@ -1,0 +1,7 @@
+Document ID: 27514759
+
+Obesity and its related co-morbidities such as non-alcoholic fatty liver disease (NAFLD) are increasing dramatically worldwide. The genetic variation in Patatin-like phospholipase domain-containing protein 3 (PNPLA3), which is also called adiponutrin (ADPN), in residue 148 (I148M, rs738409) has been associated with NAFLD. However, the regulation and function of PNPLA3 in metabolic diseases remains unclear. Laparoscopic gastric banding (LAGB) of severely obese patients reduces body weight, liver and adipose tissue inflammation. In this study, we investigated whether weight loss induced by LAGB affected PNPLA3 expression in hepatic and adipose tissue.
+
+Liver and subcutaneous adipose tissue samples were collected from 28 severely obese patients before and 6 months after LAGB. PNPLA3 expression was assessed by quantitative real-time PCR. To understand whether inflammatory stimuli regulated PNPLA3 expression, we studied the effect of tumour necrosis factor alpha (TNFα) and lipopolysaccharide (LPS) on PNPLA3 expression in human adipocytes and hepatocytes.
+
+PNPLA3 was strongly expressed in the liver and clearly detectable in subcutaneous adipose tissue of obese patients. Weight loss induced by LAGB of severely obese patients led to significantly increased adipose, but not hepatic, tissue expression of PNPLA3. Subcutaneous PNPLA3 expression negatively correlated with body-mass-index, fasting glucose and fasting insulin. TNFα potently suppressed PNPLA3 expression in adipocytes but not hepatocytes.

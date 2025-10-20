@@ -1,0 +1,5 @@
+Document ID: 25427765
+
+Surfactant proteins (SP) secreted by alveolar type 2 cells, play an essential role in maintaining the air-liquid barrier of the lung and are also involved in the opsonisation and clearance of bacteria by phagocytes. We have recently described a novel surfactant protein, SP-H (SFTA3). Expression of SP-H was earlier demonstrated to be upregulated by LPS and negatively regulated by IL-1β and IL-23 in vitro. The influence of SP-H on phagocytosis was measured using a murine and a human phagocytic cell line and fluorescent latex beads.
+
+SP-H markedly increases phagocytosis in vitro in the murine-derived alveolar macrophage cell lines MH-S and in human-derived differentiated U937 cells.

@@ -1,0 +1,7 @@
+Document ID: 25434370
+
+Parents take an important role in a child's development, but there is currently limited information on parental correlates with children's health behaviour. The purpose of this study, therefore, was to examine whether parental characteristics, such as body weight, TV consumption and sport participation, affect children's body weight and health behaviour.
+
+To examine the effects of parental characteristics on children's body weight and health behaviour, baseline data of 1,118 elementary school children (7.6 ± 0.4 years) participating in a school-based intervention in southwest Germany was used. Children's height and weight were measured and parent as well as child behaviour was assessed via questionnaire.
+
+BMI percentiles of children were positively associated with parental BMI (r = 0.2, p <0.01). Further, high parental TV time increased the odds for high TV time in children (OR mother= 2.2, OR father = 2.3) and parental club sport participation increased the odds for club sport participation in children (OR mother = 1.9, OR father = 1.7). The relationship between parental and child behaviour was stronger than the relationship between parental BMI and BMI percentiles of the child.

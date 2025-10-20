@@ -1,0 +1,7 @@
+Document ID: 25422754
+
+The effect of litter size and suckling intensity on the expression of KiSS-1 mRNA in the arcuate nucleus (ARC) of rats were evaluated.
+
+Thirty two pregnant and four non-lactating ovariectomized (as control group) rats were used in this experiment. Lactating rats were allotted to eight equal groups. In three groups, litter size was adjusted to 5, 10, or 15 pups upon parturition and allowed to suckle their pups continuously by 8 days postpartum. In the other three groups, litter size was adjusted to five upon birth; the pups were separated from the dams for 6 hr on day 8 postpartum, after which the pups were allowed to suckle their dams for 2.5, 5, or 7.5 min prior to killing the dams. Two groups of lactating rats with either 10 or 15 pups were separated from their pups for 6 hr on day 8 postpartum, after which the pups were allowed to suckle their dams for 5 min before the dams were killed on day 8 postpartum. The ARC was removed and the expression of KiSS-1 mRNA was evaluated, using real-time PCR.
+
+The expression of KiSS-1 mRNA in the ARC was decreased as the litter size and intensity of suckling stimulus were increased. The effect of suckling intensity on the expression of KiSS-1 mRNA was more pronounced than that of litter size.

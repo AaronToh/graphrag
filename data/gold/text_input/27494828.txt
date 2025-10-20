@@ -1,0 +1,7 @@
+Document ID: 27494828
+
+Proliferative vitreoretinopathy (PVR) is a blinding disorder that develops after a retinal tear or detachment. Activation of the retinal pigmented epithelium (RPE) is implicated in PVR; however, the mechanisms leading to enhanced RPE proliferation, migration, and contraction remain largely unknown. This study utilized an in vitro model of PVR to investigate the role of acetylation in RPE activation and its contribution to the progression of this disease.
+
+ARPE-19 cells, primary cultures of porcine RPE, and induced pluripotent stem cell-derived RPE (iPS-RPE) were utilized for cellular and molecular analyses. Cells treated with transforming growth factor beta 2 (TGFβ2; 10 ng/mL) alone or in the presence of the broad-spectrum histone deacetylase (HDAC) inhibitor, trichostatin A (TSA; 0.1 μM), were assessed for contraction and migration through collagen contraction and scratch assays, respectively. Western blotting and immunofluorescence analysis were performed to assess α-smooth muscle actin (α-SMA) and β-catenin expression after TGFβ2 treatment alone or in combination with TSA.
+
+TGFβ2 significantly increased RPE cell contraction in collagen matrix and this effect was inhibited in the presence of TSA (0.1 μM). In agreement with these data, immunofluorescence analysis of TSA-treated iPS-RPE wounded monolayers revealed decreased α-SMA as compared with control. Scratch assays to assess wound healing revealed TSA inhibited TGFβ2-mediated iPS-RPE cell migration.

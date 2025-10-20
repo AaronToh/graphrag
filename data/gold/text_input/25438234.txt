@@ -1,0 +1,7 @@
+Document ID: 25438234
+
+Pulmonary artery hypertension (PAH) is characterized by vascular remodeling, high pulmonary blood pressure, and right ventricular hypertrophy. Oxidative stress, inflammation and pulmonary artery remodeling are important components in PAH. Ellagic acid (EA) is a phenolic compound with anti-oxidative, anti-inflammatory, and anti-proliferative properties. This study aimed to investigate whether EA could prevent the development of monocrotaline (MCT)-induced PAH in rats.
+
+Male Sprague-Dawley rats received EA (30 and 50mg/kg/day) or vehicle one day after a single-dose of monocrotaline (MCT, 60mg/kg). Hemodynamic changes, right ventricular hypertrophy, and lung morphological features were assessed 4weeks later. Activation of the NLRP3 (NACHT, LRR, and PYD domain-containing protein 3) inflammasome pathway in the lungs was assessed using Western blot analysis.
+
+MCT induced PAH, oxidative stress, and NLRP3 inflammasome activation in vehicle-treated rats. EA reduced the right ventricle systolic pressure, the right ventricular hypertrophy and the wall thickness/external diameter ratio of the pulmonary arteries compared with vehicle. EA also inhibited the MCT-induced elevation of oxidative stress, NLRP3, and caspase-1, IL-β in the lungs and the elevated levels of brain natriuretic peptide (BNP) and inflammatory cytokines in serum.

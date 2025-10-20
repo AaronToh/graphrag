@@ -1,0 +1,7 @@
+Document ID: 25424888
+
+Parenting practices can reduce how much television (TV) children watch. This study evaluated the longitudinal association between maternal regulation of TV content and the amount of TV watched by low-income ethnic minority children.
+
+This was a secondary data analysis of the Welfare, Children & Families: A Three City Study. Data were used from ethnic minority mothers with a child from birth to 4 years old, collected over two waves approximately 16 months apart. The dependent variable was the amount of TV watched by the child (wave two). The main independent variable was the maternal regulation of TV content (wave one). Using multiple linear regression, we evaluated the relationship between maternal regulation of TV content and the amount of TV watched by the child, adjusting for covariates.
+
+Of the 835 mothers, 71% were high content regulators and 8% reported no content regulation. Children whose mothers reported no regulation watched more TV approximately 16 months later than those whose mothers reported high regulation of content (β = 0.91, 95% CI: 0.09-1.73).

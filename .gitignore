@@ -10,11 +10,14 @@
 .env.production.local
 
 # GraphRAG outputs and logs
-workspace/output/
 workspace/cache/
-workspace/logs/
+ingest/logs/
+ingest/*.log
 *.log
-indexing.log
+
+# data input
+data/input/
+data/text_input/
 
 # Python
 __pycache__/

@@ -1,0 +1,7 @@
+Document ID: 25445221
+
+Alterations in epigenetic processes are frequently noted in human disease. These epigenetic processes involve methylation of DNA and post-translational modifications of histones. It is well established that in particular histone methylation plays a key role in gene transcription. In this study, we have investigated the relationship between triple methylation of lysine 27 in histone H3 (H3K27Me3) modifications and atherosclerotic plaque stage.
+
+28 peri-renal aortic tissue patches covering the entire spectrum of atherosclerotic plaque development were evaluated by immunohistochemistry for the levels of H3K27Me3, EZH2, JMJD3 and BMI1.
+
+The results of our studies are in support of a reduction in global levels of the H3K27Me3 modification in vessels with advanced atherosclerotic plaques. This reduction in H3K27Me3 levels is not accompanied by alterations in global levels of the corresponding histone methyltransferase EZH2, the catalytic subunit of the polycomb repressive complex 2 (PRC2). Likewise no alterations in global levels of BMI1, a component of the PRC1 complex, which binds to H3K27Me3-modified histones or the global expression levels of the histone demethylase JMJD3, which removes the methyl marks on H3K27, were observed.

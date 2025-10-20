@@ -1,0 +1,7 @@
+Document ID: 27491734
+
+Intravenous tissue-type plasminogen activator (tPA) is a proven treatment for acute ischemic stroke, but there has been limited evaluation among patients aged ≥90 years.
+
+We analyzed data from the Get With The Guidelines-Stroke national quality improvement registry from January 2009 to April 2013. Frequency, determinants, and outcomes of tPA use were compared among patients aged ≥90 and 3 younger age groups (18-64, 65-79, and 80-89 years).
+
+Among 35 708 patients from 1178 sites who arrived within 2 hours of time last known well and received tPA, 2585 (7.2%) were ≥90 years. Compared with younger patients, the rate of tPA use among patients without a documented contraindication was lower among patients aged ≥90 years (67.4% versus 84.1% in 18-89-year olds; P<0.0001). Discharge outcomes among individuals aged ≥90 years included discharge to home or acute rehabilitation in 31.4%, independent ambulation at discharge in 13.4%, symptomatic hemorrhage in 6.1%, and in-hospital mortality or hospice discharge in 36.4%. On multivariable analysis, good functional outcomes generally occurred less often and mortality more often among patients aged ≥90 years. The risk of symptomatic hemorrhage was increased compared with patients <65 years but was not significantly different than the risk in 66- to 89-year olds.

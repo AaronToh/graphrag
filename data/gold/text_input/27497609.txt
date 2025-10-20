@@ -1,0 +1,7 @@
+Document ID: 27497609
+
+Obese individuals are known to have increased Matrix metalloproteinase (MMP)-9 plasma levels and MMP-9 is reported to play an important role in obesity-associated adipose tissue inflammation. Since in obesity, the levels of circulatory saturated free fatty acid (FFA) palmitate (palimitic acid) are increased and modulate the expression of inflammatory mediators, the role of palmitate in the regulation of MMP-9 remains unclear.
+
+Human monocytic cell line THP-1 and primary monocytes were stimulated with palmitate and TNF-α (positive control). MMP-9 expression was assessed with real time RT-PCR and ELISA. Signaling pathways were studied by using THP-1-XBlue™ cells, THP-1-XBlue™-defMyD cells, anti-TLR4 mAb and TLR4 siRNA. Phosphorylation of NF-kB and c-Jun was analyzed by Western blotting.
+
+Here, we provide the evidence that palmitate induces MMP-9 expression at both mRNA (THP-1: 6.8 ± 1.2 Fold; P = 0.01; Primary monocytes: 5.9 ± 0.7 Fold; P = 0.0003) and protein (THP1: 1116 ±14 pg/ml; P<0.001; Primary monocytes: 1426 ± 13.8; P = 0.0005) levels in human monocytic cells. Palmitate-induced MMP-9 secretion was markedly suppressed by neutralizing anti-TLR-4 antibody (P < 0.05). Furthermore, genetic silencing of TLR4 by siRNA also significantly abrogated the palmitate-induced up-regulation of MMP-9. Additionally, MyD88-/- THP-1 cells did not express MMP-9 in response to palmitate treatment. Increased NF-κB/AP-1 activity (P<0.05) was also observed in palmitate-treated THP-1 cells.

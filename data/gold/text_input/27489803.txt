@@ -1,0 +1,7 @@
+Document ID: 27489803
+
+Aujeszky's disease (AD) is an economically important disease affecting both wild and domestic pigs of the species Sus scrofa. A previous study yielded serological evidence of AD in Korean wild boars, which could spread AD to other animals. A new Aujeszky's disease virus (ADV) bait vaccine is required to prevent AD outbreaks in swine. In the present study, we investigated the safety and immunogenicity of a gE-deleted marker vaccine, strain YS-400, in young domestic pigs.
+
+The YS-400 strain was propagated in Vero cells, and the trial ADV bait vaccine (a vaccine blister in a matrix including an attractant) was prepared. Pigs were orally immunized with the vaccine (2 mL, 10(7.5) TCID50/mL) delivered using a syringe or in the bait vaccine. The animals were observed for 9 weeks after vaccination, and immunogenicity was assessed using a virus neutralization (VN) test and enzyme linked immunosorbent assay.
+
+The YS-400 strain was non-pathogenic to pigs when given orally and induced high VN titers (1:32-1:128) 6 weeks post-administration. Of the pigs given the ADV bait vaccine twice or three times, 40% were seropositive by 2 weeks, and 100% were seropositive by 7 weeks after the first dose. Pigs that consumed the AD bait vaccine three times developed VN titers that were slightly higher than those of pigs given the vaccine twice.

@@ -1,0 +1,11 @@
+Document ID: 25452543
+
+Currently, there is no standardised screening for prostate cancer in Europe. Assessment of risk is opportunistically undertaken in consultation with the GP or urologist. Evaluation of the prostate gland consists of a prostate-specific antigen (PSA) serum level and a digital rectal examination (DRE) of the gland. DRE is an essential part of the assessment that can independently predict prostate cancer in the setting of a normal PSA level.
+
+To evaluate the clinical usefulness of the DRE in general practice and urology clinics, and to ascertain its positive predictive value and sensitivity.
+
+A retrospective analysis study of a cohort of Irish men who underwent TRUS guided biopsy of the prostate in a single Irish tertiary referral centre, despite a normal PSA level. Patients were identified from a Rapid Access Prostate Clinic patient database. Pathological biopsy results were correlated with clinical DRE findings.
+
+Patient demographics, PSA levels, and DRE findings from a prospectively established database and hospital data systems from May 2009 to October 2013 were analysed.
+
+Of 103 men referred over a 53-month period with a normal age-adjusted PSA level, 67% were referred on the basis of an abnormal DRE alone. Thirty-five per cent of males with a normal PSA had prostate cancer. DRE alone had a sensitivity and specificity of 81% and 40% respectively in diagnosing prostate cancer, with a positive predictive value of 42%. Seventy-six per cent of these men had high-grade disease.

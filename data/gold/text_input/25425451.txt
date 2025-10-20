@@ -1,0 +1,7 @@
+Document ID: 25425451
+
+To test our hypothesis that initiating therapy with a combination of agents known to improve insulin secretion and insulin sensitivity in subjects with new-onset diabetes would produce greater, more durable reduction in glycated haemoglobin (HbA1c) levels, while avoiding hypoglycaemia and weight gain, compared with sequential addition of agents that lower plasma glucose but do not correct established pathophysiological abnormalities.
+
+Drug-naïve, recently diagnosed subjects with type 2 diabetes mellitus (T2DM) were randomized in an open-fashion design in a single-centre study to metformin/pioglitazone/exenatide (triple therapy; n = 106) or an escalating dose of metformin followed by sequential addition of sulfonylurea and glargine insulin (conventional therapy; n = 115) to maintain HbA1c levels at <6.5% for 2 years.
+
+Participants receiving triple therapy experienced a significantly greater reduction in HbA1c level than those receiving conventional therapy (5.95 vs. 6.50%; p < 0.001). Despite lower HbA1c values, participants receiving triple therapy experienced a 7.5-fold lower rate of hypoglycaemia compared with participants receiving conventional therapy. Participants receiving triple therapy experienced a mean weight loss of 1.2 kg versus a mean weight gain of 4.1 kg (p < 0.01) in those receiving conventional therapy.

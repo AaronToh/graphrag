@@ -1,0 +1,7 @@
+Document ID: 25442501
+
+Embryonic-like stem cells (ELSCs) express embryonic stem cell-specific marker genes, such as SSEA-4, Oct-4 and Nanog, and can be induced to differentiate into cells of all 3 germ layers. Our preliminary data showed that ELSCs isolated from human bone marrow express multipotent antigen markers and differentiate into multinucleated myotube-like cells more efficiently than do mesenchymal stromal cells (MSCs) isolated from the same source. We investigated the therapeutic effect of ELSCs in dystrophin/utrophin double knock-out (dko) mice, one of the Duchenne muscular dystrophy animal models, by systemically transplanting them through tail-vein injection.
+
+ELSCs and MSCs were both isolated from human bone marrow. Two months after equal amounts of ELSCs or MSCs were injected through tail-vein injection, we evaluated skeletal muscle motor function and serum creatine kinase activity and measured dystrophin expression by means of immunostaining, Western blotting and semi-quantitative reverse transcriptase-polymerase chain reaction.
+
+ELSCs positive for Oct-4 and Nanog-3 expressed higher levels of SSEA-4, FZD-9 and CD105 and were induced to differentiate into myotube-like cells more efficiently than did MSCs in vitro. Transplantation of ELSCs through the tail vein improved motor function and decreased serum creatine kinase activity at 2 months after cell transplantation. In addition, dystrophin protein and messenger RNA were upregulated and the skeletal muscle histology was improved in these dko mice transplanted with ELSCs.

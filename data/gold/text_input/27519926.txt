@@ -1,0 +1,15 @@
+Document ID: 27519926
+
+To evaluate manual lymphatic drainage (MLD) and active exercise effects on lymphatic alterations of the upper limb (UL), range of motion (ROM) of shoulder, and scar complications after breast cancer surgery.
+
+Clinical trial.
+
+Health care center.
+
+Women (N=105) undergoing radical breast cancer surgery who were matched for staging, age, and body mass index.
+
+Women (n=52) were submitted to MLD and 53 to active exercises for UL for 1 month and followed up.
+
+Shoulder ROM, surgical wound inspection and palpation, UL circumference measurements, and lymphoscintigraphy were performed in preoperative and postoperative periods.
+
+There was no significant difference between groups with regard to wound healing complications, ROM, and UL circumferences. After surgery, 25 (48.1%) of the MLD group and 19 (35.8%) of the active exercise group showed worsening in radiopharmaceutical uptake velocity, whereas 9 (17.3%) of the MLD group and 11 (20.8%) of the active exercise group showed improved velocity (P=.445). With regard to uptake intensity, 27 (51.9%) of the MLD group and 21 (39.6%) of the active exercise group showed worsening whereas 7 (13.5%) of the MLD group and 7 (13.2%) of the active exercise group showed some improvement (P=.391). The presence of collateral circulation was similar in both groups at both time points evaluated. The active exercise group had a significant increase in postoperative liver absorption (P=.005), and the MLD group had a significant increase in postoperative dermal backflow (P=.024).

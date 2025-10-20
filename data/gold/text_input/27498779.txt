@@ -1,0 +1,7 @@
+Document ID: 27498779
+
+Sweroside is an iridoid glycoside with diverse biological activities. In the present study we investigated the effects of sweroside on α-naphthylisothiocyanate (ANIT)-induced cholestatic liver injury in mice.
+
+Mice received sweroside (120 mg·kg(-1)·d(-1), ig) or a positive control INT-747 (12 mg·kg(-1)·d(-1), ig) for 5 d, and ANIT (75 mg/kg, ig) was administered on d 3. The mice were euthanized on d 5, and serum biochemical markers, hepatic bile acids and histological changes were analyzed. Hepatic expression of genes related to pro-inflammatory mediators and bile acid metabolism was also assessed. Primary mouse hepatocytes were exposed to a reconstituted mixture of hepatic bile acids, which were markedly elevated in the ANIT-treated mice, and the cell viability and expression of genes related to pro-inflammatory mediators were examined.
+
+Administration of sweroside or INT-747 effectively ameliorated ANIT-induced cholestatic liver injury in mice, as evidenced by significantly reduced serum biochemical markers and attenuated pathological changes in liver tissues. Furthermore, administration of sweroside or INT-747 significantly decreased ANIT-induced elevation of individual hepatic bile acids, such as β-MCA, CA, and TCA, which were related to its effects on the expression of genes responsible for bile acid synthesis and transport as well as pro-inflammatory responses. Treatment of mouse hepatocytes with the reconstituted bile acid mixture induced significant pro-inflammatory responses without affecting the cell viability.

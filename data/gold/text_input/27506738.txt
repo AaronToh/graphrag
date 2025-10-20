@@ -1,0 +1,7 @@
+Document ID: 27506738
+
+Insulin resistance is correlated with the progress of albuminuria in diabetic patients, and podocytes are crucial for maintaining the normal function of the glomerular filtration barrier. In the present study, we aimed to investigate the high glucose-induced insulin resistance and cell injury in human podocytes and the putative role of autophagy in this process.
+
+Human podocytes were cultured in high glucose-supplemented medium and low glucose and high osmotic conditions were used for the controls. Autophagy in the podocytes was regulated using rapamycin or 3-methyladenine stimulation. Next, autophagy markers including LC3B, Beclin-1, and p62 were investigated using western blot and qPCR, and the insulin responsiveness was analyzed based on glucose uptake and by using the phosphorylation of the insulin receptor with Nephrin as a podocyte injury marker.
+
+The basal autophagy level decreased under the high glucose conditions, which was accompanied by a decrease in the glucose uptake and phosphorylation of the insulin receptor in the human podocytes. More interestingly, the glucose uptake and the phosphorylation of the insulin receptor were decreased by 3-MA stimulation and increased by rapamycin, illustrating that the responsiveness of insulin was regulated by autophagy. The activation of autophagy by rapamycin also ameliorated cell injury in the human podocytes.

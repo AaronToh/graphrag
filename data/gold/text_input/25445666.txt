@@ -1,0 +1,7 @@
+Document ID: 25445666
+
+To compare rates of pelvic inflammatory disease (PID) among women who did and did not receive an intrauterine device (IUD) the day they sought emergency contraception (EC) or pregnancy testing.
+
+Women, 15 to 45 years of age, who sought EC or pregnancy testing from an urban family planning clinic completed surveys at the time of their clinic visit (August 22, 2011, to May 30, 2013) and 3 months after their clinic visit. The surveys assessed contraceptive use and symptoms, testing, and treatment for sexually transmitted infections (STI) and PID. We reviewed the medical records of participants who reported IUD placement within 3 months of enrollment and abstracted de-identified electronic medical record (EMR) data on all women who sought EC or pregnancy testing from the study clinic during the study period.
+
+During the study period, 1,060 women visited the study clinic; 272 completed both enrollment and follow-up surveys. Among survey completers with same-day IUD placement, PID in the 3 months after enrollment was not more common (1/28 [3.6%]; 95% CI, 0%-10.4%) than among women who did not have a same-day IUD placed (11/225 [4.9%]; 95% CI, 2.7%-8.6%; p = .71). Chart review and EMR data similarly showed that rates of PID within 3 months of seeking EC or pregnancy testing were low whether women opted for same-day or delayed IUD placement.

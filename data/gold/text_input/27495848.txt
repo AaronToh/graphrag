@@ -1,0 +1,7 @@
+Document ID: 27495848
+
+Biliary tract obstruction is a common clinical problem. In this study, we attempted to understand the change in intestinal glucose absorption after biliary tract obstruction.
+
+Experimental models of murine biliary duct ligation and external biliary drainage were established. Murine intestinal mucosal glucose absorption was examined with Ussing chambers according to the increase in the short-circuit current in vitro and blood glucose measurement after oral glucose in vivo. The protein expression of the sodium-glucose cotransporter (SGLT1) and the facilitated glucose transporter, member 2 (GLUT2) was analyzed by Western blot and immunohistochemistry.
+
+The results from Ussing chamber experiments showed that duodenal mucosal glucose absorption levels were significantly higher in biliary duct ligation and biliary drainage mice than those in normal control mice at 1 and 2 weeks after the operation. Gastrointestinal bile acid administration almost reversed the elevated duodenal mucosal glucose absorption to the normal level in biliary drainage mice. The results from the experiments in vivo further confirmed that the glucose absorption increased in biliary duct ligation and biliary drainage mice. The protein expression levels of SGLT1 in the duodenal mucosae of both biliary duct ligation and biliary drainage mice were markedly higher than those in control mice, and the protein expression of GLUT2 was not significantly altered, compared with control mice.

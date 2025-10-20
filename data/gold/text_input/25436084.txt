@@ -1,0 +1,7 @@
+Document ID: 25436084
+
+Formalin injection induces nociceptive bahaviour in phase I and II, with a quiescent phase between them. While active inhibitory mechanisms are proposed to be responsible for initiation of interphase, the exact mechanisms which lead to termination of nociceptive response in phase II are not clear yet. Phase II is a consequence of peripheral and central sensitization processes, which can lead to termination of the noxious stimuli responses; 45-60 minutes after formalin injection via possible recruitment of active inhibitory mechanisms which we have investigated in this study.
+
+To test our hypothesis, in the first set of experiments, we evaluated nociceptive response after two consecutive injection of formalin (50µL, 2%), with intervals of 5 or 60 minutes. In the next set, formalin tests were carried out in companion with injection of Naloxone Hydrochloride, a non-selective antagonist of opioid receptors, pre-formalin injection and 30 and 45 minutes post formalin injection.
+
+While normal nociceptive behaviour was observed in the group receiving one injection of formalin, a diminished response was observed in phases I and II of those receiving consequent injection of formalin, 60 minute after first injection. While second injection of formalin, 5 minute after first injection, had no effect. Administration of naloxone (1mg/kg) decreased nociception in phase 2A; but had no effect on delayed termination of formalin test.

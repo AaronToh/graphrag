@@ -1,0 +1,7 @@
+Document ID: 25424899
+
+The aim of this study was to evaluate the expression of DACT1 in human placenta tissue and the relationship between DACT1 and target genes of the Wnt signaling pathway.
+
+Real-time PCR and western blotting were used to detect the expression of DACT1 and the target genes of Wnt signaling pathway in human placenta tissue. And the relationship between them was analyzed using SPSS 19.
+
+Real-time PCR results showed that DACT1 expression was significantly higher in 49- to 71-day placenta tissues (mean value = 0.020) than that in 39- to 48-day (the mean value = 0.009). The mRNA expressions of the Wnt signaling pathway target genes, CCND1, CCND2, FOSL1, DAB2 and JUN, were also increased expressed in human placenta tissues. Significant positive associations between DACT1 and CCND1, CCND2, FOSL1, DAB2 and JUN were observed. Western blotting analysis showed that the protein expression of DACT1, CCND1, CCND2, FOSL1, DAB2 and JUN displayed the increasing trend in 43-, 49- and 71-day placenta samples.

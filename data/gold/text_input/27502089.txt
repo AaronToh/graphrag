@@ -1,0 +1,7 @@
+Document ID: 27502089
+
+The present study was undertaken to characterise the viral polypeptide 2 (VP2) gene of parvovirus from domestic cats in India.
+
+The faecal samples from diarrhoeic/healthy domestic cats were collected from different geographical regions of India for screening by PCR assay followed by sequence analysis of the VP2 gene.
+
+Canine parvovirus (CPV)/feline panleukopenia virus (FPV) infections were found in 12 samples (11.3%) of 106 faecal samples tested. Two new CPV-2a (297Ala and Asn426) and three FPV strains were identified by VP2 gene analysis. Several unique and existing amino acid mutations were found suggesting continuous evolution and emergence of newer variants. The phylogenetic analysis of the CPV sequences revealed that the two new CPV-2a strains from Mumbai (MC8) and Puducherry (P15) were clustered together in a single clade but had evolved independently and were ancestrally related to Chinese CPV-2a isolates. The FPV sequences (T-C-6 and T-C-1) from Thrissur, Kerala, formed a different clade (FPV clade) and were closely related to each other and had an ancestral relationship with an FPV isolate from the USA. Another FPV isolate from Goa (GC1) was positioned in the same clade but had evolved independently.

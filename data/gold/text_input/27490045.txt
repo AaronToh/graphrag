@@ -1,0 +1,15 @@
+Document ID: 27490045
+
+To study the ability of human spermatogonial stem cells (hSSCs) to proliferate in vitro under mouse spermatogonial stem cell (mSSC) culture conditions.
+
+Experimental basic science study.
+
+Reproductive biology laboratory.
+
+Cryopreserved testicular tissue with normal spermatogenesis obtained from three donors subjected to orchiectomy due to a prostate cancer treatment.
+
+Testicular cells used to create in vitro cell cultures corresponding to the following groups: [1] unsorted human testicular cells, [2] differentially plated human testicular cells, and [3] cells enriched with major histocompatibility complex class 1 (HLA
+
+Analyses and characterization including immunocytochemistry and quantitative reverse-transcription polymerase chain reaction for somatic and germ cell markers, testosterone and inhibin B quantification, and TUNEL assay.
+
+Putative hSSCs appeared in singlets, doublets, or small groups of up to four cells in vitro only when testicular cells were cultured in StemPro-34 medium supplemented with glial cell line-derived neurotrophic factor (GDNF), leukemia inhibitory factor (LIF), basic fibroblast growth factor (bFGF), and epidermal growth factor (EGF). Fluorescence-activated cell sorting with HLA

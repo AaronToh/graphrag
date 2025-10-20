@@ -1,0 +1,7 @@
+Document ID: 25429008
+
+Benefits to crop productivity arising from increasing CO2 fertilization may be offset by detrimental effects of global climate change, such as an increasing frequency of drought. Phosphorus (P) nutrition plays an important role in crop responses to water stress, but how elevated CO2 (eCO2) and P nutrition interact, especially in legumes, is unclear. This study aimed to elucidate whether P supply improves plant drought tolerance under eCO2.
+
+A soil-column experiment was conducted in a free air CO2 enrichment (SoilFACE) system. Field pea (Pisum sativum) was grown in a P-deficient vertisol, supplied with 15 mg P kg(-1) (deficient) or 60 mg P kg(-1) (adequate for crop growth) and exposed to ambient CO2 (aCO2; 380-400 ppm) or eCO2 (550-580 ppm). Drought treatments commenced at flowering. Measurements were taken of soil and leaf water content, photosynthesis, stomatal conductance, total soluble sugars and inorganic P content (Pi).
+
+Water-use efficiency was greatest under eCO2 when the plants were supplied with adequate P compared with other treatments irrespective of drought treatment. Elevated CO2 decreased stomatal conductance and transpiration rate, and increased the concentration of soluble sugars and relative water contents in leaves. Adequate P supply increased concentrations of soluble sugars and Pi in drought-stressed plants. Adequate P supply but not eCO2 increased root length distribution in deeper soil layers.

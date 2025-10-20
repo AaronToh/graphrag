@@ -1,0 +1,9 @@
+Document ID: 25445090
+
+Psoriasis is a chronic inflammatory skin disorder associated with a host of immune abnormalities. Mesenchymal stem cells (MSCs) have immunosuppressive properties and, in earlier studies, we found that the bone marrow MSCs of patients with psoriasis exhibit abnormal cytokine secretion. Since MSCs can be isolated from skin, we hypothesized that the biological characteristics of MSCs in psoriatic skin lesions might reflect the pathogenesis of psoriasis.
+
+To investigate the effects of MSCs from psoriatic skin lesions on T-cell proliferation.
+
+MSCs obtained from psoriatic skin lesions and healthy human skin were examined by flow cytometry and cell differentiation assays. MSCs were co-cultured with normal peripheral blood T cells to assess changes in T-cell proliferation. Concentrations of interleukin (IL)-6, IL-11, hepatocyte growth factor (HGF), and transforming growth factor (TGF)-β1 in the MSC culture supernatants were measured by enzyme-linked immunosorbent assays.
+
+Surface markers and differentiation capacity were similar in MSCs from both sources. MSCs in psoriatic skin lesions were weaker inhibitors of T-cell proliferation (p<0.05) and exhibited increased secretion of IL-11 and reduced secretion of IL-6 and HGF (p<0.05). Secretion of TGF-β1 was unchanged (p > 0.05).

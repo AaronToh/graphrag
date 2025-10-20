@@ -1,0 +1,7 @@
+Document ID: 27498356
+
+Alterations in phenotype and function of endothelial progenitor cells (EPCs) have been associated with poor vascular outcomes and impaired vascular repair in various conditions. Our hypothesis was that patients with PM and DM have dysregulation of EPCs driven by type I IFN and IL-18 similar to other autoimmune diseases.
+
+Quantification of circulating EPCs was performed by flow cytometry in patients with PM/DM and matched healthy controls. The ability of EPCs to differentiate into mature endothelial cells was investigated by light and fluorescence microscopy quantification in the presence or absence of PM/DM or control serum, neutralizing antibodies to type I IFN receptor or IL-18. Serum type I IFN activity was quantified by induction of type I IFN-inducible genes in HeLa cells. Circulating IL-18 concentrations were assessed by ELISA.
+
+Circulating EPCs were significantly lower in PM/DM patients compared with controls. PM/DM EPCs displayed a decreased capacity to differentiate into mature endothelial cells and PM/DM serum significantly inhibited differentiation of control EPCs. This effect was reversed in the majority of samples with neutralizing antibodies to IL-18 or to type I IFN receptor or by a combination of these antibodies. Patients with associated impairments in EPC function had higher type I IFN serum activity.

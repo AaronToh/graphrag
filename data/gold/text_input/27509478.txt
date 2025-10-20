@@ -1,0 +1,7 @@
+Document ID: 27509478
+
+Efavirenz frequently causes central nervous system (CNS) symptoms. We evaluated genetic associations with efavirenz discontinuation for CNS symptoms within 12 months of treatment initiation.
+
+Patients had initiated efavirenz-containing regimens at an HIV primary care clinic in the Southeastern United States and had at least 12 months of follow-up data. Polymorphisms in CYP2B6 and CYP2A6 defined efavirenz metabolizer categories. Genome-wide genotyping enabled adjustment for population stratification.
+
+Among 563 evaluable patients, 99 (17.5%) discontinued efavirenz within 12 months, 29 (5.1%) for CNS symptoms. The hazard ratio (HR) for efavirenz discontinuation for CNS symptoms in slow versus extensive metabolizers was 4.9 [95% confidence interval (CI): 1.9-12.4; P=0.001]. This HR in Whites was 6.5 (95% CI: 2.3-18.8; P=0.001) and 2.6 in Blacks (95% CI: 0.5-14.1; P=0.27). Considering only slow metabolizers, the HR in Whites versus Blacks was 3.1 (95% CI: 0.9-11.0; P=0.081). The positive predictive value of slow metabolizer genotypes for efavirenz discontinuation was 27% in Whites and 11% in Blacks.

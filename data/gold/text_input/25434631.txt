@@ -1,0 +1,7 @@
+Document ID: 25434631
+
+Increasing evidence suggests an association between diabetes and risk of venous thromboembolism (VTE); however, the results are inconsistent. We conducted a systematic review and meta-analysis of all epidemiological evidence to clarify association of diabetes with risk of VTE.
+
+We searched MEDLINE and EMBASE to retrieve all relevant articles. Pooled effect estimates were calculated through a random-effects model.
+
+Sixteen articles involving 803,627,121 participants and 10,429,227 VTE patients were included. Pooled analysis of all evidence suggested that diabetes was associated with increased risk of VTE (HR, 1.35; 95%CI, 1.17-1.55; p=2.92*10(-5)), with evidence of small-study effect (p=0.024) and heterogeneity (I(2)=87.1%, p<0.001). However, when analysis was restricted to high quality cohort studies, the association remained significantly (HR, 1.36; 95%CI 1.11-1.68; p=0.004), with no evidence of publication bias (p=0.192) and heterogeneity (I(2)=23.2%, p=0.245).

@@ -1,0 +1,9 @@
+Document ID: 25441638
+
+Esophageal eosinophilia can be proton pump inhibitor (PPI) resistant or responsive, representing 2 entities known as eosinophilic esophagitis (EoE) and PPI-responsive esophageal eosinophilia (PPI-REE), respectively. Although they present with similar clinical features, EoE is accepted to be an antigen-driven, TH2-associated allergic disorder, whereas the cause of PPI-REE remains a mystery.
+
+In this study, our aim was to investigate the pathogenesis of PPI-REE by using a recently described EoE diagnostic panel (EDP) composed of a set of 94 esophageal transcripts and to determine whether PPI therapy reverses any esophageal transcriptional abnormalities.
+
+We evaluated the EDP signature in biopsy samples obtained from adult and pediatric patients with PPI-REE from 4 institutions and compared the pre- and post-PPI therapy expression profiles of these subjects with those of patients with active EoE.
+
+The EDP differentiated patients with EoE from control subjects with 100% accuracy among the 4 clinical sites. Bioinformatics analysis revealed largely overlapping transcriptomes between patients with PPI-REE and those with EoE, including the genes for eosinophil chemotaxis (eotaxin 3, CCL26), barrier molecules (desmoglein 1, DSG1), tissue remodeling (periostin, POSTN), and mast cells (carboxypeptidase A, CPA3). PPI monotherapy alone almost completely reversed the allergic inflammatory transcriptome of patients with PPI-REE. Furthermore, we identified a set of candidate genes to differentiate patients with EoE from those with PPI-REE before treatment.

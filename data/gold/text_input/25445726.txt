@@ -1,0 +1,7 @@
+Document ID: 25445726
+
+The timing of CEA for symptomatic internal carotid artery (ICA) stenosis remains a matter of controversy. Recent registry data showed a significantly increased risk, especially in the very early days after the onset of symptoms. In this study the outcome of CEA in the hyperacute phase has been investigated.
+
+The outcome of CEA for symptomatic ICA stenosis between January 2004 and December 2013 has been retrospectively analyzed. Patients were divided into four timing groups: surgery within 0 and 2 days, between 3 and 7 days, 8 and 14 days, and thereafter. The post-operative 30 day stroke and death rates were assessed.
+
+A total of 761 symptomatic patients (40.1% with transient ischemic attack [TIA], 21.3% with amaurosis fugax, and 38.6% with ischemic stroke) were included, with an overall peri-operative stroke and death rate of 3.3%. A stroke and death rate of 4.4% (9/206) for surgery within 0 and 2 days, 1.8% (4/219) between 3 and 7 days, 4.4% (6/136) between 8 and 14 days, and 2.5% (5/200) in the period thereafter (p = .25 for the difference between the groups) was observed. The timing of surgery did not influence the peri-operative outcome in a multivariate regression analysis (OR 0.93 [0.63-1.36], p = .71).

@@ -1,0 +1,13 @@
+Document ID: 25444640
+
+To examine the impact of glaucoma and visual acuity (VA) and visual field (VF) losses on psychosocial functioning (PF).
+
+Cross-sectional study.
+
+We compared PF between 192 participants with bilateral glaucoma with VA or VF losses and 40 controls from a tertiary eye hospital clinic in Singapore.
+
+Glaucoma was defined using the Hodapp-Anderson-Parish criteria. Four psychosocial outcomes of the Glaucoma Quality of Life 36 questionnaire were psychometrically assessed using Rasch analysis. Multivariate regression was performed to determine the independent impact of glaucoma and VA and VF losses on PF. The impact of VA and VF on PF were evaluated by restricted cubic spline analysis.
+
+Anxiety, self-image, psychological well-being, and confidence in health care.
+
+The mean age of participants was 66.2±11.0 years, and 63% were male. In the better eye, VA and mean deviation were Snellen 20/25 and -8.89±6.52 dB, respectively. In multivariate models, glaucoma patients had 63.0% greater anxiety (95% confidence interval [CI], -66.0% to -61.2%; P<0.001), 71.0% lower self-image (95% CI, -74.1% to -68.5%; P<0.001), 38.3% less psychological well-being (95% CI, -37.4% to -39.0%; P<0.001), and 32.4% reduced confidence in health care than patients without glaucoma. The worst VA and VF categories had the most reduced PF (range, 26.0% to 81.5%; P<0.001 for all associations) compared with controls. With worsening VA, there was a linear increase in anxiety (P=0.009) and decrease in self-image (P=0.005). With worsening VF from 0 to -12.1 dB (P=0.003), anxiety increased before plateauing. Self-image decreased as VF worsened from 0 to -10 dB (P<0.001), and confidence in health care decreased when VF worsened from 0 to -9.3 dB (P=0.008). However, self-image and confidence in health care actually improved at greater levels of VF loss beyond these thresholds.

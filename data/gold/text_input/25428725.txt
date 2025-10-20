@@ -1,0 +1,7 @@
+Document ID: 25428725
+
+Flow-mediated dilation (FMD) is a complex mechanism involving several mediators, and different hemodynamic forces. Temporally distinct FMD patterns can be elicited by ischemic stimulus. Some subjects dilate early after cuff release, while others dilate later or do not dilate at all. Aim of the present research was to verify if hemorheological and hemodynamic factors might influence different FMD pattern.
+
+148 free-living subjects were studied. FMD was measured at 50 s, 2 min and 3 min. Blood viscosity was measured and shear stress calculated. Shear stress stimulus was quantified as the area under the curve after ischemia (SSAUC) over the first 40-s post-occlusion.
+
+Based on the timing or absence of arterial dilation, 82 subjects were classified as Early dilators, 37 as Late dilators and 29 as No dilators. Peak FMD was 7.9 ± 4.3 % in Early dilators, and 9.1 ± 5.7 in Late dilators (p = NS). SSAUC was not significantly different among three groups, while blood viscosity was significantly higher in Late FMD subjects. Regression analyses showed the independent predictive role of age and blood viscosity on FMD patterns, and the lack of any association between FMD pattern and the magnitude of SS.

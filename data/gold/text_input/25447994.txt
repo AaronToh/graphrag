@@ -1,0 +1,5 @@
+Document ID: 25447994
+
+In most cells, the cilium is formed within a compartment separated from the cytoplasm. Entry into the ciliary compartment is regulated by a specialized gate located at the base of the cilium in a region known as the transition zone. The transition zone is closely associated with multiple structures of the ciliary base, including the centriole, axoneme, and ciliary membrane. However, the contribution of these structures to the ciliary gate remains unclear.
+
+Here we report that, in Drosophila spermatids, a conserved module of transition zone proteins mutated in Meckel-Gruber syndrome (MKS), including Cep290, Mks1, B9d1, and B9d2, comprise a ciliary gate that continuously migrates away from the centriole to compartmentalize the growing axoneme tip. We show that Cep290 is essential for transition zone composition, compartmentalization of the axoneme tip, and axoneme integrity and find that MKS proteins also delimit a centriole-independent compartment in mouse spermatids.

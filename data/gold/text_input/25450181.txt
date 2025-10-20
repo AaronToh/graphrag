@@ -1,0 +1,7 @@
+Document ID: 25450181
+
+The principal oxidative-stress defense in the human parasite Trypanosoma cruzi is the tryparedoxin-dependent peroxide detoxification pathway, constituted by trypanothione reductase (TryR), tryparedoxin (TXN), tryparedoxin peroxidase (TXNPx) and tryparedoxin-dependent glutathione peroxidase A (GPxA). Here, Metabolic Control Analysis (MCA) was applied to quantitatively prioritize drug target(s) within the pathway by identifying its flux-controlling enzymes.
+
+The recombinant enzymes were kinetically characterized at physiological pH/temperature. Further, the pathway was in vitro reconstituted using enzyme activity ratios and fluxes similar to those observed in the parasites; then, enzyme and substrate titrations were performed to determine their degree of control on flux. Also, kinetic characterization of the whole pathway was performed.
+
+Analyses of the kinetic properties indicated that TXN is the less efficient pathway enzyme derived from its high Kmapp for trypanothione and low Vmax values within the cell. MCA established that the TXN-TXNPx and TXN-GPxA redox pairs controlled by 90-100% the pathway flux, whereas 10% control was attained by TryR. The Kmapp values of the complete pathway for substrates suggested that the pathway flux was determined by the peroxide availability, whereas at high peroxide concentrations, flux may be limited by NADPH.

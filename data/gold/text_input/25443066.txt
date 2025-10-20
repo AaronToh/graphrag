@@ -1,0 +1,7 @@
+Document ID: 25443066
+
+Recent research suggests that preintervention functional magnetic resonance imaging (fMRI) data may predict weight loss outcomes among patients who participate in a behavioral weight loss plan. No study has examined whether presurgical brain activation can predict outcomes following bariatric surgery.
+
+The aim of the present study was to determine if brain activations during a presurgical fMRI food-motivation paradigm are associated with weight loss 3 and 6 months following laparoscopic adjustable gastric banding (LAGB). Nineteen participants viewed food and nonfood pictures from a well-established food motivation paradigm during an fMRI scanning session before LAGB surgery. Weight was assessed presurgery and 3 and 6 months postsurgery; data for all participants was available at each time point. fMRI data were analyzed using the BrainVoyager QX statistical package. Whole brain voxelwise correlations of presurgery (food-nonfood) brain activation and weight, corrected for multiple comparisons, were performed to analyze the relationship between presurgical brain activation and subsequent weight loss. The settings were a medical university brain imaging center and 2 surgical weight loss centers in a major metropolitan area.
+
+Increased activity in frontal regions associated with cognitive control (medial, middle, superior frontal gyrus) and posterior cingulate cortex was associated with weight loss following LAGB.

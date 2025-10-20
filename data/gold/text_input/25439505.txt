@@ -1,0 +1,7 @@
+Document ID: 25439505
+
+Sepsis-induced cardiomyopathy (SIC) is thought to be the result of detrimental effects of inflammatory mediators on the cardiac muscle. Here we studied the effects of prolonged (24 ± 4 h) exposure of adult rat ventricular myocytes (ARVM) to bacterial lipopolysaccharide (LPS) and inflammatory cytokines tumor necrosis factor (TNF) and interleukins-1 (IL-1) and IL-6.
+
+We measured sarcomere shortening (SS) and cellular calcium (Ca(2+)) transients (ΔCai, with fura-2 AM) in isolated cardiomyocytes externally paced at 5 Hz at 37°C.
+
+SS decreased after incubation with LPS (100 μg/mL), IL-1 (100 ng/mL), and IL-6 (30 ng/mL), but not with lesser doses of these mediators, or TNF (10-100 ng/mL). A combination of LPS (100 μg/mL), TNF, IL-1, and IL-6 (each 100 ng/mL; i.e., "Cytomix-100") induced a maximal decrease in SS and ΔCai. Sarcoplasmic reticulum (SR) Ca(2+) load (CaSR, measured with caffeine) was unchanged by Cytomix-100; however, SR fractional release (ΔCai/CaSR) was decreased. Underlying these effects, Ca(2+) influx into the cell (via L-type Ca(2+) channels, LTCC) and Ca(2+) extrusion via Na(+)/Ca(2+) exchange were decreased by Cytomix-100. SR Ca(2+) pump (SERCA) (SR Ca(2+) ATPase) was not affected.

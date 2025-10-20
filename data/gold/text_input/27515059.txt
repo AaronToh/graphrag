@@ -1,0 +1,11 @@
+Document ID: 27515059
+
+To clarify the pathways between household livestock and child growth by assessing the relationships between consumption of animal-source foods (ASF) and child growth and evaluating the household livestock correlates of child consumption of ASF.
+
+We conducted a longitudinal cohort study of anthropometry and 3 d feeding recalls among children <5 years old between June 2014 and May 2015. In addition, we collected data on wealth, livestock ownership and livestock diseases in the same households. We used linear and negative binomial mixed models to evaluate the relationships between household livestock characteristics, reported consumption of ASF and child growth.
+
+An 1800-household surveillance catchment area in Western Kenya within the structure of human and animal health surveillance systems.
+
+Children (n 874) <5 years old.
+
+Among children >6 months old, reported frequency of egg and milk consumption was associated with increased monthly height gain (for each additional report of consumption over 3 d: adjusted β (95 % CI)=0·010 (0·002, 0·019) cm/month and 0·008 (0·004, 0·013) cm/month, respectively). Poultry ownership was associated with higher reported frequency of egg, milk and chicken consumption (adjusted incidence rate ratio (95 % CI)=1·3 (1·2, 1·4), 1·4 (1·1, 1·6) and 1·3 (1·1, 1·4), respectively). Some livestock diseases were associated with lower reported frequency of ASF intake (livestock digestive diseases-adjusted incidence rate ratio (95 % CI)=0·89 (0·78, 1·00)).

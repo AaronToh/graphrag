@@ -1,0 +1,7 @@
+Document ID: 25425111
+
+Growing evidence shows cannabidiol (CBD) modulates some of the effects of Δ(9) -tetrahydrocannabinol (THC). CBD is a constituent of some strains of recreational cannabis but its content is highly variable. High CBD strains may have less memory-impairing effects than low-CBD strains and CBD can reverse behavioural effects of THC in monkeys. CBD/THC interactions in rodents are more complicated as CBD can attenuate or exacerbate the effects of THC. This study was undertaken to determine if CBD could reverse hypothermia or hypolocomotor effects caused by THC in rats.
+
+Male Sprague-Dawley rats were prepared with radiotelemetry devices and then given doses of THC (10-30 mg·kg(-1) , i.p.) with or without CBD. Experiments determined the effect of simultaneous or 30 min pretreatment with CBD in a 1:1 ratio with THC, as well as the effect of CBD in a 3:1 ratio. Additional experiments determined the effects of pretreatment with the cannabinoid CB1 receptor antagonist SR141716 (rimonabant).
+
+CBD did not attentuate THC-induced hypothermia or hypolocomotion but instead exaggerated these effects in some conditions. The antagonist SR141716 blocked hypolocomotor effects of THC for the first hour after injection and the hypothermia for 6 h; thus validating the pharmacological model.

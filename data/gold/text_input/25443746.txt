@@ -1,0 +1,7 @@
+Document ID: 25443746
+
+Diabetes mellitus (DM) is frequently associated with peripheral and central complications and has recently emerged as a risk factor for cognitive impairment and dementia. Kynurenic acid (KYNA), a unique tryptophan derivative, displays pleiotropic effects including blockade of ionotropic glutamate and α7 nicotinic receptors. Here, the influence of experimental diabetes on KYNA synthesis was studied in rat brain.
+
+DM was induced by i.p. administration of streptozotocin (STZ). Five weeks later, KYNA content and the activity of semi-purified kynurenine aminotransferases (KATs) were measured in frontal cortex, hippocampus and striatum of diabetic and insulin-treated rats, using HPLC-based methods.
+
+Hippocampal but not cortical or striatal KYNA concentration was considerably increased during DM, either untreated or treated with insulin (220% and 170% of CTR, respectively). The activity of kynurenine aminotransferase I (KAT I) was not affected by DM in all of the studied structures. KAT II activity was moderately increased in cortex (145% of CTR) and hippocampus (126% of CTR), but not in striatum of diabetic animals. Insulin treatment normalized cortical but not hippocampal KAT II activity.

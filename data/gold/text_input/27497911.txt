@@ -1,0 +1,7 @@
+Document ID: 27497911
+
+Coronary artery disease (CAD) is a major problem worldwide. As an endothelium-enriched microRNA (miRNA), miR-126 has been reported to serve as a potential biomarker of acute myocardial infarction. However, the relationship between miR-126 and the severity of CAD remains unknown. This study was designed to test whether circulating miR-126 levels are associated with the severity of CAD.
+
+The present study enrolled 40 patients who had risk factors for CAD without angiographically significant CAD, and 110 patients presenting with stable angina pectoris, who were validated left main coronary artery disease (LMCA) and/or multi-vessel disease by coronary angiography. The expression levels of plasma miR-126-5p from all enrolled subjects were estimated by quantitative real-time polymerase chain reaction (qRT-PCR). Then, the relationships between plasma miR-126-5p levels, number of diseased vessels and the corresponding Synergy between PCI with Taxus and Cardiac surgery (SYNTAX) score were analyzed.
+
+The expression of circulating miR-126-5p was affected by some CAD risk factors including aging, dyslipidemia and DM. Furthermore, plasma miR-126-5p levels were significantly down-regulated in CAD patients with multi-vessel disease, higher SYNTAX score, rather than isolated LMCA and low SYNTAX score.

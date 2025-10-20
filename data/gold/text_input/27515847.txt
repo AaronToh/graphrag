@@ -1,0 +1,7 @@
+Document ID: 27515847
+
+Paraneoplastic syndromes are serious immune caused diseases of the peripheral and/or central nervous system associated with malignant neoplasm. Symptoms develop when antibodies against antigens expressed by tumor cells cross-react with neuronal proteins. Antineuronal antibodies are usually examined in patient's sera while examination of the cerebrospinal fluid (CSF) often fails. Furthermore, the few previous reports describing CSF data summarized different antineuronal antibodies and/or regarded patients with different neurological symptoms as one group.
+
+We retrospectively evaluated data of 18 patients with paraneoplastic syndromes due to anti-Hu antibodies. The study aimed to differentiate patients with peripheral neuropathy and encephalitis by cerebrospinal fluid (CSF) parameters including anti-Hu antibody titers.
+
+Our results confirm previous observations that serum titers of anti-Hu antibodies and standard CSF values do not differ between patients with neuropathy and encephalitis. However, analysis of CSF anti-Hu titers and calculating the intrathecal synthesis helped to discriminate between both groups.

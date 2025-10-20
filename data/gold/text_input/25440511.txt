@@ -1,0 +1,7 @@
+Document ID: 25440511
+
+Obesity has become a significant public health concern in the United States. The goal of this study was to assess the effect of obesity on postoperative complications after operative management of proximal humerus fractures by use of a national database.
+
+Patients who underwent operative management of a proximal humerus fracture were identified in a national database by Current Procedural Terminology codes for procedures in patients with International Classification of Diseases, Ninth Revision (ICD-9) codes for proximal humerus fracture, including (1) open reduction and internal fixation, (2) intramedullary nailing, (3) hemiarthroplasty, and (4) total shoulder arthroplasty. These groups were then divided into obese and nonobese cohorts by use of ICD-9 codes for obesity, morbid obesity, or body mass index >30. Each cohort was then assessed for local and systemic complications within 90 days and mortality within 2 years postoperatively. Odds ratios and 95% confidence intervals were calculated.
+
+From 2005 to 2011, 20,319 patients who underwent operative management of proximal humerus fractures were identified, including 14,833 (73.0%) open reduction and internal fixation, 1368 (9.2%) intramedullary nail, 3391 (16.7%) hemiarthroplasty, and 727 (3.6%) shoulder arthroplasty. Overall, 3794 patients (18.7%) were coded as obese, morbidly obese, or body mass index >30. In each operative group, obesity was associated with a substantial increase in local and systemic complications.

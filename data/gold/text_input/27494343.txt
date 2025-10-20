@@ -1,0 +1,7 @@
+Document ID: 27494343
+
+Retinal vascular disease represents a major cause for vision loss in the Western world. Recent research has shown that neuronal and vascular damage are closely related in retinal disease. Ciliary neurotrophic factor (CNTF) is a well-studied neurotrophic factor that is currently being tested in clinical trials for the treatment of retinal degenerative diseases and macular telangiectasia. However, little is known about its effect on retinal vasculature. In this study, we investigate the effects of CNTF in retinal neovascular disease using the mouse model of oxygen-induced retinopathy (OIR).
+
+Newborn pups were exposed to 75% oxygen from postnatal day (P)7 to P12 and subsequently returned to room air. Ciliary neurotrophic factor was injected intravitreally at OIR P12 and the vaso-obliterated and neovascular areas were quantified at OIR P17. Immunohistochemistry, RNA, and protein analysis were used to identify CNTF-responsive cells. In vitro experiments were performed to analyze the effect of CNTF on endothelial and astroglial cells.
+
+In the OIR model, CNTF facilitated capillary regrowth and attenuated preretinal neovascularization in a dose-dependent manner. The protective effect of CNTF was mediated via activation of the JAK/STAT3/SOCS3 signaling pathway. Immunohistochemical studies identified endothelial cells among others as CNTF-responsive cells in the retina. In vitro studies confirmed the anti-angiogenic effect of CNTF on endothelial cell sprouting.

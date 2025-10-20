@@ -1,0 +1,7 @@
+Document ID: 25443138
+
+Allergic asthma is characterized by inflammation and airway remodeling. Bronchial epithelium is considered a key player in coordinating airway wall remodeling. In mild asthma, the epithelium is damaged and fails to proliferate and to repair, whereas in severe asthma, the epithelium is highly proliferative and thicker. This may be due to different regulatory mechanisms. The purpose of our study was to determine the role of miRNAs in regulating proliferation of bronchial epithelial cells obtained from severe asthmatic subjects in comparison with cells obtained from mild asthmatics and healthy controls.
+
+Human bronchial epithelial cells (BEC) were isolated by bronchoscopy from bronchial biopsies of healthy donors and patients with mild and severe asthma. MiRNA expression was evaluated using the TaqMan low-density arrays and qRT-PCR. Transfection studies of bronchial epithelial cells were performed to determine the target genes. Cell proliferation was evaluated by BrdU incorporation test.
+
+MiR-19a was upregulated in epithelia of severe asthmatic subjects compared with cells from mild asthmatics and healthy controls. Functional studies based on luciferase reporter and Western blot assays suggest that miR-19a enhances cell proliferation of BEC in severe asthma through targeting TGF-β receptor 2 mRNA. Moreover, repressed expression of miR-19a increased SMAD3 phosphorylation through TGF-β receptor 2 signaling and abrogated BEC proliferation.

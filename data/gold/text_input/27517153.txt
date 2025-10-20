@@ -1,0 +1,5 @@
+Document ID: 27517153
+
+In this study, we investigated the direct effect of C5a overexpression on atherosclerosis.
+
+A recombinant adenovirus expressing mouse C5a (Ad-C5a) was constructed and injected intravenously into ApoE-/- mice. After 12 weeks of a high-fat diet, Ad-C5a injection produced more extensive lesions than control adenovirus, and its proathrosclerotic role was significantly blocked by C5a receptor antagonist. Immunohistochemical analysis showed enhanced macrophage infiltration in atherosclerotic regions with C5a overexpression. Trans-well assay revealed C5a receptor-dependent chemotaxis of C5a to macrophages. Furthermore, Ad-C5a overexpression promoted foam cell formation and lipid deposition but reduced collagen content. In addition, with Ad-C5a overexpression, the serum levels of interleukin 6 and tumor necrosis factor α were upregulated.

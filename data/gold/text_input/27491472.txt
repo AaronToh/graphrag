@@ -1,0 +1,7 @@
+Document ID: 27491472
+
+This study investigated the association between serum gamma-glutamyltransferase (GGT) level and subclinical atherosclerosis in patients with type 2 diabetes.
+
+This cross-sectional study involved 1024 patients with type 2 diabetes mellitus. Measurement of brachial-ankle pulse wave velocity (baPWV; as a marker of arterial stiffness) and an ultrasound assessment of carotid atherosclerosis were performed. Subclinical atherosclerosis was defined by the presence of a high baPWV (≥1720 cm/s), carotid atherosclerosis (intima-media thickness >0.8 mm or the presence of plaques), and carotid stenosis (≥50 % of luminal narrowing). The subjects were stratified into quartiles according to GGT level, and the relationship between GGT level and subclinical atherosclerosis was analysed.
+
+Serum GGT levels were closely associated with obesity, atherogenic dyslipidemia, and metabolic syndrome. However, serum GGT levels did not show a linear association with baPWV, carotid intima-media thickness, or plaque grade. The prevalence of high baPWV, carotid atherosclerosis, and carotid stenosis did not differ between the quartiles in men and women. Multivariate logistic regression analyses revealed no association between GGT level and high baPWV, carotid atherosclerosis, and carotid stenosis, either as continuous variables or quartiles.

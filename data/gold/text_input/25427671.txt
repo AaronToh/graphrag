@@ -1,0 +1,7 @@
+Document ID: 25427671
+
+The etiology of idiopathic scoliosis remains unknown, but growth is a risk factor for progression. Growth pattern differs in children with and without scoliosis. Cartilage oligomeric matrix protein (COMP) may be associated with scoliosis and growth. We, therefore, studied COMP in children with and without idiopathic scoliosis.
+
+We included 105 children, with mean age 14.4 years (range 10-16), under observation or treatment for idiopathic scoliosis, and 103 children from an age-matched population-based cohort. COMP was measured in serum at the time of inclusion. Growth velocity was estimated from repeated height measurements. T tests, analysis of covariance or linear regression were used for statistical comparisons.
+
+COMP was mean (SD) 11 (5) units/liter (U/L) in children with scoliosis and 13 (5) U/L in the control cohort (p = 0.005, adjusted for sex and sampling time of the day). When patients and controls were analyzed together, high COMP was correlated with high growth velocity (β = 0.19, p = 0.003). When patients and controls were analyzed separately, COMP was correlated with growth velocity in children with scoliosis (β = 0.27, p = 0.007), but not in children without scoliosis (β = 0.02, p = 0.83) (all analyses adjusted for age, sex and sampling time). Low COMP was significantly correlated with large curve size in children with scoliosis (β = -0.29, p = 0.003), but not after adjustment for age, sex and sampling time (β = -0.16; p = 0.14).

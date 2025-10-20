@@ -1,0 +1,7 @@
+Document ID: 25451396
+
+There is a robust comorbidity between mood disorders and cardiovascular disorder (CVD). The atherogenic index of plasma (AIP) and the atherogenic coefficient (AC) are important atherogenic indexes. The aims of this study were to delineate whether AIP and AC are increased in mood disorders especially when comorbid with tobacco use disorder (TUD).
+
+In this case-control study we included 134 patients with mood disorders, bipolar disorder and unipolar depression (cases), and 197 individuals without mood disorder (controls) divided into those with and without TUD (defined as never-smokers). Total cholesterol (TC), triglycerides (TG), high-density lipoprotein cholesterol (HDLc) and low-density lipoprotein cholesterol (LDLc) were measured. AIP and AC were computed as log (TG/HDLc) and non-HDLc/HDLc, respectively.
+
+The AIP and AC indexes were significantly increased in patients with mood disorders versus controls, both in depression and bipolar disorder. Patients with mood disorder without TUD and patients with TUD without mood disorder showed higher AIP and AC values than never-smokers while those with comorbid mood disorders and TUD showed significantly higher AIP and AC levels than all other individuals. A large part of the variance in the AIC (26.4%) and AC (20.4%) was explained by mood disorders, TUD, male gender and body mass index.

@@ -1,0 +1,9 @@
+Document ID: 25444147
+
+Troponins may be elevated in patients with pneumonia, but associations with myocardial infarction (MI) and with platelet activation are still undefined.
+
+The aim of this study was to investigate the relationship between troponin elevation and in vivo markers of platelet activation in the early phase of hospitalization of patients affected by community-acquired pneumonia.
+
+A total of 278 consecutive patients hospitalized for community-acquired pneumonia, who were followed up until discharge, were included. At admission, platelet activation markers such as plasma soluble P-selectin, soluble CD40 ligand, and serum thromboxane B2 (TxB2) were measured. Serum high-sensitivity cardiac troponin T levels and electrocardiograms were obtained every 12 and 24 h, respectively.
+
+Among 144 patients with elevated high-sensitivity cardiac troponin T, 31 had signs of MI and 113 did not. Baseline plasma levels of soluble P-selectin and soluble CD40 ligand and serum TxB2 were significantly higher in patients who developed signs of MI. Logistic regression analysis showed plasma soluble CD40 ligand (p < 0.001) and soluble P-selectin (p < 0.001), serum TxB2 (p = 0.030), mean platelet volume (p = 0.037), Pneumonia Severity Index score (p = 0.030), and ejection fraction (p = 0.001) to be independent predictors of MI. There were no significant differences in MI rate between the 123 patients (45%) taking aspirin (100 mg/day) and those who were not aspirin treated (12% vs. 10%; p = 0.649). Aspirin-treated patients with MIs had higher serum TxB2 compared with those without MIs (p = 0.005).

@@ -1,0 +1,7 @@
+Document ID: 25443365
+
+Radiation induces an important apoptosis response in irradiated organs. The objective of this study was to investigate the radioprotective effect of tetramethylpyrazine (TMP) on irradiated lymphocytes and discover the possible mechanism of protection.
+
+Lymphocytes were pretreated for 12 h with TMP (25-200 μmol·L(-1)) and then exposed to 4 Gy radiation. Cell apoptosis and the signaling pathway were analyzed.
+
+Irradiation increased cell death, DNA fragmentation, activated caspase activation and cytochrome c translocation, downregulated B-cell lymphoma 2 (Bcl-2) and up-regulated Bcl-2-associated X protein (Bax). Pretreated with TMP significantly reversed this tendency. Several anti-apoptotic characteristics of TMP, including the ability to increase cell viability, inhibit caspase-9 activation, and upregulate Bcl-2 and down-regulate Bax in 4Gy-irradiated lymphocytes were determined. Signal pathway analysis showed TMP could translate nuclear factor-κB (NF-κB) from cytosol into the nucleus.
