@@ -1,0 +1,7 @@
+Document ID: 25452308
+
+Epigenetic modifications play an important role in the regulation of gene transcription and cellular function. Here, we examined if pro-inflammatory factors present in the inflamed joint of patients with rheumatoid arthritis (RA) could regulate histone deacetylase (HDAC) expression and function in fibroblast-like synoviocytes (FLS).
+
+Protein acetylation in synovial tissue was assessed by immunohistochemistry. The mRNA levels of HDAC family members and inflammatory mediators in the synovial tissue and the changes in HDAC expression in RA FLS were measured by quantitative (q) PCR. FLS were either transfected with HDAC5 siRNA or transduced with adenoviral vector encoding wild-type HDAC5 and the effects of HDAC5 manipulation were examined by qPCR arrays, ELISA and ELISA-based assays.
+
+Synovial class I HDAC expression was associated with local expression of tumour necrosis factor (TNF) and matrix metalloproteinase-1, while class IIa HDAC5 expression was inversely associated with parameters of disease activity (erythrocyte sedimentation rate, C-reactive protein, Disease Activity Score in 28 Joints). Interleukin (IL)-1β or TNF stimulation selectively suppressed HDAC5 expression in RA FLS, which was sufficient and required for optimal IFNB, CXCL9, CXCL10 and CXCL11 induction by IL-1β, associated with increased nuclear accumulation of the transcription factor, interferon regulatory factor 1(IRF1).

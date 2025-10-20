@@ -1,0 +1,7 @@
+Document ID: 25447429
+
+Time to achieve target temperature varies substantially for patients who undergo targeted temperature management (TTM) after cardiac arrest. The association between arrival at target temperature and neurologic outcome is poorly understood. We hypothesized that shorter time from initiation of cooling to target temperature ("induction") will be associated with worse neurologic outcome, reflecting more profound underlying brain injury and impaired thermoregulatory control.
+
+This was a multicenter retrospective study analyzing data from the Penn Alliance for Therapeutic Hypothermia (PATH) Registry. We examined the association between time from arrest to return of spontaneous circulation (ROSC) ("downtime"), ROSC to initiation of TTM ("pre-induction") and "induction" with cerebral performance category (CPC).
+
+A total of 321 patients were analyzed, of whom 30.8% (99/321) had a good neurologic outcome. Downtime for survivors with good outcome was 11 (IQR 6-27) min vs. 21 (IQR 10-36) min (p=0.002) for those with poor outcome. Pre-induction did not vary between good and poor outcomes (98 (IQR 36-230) min vs. 114 (IQR 34-260) (p=ns)). Induction time in the good outcome cohort was 237 (IQR 142-361) min compared to 180 (IQR 100-276) min (p=0.004). Patients were categorized by induction time (<120min, 120-300min, >300min). Using multivariable logistic regression adjusted for age, initial rhythm, and downtime, induction time >300min was associated with good neurologic outcome when compared to those with an induction time <120min.

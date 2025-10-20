@@ -1,0 +1,9 @@
+Document ID: 27493694
+
+As wearable sensors/devices become increasingly popular to promote physical activity (PA), research is needed to examine how and which components of these devices people use to increase their PA levels.
+
+(1) To assess usability and level of engagement with the Fitbit One and daily SMS-based prompts in a 6-week PA intervention, and (2) to examine whether use/ level of engagement with specific intervention components were associated with PA change.
+
+Data were analyzed from a randomized controlled trial that compared (1) a wearable sensor/ device (Fitbit One) plus SMS-based PA prompts, and (2) Fitbit One only, among overweight/ obese adults (N = 67). We calculated average scores from Likert-type response items that assessed usability and level of engagement with device features (e.g., tracker, website, mobile app, and SMS-based prompts), and assessed whether such factors were associated with change in steps/day (using Actigraph GT3X+).
+
+Participants reported the Fitbit One was easy to use and the tracker helped to be more active. Those who used the Fitbit mobile app (36%) vs. those who did not (64%) had an increase in steps at 6-week follow-up, even after adjusting for previous web/app use: +545 steps/ day (

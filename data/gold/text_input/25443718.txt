@@ -1,0 +1,7 @@
+Document ID: 25443718
+
+Some imidazoline compounds have pleiotropic effects including cell death in vitro. We examined the antiproliferative action of a novel imidazoline compound S43126, and the role of the I1-imidazoline receptor, ROS, MAPKs and caspases in S43126-induced cell death.
+
+PC 12 cells were treated with various concentrations of S43126 in the presence or absence of several ligands, and the effects on cell proliferation, ROS levels, and apoptosis were evaluated using Trypan Blue, Alamar Blue, Western blot and microscopy.
+
+We showed that S43126 reduced PC12 cell proliferation by greater than 50%, increased cell death by greater than 40% and increased apoptotic body formation. These effects were reversed by I1R-antagonist, efaroxan. S43126 also increased intracellular ROS levels by greater than 2.5-fold relative to vehicle-treated control. These effects were significantly inhibited by N-acetyl-cysteine. In addition, pharmacologic inhibitors of ERK, JNK and p38 MAPK, significantly reduced S43126-induced antiproliferative activity. Caspases 3, 8 and 9 were all activated in a time-dependent manner by S43126. Pan caspase inhibitor z-VAD-fmk, ameliorated the effects of S43126 on cell death and cell proliferation.

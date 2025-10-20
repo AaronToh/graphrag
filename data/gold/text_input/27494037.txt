@@ -1,0 +1,7 @@
+Document ID: 27494037
+
+Cancer pain is still inadequately treated in up to 60% of cancer patients. Based on the additional effect on the N-Methyl-d-Aspartate receptor, we expected that methadone (Met) could provide better pain relief than fentanyl (Fen) in cancer pain with a neuropathic pain component.
+
+A randomised controlled trial was performed with 52 strong opioids naive patients with head-and-neck cancer with substantial pain (pain Numerical Rating Scale [NRS] > 4) and a neuropathic pain component (Douleur Neuropathique [DN4] > 4). Twenty-six patients were treated with Met and 26 with Fen. Patients were evaluated at 1, 3 and 5 weeks. The primary outcomes were reduction in average pain, clinical success (defined as 50% average pain decrease) and reduction in pain interference. Secondary outcomes were global perceived effect (GPE) and side-effects.
+
+Reduction in NRS was higher with the use of Met at 1, 3 and 5 weeks (pain change 2.9, 3.1 and 3.1) compared to Fen (1.4, 1.7 and 2.0). This difference was significant at 1 (p = 0.011) and at 3 weeks (p = 0.03). Clinical success (>50% improvement) was higher with Met at 1 week (15% versus 50%, p = 0.012). The change in pain interference, the GPE and side-effect profile were not significantly different between the groups.

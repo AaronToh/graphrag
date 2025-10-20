@@ -1,0 +1,7 @@
+Document ID: 25436328
+
+BACKGROUND/AIMs: Pleiotrophin (PTN) have been demonstrated to play an important role in the development of human gastric cancer. However, the prognostic value remains unclear. The aim of this study was to investigate whether expression of PTN has prognostic relevance in human gastric cancer.
+
+Immunohistochemistry was used to investigate the expression of PTN proteins in 178 patients with gastric cancer. The level of PTN mRNA in gastric cancer tissues and paratumor tissues were evaluated in 52 paired cases by quantitative real-time polymerase chainreaction(qRT-PCR). Survival analysis by the Kaplan-Meier method was performed to assess prognostic significance.
+
+The expression level of PTN in gastric cancer tissues was significantly higher (P<0.001) than those in paratumor tissues according to the immunohistochemistry analysis, which was confirmed by qRT-PCR analysis. Additionally, the overexpression of PTN was significantly associated with the tumor site (P=0.001), Lauren’s classification (P<0.001),histologic differentiation(P=0.014),depth of invasion(P<0.001), TNM stage (P=0.003),and lymph node metastasis (P=0.002). Moreover, the Cox proportional- hazards regression analysis revealed that the increased expression of PTN was an independent prognostic factor for poor recurrence-free survival(RFS) and overall survival(OS)(both P<0.001).

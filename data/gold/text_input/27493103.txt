@@ -1,0 +1,7 @@
+Document ID: 27493103
+
+The pathogenesis and the clinical impact of diastolic dysfunction (DD) in cirrhosis remain unclear. Our aim was to investigate the factors significantly associated with the presence of DD in patients with decompensated cirrhosis on the waiting list for liver transplantation.
+
+consecutive patients with decompensated cirrhosis, who admitted for transplant assessment, were prospectively evaluated. We assessed the independent factors associated with the presence of DD, while their discriminative ability was evaluated by AUC curve. The diagnosis of DD was based on Doppler echocardiography and classified into three categories according to the current guidelines.
+
+we evaluated 115 consecutive patients. Sixty six patients (57.3%-group 1) had DD and 49 (42.7%-group 2) had not DD. The 2 groups had similar Child-Pugh/MELD scores and survival. In multivariable logistic regression analysis, pulse rate (OR: 1.082, 95% CI: 1.03-1.15, p = 0.004), and UNa24h (OR: 0.98, 95% CI: 0.97- 0.99, p = 0.004) were the only variables independently associated with the presence of DD. In the subgroup of consecutive patients (n = 31) with evaluation of cytokines, those (n = 22) with DD, compared to those (n = 9) without DD, had significantly higher levels of inteleukin-6 [145 (45-2000) vs. 56 (10-149)pg/mL, p = 0.043].

@@ -1,0 +1,7 @@
+Document ID: 25440008
+
+To find the relationship between rtPA treatment vs. MMP-9 activity, MMP-3, and TIMP-1 serum levels related to patients' neurological status during acute ischaemic stroke (IS).
+
+35 IS patients were enrolled. 14 of them underwent thrombolytic therapy with Actylise (rtPA group). The serum samples were obtained at 3 time-points for rtPA group (time-point 0: 1st-4th hour of stroke; time-point 1 - immediately after rtPA administration; time-point 2 - on day 5-7 from stroke onset). Remaining patients had venous blood collection at two time-points: time-point 1 - 5th-10th hour of stroke and time-point 2 - on day 5-7 of stroke. MMP-9 was analyzed with gelatin zymography, MMP-3 and TIMP-1 serum levels were analyzed with ELISA method. NIHSS improvement ratio (IR) was calculated as a difference between NIHSS score at the admission and discharge of patient.
+
+The active form of MMP-9 (86kDa) was not observed in any analyzed samples. Total MMP-9 activity was significantly elevated at time-point 1 in rtPA group in comparison with non-rtPA group. MMP-3 serum level significantly decreased during rtPA administration in comparison with non-rtPA group and it was restored at time-point 2. MMP-3 negatively correlated with IR values (p=0.06).

@@ -1,0 +1,9 @@
+Document ID: 27494336
+
+Contaminated hospital surfaces are an important source of nosocomial infections. A major obstacle in marketing antimicrobial surfaces is a lack of efficacy data based on standardized testing protocols.
+
+We compared the efficacy of multiple testing protocols against several "antimicrobial" film surfaces.
+
+Four clinical isolates were used: one Escherichia coli, one Klebsiella pneumoniae, and two Staphylococcus aureus strains. Two industry methods (modified ISO 22196 and ASTM E2149), a "dried droplet", and a "transfer" method were tested against two commercially available antimicrobial films, one film in development, an untreated control, and a positive (silver) control film. At 2 (only ISO) and 24 hours following inoculation, bacteria were collected from film surfaces and enumerated.
+
+Compared to untreated films in all protocols, there were no significant differences in recovery on either commercial brand at 2 or 24 hours after inoculation. The silver surface demonstrated significant microbicidal activity (mean loss 4.9 Log10 CFU/ml) in all methods and time points with the exception of 2 hours in the ISO protocol and the transfer method. Using our novel droplet method, no differences between placebo and active surfaces were detected. The surface in development demonstrated variable activity depending on method, organism, and time point. The ISO demonstrated minimal activity at 2 hours but significant activity at 24 hours (mean 4.5 Log10 CFU/ml difference versus placebo). The ASTEM protocol exhibited significant differences in recovery of staphylococci (mean 5 Log10 CFU/ml) but not Gram-negative isolates (10 fold decrease). Minimal activity was observed with this film in the transfer method.

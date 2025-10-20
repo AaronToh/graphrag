@@ -1,0 +1,7 @@
+Document ID: 25436086
+
+Epilepsy is a neural disorder in which abnormal plastic changes during short and long term periods lead to increased excitability of brain tissue. Kindling is an animal model of epileptogenesis which results in changes of synaptic plasticity due to repetitive electrical or chemical sub-convulsive stimulations of the brain. Lateral hypothalamus, as the main niche of orexin neurons with extensive projections, is involved in sleep and wakefulness and so it affects the excitability of the brain. Therefore, we investigated whether lateral hypothalamic area (LHA) inactivation or orexin-A receptor blocking could change convulsive behavior of acute and kindled PTZ treated animals and if glutamate has a role in this regard.
+
+Kindling was induced by 40 mg/kg PTZ, every 48 hours up to 13 injections to each rat. Three consecutive stages 4 or 5 of convulsive behavior were used to ensure kindling. Lidocaine was injected stereotaxically to inactivate LHA, unilaterally. SB334867 used for orexin receptor 1 (OX1R) blocking administered in CSF.
+
+We demonstrated that LHA inactivation prevented PTZ kindling and hence, excitability evolution. Hippocampal glutamate content was decreased due to LHA inactivation, OX1R antagonist infusion, lidocaine injection and kindled groups. In accordance, OX1R antagonist (SB334867) and lidocaine injection decreased PTZ single dose induced convulsive behavior. While orexin-A i.c.v. infusion increased hippocampal glutamate content, it did not change PTZ induced convulsive intensity.

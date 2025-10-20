@@ -1,0 +1,7 @@
+Document ID: 25445962
+
+Gastrointestinal dysfunction is one of the major complications of diabetes. The roles of inflammation in diabetes and its associated complications are increasingly recognized. p38 mitogen-activated protein kinase (MAPK) has been shown to be involved in the production of pro-inflammatory mediators. The aims of this study were to investigate the effects of SB203580, a specific p38 MAPK inhibitor, on delayed gastric emptying in diabetic rats and to elucidate its possible mechanism.
+
+SB203580 was administered in diabetic rats induced by intraperitoneal injection of streptozotocin. The gastric emptying rate of rats was measured by using phenol red solution, and blood glucose levels and body weights were observed. p38 MAPK activity and iNOS expression were assessed by Western blot analysis. The expression of tumor necrosis factor (TNF)-α and interleukin (IL)-1β were determined by enzyme-linked immunosorbent assay.
+
+Gastric emptying was delayed significantly in diabetic rats and improved significantly with SB203580; high glucose significantly activated p38 MAPK and increased the expression of iNOS, TNF-α and IL-1β. The administration of SB203580 led to a significant decrease in the activation of p38 MAPK and the expression of iNOS, TNF-α and IL-1β.

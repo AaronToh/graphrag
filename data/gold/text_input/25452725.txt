@@ -1,0 +1,7 @@
+Document ID: 25452725
+
+To evaluate the effect of an acute L-dopa administration on eye-closed resting state electroencephalographic (EEG) activity of cognitively preserved Parkinsonian patients.
+
+We examined 24 right-handed patients diagnosed as uncomplicated probable Parkinson's disease (PD). Each patient underwent Unified Parkinson's Disease Rating Scale (UPDRS)-part-III evaluation before and 60 min after an oral load of L-dopa-methyl-ester/carbidopa 250/25 mg. Resting condition eyes-closed EEG data were recorded both pre- and post L-dopa load. Absolute EEG power values were calculated at each scalp derivation for Delta, Theta, Alpha and Beta frequency bands. UPDRS scores (both global and subscale scores) and EEG data (power values of different frequency bands for each scalp derivation) were submitted to a statistical analysis to compare Pre and Post L-Dopa conditions. Finally, a correlation analysis was carried out between EEG spectral content and UPDRS scores.
+
+Considering EEG power spectral analysis, no statistically significant differences arose on Delta and Theta bands after L-dopa intake. Conversely, Alpha and Beta rhythms significantly increased on centro-parietal scalp derivations, as a function of L-dopa administration. Correlation analysis indicated a significant negative correlation between Beta power increase on centro-parietal areas and UPDRS subscores (Rigidity of arms and Bradykinesia). A minor significant negative correlation was also found between Alpha band increase and resting tremor.

@@ -1,0 +1,7 @@
+Document ID: 25440366
+
+We investigated whether a computed tomography (CT)-based score could predict a large infarct (≥ 80 mL) on early diffusion-weighted magnetic resonance imaging (DWI).
+
+Acute stroke patients considered for endovascular therapy within 8 hours of the onset of symptoms were included. The Alberta Stroke Program Early Computed Tomography Score (ASPECTS) was determined on noncontrast CT and computed tomography angiography source images (CTA-SI). Limited collateral flow was defined as less than 50% collateral filling on CTA-SI.
+
+Fifty-six patients were analyzed. National Institutes of Health Stroke Scale score was 20 (15-24) in the large infarct group and 16 (11-20) in the small infarct group (P = .049). ASPECTS on noncontrast CT and CTA-SI was 5 (3-8) and 3 (2-6) in the large infarct group and 9 (8-10) and 8 (7-9) in the small infarct group (both P < .001), respectively. Limited collateral flow was frequent in the large infarct group than in the small infarct group (92% vs. 11%, P < .001). Multivariate analysis found that CTA-SI ASPECTS less than or equal to 5 (odds ratio [OR], 40.55; 95% confidence interval [CI], 1.10-1493.44; P = .044) and limited collateral flow (OR, 114.64; 95% CI, 1.93-6812.79; P = .023) were associated with a large infarct. Absence of ASPECTS less than or equal to 5 and limited collateral flow on CTA-SI predicted absence of a large infarct with a sensitivity of .89, specificity of 1.00, positive predictive value of 1.00, and negative predictive value of .71.

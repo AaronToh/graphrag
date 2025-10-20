@@ -1,0 +1,7 @@
+Document ID: 27505058
+
+A number of studies have suggested that depressed mood is one of the most important predictors of quality of life (QoL) in patients with epilepsy. However, the QoL measure used in previous studies was limited to the Quality of Life in Epilepsy (QOLIE) scales. It could be questioned whether correlation of QOLIE with measures of depression is influenced by the properties of the instruments used rather than being a valid effect. By using visual analogue scales, the current study aimed to clarify whether depression and QoL are truly correlated in patients with epilepsy.
+
+Data from a sample of 261 outpatients with epilepsy attending the Epilepsy Clinics of the Atkinson Morley Outpatient Department, St George's Hospital in London, were analyzed. Patients were screened using the European Quality-of-Life scale (EQ-5D-3L) which includes an overall visual analogue score (EQ-VAS), the Emotional Thermometer (ET7), the Beck Depression inventory-II (BDI-II), the Hospital Anxiety and Depression scale (HADS), and the Major Depression inventory (MDI).
+
+Depression was found to significantly correlate with EQ-VAS score with r coefficient ranging from 0.42 to 0.51 and r(2) coefficients ranging between 0.18 and 0.26. In addition, we identified patients who were depressed according to DSM-IV criteria (MD) and those with atypical forms of depression (AD). The EQ-5D-3L scores in these subjects compared with those without depression (ND) showed a different impact of AD and MD on QoL.

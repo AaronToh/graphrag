@@ -1,0 +1,7 @@
+Document ID: 27515066
+
+Direct interaction between Red blood cells (RBCs) and platelets is known for a long time. The bleeding time is prolonged in anemic patients independent of their platelet count and could be corrected by transfusion of RBCs, which indicates that RBCs play an important role in hemostasis and platelet activation. However, in the last few years, opposing mechanisms of platelet inhibition by RBCs derived nitric oxide (NO) were proposed. The aim of our study was to identify whether RBCs could produce NO and activate soluble guanylate cyclase (sGC) in platelets.
+
+To test whether RBCs could activate sGC under different conditions (whole blood, under hypoxia, or even loaded with NO), we used our well-established and highly sensitive models of NO-dependent sGC activation in platelets and activation of purified sGC. The activation of sGC was monitored by detecting the phosphorylation of Vasodilator Stimulated Phosphoprotein (VASP(S239)) by flow cytometry and Western blot. ANOVA followed by Bonferroni's test and Student's t-test were used as appropriate.
+
+We show that in the whole blood, RBCs prevent NO-mediated inhibition of ADP and TRAP6-induced platelet activation. Likewise, coincubation of RBCs with platelets results in strong inhibition of NO-induced sGC activation. Under hypoxic conditions, incubation of RBCs with NO donor leads to Hb-NO formation which inhibits sGC activation in platelets. Similarly, RBCs inhibit activation of purified sGC, even under conditions optimal for RBC-mediated generation of NO from nitrite.

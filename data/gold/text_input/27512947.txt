@@ -1,0 +1,7 @@
+Document ID: 27512947
+
+Patient-oncologist alliance and psychosocial well-being have strong associations with adherence to cancer management. For patients with cancer of unknown primary (CUP), adherence is crucial to treatment or occult primary screening plans. There has been no study investigating the relationship between alliance, psychosocial factors, and adherence in such patients or in Chinese sociocultural settings.
+
+The measures of alliance, psychosocial well-being, and adherence willingness were administered to patients with CUP, with a mean age of 58.33 ± 11.24 years. Multiple linear regression models were applied to investigate the independent relationship between alliance and adherence by controlling for socioeconomic and psychosocial confounders.
+
+Alliance was found to be independently and positively associated with greater adherence willingness and adherence to treatment and follow-up screening after controlling for significant confounders, including medical conditions, psychosocial well-being variables, and socioeconomic factors.

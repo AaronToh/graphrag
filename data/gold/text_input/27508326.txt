@@ -1,0 +1,7 @@
+Document ID: 27508326
+
+The prognostic relevance of bacterial DNA (bactDNA) detection in ascitic fluid of patients with cirrhosis is still under debate. Using quantitative real-time PCR with broad-range primers targeting the V3 and V4 variable region of the 16S rRNA gene, we measured bactDNA concentrations in patients with and without leukocytic ascites and evaluated the impact on short-term survival.
+
+Ascites samples from 173 patients with decompensated cirrhosis were consecutively collected between February 2011 and December 2012. BactDNA-positive ascites samples were sequenced and chromatograms were identified using RipSeq. Clinical data collection and survival analyses were carried out retrospectively and correlated with ascites bactDNA levels.
+
+BactDNA was detected qualitatively with a similar frequency in both nonleukocytic and leukocytic ascites [40% (57/144) and 43.5% (10/23), respectively; P=0.724]. However, the median bactDNA level was significantly higher in leukocytic ascites than in nonleukocytic ascites (1.2×10 vs. 5.7×10 copies/ml; P=0.008). Patients' survival was associated significantly with bactDNA level. The 30-day and 180-day survival was reduced if bactDNA was above the quantification limit of 520 copies/ml (84 and 63% vs. 72 and 43%, respectively; P<0.05) and worst if bactDNA was above 5000 copies/ml. The bacterial spectrum was dominated by Gram-positive strains as shown by direct sequencing.

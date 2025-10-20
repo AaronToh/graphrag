@@ -1,0 +1,9 @@
+Document ID: 25430696
+
+Rac1 upregulation has been implicated in salt-sensitive hypertension as a modulator of mineralocorticoid receptor (MR) activity. Rac1 could affect the expression of oxidative stress markers, such as hemoxigenase-1 (HO-1) or nuclear factor-B (NF-κB), and the expression of neutrophil gelatinase-associated lipocalin (NGAL), a cytokine upregulated upon MR activation.
+
+We evaluated RAC1 expression in relation of high salt intake and association with MR, NGAL, HO-1, and NF-κB expression, mineralo- and glucocorticoids levels, and inflammatory parameters.
+
+We studied 147 adult subjects. A food survey identified the dietary sodium (Na) intake. RAC1 expression was considered high or low according to the value found in normotensive subjects with low salt intake. We determined the gene expression of RAC1, MR, NGAL, HO-1, NF-κB, and 18S, isolated from peripheral leukocytes. We measured aldosterone, cortisol, sodium, potassium excretion, metalloproteinase (MMP9 y MMP2), and C-reactive protein.
+
+We identified 126 subjects with high Na-intake, 18 subjects had high, and 108 low-RAC1 expression. The subjects with high-RAC1 expression showed a significant increase in MR (P = 0.0002), NGAL (P < 0.0001) HO-1 (P = 0.0004), and NF-κB (P < 0.0001) gene expression. We demonstrated an association between RAC1 expression and MR (R sp 0.64; P < 0.0001), NGAL (R sp 0.48; P < 0.0001), HO-1 (R sp 0.53; P < 0.0001), and NF-κB (R sp0.52; P < 0.0001). We did not identify any association between RAC1 and clinical or biochemical variables.

@@ -1,0 +1,7 @@
+Document ID: 27515135
+
+Extracellular hemoglobin and cell-free heme are toxic breakdown products of hemolyzed erythrocytes. Mammals synthesize the scavenger proteins haptoglobin and hemopexin, which bind extracellular hemoglobin and heme, respectively. Transfusion of packed red blood cells is a lifesaving therapy for patients with hemorrhagic shock. Because erythrocytes undergo progressive deleterious morphological and biochemical changes during storage, transfusion of packed red blood cells that have been stored for prolonged intervals (SRBCs; stored for 35-40 days in humans or 14 days in mice) increases plasma levels of cell-free hemoglobin and heme. Therefore, in patients with hemorrhagic shock, perfusion-sensitive organs such as the kidneys are challenged not only by hypoperfusion but also by the high concentrations of plasma hemoglobin and heme that are associated with the transfusion of SRBCs.
+
+To test whether treatment with exogenous human haptoglobin or hemopexin can ameliorate adverse effects of resuscitation with SRBCs after 2 hours of hemorrhagic shock, mice that received SRBCs were given a coinfusion of haptoglobin, hemopexin, or albumin.
+
+Treatment with haptoglobin or hemopexin but not albumin improved the survival rate and attenuated SRBC-induced inflammation. Treatment with haptoglobin retained free hemoglobin in the plasma and prevented SRBC-induced hemoglobinuria and kidney injury. In mice resuscitated with fresh packed red blood cells, treatment with haptoglobin, hemopexin, or albumin did not cause harmful effects.

@@ -1,0 +1,7 @@
+Document ID: 25451608
+
+Experimental animal studies provided evidence for a synergistic effect of immunological and psychological stressors on subsequent sickness behaviours. Up to now, little corroborating evidence for such synergy exists for humans, in whom it may provide a mechanism leading to the expression of functional somatic symptoms. The aim of the present study was to determine an interaction between stress(-vulnerability) and an immunological activation on experimental pain sensitivity, i.e., pressure pain threshold and tolerance in healthy humans.
+
+In healthy female participants (n=25, mean age 22.3 years), negative affectivity (NA) and experienced stress were assessed by questionnaire before receiving a Salmonella typhi vaccine or saline control in a randomized blinded cross-over design. Pressure pain threshold was assessed at the lower back and calves and pain tolerance was assessed at the thumbnail, before and six hours after each injection.
+
+Vaccination induced leukocytosis (+100%) and increased serum IL-6 (+670%). NA predicted decreased pain tolerance after vaccination (β=-.57, p=.007), but not after placebo (β=.25, p=.26). Post-hoc analyses also demonstrated an association with administration order.

@@ -1,0 +1,7 @@
+Document ID: 25426379
+
+Secondary lymphedema is a common complication of cancer therapy, but options for treating lymphedema are essentially ineffective and limited. On the contrary, lymphangiogenic growth factors accelerate lymphangiogenesis and improve lymphedema.
+
+Rat tail models of lymphedema were assigned to groups that received either daily topical basic fibroblast growth factor (bFGF) or saline (control) groups. Tail volume was measured, and the function of the lymphatic system was evaluated as the fluorescence intensity of indocyanine green every 3 days. The mRNA levels of vascular endothelial growth factor (VEGF)-C and VEGF-D and the protein levels of VEGF-C were evaluated at postoperative days (PODs) 7, 14, and 28. The subcutaneous and deep areas and lymphatic vessel density were histologically determined at PODs 7, 14, and 28.
+
+Tail volume was significantly larger in the control than in the bFGF group (P < 0.05). The intensity of indocyanine green fluorescence significantly decreased earlier in the bFGF group (P < 0.05). The mRNA and protein levels of VEGF-C were upregulated in the bFGF group at POD 14 (P < 0.01). Both subcutaneous and deep tissues gradually withered in both groups but more rapidly in the bFGF, than in the control group, reaching statistically significant differences in the subcutaneous and deeper areas at POD 14 (P < 0.05). Lymphatic vessel density was significantly higher in the bFGF than in the control group at POD 14 (P < 0.05).

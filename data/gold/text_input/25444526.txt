@@ -1,0 +1,7 @@
+Document ID: 25444526
+
+To examine the effect of time after birth on heart rate (HR) measured by pulse oximetry (PO) (HRPO) and electrocardiography (ECG) (HRECG).
+
+HRECG and HRPO (collected at maximum sensitivity) were assessed in 53 term and preterm infants at birth. ECG electrodes and a PO sensor were attached as soon as possible and HRECG and HRPO were compared every 30 seconds from 1-10 minutes after birth. Data were compared using a Wilkinson signed-rank test. Clinical relevance (eg, HR <100 beats per minute [bpm] was tested using a McNemar test).
+
+Seven hundred fifty-five data pairs were analyzed. Median (IQR) gestational age was 37 (31-39) weeks. Mean (SD) starting time of PO and ECG data collection was 99 (33) vs 82 (26) seconds after birth (P = .001). In the first 2 minutes after birth, HRPO was significantly lower compared with HRECG (94 (67-144) vs 150 (91-153) bpm at 60 seconds (P < .05), 81 (60-109) vs 148 (83-170) bpm at 90 seconds (P < .001) and 83 (67-145) vs 158 (119-176) at 120 seconds (P < .001). A HR <100 bpm was more frequently observed with a PO than ECG in the first 2 minutes (64% vs 27% at 60 seconds (P = .05), 56% vs 26% at 90 seconds (P < .05) and 53% vs 21% at 120 seconds (P < .05). HR by ECG was verified by ultrasound for outflow from a subset of infants.

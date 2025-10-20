@@ -1,0 +1,7 @@
+Document ID: 25428750
+
+The aim of this study was to review the impact of salvage external beam radiotherapy (EBRT) of postprostatectomy patients with long-term follow-up on biochemical-free recurrence (BFR) and metastatic-free survival, and to describe pathological and clinical predictors of outcome.
+
+In the period 1987-2010, 76 postprostatectomy patients with biochemical and clinical recurrence received salvage EBRT. Patients were treated with conformal EBRT and 68 (90%) received a dose of 70 Gy; eight patients (10%) received a dose of 60-64 Gy. No patients received adjuvant or neoadjuvant androgen deprivation therapy in conjunction with salvage EBRT.
+
+The median follow-up time after salvage EBRT was 82 months (range 5-192 months). Seventeen patients (22%) developed biochemical recurrence subsequent to postprostatectomy salvage EBRT during the observation time, and the overall 50 and 75 month actuarial BFR rates after salvage EBRT were 84% and 79%, respectively. Seven patients (9%) developed metastatic disease and two patients died of prostate cancer. Independent predictors of biochemical recurrence were seminal vesicle invasion (SVI) in the prostatectomy specimen (p < 0.05) and prostate-specific antigen doubling time (PSADT) of 6 months or less (p = 0.041) before salvage EBRT.

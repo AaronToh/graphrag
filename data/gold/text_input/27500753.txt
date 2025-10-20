@@ -1,0 +1,5 @@
+Document ID: 27500753
+
+High enterolactone levels may have health benefits in relation to risk of noncommunicable diseases. Enterolactone is produced by the colonic microbiota after intake of lignans and treatment with antimicrobials may result in altered enterolactone production. This study investigates the association between antibiotic use and enterolactone concentration.
+
+Using LC-MS/MS, enterolactone concentrations were quantified in plasma samples from 2237 participants from the Diet, Cancer and Health cohort. The participants were healthy at enrollment, but were later diagnosed with cancer. At enrollment, participants had blood drawn and completed a food frequency questionnaire and lifestyle questionnaire. Antibiotic use was assessed as reimbursed antibiotic prescriptions up to 12 months before enrollment. Antibiotic use ≤3 months before enrollment was associated with a 41% (Δ

@@ -1,0 +1,7 @@
+Document ID: 25431309
+
+Up to 3% of infants with bronchiolitis under 12 months of age are hospitalised, and up to 9% require intensive care. We evaluated the costs of bronchiolitis hospitalisation, with a special focus on whether infants needed intensive care.
+
+Baseline and cost data were retrospectively collected, using electronic hospital files, for 80 infants under 12 months old who were treated in the paediatric intensive care unit (PICU) for bronchiolitis during a 13-year period. We calculated the daily costs for patients admitted to the PICU and compared them with 104 admitted to inpatient wards and 56 outpatients treated in the emergency department.
+
+The mean hospitalisation cost for PICU patients was €8061 (95% CI 6193-9929), compared to €1834 (1649-2020) for other inpatients and €359 (331-387) for the outpatients. The hospitalisation cost per patient was associated with length of hospital stay, but not gender, age on admission or gestational age. There was no constant increase or decrease in hospitalisation costs during the study period.

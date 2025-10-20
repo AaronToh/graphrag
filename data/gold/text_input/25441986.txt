@@ -1,0 +1,7 @@
+Document ID: 25441986
+
+To investigate the inhibitory effects of adenovirus-mediated NDRG2 on the proliferation of human renal cell carcinoma cell line OS-RC-2 in vitro.
+
+NDRG2 was harvested by RT-PCR, confirmed by DNA sequencing, and then cloned into the eukaryotic expression vector pIRES2-EGFP, which encodes green fluorescent protein (GFP), to construct pIRES2-EGFP-NDRG2 plasmid. OS-RC-2 cells with NDRG2 negative expression were transfected with pIRES2-EGFP-NDRG2 plasmid. The growth of transfected OS-RC-2 cells was observed under light and fluorescence microscopes. After colony-forming cell assays, cell proliferation detection and MTT assays, the growth curves of cells in each group were plotted to investigate the inhibitory effects of adenovirus-mediated NDRG2 on the proliferation of OS-RC-2 cells. Cell cycle was determined by flow cytometry. Confocal laser scanning microscopy showed that NDRG2 protein was specifically located on subcellular organelle.
+
+A eukaryotic expression vector pIRES2-EGFP-NDRG2 was successfully constructed. After NDRG2 transfection, the growth of OS-RC-2 cells was inhibited. Flow cytometry showed that cells were arrested in S phase but the peak of cell apoptosis was not present, and confocal laser scanning microscopy showed that NDRG2 protein was located in mitochondrion.

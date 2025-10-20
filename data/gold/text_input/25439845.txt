@@ -1,0 +1,15 @@
+Document ID: 25439845
+
+To determine whether granulocyte colony-stimulating factor (G-CSF) could prevent loss of spermatogenesis induced by busulfan chemotherapy via protection of undifferentiated spermatogonia, which might serve as an adjuvant approach to preserving male fertility among cancer patients.
+
+Laboratory animal study.
+
+University.
+
+Laboratory mice.
+
+Five-week-old mice were treated with a sterilizing busulfan dose and with 7 days of G-CSF or vehicle treatment and evaluated 10 weeks later (experiment 1) or 24 hours after treatment (experiment 2).
+
+Experiment 1: testis weights, epididymal sperm counts, testis histology. Experiment 2: PLZF immunofluorescent costaining with apoptotic markers. Molecular analysis of G-CSF receptor expression in undifferentiated spermatogonia.
+
+Ten weeks after treatment, busulfan-treated mice that also received treatment with G-CSF exhibited significantly better recovery of spermatogenesis and epididymal sperm counts than animals receiving busulfan alone. G-CSF led to increased numbers of PLZF+ spermatogonia 24 hours after treatment that was not accompanied by changes in apoptosis. To address the cellular target of G-CSF, mRNA for the G-CSF receptor, Csf3r, was found in adult mouse testes and cultured THY1+ (undifferentiated) spermatogonia, and cell-surface localized CSF3R was observed on 3% of cultured THY1+ spermatogonia.

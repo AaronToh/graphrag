@@ -1,0 +1,7 @@
+Document ID: 25437140
+
+The ability of a treatment method to interfere with tinnitus-related neural activity patterns, such as cortical gamma rhythms, has been suggested to indicate its potential in relieving tinnitus. Therapeutic modulation of gamma-band oscillations with vagus nerve stimulation has been recently reported in epileptic patients. The aim of this study was to investigate the effects of transcutaneous vagus nerve stimulation (tVNS) on neural oscillatory patterns.
+
+We calculated the power spectral density and synchrony of magnetoencephalography recordings during auditory stimulation in seven tinnitus patients and eight normal-hearing control subjects. Comparisons between subject groups were performed to reveal electrophysiological markers of tinnitus. tVNS-specific effects within each group were studied by comparing recording blocks with and without tVNS. We also investigated the correlation of each measure with individual ratings of tinnitus distress, as measured by the tinnitus handicap inventory questionnaire.
+
+Tinnitus patients differed from controls in the baseline condition (no tVNS applied), measured by both cortical oscillatory power and synchronization, particularly at beta and gamma frequencies. Importantly, we found tVNS-induced changes in synchrony, correlating strongly with tinnitus handicap inventory scores, at whole-head beta-band (r = -0.857, p = 0.007), whole-head gamma-band (r = -0.952, p = 0.0003), and frontal gamma-band (r = -0.952, p = 0.0003).

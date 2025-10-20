@@ -1,0 +1,7 @@
+Document ID: 25422774
+
+The aim of the present study was to determine the effect of moderate aerobic exercise on cardiac autonomic function in type 2 diabetic patients.
+
+Heart rate variability of 20 patients with type 2 diabetes was assessed. Resting electrocardiogram for the heart rate variability analysis at spontaneous respiration was recorded for 5 min in the supine position before and after 6 months of supervised aerobic training given three times per week.
+
+In time domain measures, the square root of the mean of the sum of the squares of differences between adjacent R-R intervals (RMSSD; 29.7 [26-34.5] vs 46.4 [29.8-52.2] ms, P = 0.023) and the percentage of consecutive RR intervals that differ by more than 50 ms (pNN50; 10.7 [5.5-12.7] vs 26.1 [6.6-37.2]%, P = 0.025] were significantly increased after exercise. In frequency domain measures, low frequency (62.4 [59.1-79.2] vs 37 [31.3-43.3] nu, P = 0.003) and low frequency/high frequency (1.67 [1.44-3.8] vs 0.58 [0.46-0.59]%, P = 0.009) were significantly decreased, whereas high frequency (95 [67-149] vs 229 [98-427] ms(2), P = 0.006) and high frequency (37.6 [20.8-40.9] vs 63 [56.7-68.7] normalized units, P = 0.003) were significantly increased after exercise. In a Poincaré plot, standard deviation perpendicular to the line of the Poincaré plot (SD1; 21.3 [18.5-24.8]-33.1 [21.5-37.2] ms, P = 0.027) was significantly increased after exercise.

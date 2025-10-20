@@ -1,0 +1,7 @@
+Document ID: 27514616
+
+Knowledge of sepsis-related end-organ inflammation in vivo is limited. We investigated the cytokine response in skin and in serum in sepsis and its relation to multiorgan failure (MOF) and survival.
+
+Cytokines were analysed in serum and in suction blister fluid of intact skin of 44 patients with severe sepsis and 15 healthy controls. Blister fluid and serum samples were collected within 48 h of the first sepsis-induced organ failure. This is a substudy of a larger follow-up study on wound healing in sepsis.
+
+Cytokine levels were higher in patients with sepsis vs. controls (interleukin [IL]-10, blisters: 65.9 vs. 4.3 pg/ml, P < 0.001, serum: 25.7 vs. 4.5 pg/ml, P = 0.004; IL-6, blisters: 41.9 vs. 0.03 pg/ml, P < 0.001, serum: 45.5 vs. 2.1 pg/ml, P < 0.001). Patients with MOF had higher levels of IL-10 (116.4 vs. 21.3 pg/ml, P = 0.015), IL-4 (0.7 vs. 0.07 pg/ml, P = 0.013) and basic fibroblast growth factor (bFGF) (25.9 vs. 9.5 pg/ml, P = 0.027) in blister fluid than patients without MOF. In blister fluid, survivors had lower levels of IL-10 (43.3 vs. 181.9 pg/ml, P = 0.024) and bFGF (15.8 vs. 31.9 pg/ml, P = 0.006) than non-survivors. In serum, survivors had higher levels of vascular endothelial growth factor (VEGF) (152.2 vs. 14.7 pg/ml, P = 0.012) and lower levels of IL-6 (38.5 vs. 91.1 pg/ml, P = 0.011) than non-survivors. The blister fluid levels of bFGF, TNF and VEGF did not correlate with the serum levels.

@@ -1,0 +1,7 @@
+Document ID: 27506388
+
+We have previously shown that the grape bioactive compound resveratrol (RSV) potentiates grape seed extract (GSE)-induced colon cancer cell apoptosis at physiologically relevant concentrations. However, RSV-GSE combination efficacy against colon cancer stem cells (CSCs), which play a key role in chemotherapy and radiation resistance, is not known.
+
+We tested the anti-cancer efficacy of the RSV-GSE against colon CSCs using isolated human colon CSCs in vitro and an azoxymethane-induced mouse model of colon carcinogenesis in vivo.
+
+RSV-GSE suppressed tumor incidence similar to sulindac, without any gastrointestinal toxicity. Additionally, RSV-GSE treatment reduced the number of crypts containing cells with nuclear β-catenin (an indicator of colon CSCs) via induction of apoptosis. In vitro, RSV-GSE suppressed - proliferation, sphere formation, nuclear translocation of β-catenin (a critical regulator of CSC proliferation) similar to sulindac in isolated human colon CSCs. RSV-GSE, but not sulindac, suppressed downstream protein levels of Wnt/β-catenin pathway, c-Myc and cyclin D1. RSV-GSE also induced mitochondrial-mediated apoptosis in colon CSCs characterized by elevated p53, Bax/Bcl-2 ratio and cleaved PARP. Furthermore, shRNA-mediated knockdown of p53, a tumor suppressor gene, in colon CSCs did not alter efficacy of RSV-GSE.

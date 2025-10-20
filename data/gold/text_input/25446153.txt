@@ -1,0 +1,9 @@
+Document ID: 25446153
+
+Implantable cardioverter-defibrillator (ICD) implantation is contraindicated in those with <1-year life expectancy.
+
+The aim of this study was to develop a risk prediction score for 1-year mortality in patients with primary prevention ICDs and to determine the incremental improvement in discrimination when serum-based biomarkers are added to traditional clinical variables.
+
+We analyzed data from the Prospective Observational Study of Implantable Cardioverter-Defibrillators, a large prospective observational study of patients undergoing primary prevention ICD implantation who were extensively phenotyped for clinical and serum-based biomarkers. We identified variables predicting 1-year mortality and synthesized them into a comprehensive risk scoring construct using backward selection.
+
+Of 1189 patients deemed by their treating physicians as having a reasonable 1-year life expectancy, 62 (5.2%) patients died within 1 year of ICD implantation. The risk score, composed of 6 clinical factors (age ≥75 years, New York Heart Association class III/IV, atrial fibrillation, estimated glomerular filtration rate <30 mL/min/1.73 m(2), diabetes, and use of diuretics), had good discrimination (area under the curve 0.77) for 1-year mortality. Addition of 3 biomarkers (tumor necrosis factor α receptor II, pro-brain natriuretic peptide, and cardiac troponin T) further improved model discrimination to 0.82. Patients with 0-1, 2-3, 4-6, or 7-9 risk factors had 1-year mortality rates of 0.8%, 2.7%, 16.1%, and 46.2%, respectively.

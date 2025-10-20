@@ -1,0 +1,11 @@
+Document ID: 27520078
+
+The lumbar facet capsular ligament (FCL) is a posterior spinal ligament with a complex structure and kinematic profile. The FCL has a curved geometry, multiple attachment sites, and preferentially aligned collagen fiber bundles on the posterior surface that are innervated with mechanoreceptive nerve endings. Spinal flexion induces three-dimensional (3D) deformations, requiring the FCL to maintain significant tensile and shear loads. Previous works aimed to study 3D facet joint kinematics during flexion, but to our knowledge none have reported localized FCL surface deformations likely created by this complex structure.
+
+The purpose of this study was to elucidate local deformations of both the posterior and anterior surfaces of the lumbar FCL to understand the distribution and magnitude of in-plane and through-plane deformations, including the prevalence of shear.
+
+The FCL anterior and posterior surface deformations were quantified through creation of a finite element model simulating facet joint flexion using a realistic geometry, physiological kinematics, and fitted constitutive material.
+
+Geometry was obtained from the micro-CT data of a healthy L3-L4 facet joint capsule (n=1); kinematics were extracted from sagittal plane fluoroscopic data of healthy volunteers (n=10) performing flexion; and average material properties were determined from planar biaxial extension tests of L4-L5 FCLs (n=6). All analyses were performed with the non-linear finite element solver, FEBio. A grid of equally spaced 3×3 nodes on the posterior surface identified regional differences within the strain fields and was used to create comparisons against previously published experimental data. This study was funded by the National Institutes of Health and the authors have no disclosures.
+
+Inhomogeneous in-plane and through-plane shear deformations were prominent through the middle body of the FCL on both surfaces. Anterior surface deformations were more pronounced because of the small width of the joint space, whereas posterior surface deformations were more diffuse because the larger area increased deformability. We speculate these areas of large deformation may provide this proprioceptive system with an excellent measure of spinal motion.

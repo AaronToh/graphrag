@@ -1,0 +1,7 @@
+Document ID: 27499703
+
+Chemoresistance hinders curative cancer chemotherapy in osteosarcoma (OS), resulting in only an approximately 20 % survival rate in patients with metastatic disease at diagnosis. Identifying the mechanisms responsible for regulating chemotherapy resistance is crucial for improving OS treatment.
+
+This study was performed in two human OS cell lines (the multi-chemosensitive OS cell line G-292 and the multi-chemoresistant OS cell line SJSA-1). The levels of miR-20a-5p and KIF26B mRNA expression were determined by quantitative real-time PCR. KIF26B protein levels were determined by western blot analysis. Cell viability was assessed by MTT assay. Apoptosis was evaluated by flow cytometry.
+
+We found that miR-20a-5p was more highly expressed in G-292 cells than in SJSA-1 cells. Forced expression of miR-20a-5p counteracted OS cell chemoresistance in both cell culture and tumor xenografts in nude mice. One of miR-20a-5p's targets, kinesin family member 26B (KIF26B), was found to mediate the miR-20a-5p-induced reduction in OS chemoresistance by modulating the activities of the MAPK/ERK and cAMP/PKA signaling pathways.

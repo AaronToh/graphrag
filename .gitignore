@@ -13,7 +13,6 @@
 workspace/cache/
 ingest/logs/
 ingest/*.log
-model/*.log
 *.log
 
 # data input

@@ -1,0 +1,7 @@
+Document ID: 27492913
+
+To investigate the recent incidence of T1D in a US Midwestern county to determine whether this increase has been sustained and compare it with the incidence of celiac disease (CD) and also investigate the prevalence of CD, an associated autoimmune disease, within the cohort.
+
+A broad search strategy was used to identify all incident cases of T1D in Olmsted County, Minnesota, between January 1, 1994, and December 31, 2010, using the Rochester Epidemiology Project. Diagnosis and residency status were confirmed through the medical record. Incidence rates were directly standardized to the 2010 US population. Poisson regression was used to test for a change in incidence rate. Clinical charts were reviewed to confirm case status.
+
+There were 233 incident cases of T1D. Directly adjusting for age and sex with respect to the 2010 US white population, the overall annual incidence of T1D was 9.2 (95% CI, 8.0-10.4) per 100,000 people per year among all ages and 19.9 (95% CI, 16.6-23.2) per 100,000 people per year for those younger than 20 years. There was no significant increase in the incidence of T1D over time (P=.45). Despite the overall stability in annual incidence, there was an initial increasing trend followed by a plateau. Of the 109 patients with T1D (47%) tested for CD, 12% (13) had biopsy-proven CD.

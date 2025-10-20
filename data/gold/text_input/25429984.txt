@@ -1,0 +1,7 @@
+Document ID: 25429984
+
+Some cases with non-alcoholic fatty liver disease (NAFLD), particularly non-alcoholic steatohepatitis (NASH), can ultimately progress to liver cirrhosis. However, studies to clarify factors predictive of histological change in patients with NASH remain scarce. Our aim is to determine predictors of histological progression in Japanese patients with biopsy-proven NASH.
+
+This retrospective cohort study enrolled 52 patients with NASH who underwent serial liver biopsies. Histological evaluation included NAFLD activity score (NAS) and liver fibrosis. The median interval between initial and second liver biopsies was 968 days. An alanine aminotransferase (ALT) response was defined as a decrease of 30% or more from baseline.
+
+Of 52 patients, NAS was ameliorated in 30.8%, deteriorated in 30.8% and remained unchanged in 38.4%. Liver fibrosis was improved in 25.0% of patients, progressed in 25.0% and remained stable in 50.0%. Multivariate analysis identified ALT non-response as a predictor of deterioration of NAS (hazard ratio [HR], 5.85; P = 0.031) and progression of liver fibrosis (HR, 4.50; P = 0.029). The mean annual rate of fibrosis was 0.002 stages/year overall, increasing to 0.15 stages/year in ALT non-responders.

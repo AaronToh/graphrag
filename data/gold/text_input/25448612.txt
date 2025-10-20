@@ -1,0 +1,7 @@
+Document ID: 25448612
+
+To investigate whether premorbid maternal and childhood psychological problems are risk factors for chronic disabling fatigue at age 13 years among children in the Avon Longitudinal Study of Parents and Children birth cohort.
+
+Chronic disabling fatigue was defined as fatigue of at least 3-month, and up to 5-year, duration that prevented school attendance or hobbies/sport/leisure activities, and for which other causes were not identified. Maternal psychological factors were symptoms of anxiety and depression assessed up to eight times between pregnancy and age 6 years. We investigated critical periods for maternal effects and effects of paternal depression at three time points. Child psychological factors included internalizing and externalizing problems and upsetting life events occurring at age 7-8 years.
+
+Of 5,657 children, 110 (1.9%) had chronic disabling fatigue at age 13 years. Maternal anxiety (adjusted odds ratio [AOR], 1.19; 95% confidence interval [CI], 1.09-1.31 per episode), maternal depression (AOR, 1.24; CI, 1.11-1.39 per episode), child psychological problems (AOR, 1.19; CI, 1.00-1.41 per problem), and upsetting events (AOR, 1.22; CI, .99-1.58 per event) were associated with chronic disabling fatigue. Associations of child psychological problems and upsetting events were attenuated (AOR, 1.12; CI, .93-1.33 per problem; AOR, 1.19; CI, .94-1.52 per event) after further adjusting for maternal anxiety and depression.

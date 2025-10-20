@@ -1,0 +1,7 @@
+Document ID: 27519165
+
+To investigate whether the use of continuous Pringle maneuver (PM) adversely impacts the outcome of patients with hepatocellular carcinoma (HCC).
+
+From January 1989 to January 2011, 586 HCC patients who underwent curative resection in Peking Union Medical College Hospital were identified from the database. Continuous PM was performed in 290 patients (PM group), including 163 patients with a hepatic inflow occlusion time of <15 min (PM-1 group) and 127 with 15-30 min (PM-2 group). An additional 296 patients underwent partial hepatectomy without inflow occlusion (occlusion-free, OF group).
+
+The PM group showed less estimated blood loss during hepatectomy than the OF group (P = 0.005) and the two groups experienced similar incidence of perioperative complications. There were no significant differences in either overall survival or disease-free survival (DFS) between the PM and OF groups (P = 0.117 and 0.291, respectively), and between the PM-1 and PM-2 groups (P = 0.344 and 0.103, respectively). Hepatic inflow occlusion and occlusion time were not independent risk factors for OS or DFS.

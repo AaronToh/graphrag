@@ -1,0 +1,7 @@
+Document ID: 25432585
+
+Oxidative stress causes the defects of retinal pigment epithelial (RPE) cells that contribute to age-related macular degeneration (AMD). This study was conducted to determine whether wogonin could prevent H2O2-induced oxidative stress in RPE cells.
+
+A RPE cell line, ARPE-19, was obtained for the cell model. ARPE-19 cells were pre-treated with various concentrations of wogonin for 24 h before being exposed to H2O2 for 2 h to induce oxidative stress. Cell metabolic activity was measured using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. Cellular apoptosis was quantified by the flow cytometry. Protein level was assed by western blot.
+
+The RPE cells exposed to to 200 mM H2O2 demonstrated a significant depression in the cell viability; whereas pre-treatment with 50 and 100 mmol/l wogonin could significantly improve the cell viability in a dose-dependent manner. The proportion of PI-positive cells was increased significantly in RPE cells treated with H2O2 alone; whereas pretreatment with 100 mM wogonin significantly reduced H2O2 -induced RPE cell death rate. In protein level, the wogonin use could reduce the level of p-Akt significantly and this is the possible mechanism of the antioxidant effect of wogonin.

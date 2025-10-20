@@ -1,0 +1,7 @@
+Document ID: 25432365
+
+To investigate the eff ect of intestinal trefoil factor (ITF) on the transcriptional activity of ITF promoter and to explore the regulatory mechanism of Janus kinase/signal transducers and activators of transcription (JAK/STAT) on ITF promoter.
+
+The 5' flanking sequence of the ITF gene was cloned from human whole blood genomic DNA by PCR. ITF promoter fragment was cloned and inserted into the pGL3-Basic vector to construct recombinant vector. ITF promoter vector was stimulated with ITF at various concentrations and the luciferase activity was measured. The JAK-STAT3 signal transduction pathway was then blocked by a specific inhibitor AG490 to determine the signal pathway involved in ITF promoter activity.
+
+Restriction endonuclease analysis and DNA sequencing confirmed that the recombinant plasmid, containing ITF promoter, was constructed successfully. After transient transfection, the activity of ITF promoter was increased significantly in the presence of ITF (P<0.05). Blockage of the JAK-STAT3 signal transduction pathway with AG490 significantly reduced the ITF promoter activity (P<0.05).

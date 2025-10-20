@@ -1,0 +1,7 @@
+Document ID: 25436996
+
+CD100, also known as Sema4D, is a member of the semaphorin family and has important regulatory functions that promote immune cell activation and responses. The role of CD100 expression on B cells in immune regulation during chronic hepatitis C virus (HCV) infection remains unclear.
+
+We longitudinally investigated the altered expression of CD100, its receptor CD72, and other activation markers CD69 and CD86 on B cells in 20 chronic HCV-infected patients before and after treatment with pegylated interferon-alpha (Peg-IFN-α) and ribavirin (RBV) by flow cytometry.
+
+The frequency of CD5+ B cells as well as the expression levels of CD100, CD69 and CD86 was significantly increased in chronic HCV patients and returned to normal in patients with sustained virological response after discontinuation of IFN-α/RBV therapy. Upon IFN-α treatment, CD100 expression on B cells and the two subsets was further up-regulated in patients who achieved early virological response, and this was confirmed by in vitro experiments. Moreover, the increased CD100 expression via IFN-α was inversely correlated with the decline of the HCV-RNA titer during early-phase treatment.

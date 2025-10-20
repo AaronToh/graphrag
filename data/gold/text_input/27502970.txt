@@ -1,0 +1,7 @@
+Document ID: 27502970
+
+To systematically review methodological articles which focus on nonpublication of studies and to describe methods of detecting and/or quantifying and/or adjusting for dissemination in meta-analyses. To evaluate whether the methods have been applied to an empirical data set for which one can be reasonably confident that all studies conducted have been included.
+
+We systematically searched Medline, the Cochrane Library, and Web of Science, for methodological articles that describe at least one method of detecting and/or quantifying and/or adjusting for dissemination bias in meta-analyses.
+
+The literature search retrieved 2,224 records, of which we finally included 150 full-text articles. A great variety of methods to detect, quantify, or adjust for dissemination bias were described. Methods included graphical methods mainly based on funnel plot approaches, statistical methods, such as regression tests, selection models, sensitivity analyses, and a great number of more recent statistical approaches. Only few methods have been validated in empirical evaluations using unpublished studies obtained from regulators (Food and Drug Administration, European Medicines Agency).

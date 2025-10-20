@@ -1,0 +1,7 @@
+Document ID: 25452595
+
+Mycobacterium abscessus has emerged as a major pathogen in cystic fibrosis (CF) patients and has been associated with poor clinical outcomes, particularly following lung transplant. We investigated the acquisition of this bacterium in a cohort of pediatric CF patients.
+
+Demographic and patient location data were used to uncover epidemiological links between patients with genetically related strains of M. abscessus that had been previously typed by variable-number tandem repeat profiling. Whole-genome sequencing was applied to 27 M. abscessus isolates from the 20 patients in this cohort to provide definitive data on the genetic relatedness of strains.
+
+Whole-genome sequencing data demonstrated that M. abscessus isolates from 16 patients were unrelated, differing by at least 34 single-nucleotide polymorphisms (SNPs) from any other isolate, suggesting that independent acquisition events have occurred. Only 2 clusters of very closely related (<25 SNPs) isolates from different patients were seen. The first cluster contained 8 isolates, differing by a maximum of 17 SNPs, from a sibling pair who had intense exposure to each other both inside and outside the hospital. The second cluster contained 3 isolates, differing by a maximum of 24 SNPs, from 2 individuals with no apparent epidemiological links.

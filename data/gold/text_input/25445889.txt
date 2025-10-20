@@ -1,0 +1,7 @@
+Document ID: 25445889
+
+Lysophospholipids, particularly sphingosine 1-phosphate and lysophosphatidic acid, are known to be involved in the pathogenesis of atherosclerosis; however, the role of lysophosphatidylserine (LysoPS) in the onset of atherosclerotic diseases remains uncertain.
+
+We investigated the effects of LysoPS on the uptake of oxidized low-density lipoprotein (oxLDL) and the modulation of inflammatory mediators and ER stress utilizing RAW264.7 cells and mouse peritoneal macrophages (MPMs).
+
+We found that LysoPS augmented cholesterol accumulation in both models. Consistent with these findings, LysoPS increased the expression of scavenger receptors (CD36, MSR1, LOX1 and TLR4). Regarding the involvement of these lipids in inflammation, LysoPS significantly decreased the expression of inflammatory mediators in lipopolysaccharide (LPS)-treated RAW264.7 cells and MPMs. LysoPS also attenuated ER stress in LPS-untreated RAW264.7 cells. The expression patterns of LysoPS receptors differed considerably among the LPS-untreated RAW264.7 cells, LPS-treated RAW264.7 cells and MPMs.

@@ -1,0 +1,7 @@
+Document ID: 25442652
+
+The purpose of this study was to evaluate the role of capsular closure after hip arthroscopy in reduction of the incidence of heterotopic ossification (HO).
+
+One hundred (50 study group, 50 control group) consecutive hip arthroscopy procedures with radiographic follow-up of more than 9 weeks were included in the study. The study group consisted of 50 patients in whom capsular closure with 2 No. 1 polydioxanone (PDS) sutures was performed, and a control group consisted of 50 patients in whom the capsule remained open after capsulotomy. HO was assessed by radiographs using the Brooker classification. Statistical analysis of the data was carried out with the χ-square or Fisher exact test and Student t test, when appropriate, at a significance level of .05.
+
+Thirty-six (36%) patients had radiographic evidence of postoperative HO (14 patients in the capsular closure group). No significant difference was found regarding sex, side of operation, age, or HO rate between the study and the control groups (P = .778, P = .123, P = .744, and P = .144, respectively). Furthermore, no significant difference was found in the rate of HO with potential clinical significance (Brooker classification > I) between the control and study groups (P = .764).

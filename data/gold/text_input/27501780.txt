@@ -1,0 +1,7 @@
+Document ID: 27501780
+
+The mechanisms driving glucocorticoid (GC) insensitivity in patients with severe asthma are still unknown. Recent evidence suggests the existence of GC-insensitive pathways in airway smooth muscle (ASM) caused by a defect in GC receptor (GRα) function. We examined whether other mechanisms could potentially explain the reduced sensitivity of ASM cells to GC in severe asthmatics.
+
+Airway smooth muscle cells from healthy and severe asthmatic subjects were treated with TNF-α and responses to corticosteroids in both cohorts were compared by ELISA, immunoblot, immunohistochemistry and real-time PCR. Immunohistochemistry and flow cytometry assays were used to assess the expression of the protein phosphatase PP5 in endobronchial biopsies and ASM cells.
+
+The production of CCL11 and CCL5 by TNF-α was insensitive to both fluticasone and dexamethasone in ASM cells from severe asthmatic compared to that in healthy subjects. Fluticasone-induced GRα nuclear translocation, phosphorylation at serine 211 and expression of GC-induced leucine zipper (GILZ) were significantly reduced in ASM cells from severe asthmatics compared to responses in healthy subjects. Levels of PP5 were increased in ASM cells from severe asthmatics and PP5 knockdown using siRNA restored fluticasone repressive action on chemokine production and its ability to induce GRα nuclear translocation and GRE-dependent GILZ expression. In vivo PP5 expression was also increased in the ASM bundles in endobronchial biopsies in severe asthmatics.

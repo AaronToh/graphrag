@@ -1,0 +1,11 @@
+Document ID: 25446837
+
+To determine the effects of supplemental fiber on plasma p-cresol, stool frequency, and quality of life (QoL) in chronic kidney disease (CKD) patients.
+
+In a 12-week single-blind study, participants were provided with control muffins and supplements (5.5 g sucrose/day) for 2 weeks, muffins containing 10 g/day pea hull fiber and control supplements for 4 weeks, and muffins with 10 g/day pea hull fiber and 15 g/day inulin as a supplement for 6 weeks.
+
+Individuals with CKD (n = 13; 6 males, 7 females; aged 65 ± 3 years; estimated glomerular filtration rate <50 mL/minute/1.73(2)) completed the study.
+
+Plasma p-cresol was determined by gas chromatography-mass spectrometry, stool frequency by 5-day journals, and QoL by the KDQOL-36™.
+
+Plasma p-cresol decreased from 7.25 ± 1.74 mg/L during week 1 to 5.82 ± 1.72 mg/L during week 12 (P < .05), and in participants with high compliance (>70% inulin intake), from 6.71 ± 1.98 mg/L to 4.22 ± 1.16 mg/L (P < .05). Total fiber intake increased from 16.6 ± 1.7 g/day during control to 26.5 ± 2.4 g/day (P < .0001) with the added pea hull and to 34.5 ± 2.2 g/day with pea hull and inulin (P < .0001). Stool frequency increased from 1.4 ± 0.2 stools/day during control to 1.9 ± 0.3 stools/day during both fiber periods (P < .05). No change in overall QoL was observed.

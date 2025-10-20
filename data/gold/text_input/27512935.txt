@@ -1,0 +1,7 @@
+Document ID: 27512935
+
+Previously, we found that application of pulsed radiofrequency to a peripheral nerve injury induces changes in key genes regulating nociception concurrent with alleviation of paw sensitivity in an animal model. In the current study, we evaluated such genes after applying spinal cord stimulation (SCS) therapy.
+
+Male Sprague-Dawley rats (n = 6 per group) were randomized into test and control groups. The spared nerve injury model was used to simulate a neuropathic pain state. A 4-contact microelectrode was implanted at the L1 vertebral level and SCS was applied continuously for 72 hours. Mechanical hyperalgesia was tested. Spinal cord tissues were collected and analyzed using real-time polymerase chain reaction to quantify levels of IL1β, GABAbr1, subP, Na/K ATPase, cFos, 5HT3ra, TNFα, Gal, VIP, NpY, IL6, GFAP, ITGAM, and BDNF.
+
+Paw withdrawal thresholds significantly decreased in spared nerve injury animals and stimulation attenuated sensitivity within 24 hours (P = 0.049), remaining significant through 72 hours (P = 0.003). Nerve injury caused up-regulation of TNFα, GFAP, ITGAM, and cFOS as well as down-regulation of Na/K ATPase. Spinal cord stimulation therapy modulated the expression of 5HT3ra, cFOS, and GABAbr1. Strong inverse relationships in gene expression relative to the amount of applied current were observed for GABAbr1 (R = -0.65) and Na/K ATPase (R = -0.58), and a positive linear correlations between 5HT3r (R = 0.80) and VIP (R = 0.50) were observed.

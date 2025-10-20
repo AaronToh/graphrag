@@ -1,0 +1,7 @@
+Document ID: 27505855
+
+The isoflavone puerarin [7-hydroxy-3-(4-hydroxyphenyl)-1-benzopyran-4-one 8-(β-D-glucopyranoside)] possesses many biological activities. In this study, we investigated the effects of puerarin on adhesion molecules (AMs), including serum levels of intercellular adhesion molecule-1 (ICAM-1), vascular cell adhesion molecule-1 (VCAM-1), and endothelial leukocyte adhesion molecule-1 (E-selectin), and the activation of nuclear factor kappa B (NF-κB) in rabbits with experimental atherosclerosis.
+
+In total, 24 rabbits were divided into control (standard diet), high-lipid diet (HLD), and PUE (HLD supplemented with puerarin) groups. At the end of weeks 0, 8, and 16, serum levels of AMs were measured. At the end of week 16, the thickness of the intima was detected. Protein and mRNA levels of AMs were checked by immunohistochemistry and RT-PCR, respectively. Protein levels of p65 NF-κB and phosphorylation of inhibitor-κB (I-κB) were investigated by Western blotting.
+
+Atherosclerotic lesions in the thoracic arch were found in the HLD and PUE groups, but not in the control group. Compared with the HLD group, the thickness of the intima in the PUE group was reduced. Our results indicate that puerarin reduced the protein and mRNA levels of AMs in this rabbit model. We also found that the reduced AM levels were due to inhibition of the phosphorylation and degradation of I-κB, resulting in reduced p65 NF-κB nuclear translocation.

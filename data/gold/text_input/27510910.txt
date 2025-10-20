@@ -1,0 +1,7 @@
+Document ID: 27510910
+
+Diabetic cardiomyopathy (DCM) is associated with suppressed autophagy and augmented apoptosis in the heart although the interplay between the two remains elusive. The ability of mammalian sterile 20-like kinase 1 to regulate both autophagy and apoptosis prompted us to investigate it as a possible candidate in the progression of DCM.
+
+Wild-type, Mst1 (also known as Stk4) transgenic and Mst1-knockout mice were challenged with streptozotocin to induce experimental diabetes. In addition, cultured neonatal mouse cardiomyocytes were subjected to simulated diabetes to probe mechanisms.
+
+Mst1 knockout alleviated while Mst1 overexpression aggravated cardiac dysfunction in diabetes. Diabetic Mst1 transgenic mice exhibited decreased LC3 expression and enhanced protein aggregation. In contrast, typical autophagosomes were observed in diabetic Mst1-knockout mice with increased LC3 expression and reduced protein aggregation. Mst1 downregulation promoted autophagic flux as demonstrated by increased LC3-II and decreased p62 expression in the presence of bafilomycin A1. Furthermore, Mst1 overexpression increased, while Mst1 knockout decreased, cardiomyocyte apoptosis both in vivo and in vitro. Co-immunoprecipitation assays showed that Mst1 overexpression promoted Beclin1 binding to B cell lymphoma 2 (Bcl-2) and induced dissociation of Bcl-2 from Bax in diabetic mice. Conversely, Mst1 knockout disrupted the Beclin1-Bcl-2 complex and enhanced the interaction between Bcl-2 and Bax.

@@ -1,0 +1,7 @@
+Document ID: 25441747
+
+The objective of this study was to examine the associations between objective measures of sleep duration and sleep efficiency with the grades obtained by healthy typically developing children in math, language, science, and art while controlling for the potential confounding effects of socioeconomic status (SES), age, and gender.
+
+We studied healthy typically developing children between 7 and 11 years of age. Sleep was assessed for five week nights using actigraphy, and parents provided their child's most recent report card.
+
+Higher sleep efficiency (but not sleep duration) was associated with better grades in math, English language, and French as a second language, above and beyond the contributions of age, gender, and SES.

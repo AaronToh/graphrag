@@ -1,0 +1,7 @@
+Document ID: 25450598
+
+The interaction between Siglec-10 and its ligand, CD24, selectively represses tissue damage-caused immune responses. However, the nature of Siglec-10 and CD24 in human hepatocellular carcinoma (HCC) is still poorly defined. Hereon, the expression, function, and regulation of CD24 and Siglec-10 in HCC were investigated in the present study.
+
+Flow cytometry was performed to examine the expression of Siglec-10 in HCC tissues and adjacent non-tumor tissues of HCC patients. To further determine whether Siglec-10 expression is associated with the clinical characteristics and survival, conventional immunohistochemistry was performed in 96 HCC patients. Additionally, the role of Siglec-10 in the regulation of natural killer (NK) cell dysfunction was evaluated. Finally, CD24 expression in HCC was also assessed.
+
+Siglec-10 was expressed most on NK cells in HCC (40.7 ± 4.5%). Compared with surrounding non-tumor tissues, tumor tissues had higher Siglec-10 expression (31.0 ± 1.7% versus 40.7 ± 4.5%, n = 10, P < 0.05), and the expression was negatively associated with patient survival. Siglec-10(+)CD56(+) NK cells exhibited reduced effector function, as shown by decreased granules and cytokine expressions compared with Siglec-10(-)CD56(+) NK cells. Moreover, the number of CD24(+)CD45(-) cells in HCC tissues was higher than that in adjacent non-tumor tissues (9.4 ± 0.9% versus 3.1 ± 0.9%, n = 15, P < 0.05).

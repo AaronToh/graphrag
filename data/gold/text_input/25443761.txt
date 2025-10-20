@@ -1,0 +1,7 @@
+Document ID: 25443761
+
+Ascent to high altitude leads to a reduction in ambient pressure and a subsequent fall in available oxygen. The resulting hypoxia can lead to elevated pulmonary artery (PA) pressure, capillary stress, and an increase in interstitial fluid. This fluid can be assessed on lung ultrasound (LUS) by the presence of B-lines. We undertook a chamber and field study to assess the impact of high-intensity exercise in hypoxia on the development of pulmonary interstitial edema in healthy lowlanders.
+
+Thirteen volunteers completed a high-intensity intermittent exercise (HIIE) test at sea level, in acute normobaric hypoxia (12% O2, approximately 4090 m equivalent altitude), and in hypobaric hypoxia during a field study at 4090 m after 6 days of acclimatization. Pulmonary interstitial edema was assessed by the evaluation of LUS B-lines.
+
+After HIIE, no increase in B-lines was seen in normoxia, and a small increase was seen in acute normobaric hypoxia (2 ± 2; P < .05). During the field study at 4090 m, 12 participants (92%) demonstrated 7 ± 4 B-lines at rest, which increased to 17 ± 5 immediately after the exercise test (P < .001). An increase was evident in all participants. There was a reciprocal fall in peripheral arterial oxygen saturations (Spo2) after exercise from 88% ± 4% to 80% ± 8% (P < .01). B-lines and Spo2 in all participants returned to baseline levels within 4 hours.

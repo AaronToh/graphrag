@@ -1,0 +1,7 @@
+Document ID: 25441051
+
+To investigate the association between early menarche (menarche age < 12 years) and Type 2 diabetes mellitus in young and middle-aged Korean women.
+
+We analysed data for 4657 women aged 20-50 years from the Fourth Korea National Health and Nutrition Examination Survey (KNHANES IV) (2007-2009).
+
+The prevalence of Type 2 diabetes was 2.8%. Women with early menarche had a higher prevalence of impaired fasting glucose than did women with later menarche (age ≥ 12 years) in the 20-30 age group (7.4% vs. 3.0%), and a higher prevalence of diabetes in the 30-40 (6.3% vs. 1.7%) and 40-50 (18.5% vs. 4.4%) age groups. The odds ratio (OR) of Type 2 diabetes in women with early menarche was 3.61 [95% confidence interval (CI), 1.90-6.88] after adjusting for age. In multivariate regression, the OR of Type 2 diabetes decreased to 2.52 (95% CI, 1.29-4.94) after further adjusting for BMI. However, the OR decreased to 2.04 (95% CI, 0.95-4.39) without significance after adjusting for HOMA-IR.

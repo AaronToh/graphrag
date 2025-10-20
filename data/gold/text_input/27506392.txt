@@ -1,0 +1,7 @@
+Document ID: 27506392
+
+A recent meta-analysis showed that obstructive sleep apnea (OSA) is associated with a higher prevalence of cancer and cancer-related mortality; however, little information is available on the association between OSA and colorectal neoplasia.
+
+We identified consecutive patients who underwent overnight polysomnography (PSG) and subsequent colonoscopy. We compared the prevalence of colorectal neoplasia between patients with or without OSA according to the results of PSG. For each patient with OSA, 1 or 2 controls matched for age (±5 years), sex, body mass index (BMI), and smoking who had undergone first-time screening colonoscopy were selected.
+
+Of the 163 patients, 111 patients were diagnosed with OSA and 52 patients were within the normal range of the Apnea-Hypopnea Index. Of the 111 patients with OSA, 18 patients (16.2%) had advanced colorectal neoplasia, including 4 (3.6%) colorectal cancers. In the multivariate analyses, OSA was associated with an increased risk of advanced colorectal neoplasia after adjusting for factors including age and sex (mild: odds ratio [OR], 14.09; 95% confidence interval [CI], 1.55-127.83; P = .019; moderate or severe: OR, 14.12; 95% CI, 1.52-131.25; P = .020). Our case-control study revealed that the odds of detecting advanced colorectal neoplasia among patients with OSA were approximately 3.03 times greater than in the controls matched for age, sex, BMI, and smoking (OR, 3.03; 95% CI, 1.44-6.34; P = .002).

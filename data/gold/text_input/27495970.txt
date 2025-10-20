@@ -1,0 +1,7 @@
+Document ID: 27495970
+
+Current diagnostic tests for gastroesophageal reflux disease (GERD) do not consistently measure chronicity of reflux. Mucosal impedance (MI) is a minimally invasive measurement to assess esophageal conductivity changes due to GERD. We aimed to investigate MI pattern in patients with symptoms of extraesophageal reflux (EER) in a prospective longitudinal cohort study.
+
+Patients with potential symptoms of EER undergoing esophagogastroduodenoscopy (EGD) with wireless pH monitoring were studied. Participants included those with erosive esophagitis (E+), normal EGD/abnormal pH (E-/pH+), and normal EGD/normal pH (E-/pH-). MI was measured from the site of injury in patients with E+, as well as at 2, 5, and 10 cm above the squamocolumnar junction (SCJ) in all participants.
+
+Forty-one patients with symptoms of EER were studied. MI measurements at 2 cm above the SCJ were significantly (P = 0.04) different among the three groups, with MI lowest for E+ and greatest for E-/pH- patients. Although not statistically significant, there is a graded increase in median (interquartile range) MI axially along the esophagus at 5 cm (P = 0.20) and at 10 cm (P = 0.27) above the SCJ, with those with reflux (E+ and E-/pH+) having a lower MI than those without.

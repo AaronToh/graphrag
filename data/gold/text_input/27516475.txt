@@ -1,0 +1,7 @@
+Document ID: 27516475
+
+HIV patients exposed to abacavir have an increased risk of myocardial infarction, with contradictory results in the literature. The aim of our study was to determine whether abacavir has a direct effect on platelet activation and aggregation using platelets from healthy donors and from HIV-infected patients under therapy with an undetectable viral load.
+
+Platelet-rich plasma (PRP) or whole blood from healthy donors was treated with abacavir (5 or 10 μg/mL) or its active metabolite carbovir diphosphate. Experiments were also performed using blood of HIV-infected patients (n = 10) with an undetectable viral load. Platelet aggregation was performed on PRP by turbidimetry and under high shear conditions at 4000 s
+
+Abacavir and carbovir diphosphate significantly increased the aggregation of platelets from healthy donors induced by collagen at 2 μg/mL (P = 0.002), but not at 0.5 μg/mL. No effect of abacavir or carbovir diphosphate was observed on platelet aggregation induced by other physiological agonists or by high shear stress, or on thrombin generation. Pretreatment of blood from HIV-infected patients with abacavir produced similar results.

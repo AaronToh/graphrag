@@ -1,0 +1,7 @@
+Document ID: 27507899
+
+Dyspnoea is a threatening sensation of respiratory discomfort that presents many similarities with pain. Experimental dyspnoea in healthy subjects induces analgesia. This 'dyspnoea-pain counter-irritation' could, in reverse, imply that relieving dyspnoea in patients with chronic respiratory diseases would lower their pain thresholds.
+
+We first determined pressure pain thresholds in 25 healthy volunteers (22-31 years; 13 men; handheld algometer), during unloaded breathing (BASELINE) and during inspiratory threshold loading (ITL). Two levels of loading were used, adjusted to induce dyspnoea self-rated at 60% or 80% of a 10 cm visual analogue scale (ITL6 and ITL8). 18 patients with chronic respiratory failure due to amyotrophic lateral sclerosis (ALS) were then studied during unassisted breathing and after 30 and 60 min of non-invasive ventilation-NIV30 and NIV60-(same dyspnoea evaluation).
+
+In healthy volunteers, pressure pain thresholds increased significantly in the deltoid during ITL6 (p<0.05) and ITL8 (p<0.05) and in the trapezius during ITL8 (p<0.05), validating the use of pressure pain thresholds to study dyspnoea-pain counter-irritation. In patients with ALS, the pressure pain thresholds measured in the deltoid during unassisted breathing decreased by a median of 24.5%-33.0% of baseline during NIV30 and NIV60 (p<0.05).

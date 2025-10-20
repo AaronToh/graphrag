@@ -1,0 +1,7 @@
+Document ID: 27500822
+
+β1-Adrenergic receptor (β1-AR) stimulation modulates the antiarrhythmic activities of sodium channel blockers. The β1-AR Gly389 variant shows a marked decrease in agonist-stimulated cyclic AMP production compared with that of the wild-type Arg389 in vitro. We investigated whether the Arg389Gly polymorphism affects the efficacy of flecainide, a typical sodium channel blocker, in patients with or without coadministration of β-blockers.
+
+The effects of the β1-AR Arg389Gly polymorphism on the antiarrhythmic efficacy of flecainide were compared between with and without coadministered β-blockers in 159 patients with supraventricular tachyarrhythmia. The antiarrhythmic efficacy of flecainide was assessed for at least 2 months by evaluating symptomatology, 12-lead ECGs, and Holter monitoring results.
+
+Genetic differences in the antiarrhythmic efficacy of flecainide were observed in patients with coadministration of β-blockers. Tachyarrhythmia was well controlled in 60% of Arg389-homozygotes, 30% of Gly389-heterozygotes, and 0% of Gly389-homozygotes (P=0.001). In contrast, no difference in the antiarrhythmic efficacy was observed among the three genotypes in the patients without coadministration of β-blockers (64, 70, and 60%, respectively). Heart rate in tachyarrhythmia in patients treated with flecainide was significantly higher in Gly389 carriers than in Arg389-homozygotes (P=0.013).

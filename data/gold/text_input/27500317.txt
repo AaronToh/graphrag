@@ -1,0 +1,9 @@
+Document ID: 27500317
+
+The aim of this study was to test the efficacy of aminolevulinic acid-mediated photodynamic therapy (PDT) against the human osteosarcoma cell line MG-63.
+
+Osteosarcoma is the most common type of primary malignant bone tumor diagnosed in the United States among adolescents and children. Treatments for osteosarcoma often result in diminished limb use or amputation. Because ALA-mediated PDT exhibits dual specificity in the context of tumor killing, this therapy could represent a less invasive, but effective, treatment for this disease.
+
+To assess ALA dark toxicity in MG-63 cells, cells were incubated with varying concentrations of ALA, and cell viability was determined by crystal violet assay. Protoporphyrin IX (PpIX) accumulation was assessed subsequent to ALA incubation at various concentrations using spectrofluorometry. Cell death subsequent to ALA-PDT was determined by illuminating cells at a wavelength of 635 nm at various light intensities subsequent to ALA incubation. Cell viability was assessed using the MTT assay.
+
+ALA dark toxicity was observed only at the highest concentrations of 2, 5, and 10 mM. Maximal PpIX concentration was observed at 0.5 and 1 mM ALA, subsequent to a 24-h incubation. Maximal cell death with minimal light toxicity was observed at 0.5 and 1 mM ALA after illumination with 0.6 and 3 J/cm(2) light.

@@ -1,0 +1,15 @@
+Document ID: 25439802
+
+To determine the clinically recognizable error rate with the use of quantitative polymerase chain reaction (qPCR)-based comprehensive chromosomal screening (CCS).
+
+Retrospective study.
+
+Multiple fertility centers.
+
+All patients receiving euploid designated embryos.
+
+Trophectoderm biopsy for CCS.
+
+Evaluation of the pregnancy outcomes following the transfer of qPCR-designated euploid embryos. Calculation of the clinically recognizable error rate.
+
+A total of 3,168 transfers led to 2,354 pregnancies (74.3%). Of 4,794 CCS euploid embryos transferred, 2,976 gestational sacs developed, reflecting a clinical implantation rate of 62.1%. In the cases where a miscarriage occurred and products of conception were available for analysis, ten were ultimately found to be aneuploid. Seven were identified in the products of conception following clinical losses and three in ongoing pregnancies. The clinically recognizable error rate per embryo designated as euploid was 0.21% (95% confidence interval [CI] 0.10-0.37). The clinically recognizable error rate per transfer was 0.32% (95% CI 0.16-0.56). The clinically recognizable error rate per ongoing pregnancy was 0.13% (95% CI 0.03-0.37). Three products of conception from aneuploid losses were available to the molecular laboratory for detailed examination, and all of them demonstrated fetal mosaicism.

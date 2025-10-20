@@ -1,0 +1,7 @@
+Document ID: 25448664
+
+Achievement of early therapeutic anticoagulation with unfractionated heparin (UFH) is associated with improved outcomes in thromboembolic disease. Weight based UFH expedites time to therapeutic anticoagulation. Treatment with UFH is challenging in surgical patients due to their high propensity for bleeding. We sought to test the hypothesis that an initial weight based UFH infusion in surgical patients increases the percentage of patients who achieve early therapeutic anticoagulation without increasing the risk of hemorrhagic events.
+
+Using a non-concurrent retrospective cohort study design, adult surgical patients receiving UFH for venous thromboembolism (VTE) at a tertiary care center were included. Two groups were identified: the weight based (WB) and the under-dosed (UD) heparin groups. For our primary outcome, we compared percentage of patients in each group that achieved a therapeutic PTT within 24 h. Secondary outcomes included the incidence of supratherapeutic PTT levels, hemorrhagic events, and complications associated with VTE.
+
+73 subjects met study criteria, which included 8 subjects in the WB group and 65 in the UD group. The demographic, baseline laboratory, admitting service and type of VTE were similar between the 2 groups. The percentages of WB and UD subjects who achieved a therapeutic PTT within 24 h were 75% and 28%, respectively (p < 0.01). There was no difference in the incidence of supratherapeutic PTT or hemorrhagic events.

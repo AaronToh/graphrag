@@ -1,0 +1,7 @@
+Document ID: 27510450
+
+Cutaneous squamous cell carcinoma (CSCC) is the second most frequent cancer in humans, after basal cell carcinoma, and its incidence is dramatically rising. CSCC is rarely problematic, but given its high frequency, the absolute number of complicated cases is also high. It is necessary to identify molecular markers to recognize those CSCC with poor prognosis. There is controversy concerning the role of EGFR (epidermal growth factor receptor) as a marker of prognosis in CSCC. In addition, EGFR-targeted therapies have emerged in recent years and a better understanding of the role of EGFR in CSCC may help some patients in predicting prognosis and guide curative management.
+
+We evaluated clinical and histopathological features, including events of bad clinical evolution, in a series of 94 CSCC. We also analysed EGFR expression by immunohistochemistry, FISH and QPCR.
+
+We detected EGFR in 85 (90.4%) cases, with overexpression in 33 (35.1%) cases, and aberrant EGFR expression in the cytoplasm in 50 (53.1%) cases. EGFR overexpression in the primary tumours was associated with lymph node progression, TNM stage progression and proliferation (Ki-67 staining) in CSCC. EGFR overexpression and poor grade of differentiation were the strongest independent variables defining lymph node metastasis and progression in CSCC in a logistic regression model.

@@ -1,0 +1,7 @@
+Document ID: 25448007
+
+Charcot-Marie-Tooth (CMT) disease is a group of inherited peripheral neuropathies associated with mutations or copy number variations in over 70 genes encoding proteins with fundamental roles in the development and function of Schwann cells and peripheral axons. Here, we used iPSC-derived cells to identify common pathophysiological mechanisms in axonal CMT.
+
+iPSC lines from patients with two distinct forms of axonal CMT (CMT2A and CMT2E) were differentiated into spinal cord motor neurons and used to study axonal structure and function and electrophysiological properties in vitro.
+
+iPSC-derived motor neurons exhibited gene and protein expression, ultrastructural and electrophysiological features of mature primary spinal cord motor neurons. Cytoskeletal abnormalities were found in neurons from a CMT2E (NEFL) patient and corroborated by a mouse model of the same NEFL point mutation. Abnormalities in mitochondrial trafficking were found in neurons derived from this patient, but were only mildly present in neurons from a CMT2A (MFN2) patient. Novel electrophysiological abnormalities, including reduced action potential threshold and abnormal channel current properties were observed in motor neurons derived from both of these patients.

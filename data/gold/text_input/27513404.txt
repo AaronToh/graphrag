@@ -1,0 +1,7 @@
+Document ID: 27513404
+
+Acute pancreatitis is the most common adverse event of endoscopic retrograde cholangiopancreatography (ERCP). We aimed to evaluate the efficacy of intramuscular diclofenac sodium for prophylaxis of post-ERCP pancreatitis (PEP) in comparison to the rectal form.
+
+One hundred and fifty consecutive patients who underwent ERCP were enrolled in this single-center, prospective, randomized controlled study. Patients were randomized into three groups. The first group received 75 mg of diclofenac sodium via intramuscular route and the second group received 100 mg of diclofenac sodium rectally 30-90 min before the procedure. The third group served as the control group. Patients were evaluated for post-ERCP pancreatitis with serum amylase levels and abdominal pain 24 h after the procedure.
+
+The overall incidence of PEP was 6% (n = 9) and 2% (n = 1) in the intramuscular (IM) and rectal groups, respectively, and 14% in the control group (P = 0.014). Nineteen (12.7%) patients developed post-ERCP abdominal pain (8% in IM, 10% in rectal, and 20% in control group; P = 0.154). Twenty-five (16.6%) patients developed post-ERCP hyperamylasemia (10% in IM, 12% in rectal, and 24% in control group; P = 0.03).

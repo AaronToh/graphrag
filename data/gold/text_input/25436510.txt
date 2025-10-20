@@ -1,0 +1,7 @@
+Document ID: 25436510
+
+To study the value of the cervical length (CL) measurement at 11-14 weeks in predicting second trimester miscarriage occurring at 16-24 weeks.
+
+Prospective study in routine obstetric population using transvaginal ultrasound examination to measure the length of the endocervical canal at 11-14 weeks.
+
+The study group consisted of 2836 singleton pregnancies. Eleven (0.0038%) women miscarried between 16 and 24 weeks whereas 2825 delivered after 34 weeks. CL was significantly shorter (Mann-Whitney U test, p = 0.001), in women that had a second trimester miscarriage in comparison to those who delivered after 34 weeks (median CL 28 mm versus 32 mm, respectively). First trimester CL was predictive of a late miscarriage (OR = 0.7093304, R(2 )= 0.1211, AUC = 0.7838, p < 0.001). The detection rate was 63.64% for 20% screen positive rate.

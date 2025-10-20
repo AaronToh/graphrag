@@ -1,0 +1,7 @@
+Document ID: 25451450
+
+Migraine is a common comorbidity among individuals with bipolar disorder, but the underlying mechanisms for this co-occurrence are poorly understood. The aim of this study was to investigate the genetic background of bipolar patients with and without migraine.
+
+We performed a genome-wide association analysis contrasting 460 bipolar migraneurs with 914 bipolar patients without migraine from the Bipolar Genome Study (BiGS).
+
+We identified one genome-wide significant association between migraine in bipolar disorder patients and rs1160720, an intronic single nucleotide polymorphism (SNP) in the NBEA gene (P=2.97 × 10(-8), OR: 1.82, 95% CI: 1.47-2.25), although this was not replicated in a smaller sample of 289 migraine cases.

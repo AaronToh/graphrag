@@ -1,0 +1,5 @@
+Document ID: 27498999
+
+To investigate the presence of rmpA and wcaG virulence genes and Class 1, 2, and 3 integrons, and to evaluate a relationship between antibiotic resistance and virulence in Klebsiella pneumoniae METHODS: We collected a total of 200 K. pneumoniae isolates from hospitals in Tehran, Iran. Antibiotic susceptibility was determined using the disk diffusion method. The extended-spectrum β-lactamase (ESBL) producers were detected using the combination disk method. We detected the rmpA and wcaG genes and class 1, 2, and 3 integrons via polymerase chain reaction (PCR). The χ
+
+Of 200 isolates, 115 (57.5%) were ESBL producers; 74.0% carried the class 1 integron, and 1.0% carried the class 2 integron. The gene rmpA was detected in 7% of isolates and the gene wcaG in 23.5% of isolates. Integron-positive isolates showed a higher prevalence of wcaG compared with to integron-negative isolates (P <.05).

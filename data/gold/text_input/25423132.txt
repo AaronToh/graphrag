@@ -1,0 +1,7 @@
+Document ID: 25423132
+
+Glial cell line-derived neurotrophic factor (GDNF) and N-cadherin interact to transduce intracellular signals. However, the specific molecular mechanisms of this interaction are unclear. This study attempted to detect changes in GDNF-induced β-catenin phosphorylation and nuclear translocation in C6 glioma cells.
+
+C6 glioma cells were treated with GDNF (70 ng/mL) and membrane and cytoplasmic proteins were extracted. A N-cadherin antibody was used for co-immunoprecipitation (co-IP). Western blot analysis using the co-IP protein was completed using antibodies for β-catenin, Src and β-actin. Immunocytochemistry was conducted with the same antibodies. To determine if Src induced phosphorylation of β-catenin Tyr-654, Western blot analysis was also performed on nuclear proteins from C6 cells treated with tyrosine kinase inhibitor PP2 using then p- β-catenin antibody.
+
+After induced by GDNF, C6 cell membrane β-catenin was phosphorylated at Tyr-654 and subsequently separated from the N-cadherin/β-catenin complex. Further study confirmed that the induction by GDNF significantly increased cytoplasmic and nuclear expression of phospho-β-catenin (Tyr-654) in C6 glioma cells. There was also an increase in the binding of non-receptor protein kinase Src with N-cadherin on the inner cell membrane surface. Src induced phosphorylation of β-catenin Tyr-654 induced by GDNF decreased significantly.

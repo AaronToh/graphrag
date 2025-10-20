@@ -1,0 +1,7 @@
+Document ID: 25449582
+
+Understanding the dynamics of the gut-brain axis has clinical implications for physical and mental health conditions, including obesity and anxiety. As such disorders have early life antecedents, it is of value to determine if associations between the gut microbiome and behavior are present in early life in humans.
+
+We used next generation pyrosequencing to examine associations between the community structure of the gut microbiome and maternal ratings of child temperament in 77 children at 18-27months of age. It was hypothesized that children would differ in their gut microbial structure, as indicated by measures of alpha and beta diversity, based on their temperamental characteristics.
+
+Among both boys and girls, greater Surgency/Extraversion was associated greater phylogenetic diversity. In addition, among boys only, subscales loading on this composite scale were associated with differences in phylogenetic diversity, the Shannon Diversity index (SDI), beta diversity, and differences in abundances of Dialister, Rikenellaceae, Ruminococcaceae, and Parabacteroides. In girls only, higher Effortful Control was associated with a lower SDI score and differences in both beta diversity and Rikenellaceae were observed in relation to Fear. Some differences in dietary patterns were observed in relation to temperament, but these did not account for the observed differences in the microbiome.

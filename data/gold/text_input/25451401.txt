@@ -1,0 +1,7 @@
+Document ID: 25451401
+
+The DSM-5 encompasses a wide range of symptoms for Major Depressive Disorder (MDD). Symptoms are commonly added up to sum-scores, and thresholds differentiate between healthy and depressed individuals. The underlying assumption is that all patients diagnosed with MDD have a similar condition, and that sum-scores accurately reflect the severity of this condition. To test this assumption, we examined the number of DSM-5 depression symptom patterns in the "Sequenced Treatment Alternatives to Relieve Depression" (STAR*D) study.
+
+We investigated the number of unique symptom profiles reported by 3703 depressed outpatients at the beginning of the first treatment stage of STAR*D.
+
+Overall, we identified 1030 unique symptom profiles. Of these profiles, 864 profiles (83.9%) were endorsed by five or fewer subjects, and 501 profiles (48.6%) were endorsed by only one individual. The most common symptom profile exhibited a frequency of only 1.8%. Controlling for overall depression severity did not reduce the amount of observed heterogeneity.

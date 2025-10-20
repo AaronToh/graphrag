@@ -1,0 +1,9 @@
+Document ID: 25429853
+
+Nonalcoholic steatohepatitis (NASH) is associated with dyslipidemia and cardiovascular disease (CVD).
+
+To determine the relationship between resolution of NASH and dyslipidemia.
+
+Individuals in the Pioglitazone vs. Vitamin E vs. Placebo for the Treatment of Nondiabetic Patients with Nonalcoholic Steatohepatitis (PIVENS) trial with paired liver biopsies and fasting lipid levels were included (N = 222). In the PIVENS trial individuals were randomised to pioglitazone 30 mg, vitamin E 800 IU or placebo for 96 weeks. Change in lipid levels at 96 weeks was compared between those with and without NASH resolution.
+
+Dyslipidemia at baseline was frequent, with low high-density lipoprotein (HDL) (<40 mg/dL in men or <50 mg/dL in women) in 63%, hypertriglyceridaemia (≥150 mg/dL) in 46%, hypercholesterolaemia (≥200 mg/dL) in 47% and triglycerides (TG)/HDL >5.0 in 25%. Low-density lipoprotein (LD) ≥160 mg/dL was found in 16% and elevated non-HDL cholesterol (non-HDL-C) (≥130 mg/dL) in 73%. HDL increased with NASH resolution but decreased in those without resolution (2.9 mg/dL vs. -2.5 mg/dL, P < 0.001). NASH resolution was associated with significant decreases in TG and TG/HDL ratio compared to those without resolution (TG: -21.1 vs. -2.3 mg/dL, P = 0.03 and TG/HDL: -0.7 vs. 0.1, P = 0.003). Non-HDL-C, LDL and cholesterol decreased over 96 weeks in both groups, but there was no significant difference between groups. Treatment group did not impact lipids.

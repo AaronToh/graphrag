@@ -1,0 +1,7 @@
+Document ID: 25441702
+
+To conduct a systematic review of studies reporting on the development or validation of comorbidity indices using administrative health data and compare their ability to predict outcomes related to comorbidity (ie, construct validity).
+
+We conducted a comprehensive literature search of MEDLINE and EMBASE, until September 2012. After title and abstract screen, relevant articles were selected for review by two independent investigators. Predictive validity and model fit were measured using c-statistic for dichotomous outcomes and R(2) for continuous outcomes.
+
+Our review includes 76 articles. Two categories of comorbidity indices were identified: those identifying comorbidities based on diagnoses, using International Classification of Disease codes from hospitalization or outpatient data, and based on medications, using pharmacy data. The ability of indices studied to predict morbidity-related outcomes ranged from poor (C statistic ≤ 0.69) to excellent (C statistic >0.80) depending on the specific index, outcome measured, and study population. Diagnosis-based measures, particularly the Elixhauser Index and the Romano adaptation of the Charlson Index, resulted in higher ability to predict mortality outcomes. Medication-based indices, such as the Chronic Disease Score, demonstrated better performance for predicting health care utilization.

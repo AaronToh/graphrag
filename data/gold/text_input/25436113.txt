@@ -1,0 +1,7 @@
+Document ID: 25436113
+
+We examined the phenotype and function of lymphocytes collected from the peripheral blood (PBL) and tumor (TIL) of patients with two different solid malignancies: colorectal cancer liver metastases (CRLM) and ovarian cancer (OVC).
+
+Tumor and corresponding peripheral blood were collected from 16 CRLM and 22 OVC patients; immediately following resection they were processed and analyzed using a multi-color flow cytometry panel. Cytokine mRNA from purified PBL and TIL CD4(+) T cells were also analyzed by qPCR.
+
+Overall, we found similar changes in the phenotypic and cytokine profiles when the TIL were compared to PBL from patients with two different malignancies. The percentage of Treg (CD4(+)/CD25(+)/FoxP3(+)) in PBL and TIL was similar: 8.1% versus 10.2%, respectively in CRLM patients. However, the frequency of Treg in primary OVC TIL was higher than PBL: 19.2% versus 4.5% (p <0.0001). A subpopulation of Treg expressing HLA-DR was markedly increased in TIL compared to PBL in both tumor types, CRLM: 69.0% versus 31.7% (p = 0.0002) and OVC 74.6% versus 37.0% (p <0.0001), which suggested preferential Treg activation within the tumor. The cytokine mRNA profile showed that IL-6, a cytokine known for its immunosuppressive properties through STAT3 upregulation, was increased in TIL samples in patients with OVC and CRLM. Both TIL populations also contained a significantly higher proportion of activated CD8(+) T cells (HLA-DR(+)/CD38(+)) compared to PBL (CRLM: 30.2% vs 7.7%, (p = 0.0012), OVC: 57.1% vs 12.0%, (p <0.0001)).

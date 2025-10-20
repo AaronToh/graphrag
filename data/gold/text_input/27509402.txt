@@ -1,0 +1,7 @@
+Document ID: 27509402
+
+Nitric oxide (NO) is produced by sinonasal epithelial cells as part of the innate immune response against bacteria. We previously described bitter-taste-receptor-dependent and -independent NO responses to product(s) secreted by Pseudomonas aeruginosa and Staphylococcus aureus, respectively. We hypothesized that sinonasal epithelium would be able to detect the gram-positive, coagulase-negative bacteria Staphylococcus epidermidis and mount a similar NO response.
+
+Sinonasal air-liquid interface cultures were treated with conditioned medium (CM) from lab strains and clinical isolates of coagulase-negative staphylococci and S aureus. NO production was quantified by fluorescence imaging. Bitter taste receptor signaling inhibitors were utilized to characterize the pathway responsible for NO production in response to S epidermidis CM.
+
+S epidermidis CM contains a low-molecular-weight, heat, and protease-stabile product that induces an NO synthase (NOS)-mediated NO production that is less robust than the response triggered by S aureus CM. The S epidermidis CM-stimulated NO response is not inhibited by antagonists of phospholipase C isoform β-2 nor the transient receptor potential melastatin isoform 5 ion channel, both critical to bitter taste signaling.

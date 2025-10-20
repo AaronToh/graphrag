@@ -1,0 +1,9 @@
+Document ID: 25445827
+
+Childhood asthma morbidity remains significant, especially in low-income children. Most often, asthma management is provided by the child's primary care provider.
+
+We sought to evaluate whether enhancing primary care management for persistent asthma with telephone-based peer coaching for parents reduced asthma impairment and risk in children 3 to 12 years old.
+
+Over 12 months, peer trainers provided parents with asthma management training by telephone (median, 18 calls) and encouraged physician partnership. The intervention was evaluated in a cluster-randomized trial of 11 intervention and 11 usual care pediatric practices (462 and 486 families, respectively). Patient outcomes were assessed by means of telephone interviews at 12 and 24 months conducted by observers blinded to intervention assignment and compared by using mixed-effects models, controlling for baseline values and clustering within practices. In a planned subgroup analysis we examined the heterogeneity of the intervention effect by insurance type (Medicaid vs other).
+
+After 12 months, intervention participation resulted in 20.9 (95% CI, 9.1-32.7) more symptom-free days per child than in the control group, and there was no difference in emergency department (ED) visits. After 24 months, ED visits were reduced (difference in mean visits/child, -0.28; 95% CI, -0.5 to -0.02), indicating a delayed intervention effect. In the Medicaid subgroup, after 12 months, intervention participation resulted in 42% fewer ED visits (difference in mean visits/child, -0.50; 95% CI, -0.81 to -0.18) and 62% fewer hospitalizations (difference in mean hospitalizations/child, -0.16; 95% CI, -0.30 to -0.014). Reductions in health care use endured through 24 months.

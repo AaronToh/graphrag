@@ -1,0 +1,7 @@
+Document ID: 25449565
+
+To assess the rate and risk factors for position-related injury in robotic gynecologic surgery.
+
+A prospective database from 12/2006 to 1/2014 of all planned robotic gynecologic procedures was retrospectively reviewed for patients who experienced neurologic injury, musculoskeletal injury, or vascular compromise related to patient positioning in the operating room. Analysis was performed to determine risk-factors and incidence for position-related injury.
+
+Of the 831 patients who underwent robotic surgery during the study time period, only 7 (0.8%) experienced positioning-related injury. The injuries included minor head contusions (n=3), two lower extremity neuropathies (n=2), brachial plexus injury (n=1) and one large subcutaneous ecchymosis on the left flank and thigh (n=1). There were no long term sequelae from the positioning-related injuries. The only statistically significant risk factor for positioning-related injury was prior abdominal surgery (P=0.05). There were no significant associations between position-related injuries and operative time (P=0.232), body mass index (P=0.847), age (P=0.152), smoking history (P=0.161), or medical comorbidities (P=0.229-0.999).

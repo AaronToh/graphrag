@@ -1,0 +1,11 @@
+Document ID: 25452876
+
+Poor glycemic control early in the course of type 1 diabetes mellitus (T1DM) increases the risk for microvascular complications. However, predictors of deteriorating control after diagnosis have not been described, making it difficult to identify high-risk patients and proactively provide aggressive interventions.
+
+We examined whether diagnostic age, gender, and race were associated with deteriorating glycemic control during the first 5 years after diagnosis.
+
+2218 pediatric patients with T1DM.
+
+We conducted a longitudinal cohort study of pediatric patients with T1DM from the Midwest USA, 1993-2009, evaluating within-patient glycated hemoglobin (HbA1c) trajectories constructed from all available HbA1c values within 5 years of diagnosis.
+
+52.6% of patients were male; 86.1% were non-Hispanic Caucasian. The mean diagnostic age was 9.0±4.1 years. The mean number of HbA1c values/year/participant was 2.4±0.9. HbA1c trajectories differed markedly across age groups, with older patients experiencing greater deterioration than their younger counterparts (p<0.001). HbA1c trajectories, stratified by age, varied markedly by race (p for race×diagnostic age <0.001). Non-Hispanic African-American patients experienced higher initial HbA1c (8.7% vs 7.6% (71.6 vs 59.6 mmol/mol); p<0.001), and greater deterioration in HbA1c than non-Hispanic Caucasian patients across diagnostic ages (rise of 2.04% vs 0.99% per year (22.3 vs 10.8 mmol/mol/year); p<0.0001).

@@ -1,0 +1,7 @@
+Document ID: 27508043
+
+Microbiota has been suggested in promoting chronic inflammation in human tissues which, in turn, promotes tumor development. This study tests a hypothesis that high-risk human papillomavirus (HR-HPV) infection may correlate with proinflammatory Stat3 signaling activities and IL-17 levels in breast cancer (BC) patients.
+
+This study examined HPV infection by GenChip technology, constitutively active Stat3 (p-Stat3) and IL-17 levels by immunohistochemistry (IHC) using specific antibodies in 379 BC patients, together with 245 paired adjacent breast adenosis (ABA) tissues and 100 unrelated breast adenosis (BA) tissues.
+
+We obtained four major findings: (1) HR-HPV16/18 infections existed in 10.5% (34/325) of BC issues, higher than control BA tissues (4%, 4/100, P = 0.047). (2) Using IHC methodology, BC tissues showed more overactive p-Stat3 (2+/3+, 38.5%, 146/379) than ABA tissues (27.3%, 67/245, P < 0.001); similarly, BC also had more tissues overexpressing IL-17 (2+/3+, 61.5%, 233/379) than ABA tissues (51.8%, 127/245, P < 0.001). (3) High levels (2+/3+) of both active p-Stat3 and IL-17 correlated with poor differentiation and lymph nodal metastasis in BC (both with P < 0.05), but not with patients' prognosis. (4) HR-HPV infections correlated with both active p-Stat3 (P = 0.018) and its downstream IL-17 levels (P = 0.021) in BC tissues.

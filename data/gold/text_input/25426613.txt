@@ -1,0 +1,7 @@
+Document ID: 25426613
+
+The aim of this study was to investigate the role of peroxiredoxin 1 (Prdx1) in the invasiveness of pancreatic ductal adenocarcinoma (PDAC) cells.
+
+Immunohistochemistry was used to determine overexpression of Prdx1 in human PDAC tissues. Immunoprecipitation and immunocytochemistry were used to determine the interaction and intracellular distribution of Prdx1 and a member of the mitogen-activated protein kinase (MAPK) family protein, p38 MAPK, in PDAC cells. Finally, immunocytochemistry and Matrigel invasion assay were used to examine the effects of Prdx1 and p38 MAPK on the formation of cell protrusions and PDAC cell invasion.
+
+Prdx1 is overexpressed in human PDAC tissues. Peroxiredoxin 1 interacts with active forms of p38 MAPK, and complexes of Prdx1 and phosphorylated p38 MAPK localize at the leading edges of migrating PDAC cells. Suppression of Prdx1 decreases active p38 MAPK localized in cell protrusions and inhibits the invasiveness of PDAC cells. Consequently, suppression of Prdx1 inhibits membrane ruffling and protrusions. The p38 MAPK inhibitor SB203580 also decreases the formation of membrane protrusions and inhibits invasiveness.

@@ -1,0 +1,7 @@
+Document ID: 27501010
+
+Although the significance of cell cycle checkpoints in overcoming low-dose hyper-radiosensitivity (HRS) has been proposed, the underlying mechanism of HRS in human hepatocellular cells remains unclear. Therefore, the aim of this study was to characterize HRS inhuman hepatocellular HepG2 cells and to explore the molecular mechanism(s) mediating this response.
+
+HepG2 cells were exposed to various single doses of γ radiation (from 0 Gy to 4 Gy), and then were assayed at subsequent time-points. Survival curves were then generated using a linear-quadratic (LQ) equation and a modified induced repair model (MIRM). The percentage of cells in the G1, G2/M, and S phases of the cell cycle were also examined using propidium iodide (PI) staining and flow cytometry. Levels of total cell division cyclin 25C (Cdc25C) and phosphorylated Cdc25C were examined by Western blotting.
+
+Low-dose γ radiation (<0.3 Gy) induced HRS in HepG2 cells, while doses of 0.3, 0.5, and 2.0 Gy γ radiation significantly arrested HepG2 cells in the G2/M phase. While total Cdc25C levels remained unchanged after irradiation, levels of phosphorylated Cdc25C markedly increased 6, 16, and 24 h after treatment with 0.5 or 2.0 Gy radiation, and they peaked after 16 h. The latter observation is consistent with the G2/M arrest that was detected following irradiation.

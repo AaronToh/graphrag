@@ -1,0 +1,9 @@
+Document ID: 25428761
+
+Elevated lipoprotein-associated phospholipase A2 (Lp-PLA2) levels are associated with both coronary artery and cerebrovascular diseases. The clinical diagnosis of neurovascular events, specifically transient ischemic attack can be challenging, although there is disagreement among vascular trained neurologists regarding this. Currently, there is no single accurate biomarker for the diagnosis of acute brain ischemia.
+
+We studied the relationship between Lp-PLA2 mass and activity levels and the diagnosis of acute brain ischemia in the acute phase among patients evaluated in the emergency department following transient focal neurological symptoms.
+
+Patients evaluated in our academic center for transient neurological symptoms of possible ischemic mechanism were enrolled with informed consent. Lp-PLA2 mass and activity levels were performed by DiaDexus, Inc.
+
+100 patients were enrolled: 58 were ischemic (30 stroke, 28 TIA), 10 were unknown, and 28 were non-ischemic. Blood samples were collected after a median delay of 23 h (IQR: 17, 36) after symptom onset. The median levels of Lp-PLA2 activity level for ischemic (stroke and TIA) versus non-ischemic events were 186.5 nmol/ml/min (IQR = 153, 216.3) and 169 nmol/ml/min (IQR = 137, 212.5), respectively. The median levels of Lp-PLA2 mass level for ischemic versus non-ischemic events were 202 ng/ml (IQR = 171.6, 226.1) and 192 ng/ml (167.8, 230). The differences in median Lp-PLA2 mass and activity levels were not statistically significant in the ischemic versus non-ischemic patients. Vessel imaging revealed a symptomatic stenosis in 14 patients (10 intracranial and 4 cervical). The median Lp-PLA2 mass and activity levels among patients with a symptomatic stenosis were not significantly higher than the levels measured in TIA/stroke patients without stenosis.

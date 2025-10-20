@@ -1,0 +1,7 @@
+Document ID: 27490042
+
+Gene therapeutic strategies with suicide genes are currently investigated in clinical trials for brain tumors. Previously, we have shown that lentiviral vectors delivering the suicide gene HSV-Tk to experimental brain tumors promote a highly significant treatment effect and thus are promising vectors for clinical translation.
+
+In the present study, we tested lentiviral vectors delivering the suicide gene HSV-Tk.007, a highly active mutant of HSV-Tk, to rat brains as a preclinical toxicity study. We injected 10(6) vesicular stomatitis virus glycoprotein (VSV-G) pseudotyped functional lentiviral particles harboring the suicide gene HSV-Tk.007 into the brain of healthy, immunocompetent rats. During prodrug treatment with ganciclovir (GCV), we measured weight and assessed the behavior of the rats in an open field test. After 14 days of GCV treatment, we analyzed HSV-Tk.007 expression in different brain cell populations, as well as inflammatory responses and apoptosis.
+
+During prodrug treatment with GCV, behavior experiments did not reveal differences between the treated rats and the control groups. Analysis of HSV-Tk expression in different brain cell populations showed that transduced normal brain cells survived GCV treatment. There were no statistically significant differences in the number of transduced cells between treatment and control groups. Furthermore, inflammatory responses and apoptosis of brain cells were not observed.

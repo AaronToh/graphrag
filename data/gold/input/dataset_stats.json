@@ -1,0 +1,8 @@
+{
+  "total_records": 1056,
+  "processed_records": 1056,
+  "skipped_records": 0,
+  "total_passages": 1056,
+  "avg_passage_length": 1392.7263257575758,
+  "dataset_config": "pqa_artificial"
+}

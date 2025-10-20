@@ -1,0 +1,7 @@
+Document ID: 25436375
+
+The aim of this study was to evaluate patterns of the initial recurrence after pancreatectomy for pancreatic cancer and risk factors in each pattern.
+
+This study included 209 pancreatic cancer patients who underwent pancreatectomy and of whom the detailed information on the first recurrent lesions detected by imaging during postoperative followup were available. Relapse patterns were classified into 4 groups: liver, peritoneal, local and extra-abdominal recurrences. We evaluated their associations with prognosis and various clinicopathological factors to identify relevant risk factors.
+
+Cumulative numbers of patients with liver, peritoneal, local, and extra-abdominal recurrences were 81, 70, 98 and 22, respectively, for the first recurrences. Hepatic relapse was associated with significantly shorter overall survival than other sites (p<0.001) and was an independent prognostic factor in multivariate analysis (p<0.001). Pathological portal vein invasion was the only independent risk factor for hepatic relapse (p=0.045). There was no significant correlation between the depth of invasion and prevalence of hepatic relapse.

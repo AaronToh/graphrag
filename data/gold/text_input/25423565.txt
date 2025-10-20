@@ -1,0 +1,11 @@
+Document ID: 25423565
+
+Growing evidence implicates hypothalamic inflammation in the pathogenesis of diet-induced obesity and cognitive dysfunction in rodent models. Few studies have addressed the association between obesity and hypothalamic damage in humans and its relevance.
+
+This study aimed to determine markers of obesity-associated hypothalamic damage on diffusion tensor imaging (DTI) and to determine whether DTI metrics are associated with performance on cognitive testing.
+
+This cross-sectional study analyzed DTI metrics (primary [λ(1)], secondary [λ(2)], and tertiary [λ(3)] eigenvalues; fractional anisotropy; and mean diffusivity) in the hypothalamus of 24 consecutive middle-age obese subjects (13 women; 49.8 ± 8.1 y; body mass index [BMI], 43.9 ± 0.92 kg/m(2)) and 20 healthy volunteers (10 women; 48.8 ± 9.5 y; BMI, 24.3 ± 0.79 kg/m(2)).
+
+measures: Hypothalamic damage assessed by DTI metrics and cognitive performance evaluated by neuropsychological test battery.
+
+λ(1) values in the hypothalamus were significantly lower in obese subjects (P < .0001). The sensitivity, specificity, and positive and negative predictive values for obesity-associated hypothalamic damage by λ(1) < 1.072 were 75, 87.5, 83.3, and 80.7%, respectively. Patients with hypothalamic λ(1) < 1.072 had higher values of BMI, fat mass, inflammatory markers, carotid-intima media thickness, and hepatic steatosis and lower scores on cognitive tests. Combined BMI and alanine aminotransferase had the strongest association with hypothalamic damage reflected by λ(1) < 1.072 (area under the curve = 0.89).

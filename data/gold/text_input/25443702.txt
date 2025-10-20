@@ -1,0 +1,9 @@
+Document ID: 25443702
+
+The adrenal sex hormone dehydroepiandrosterone (DHEA), which is present in serum mainly as the sulfate DHEA-S, is the most abundant steroid hormone in human blood. Its levels decline dramatically with age. Despite the great amount of literature on vascular and metabolic actions of DHEA/-S, evidence for an association between DHEA/-S levels and cardiovascular events is contradictory.
+
+This study tested the hypothesis that serum DHEA and DHEA-S are predictors of major coronary heart disease (CHD) and/or cerebrovascular disease (CBD) events in a large cohort of elderly men.
+
+We used gas and liquid chromatography-mass spectrometry to analyze baseline levels of DHEA and DHEA-S in the prospective population-based Osteoporotic Fractures in Men study in Sweden (2,416 men, ages 69 to 81 years). Complete cardiovascular clinical outcomes were available from national Swedish registers.
+
+During the 5-year follow-up, 302 participants experienced a CHD event, and 225 had a CBD event. Both DHEA and DHEA-S levels were inversely associated with the age-adjusted risk of a CHD event; the hazard ratios and 95% confidence intervals per SD increase were 0.82 (0.73 to 0.93) and 0.86 (0.77 to 0.97), respectively. In contrast, DHEA/-S showed no statistically significant association with the risk of CBD events. The association between DHEA and CHD risk remained significant after adjustment for traditional cardiovascular risk factors, serum total testosterone and estradiol, C-reactive protein, and renal function, and remained unchanged after exclusion of the first 2.6 years of follow-up to reduce reverse causality.

@@ -1,0 +1,7 @@
+Document ID: 27496626
+
+Transannular patching (TAP) frequently accompanies primary repairs (PRs) in symptomatic neonates with tetralogy of Fallot (TOF). If a systemic-pulmonary shunt (SPS) facilitates the growth of the pulmonary valve annulus (PVA), patients with a marginally small PVA could benefit from a staged repair in terms of lowering the risk of TAP.
+
+Among 216 infants with TOF who underwent surgical intervention between January 2004 and December 2013, 29 infants underwent SPS with a subsequent repair (SPS group), whereas 187 infants received a PR (PR group). Median age and the Z-score of the PVA (PVA [Z]) at SPS were 32 days and -3.5, respectively. There was one late death and one follow-up loss after SPS, and preservation of the PVA was achieved on repair in 16 patients (16 of 29; 55%).
+
+Multiple regression analysis showed that performance of SPS was the only indicator of the increase in the PVA (Z) in the entire cohort (n = 216). On mixed linear regression, the PVA (Z) increased significantly after the placement of an SPS (-3.6 + 0.2*duration in months, p = 0.001), whereas the prerepair changes in the PVA (Z) were not statistically significant in the PR group (p = 0.7), with a significant intergroup difference (p < 0.001). Receiver operating characteristic curve analysis showed that placement of TAP is expected when the preshunt PVA (Z) is smaller than -4.2 (area under the curve: 0.82; 95% confidence interval: 0.62 to 1.00; sensitivity, 100%; specificity, 73%).

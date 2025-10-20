@@ -1,0 +1,7 @@
+Document ID: 25432781
+
+Activation of B cells is a hallmark of systemic lupus erythematosus (SLE). Syk and TRAF6 are key signaling molecules in B-cell activation through BCR and CD40/TLR, respectively. Nevertheless, whether expression of Syk and TRAF6 is altered in SLE B cells remains unknown.
+
+Phosphorylation and/or expression of Syk and TRAF6 were analyzed by flow cytometry in peripheral blood mononuclear cells isolated from SLE patients.
+
+Pronounced phosphorylation and expression of Syk were noted in B cells from SLE patients compared with healthy donors. Levels of Syk phosphorylation correlated with the disease activity score. TRAF6 was significantly over-expressed in B cells of SLE patients as compared with healthy donors, and significant correlation of levels of TRAF6 expression and Syk phosphorylation was observed in SLE patients. Levels of TRAF6 expression were more pronounced in CD27+ memory B cells than in CD27-naïve B cells. In vitro treatment of SLE B cells with a Syk inhibitor (BAY61-3606) reduced Syk phosphorylation as well as TRAF6 expression.

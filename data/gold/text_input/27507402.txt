@@ -1,0 +1,7 @@
+Document ID: 27507402
+
+Narcotic agents are frequently administered to manage increased intestinal motility in patients with short bowel syndrome, but long-term use is associated with gastrointestinal (GI) complaints. This analysis evaluated the incidence of narcotic use and abdominal adverse events among patients with short bowel syndrome receiving teduglutide.
+
+Pooled data from patients who received ≥1 dose of teduglutide 0.05 mg/kg/d (n = 77) or placebo (n = 59) in either of 2 randomized, double-blind, phase III studies were analyzed.
+
+Of 136 patients, 52 (38%) received narcotics. GI adverse events occurred more often among patients who received narcotics than among those who did not (abdominal pain, 51% vs 21%; nausea, 42% vs 11%; abdominal distension, 17% vs 8%; vomiting, 19% vs 6%). Logistic regression analysis indicated that the probability of GI adverse events was significantly increased in patients with narcotic use (P = .0009). In contrast, teduglutide treatment, as well as the interaction between teduglutide and narcotic use, did not affect the probability of GI adverse events.

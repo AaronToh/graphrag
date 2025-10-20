@@ -1,0 +1,9 @@
+Document ID: 27492144
+
+Allergic airway inflammation is triggered by allergen exposure through several steps including release of IL-33, which promotes cytokine (IL-5, IL-13) production by type 2 innate lymphoid cells (ILC2s). MicroRNA (miR)-155 has recently been described to regulate adaptive responses in allergic inflammation. However, the role of miR-155 in the regulation of ILC2s remains unexplored.
+
+We sought to elucidate the contribution of miR-155 in ILC2 expansion using experimental murine models of allergic airway inflammation.
+
+To determine the role of miR-155 in the regulation of ILC2s in allergic airway inflammation, miR-155 deficient (miR-155
+
+miR-155 was 10-fold upregulated in WT-derived ILC2s in response to IL-33. Furthermore, miR-155

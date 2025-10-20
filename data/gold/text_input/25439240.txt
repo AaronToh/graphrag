@@ -1,0 +1,7 @@
+Document ID: 25439240
+
+The safety of Deltamethrin (DM) has been raised as a point of concern. The current investigation was envisaged to explore the responsiveness of oxidative stress parameters, DNA fragmentation and expression levels of TP53, cycloxygenase 2 (COX2) and cytochrome p4502E1 (CYP2E1) as toxicological endpoint in rats treated with DM. as well as attention was provided to the neuroprotective effect of vitamin E (VE).
+
+Four different groups of rats were used in this study, group I served as control, group II received DM (0.6 mg/kg BW), group III received both DM plus VE and finally group IV received VE only (200 mg/kg BW). The treatment regimen was extending for one month for all groups and the brain tissues were collected for further analysis.
+
+The obtained results showed a highly statistically significant increase in lipid peroxidation (LPO) content, nitric oxide concentration, and DNA fragmentation percentage and expression level of CYP2E1, TP53 and COX2 genes, in addition statistical significant reduction in total antioxidant capacity in DM treated group as compared to control were detected. Oral administration of VE attenuated the neurotoxic effects of DM through improvement of oxidative status, DNA fragmentation percentage and suppressing the expression level of CYP2E1, TP53 and COX2 genes.

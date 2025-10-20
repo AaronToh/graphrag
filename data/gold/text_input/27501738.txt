@@ -1,0 +1,7 @@
+Document ID: 27501738
+
+Oxidative stress is proposed as a central mediator in NAFLD pathogenesis, but the specific trigger for reactive oxygen species generation has not been clearly delineated. In addition, emerging evidence shows that obesity related obstructive sleep apnea (OSA) and nocturnal hypoxia are associated with NAFLD progression in adults. The aim of this study was to determine if OSA/nocturnal hypoxia-induced oxidative stress promotes the progression of pediatric NAFLD.
+
+Subjects with biopsy proven NAFLD and lean controls were studied. Subjects underwent polysomnograms, liver histology scoring, laboratory testing, urine F(2)-isoprostanes (measure of lipid peroxidation) and 4-hydroxynonenal liver immunohistochemistry (in situ hepatic lipid peroxidation).
+
+We studied 36 adolescents with NAFLD and 14 lean controls. The OSA/hypoxia group (69% of NAFLD subjects) had more severe fibrosis (64% stage 0-2; 36% stage 3) than those without OSA/hypoxia (100% stage 0-2), p=0.03. Higher F(2)-isoprostanes correlated with apnea/hypoxia index (r=0.39, p=0.03), % time SaO2 <90% (r=0.56, p=0.0008) and inversely with SaO2 nadir (r=-0.46, p=0.008). OSA/hypoxia was most severe in subjects with the greatest 4HNE staining (p=0.03). Increasing F(2)-isoprostanes(r=0.32, p=0.04) and 4HNE hepatic staining (r=0.47, p=0.007) were associated with worsening steatosis. Greater oxidative stress occurred in subjects with definite NASH as measured by F(2)-isoprostanes (p=0.06) and hepatic 4HNE (p=0.03) compared to those with borderline/not NASH.

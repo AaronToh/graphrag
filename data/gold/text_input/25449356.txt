@@ -1,0 +1,9 @@
+Document ID: 25449356
+
+Mitochondrial dysfunction has been well documented in age related disorders like Alzheimer's disease. Alterations in mitochondrial membrane potential lead to neuronal death by excessive generation of free radicals, inflammatory cytokines, and excitotoxins. Intracerebroventricular (ICV) streptozotocin (STZ) induced-cognitive impairment has been widely used as an experimental model of Alzheimer's disease. Naringin is a potent antioxidant, which can cross the blood brain barrier protecting brain tissue and modulating brain chemistry.
+
+The present study was designed to evaluate the effect of naringin, in ICV STZ-induced mitochondrial dysfunction and memory loss in rats.
+
+Streptozotocin (3mg/kg, ICV) was injected bilaterally in two divided doses on first and third day followed by treatment with different doses of naringin (50, 100 and 200mg/kg; p.o.) for twenty one days. Behavioral alterations were monitored using Morris water maze paradigm and elevated plus maze test. Animals were sacrificed to evaluate various biochemical and mitochondrial parameters in brain. Rivastigmine was used as a standard drug.
+
+ICV-STZ administration produced significant cognitive deficits as assessed by both Morris water maze and elevated plus maze task which is accompanied by significantly enhanced oxidative-nitrosative stress, altered acetylcholinesterase and mitochondrial enzyme activities in cerebral cortex and hippocampus of rats brain along with significantly increased brain TNF-α and IL-1β levels. Chronic treatment with naringin dose dependently restored cognitive deficits in ICV-STZ rat along with mitigation of mitochondrial dysfunction mediated oxido-nitrosative stress and cytokine release.

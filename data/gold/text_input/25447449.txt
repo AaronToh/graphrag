@@ -1,0 +1,7 @@
+Document ID: 25447449
+
+The present study aimed to investigate the intraplantar (ipl) and central (icv) effects of neuropeptide S (NPS) in the formalin test and to evaluate the role of adenosine receptors, mainly A1 and A2A, in mediating such effects.
+
+The ipl injection of formalin was used to assess the nociceptive activity. Moreover, by pretreating mice with non-selective and selective antagonists of adenosine receptors, the effects of icv NPS on formalin-induced ongoing nociception were assessed.
+
+Morphine-induced antinociceptive effects were observed during phases 1 and 2 of the test, while indomethacin was active only at the later nociceptive phase. The ipl injection of NPS (alone or combined with formalin) did not modify the nociceptive response. However, icv NPS significantly reduced formalin-induced nociception during both phases. Caffeine (3 mg/kg, ip), a non-selective adenosine receptor antagonist, prevented NPS-induced antinociceptive effects. Similar to caffeine, icv ZM241385 (0.01 nmol), an A2A receptor antagonist, prevented the antinociceptive effects of NPS. Moreover, icv DPCPX (0.001 nmol), an A1 receptor antagonist, blocked the effects of NPS only during phase 1.

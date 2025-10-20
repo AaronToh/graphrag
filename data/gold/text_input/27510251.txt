@@ -1,0 +1,7 @@
+Document ID: 27510251
+
+To determine the effect of SLCO1B1 gene polymorphisms (rs11045819, rs4149032 and rs4149033) on rifampicin (RMP) concentrations in adult tuberculosis (TB) patients from south India.
+
+We genotyped adult TB patients for three SLCO1B1 gene polymorphisms-rs11045819, rs4149032 and rs4149033-and compared 2-h post-dosing RMP concentrations of the different genotypes for each of the polymorphisms. Plasma RMP was determined using high-performance liquid chromatography. Genotyping was performed using direct sequencing.
+
+Among the 256 study patients, minor allele frequencies were respectively 0.01 (A), 0.46 (C) and 0.07 (A) for rs11045819, rs4149032 and rs4149033 polymorphisms; genotype distributions followed Hardy-Weinberg equilibrium. RMP concentrations did not significantly differ between the different genotypes of the three polymorphisms.

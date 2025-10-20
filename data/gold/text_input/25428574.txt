@@ -1,0 +1,7 @@
+Document ID: 25428574
+
+A study was undertaken to identify the responsible gene defect underlying late onset spinal motor neuronopathy (LOSMoN/SMAJ; Online Mendelian Inheritance in Man #615048), an autosomal dominant disease mapped to chromosome 22q11.2.
+
+The previous genetic linkage approach by microsatellite haplotyping was continued in new families. A whole genome sequencing was performed to find all possibly pathogenic mutations in the linked area. The detected variations were verified by Sanger sequencing.
+
+Six new SMAJ families were identified based on the unique founder haplotype. A critical recombination in 1 family restricted the linked area to 727kb between markers SHGC-106816 and D22S345. In whole genome sequencing a previously unknown mutation c.197G>T p.G66V in CHCHD10 was identified. The mutation was shown to segregate with the disease in 55 patients from 17 families.

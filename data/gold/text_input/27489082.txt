@@ -1,0 +1,7 @@
+Document ID: 27489082
+
+To clarify the lowering effect of metabolic syndrome (MetS) on serum prostate-specific antigen (PSA) levels in a Chinese screened population.
+
+A total of 45 540 ostensibly healthy men aged 55-69 years who underwent routine health check-ups at Beijing Shijitan Hospital between 2008 and 2015 were included in the study. All the men underwent detailed clinical evaluations. PSA mass density was calculated (serum PSA level × plasma volume ÷ prostate volume) for simultaneously adjusting plasma volume and prostate volume. According to the modified National Cholesterol Education Programme-Adult Treatment Panel (NCEP-ATP) III criteria, patients were dichotomized by the presence of MetS, and differences in PSA density and PSA mass density were compared between groups. Linear regression analysis was used to evaluate the effect of MetS on serum PSA levels.
+
+When larger prostate volume in men with MetS was adjusted for, both PSA density and PSA mass density in men with MetS were significantly lower than in men without MetS, and the estimated difference in mean serum PSA level between men with and without MetS was greater than that before adjusting for prostate volume. In the multivariate regression model, the presence of MetS was independently associated with an 11.3% decline in serum PSA levels compared with the absence of MetS. In addition, increasing number of positive MetS components was significantly and linearly associated with decline in serum PSA levels.

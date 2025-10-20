@@ -1,0 +1,9 @@
+Document ID: 27489205
+
+A previous systematic review showed that atraumatic restorative treatment (ART) can be an option to restore the occlusoproximal cavities in primary teeth; however, few studies fulfilled the criteria of inclusion to generate a high level of evidence.
+
+To update the existing systematic review and address questions regarding survival rate of ART restorations compared to the conventional approach in occlusoproximal cavities in primary molars.
+
+The search was extended beyond the original search through the PubMed/MEDLINE database up to February 2016. Furthermore, Web of Science and EMBASE were searched. The inclusion criteria were subjects related to the scope of the systematic review. After selection by title and abstract, potentially eligible articles were read in full and included in accordance with exclusion criteria. Meta-analysis was carried out with the outcome being the survival rate of restorations.
+
+The search strategy identified 560 potentially relevant studies, in addition to 127 from the original systematic review. A total of four articles were included in the qualitative and quantitative analyses. Meta-analysis showed no statistically significant difference between ART and conventional approaches in survival rate of occlusoproximal cavities (OR = 0.887, 95% CI: 0.574-1.371).

@@ -1,0 +1,7 @@
+Document ID: 27496089
+
+Impairments of intestinal barrier function are discussed as risk factors for the development and progression of non-alcoholic fatty liver disease (NAFLD). Studies suggest an association between arginine/citrulline homeostasis and the development of liver damages. Here, the effect of an oral L-citrulline (Cit) supplement on the development of a Western-style diet (WSD)-induced NAFLD was determined in mice.
+
+Female 6- to 8-week-old C57BL/6J mice were either pair-fed a liquid Western-style or control diet (C) ± 2.5 g/kg bodyweight Cit for 6 weeks (C + Cit or WSD + Cit). Indices of liver damage, glucose metabolism, intestinal barrier function and NO synthesis were measured.
+
+While bodyweight gain was similar between groups, markers of glucose metabolism like fasting blood glucose and HOMA index and markers of liver damage like hepatic triglyceride levels, number of neutrophils and plasminogen activator inhibitor-1 protein levels were significantly lower in WSD + Cit-fed mice when compared to WSD-fed mice only. Protein levels of the tight junction proteins occludin and zonula occludens-1 in duodenum were significantly lower in mice fed a WSD when compared to those fed a WSD + Cit (-~70 and -~60 %, respectively, P < 0.05), whereas portal endotoxin levels, concentration of 3-nitrotyrosine protein adducts in duodenum and toll-like receptor-4 mRNA expression in livers of WSD + Cit-fed mice were markedly lower than in WSD-fed mice (-~43 %, P = 0.056; -~80 and -~48 %, respectively, P < 0.05).

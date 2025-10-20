@@ -1,0 +1,7 @@
+Document ID: 25447441
+
+We have reported that triptolide can inhibit airway remodeling in a murine model of asthma via TGF-β1/Smad signaling. In the present study, we aimed to investigate the effect of triptolide on airway smooth muscle cells (ASMCs) proliferation and the possible mechanism.
+
+Rat airway smooth muscle cells were cultured and made synchronized, then pretreated with different concentration of triptolide before stimulated by TGF-β1. Cell proliferation was evaluated by MTT assay. Flow cytometry was used to study the influence of triptolide on cell cycle and apoptosis. Signal proteins (Smad2, Smad3 and Smad7) were detected by western blotting analysis.
+
+Triptolide significantly inhibited TGF-β1-induced ASMC proliferation (P<0.05). The cell cycle was blocked at G1/S-interphase by triptolide dose dependently. No pro-apoptotic effects were detected under the concentration of triptolide we used. Western blotting analysis showed TGF-β1 induced Smad2 and Smad3 phosphorylation was inhibited by triptolide pretreatment, and the level of Smad7 was increased by triptolide pretreatment.

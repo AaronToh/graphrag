@@ -1,0 +1,7 @@
+Document ID: 27502204
+
+Visit-to-visit variability in low-density lipoprotein-cholesterol (LDL-C) was found to be a novel predictor of adverse cardiac events. Obstructive sleep apnea (OSA), an emerging cardiovascular risk factor, is characterized by sympathetic activation and increased oxidative stress which are regulators of LDL-C metabolism. We hypothesized that OSA was associated with LDL-C variability.
+
+We prospectively recruited 190 patients with coronary artery disease for an overnight sleep study. Statin was prescribed upon discharge for 186 patients. Serum LDL-C levels were measured at clinic every 3 to 6 months. Severity of OSA (on the basis of apnea-hypopnea index (AHI)) was correlated with visit-to-visit LDL-C variability (on the basis of variation independent of mean (VIM)) in outpatient clinic.
+
+The mean AHI was 21.9 ± 18.9. Using an AHI cut-off of 5-14.9, 15-29.9, and ≥30, the prevalence of mild, moderate, and severe OSA was 26.3, 18.9, and 27.4 %, respectively. After 53.2 ± 25.3 months, LDL-C was recorded over 8.1 ± 4.2 measurements. VIM positively correlated with AHI (Pearson's r = 0.183, p = 0.016), but not body mass index, baseline and mean follow-up LDL-C levels, and number of LDL-C measurements. In multiple linear regression analysis, AHI remained an independent predictor of VIM after adjusting for diabetes mellitus and hyperlipidemia. A 10-unit rise in AHI led to a 3.8 % increase in VIM (95 % CI 0.1 to 7.4 %; p = 0.044).
