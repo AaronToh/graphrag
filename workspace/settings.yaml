@@ -10,7 +10,7 @@ models:
     model_provider: openai
     auth_type: api_key # or azure_managed_identity
     api_key: ${GRAPHRAG_API_KEY} # set this in the generated .env file, or remove if managed identity
-    model: gpt-5-mini
+    model: gpt-4o-mini
     # api_base: https://<instance>.openai.azure.com
     # api_version: 2024-05-01-preview
     model_supports_json: true # recommended if this is available for your model.
@@ -55,7 +55,7 @@ chunks:
 output:
   type: file # [file, blob, cosmosdb]
   base_dir: "output"
-    
+
 cache:
   type: file # [file, blob, cosmosdb]
   base_dir: "cache"
@@ -79,7 +79,18 @@ embed_text:
 extract_graph:
   model_id: default_chat_model
   prompt: "prompts/extract_graph.txt"
-  entity_types: [organization,person,event,technology,symptom,disease,treatment,medication,biological_process]
+  entity_types:
+    [
+      organization,
+      person,
+      event,
+      technology,
+      symptom,
+      disease,
+      treatment,
+      medication,
+      biological_process,
+    ]
   max_gleanings: 1
 
 summarize_descriptions:

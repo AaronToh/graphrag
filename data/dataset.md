@@ -1,8 +1,21 @@
 # Dataset Information
 
+## Data Organization
+
+```
+data/
+├── gold/                    # Ground truth data from PubMedQA
+│   └── input/
+│       └── passages.jsonl   # Local questions and contexts
+├── generated/               # GraphRAG-generated answers
+│   ├── local/              # Answers using local search
+│   └── global/             # Answers using global search
+└── HuggingFace_data_ingest/ # Data ingestion scripts
+```
+
 ## PubMedQA Instruction Dataset
 
-We will use the [vblagoje/PubMedQA_instruction](https://huggingface.co/datasets/vblagoje/PubMedQA_instruction) dataset for evaluation purposes.
+We use the [vblagoje/PubMedQA_instruction](https://huggingface.co/datasets/vblagoje/PubMedQA_instruction) dataset for evaluation purposes.
 
 ### Why This Dataset?
 

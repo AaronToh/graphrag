@@ -1,6 +1,46 @@
-# Evaluation Runner
+# Evaluation Module
 
-Framework for evaluating and comparing GraphRAG systems (baseline vs pruned configurations).
+Framework for evaluating and comparing GraphRAG systems with tools for answer generation and evaluation.
+
+## Scripts Overview
+
+### 📝 `generate_answers.py` - Answer Generation
+Generate answers using GraphRAG for evaluation questions from your local data.
+
+```bash
+cd eval
+python generate_answers.py --workspace ../workspace --questions 10 --search-method local
+python generate_answers.py --workspace ../workspace --questions 10 --search-method global
+```
+
+**Features:**
+- Loads questions from local `passages.jsonl`
+- Queries GraphRAG (local/global search)
+- Saves answers in evaluation-compatible JSON format
+- Progress tracking and error handling
+
+### 🔍 `run_eval.py` - Evaluation Runner
+Compare baseline vs pruned GraphRAG systems using multiple metrics.
+
+```bash
+python run_eval.py --baseline workspace/output --pruned workspace/pruned_output
+```
+
+### ⚙️ `eval.py` - Core Evaluation Logic
+Low-level evaluation functions and metrics implementation.
+
+## Quick Start
+
+### 1. Generate Answers
+```bash
+cd eval
+python generate_answers.py --workspace ../workspace --questions 20 --search-method local
+```
+
+### 2. Compare Systems (Future)
+```bash
+python run_eval.py --baseline workspace/output --pruned workspace/pruned_output
+```
 
 ## Quick Start
 
