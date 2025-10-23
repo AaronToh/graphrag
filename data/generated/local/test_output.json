@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "total": 1,
+    "successful": 1,
+    "failed": 0,
+    "success_rate": 1.0,
+    "average_response_time": 7.120374917984009,
+    "timestamp": "2025-10-22T00:35:19.957897"
+  },
+  "results": [
+    {
+      "question_id": 1,
+      "question": "Are group 2 innate lymphoid cells ( ILC2s ) increased in chronic rhinosinusitis with nasal polyps or eosinophilia?",
+      "generated_answer": "### Increase of ILC2s in Chronic Rhinosinusitis\n\nGroup 2 innate lymphoid cells (ILC2s) are indeed found to be increased in patients with chronic rhinosinusitis with nasal polyps (CRSwNP) and eosinophilia. \n\n1. **Association with Nasal Polyps**: The study reports a statistically significant association between higher ILC2 frequencies and the presence of nasal polyps (P = 0.002) [Data: Relationships (3415, 3427); Entities (2364, 2369)].\n\n2. **Link to Eosinophilia**: ILC2 frequencies were also significantly associated with high tissue eosinophilia (P = 0.004) and eosinophil-dominant chronic rhinosinusitis (P = 0.001) [Data: Relationships (3416, 3417); Entities (2364, 2366)].\n\nIn summary, ILC2s are increased in both CRSwNP and conditions characterized by eosinophilia, indicating their role in the inflammatory processes associated with these conditions.",
+      "ground_truth_answer": "As ILC2s are elevated in patients with CRSwNP, they may drive nasal polyp formation in CRS. ILC2s are also linked with high tissue and blood eosinophilia and have a potential role in the activation and survival of eosinophils during the Th2 immune response. The association of innate lymphoid cells in CRS provides insights into its pathogenesis.",
+      "ground_truth_doc_ids": [
+        "25429730"
+      ],
+      "search_method": "local",
+      "response_time": 7.120374917984009,
+      "success": true,
+      "error": null,
+      "metadata": {
+        "source": "local_passages",
+        "index": 0,
+        "passage_id": "25429730::p0",
+        "doc_id": "25429730",
+        "final_decision": "yes",
+        "dataset_split": "train",
+        "dataset_config": "pqa_artificial",
+        "section": "abstract",
+        "text_snippet": "Chronic rhinosinusitis (CRS) is a heterogeneous disease with an uncertain pathogenesis. Group 2 innate lymphoid cells (ILC2s) represent a recently discovered cell population which has been implicated ..."
+      },
+      "timestamp": "2025-10-22T00:35:19.957497"
+    }
+  ]
+}
