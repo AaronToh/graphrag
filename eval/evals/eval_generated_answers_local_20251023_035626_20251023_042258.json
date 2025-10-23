@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "source_file": "..\\data\\generated\\local\\generated_answers_local_20251023_035626.json",
+    "evaluation_timestamp": "2025-10-23T04:22:58.793478",
+    "num_test_cases": 2
+  },
+  "aggregated_report": {
+    "metrics": [
+      "doc_mrr_evaluator",
+      "faithfulness",
+      "sas_evaluator"
+    ],
+    "score": [
+      1.0,
+      1.0,
+      0.827574759721756
+    ]
+  },
+  "detailed_results": [
+    {
+      "question": "Are group 2 innate lymphoid cells ( ILC2s ) increased in chronic rhinosinusitis with nasal polyps or eosinophilia?",
+      "predicted_answer": "Yes, group 2 innate lymphoid cells (ILC2s) are significantly increased in both chronic rhinosinusitis with nasal polyps (CRSwNP) and eosinophilia. \n\n### Key Findings:\n- **Nasal Polyps**: The study found a statistically significant association between higher ILC2 frequencies and the presence of nasal polyps (P = 0.002) [Data: Relationships (3415, 3427); Entities (2369, 2381)].\n- **Eosinophilia**: ILC2 frequencies were also significantly associated with high tissue eosinophilia (P = 0.004) and eosinophil-dominant chronic rhinosinusitis (P = 0.001) [Data: Relationships (3416, 3417); Entities (2370, 2368)].\n\nThese findings indicate that ILC2s play a role in the inflammatory processes associated with these conditions.",
+      "answer": "As ILC2s are elevated in patients with CRSwNP, they may drive nasal polyp formation in CRS. ILC2s are also linked with high tissue and blood eosinophilia and have a potential role in the activation and survival of eosinophils during the Th2 immune response. The association of innate lymphoid cells in CRS provides insights into its pathogenesis.",
+      "ground_truth_docs": [
+        "Document 25429730"
+      ],
+      "doc_mrr_evaluator": 1.0,
+      "faithfulness": 1.0,
+      "sas_evaluator": 0.8687496781349182
+    },
+    {
+      "question": "Does vagus nerve contribute to the development of steatohepatitis and obesity in phosphatidylethanolamine N-methyltransferase deficient mice?",
+      "predicted_answer": "## Role of the Vagus Nerve in Steatohepatitis and Obesity in PEMT Deficient Mice\n\nYes, the vagus nerve plays a significant role in the development of steatohepatitis and obesity in phosphatidylethanolamine N-methyltransferase (PEMT) deficient mice (Pemt(-/-) mice). \n\n### Key Findings:\n\n1. **Hepatic Vagotomy Effects**: Surgical severing of the hepatic branch of the vagus nerve (hepatic vagotomy, HV) in Pemt(-/-) mice abolished their protection against high-fat diet (HFD)-induced obesity and glucose intolerance. This indicates that the vagus nerve is crucial for maintaining metabolic balance in these mice [Data: Reports (94); Entities (1708, 1706); Relationships (2428)].\n\n2. **Prevention of Steatohepatitis**: HV also prevented the development of steatohepatitis in Pemt(-/-) mice fed a high-fat diet. This suggests that vagal signaling has protective effects against liver inflammation and fat accumulation in this genetic context [Data: Reports (94); Entities (1714, 1708); Relationships (2431)].\n\n3. **Inflammatory and Metabolic Changes**: After HV, there were notable changes in hepatic inflammatory markers and metabolic pathways. HV increased levels of the anti-inflammatory cytokine interleukin-10 (IL-10) and reduced levels of monocyte chemotactic protein-1 (MCP-1) and the endoplasmic reticulum stress marker CHOP, indicating a shift towards reduced liver inflammation and improved metabolic function [Data: Reports (94); Entities (1718, 1717); Relationships (2432, 2433, 2434)].\n\n4. **Capsaicin Treatment**: Interestingly, pharmacological disruption of hepatic afferent fibers using capsaicin did not replicate the effects of HV, suggesting that specific vagal pathways are involved in mediating these metabolic and inflammatory responses [Data: Reports (94); Entities (1709); Relationships (2429)].\n\n### Conclusion\n\nThe vagus nerve is integral to the metabolic and inflammatory responses in PEMT deficient mice, influencing both obesity and the development of steatohepatitis. Disruption of vagal signaling alters these responses, highlighting its importance in liver health and metabolic regulation [Data: Reports (94); Entities (1708, 1706); Relationships (2428, 2431)].",
+      "answer": "Neuronal signals via the hepatic vagus nerve contribute to the development of steatohepatitis and protection against obesity in HFD fed Pemt(-/-) mice.",
+      "ground_truth_docs": [
+        "Document 25433161"
+      ],
+      "doc_mrr_evaluator": 1.0,
+      "faithfulness": 1.0,
+      "sas_evaluator": 0.7863998413085938
+    }
+  ]
+}
