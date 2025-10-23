@@ -117,6 +117,43 @@ def load_graphrag_artifacts(workspace: Path):
 
 
 # --------------------------------------------------------------------------------
+# Extract Source Document IDs from Context
+# --------------------------------------------------------------------------------
+def extract_source_doc_ids(context: Any) -> List[str]:
+    """Extract source document IDs from the context returned by GraphRAG API.
+    
+    The context is a dictionary with a 'sources' key containing a DataFrame.
+    Document IDs are in the first line of the 'text' column.
+    """
+    doc_ids = []
+    
+    if context is None:
+        return doc_ids
+    
+    try:
+        # Context should be a dict with 'sources' key
+        if isinstance(context, dict) and 'sources' in context:
+            sources = context['sources']
+            
+            # Sources should be a DataFrame with a 'text' column
+            if isinstance(sources, pd.DataFrame) and 'text' in sources.columns:
+                for text_content in sources['text']:
+                    if text_content and isinstance(text_content, str):
+                        # Extract document ID from the first line
+                        first_line = text_content.split('\n')[0].strip()
+                        # First line has the format "Document ID: <doc_id>"
+                        if first_line.startswith("Document ID: "):
+                            doc_id = first_line.split("Document ID: ")[1]
+                            doc_ids.append(doc_id)
+        else:
+            logger.debug(f"Context structure: {type(context)}, keys: {context.keys() if isinstance(context, dict) else 'N/A'}")
+    except Exception as e:
+        logger.warning(f"Error extracting source document IDs from context: {e}")
+    
+    return doc_ids
+
+
+# --------------------------------------------------------------------------------
 # Query GraphRAG via API
 # --------------------------------------------------------------------------------
 async def query_graphrag_api(question: str, workspace: Path, method: str = "local"):
@@ -153,10 +190,26 @@ async def query_graphrag_api(question: str, workspace: Path, method: str = "loca
             )
 
         elapsed = time.time() - start_time
-        return {"answer": answer, "context": context, "response_time": elapsed, "success": True, "error": None}
+        retrieved_doc_ids = extract_source_doc_ids(context)
+        
+        return {
+            "answer": answer,
+            "context": context,
+            "response_time": elapsed,
+            "success": True,
+            "error": None,
+            "retrieved_doc_ids": retrieved_doc_ids
+        }
 
     except Exception as e:
-        return {"answer": f"ERROR: {str(e)}", "context": None, "response_time": 0.0, "success": False, "error": str(e)}
+        return {
+            "answer": f"ERROR: {str(e)}",
+            "context": None,
+            "response_time": 0.0,
+            "success": False,
+            "error": str(e),
+            "retrieved_doc_ids": []
+        }
 
 
 # --------------------------------------------------------------------------------
@@ -197,6 +250,7 @@ async def generate_answers_api(
             "generated_answer": resp["answer"],
             "ground_truth_answer": q.ground_truth_answer,
             "ground_truth_doc_ids": q.ground_truth_doc_ids,
+            "retrieved_doc_ids": resp.get("retrieved_doc_ids", []),
             "search_method": search_method,
             "response_time": resp["response_time"],
             "success": resp["success"],
@@ -205,7 +259,7 @@ async def generate_answers_api(
             "timestamp": datetime.now().isoformat(),
         }
         if resp["success"]:
-            logger.info(f"  ✓ Success ({resp['response_time']:.2f}s)")
+            logger.info(f"  ✓ Success ({resp['response_time']:.2f}s) - Retrieved {len(resp.get('retrieved_doc_ids', []))} source documents")
         else:
             logger.error(f"  ✗ Failed: {resp['error']}")
         results.append(result)
