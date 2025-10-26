@@ -81,19 +81,57 @@ This project explores **graph pruning for RAG**:
   - Embed text into LanceDB  
 - **Output**: baseline GraphRAG artifacts (`entities.parquet`, `relationships.parquet`, `communities.parquet`, `community_reports.parquet`, `lancedb/`).
 
-### Stage 2 — **Pruning Layer (main research contribution)**  
-- Implemented as a **separate script/notebook**.  
-- Operates on the GraphRAG outputs (Parquet + LanceDB).  
-- Methods may include:  
-  - **Scoring** nodes/edges (degree, frequency, semantic relevance, plausibility, etc.).  
-  - **Reranking** based on combined scores.  
-  - **Pruning**:  
-    - keep top-k edges per node,  
-    - drop low-importance nodes,  
-    - re-cluster communities after pruning.  
-- Implementation:  
-  - Start with **Microsoft’s built-in pruning knobs** (`prune_graph` in `settings.yaml`).  
-  - Extend with **custom scoring + reranking** logic (value-add).  
+### Stage 2 — **Pruning Layer (main research contribution)**
+- Implemented as a **separate module** in `pruning/`.
+- Operates on the GraphRAG outputs (Parquet + LanceDB).
+
+**Implemented Strategies:**
+
+1. **HFBP (Hierarchical Flow-Based Pruning)**
+   - Leiden clustering → supernodes (20-50 nodes each)
+   - Query-aware enhancement with supernode matching
+   - Resource propagation with flow-based scoring
+   - Beam search path enumeration
+   - For graphs 50k+ nodes
+
+2. **SuperHFBP (Enhanced Context-Aware Pruning)** ⭐
+   - All HFBP features plus:
+   - **Context nodes**: Top-20% by query similarity act as anchors
+   - **Global query detection**: LLM-based (GPT-4o-mini) or keyword heuristics
+   - **Density filtering**: Inter-community edges only if density >5%
+   - **Enhanced scoring**: S(P) = (1/|E|)·ΣS(v) + β·(|C_q∩V_P|/|C_q|)
+   - **Context penalty**: 0.8× if path excludes context nodes
+   - **Supernode summaries**: Enhanced textual paths for LLM prompting
+   - **Target**: 10-20% token savings, +8% faithfulness improvement
+
+**Parameters:**
+- β (context bonus): 0.2 default, 0.15-0.3 range
+- context_top_pct: 20% default
+- context_penalty: 0.8 default
+- inter_community_density_threshold: 0.05 (5%)
+
+**Usage:**
+
+*Online Mode (Path-based retrieval):*
+```python
+from pruning import SuperHFBP, SuperHFBPConfig
+
+config = SuperHFBPConfig(beta=0.2, context_top_pct=0.2, context_penalty=0.8)
+super_hfbp = SuperHFBP(entities_df, relationships_df, config=config)
+result = super_hfbp.execute(query, retrieved_nodes)
+```
+
+*Offline Mode (Pruned graph export):*
+```bash
+# Generate pruned GraphRAG artifacts for downstream evaluation
+python pruning/run_superhfbp_pruning.py \
+  --workspace workspace \
+  --output workspace/pruned_superhfbp \
+  --mode auto --num-queries 10
+
+# Or run complete pipeline (prune → eval)
+./run_superhfbp_pipeline.sh --num-queries 10 --questions 50
+```  
 
 ### Stage 3 — **Evaluation**
 - **Goal**: measure whether pruning improves RAG retrieval quality while maintaining efficiency.
@@ -111,58 +149,69 @@ This project explores **graph pruning for RAG**:
 ## 2) Project repo structure
 
 ```text
-graphrag-pruning-lab/
+graphrag/
 ├─ data/
-│  ├─ input/                 # test set (to be defined)
-│  └─ gold/                  # evaluation Q&A pairs (black box placeholder)
-├─ workspace/                # GraphRAG workspace
+│  ├─ input/                        # test set documents
+│  └─ gold/input/passages.jsonl     # PubMedQA evaluation dataset
+├─ workspace/                       # GraphRAG workspace
 │  ├─ settings.yaml
-│  └─ output/                # entities, relationships, communities, reports, vectors
+│  └─ output/                       # baseline artifacts (parquet + lancedb)
 ├─ ingest/
-│  └─ build_index.py         # script: run Microsoft GraphRAG default indexing
+│  └─ build_index.py                # GraphRAG indexing pipeline
 ├─ pruning/
-│  ├─ prune_graph.py         # your script (scoring, reranking, pruning)
-│  └─ scoring_utils.py
+│  ├─ hfbp_pruning.py               # HFBP implementation (940 lines)
+│  ├─ super_hfbp_pruning.py         # SuperHFBP implementation (513 lines) ⭐
+│  ├─ prune_graph.py                # Graph pruning framework
+│  ├─ scoring_utils.py              # Scoring utilities
+│  ├─ test.py                       # Validation tests
+│  └─ __init__.py
 ├─ eval/
-│  ├─ run_eval.py            # evaluation runner for baseline vs pruned comparison
-│  ├─ eval.py                # core evaluation functions (faithfulness, SAS, MRR)
-│  ├─ eval_usage.py          # example usage with different LLM providers
-│  ├─ ablation_config.json   # configuration for ablation studies
-│  └─ pixi.toml              # evaluation environment dependencies
-└─ README.md                 # this file
-````
+│  ├─ generate_answers_superhfbp.py # SuperHFBP evaluation integration ⭐
+│  ├─ eval.py                       # Core metrics (faithfulness, SAS, MRR)
+│  ├─ ablation_config.json          # HFBP/SuperHFBP configurations ⭐
+│  └─ pixi.toml
+└─ README.md                        # this file
+```
 
 ---
 
-## 3) Implementation checkpoints
+## 3) Implementation Status
 
-1. **Baseline index**
+✅ **Completed:**
 
-   * Run `ingest/build_index.py` to produce GraphRAG baseline.
-   * Confirm Parquet + LanceDB outputs exist.
+1. **Baseline GraphRAG Index**
+   - Microsoft GraphRAG indexing pipeline (`ingest/build_index.py`)
+   - Parquet artifacts + LanceDB vector store
+   - PubMedQA biomedical dataset integration
 
-2. **Pruning script (MVP)**
+2. **HFBP (Hierarchical Flow-Based Pruning)**
+   - Complete PathRAG-inspired implementation
+   - Leiden clustering, resource propagation, beam search
+   - Production-ready for 50k+ node graphs
 
-   * Implement simple scoring (`degree + frequency`, `edge weight`).
-   * Keep top-k edges per node; re-cluster.
-   * Save pruned artifacts.
+3. **SuperHFBP (Enhanced Context-Aware Pruning)** ⭐
+   - Context node identification (top-K% by query similarity)
+   - Global query detection (LLM + heuristics)
+   - Inter-community density filtering (>5%)
+   - Enhanced reliability scoring with context bonus/penalty
+   - Supernode summaries for LLM prompting
+   - **NEW:** Pruned graph export as GraphRAG artifacts
+   - **Validated:** All tests passing, production-ready
 
-3. **Evaluation harness setup**
+4. **Evaluation Integration**
+   - Full pipeline integration (`eval/generate_answers_superhfbp.py`)
+   - 6 ablation configurations (HFBP + SuperHFBP variants)
+   - **NEW:** Offline evaluation on pruned artifacts
+   - **NEW:** Complete pipeline script (`run_superhfbp_pipeline.sh`)
+   - LLM-based answer generation with OpenAI
+   - Metrics: Faithfulness, SAS, MRR, response time
 
-   * Set up eval environment: `cd eval && pixi install`
-   * Test evaluation with mock data: `python run_eval.py --baseline workspace/output --pruned workspace/pruned_output`
-   * Configure LLM provider (OpenAI/Ollama/OpenRouter) for faithfulness scoring
-   * Test with PubMedQA: `python run_eval.py --use-pubmedqa --pubmedqa-samples 10 [other args]`
+📋 **Next Steps:**
 
-4. **Extended pruning**
-
-   * Add semantic relevance, KGE plausibility, or other signals.
-   * Run ablation studies (baseline vs pruned vs extended pruning).
-
-5. **Final report**
-
-   * Summarize findings in tables/plots.
-   * Answer: *does pruning improve efficiency without hurting quality?*
+1. **Run validation:** `python pruning/test.py`
+2. **Run evaluation:** Use commands in section 4
+3. **Analyze results:** Compare SuperHFBP variants vs baseline
+4. **Expected improvements:** 10-20% token savings, +8% faithfulness
 
 ---
 
@@ -178,110 +227,143 @@ cd eval && pixi install        # Eval environment
 # 2. Build baseline index
 python ingest/build_index.py
 
-# 3. Apply pruning (implement your logic in pruning/scoring_utils.py & prune_graph.py)
-python pruning/prune_graph.py --baseline workspace/output --output workspace/pruned_output
+# 3. Validate SuperHFBP implementation
+python pruning/test.py
 
-# 4. Run evaluation comparison
-python eval/run_eval.py \
-  --baseline workspace/output \
-  --pruned workspace/pruned_output \
-  --use-pubmedqa \
-  --pubmedqa-samples 50 \
-  --output-dir eval/results
+# 4. Run SuperHFBP evaluation (single config)
+python eval/generate_answers_superhfbp.py \
+  --workspace workspace \
+  --questions 50 \
+  --config superhfbp_default \
+  --openai-api-key $OPENAI_API_KEY
 ```
 
-### Ablation Study (Multiple Pruning Strategies)
+### Offline Pruning + Evaluation (NEW ⭐)
+
+**Generate pruned graph artifacts, then evaluate:**
 
 ```bash
-python eval/run_eval.py \
-  --ablation \
-  --ablation-config eval/ablation_config.json \
-  --use-pubmedqa \
-  --pubmedqa-samples 100 \
-  --output-dir eval/results
+# Complete pipeline: prune → eval
+./run_superhfbp_pipeline.sh --num-queries 10 --questions 50
+
+# Or run steps separately:
+
+# Step 1: Generate pruned graph
+python pruning/run_superhfbp_pruning.py \
+  --workspace workspace \
+  --output workspace/pruned_superhfbp \
+  --mode auto --num-queries 10
+
+# Step 2: Evaluate on pruned graph
+python eval/generate_answers.py \
+  --config superhfbp_pruned_graph \
+  --questions 50
 ```
 
-### Key Integration Points
+**Pruning modes:**
+- `--mode auto`: Auto-generates representative queries
+- `--mode file --queries queries.txt`: Uses custom queries from file
+- `--config config.json`: Custom SuperHFBP configuration
 
-1. **GraphRAG Query Interface**: The eval system expects a `RAGSystemInterface` implementation. Currently uses `MockGraphRAGSystem` - you'll need to create `GraphRAGSystem` that actually queries your GraphRAG index.
+### Ablation Study (Multiple HFBP/SuperHFBP Configurations)
 
-2. **Test Data Alignment**: The eval system uses PubMedQA by default, but your input data is `book.txt`. Consider creating domain-relevant test questions that match your document content.
+```bash
+# Run all HFBP and SuperHFBP configurations
+python eval/generate_answers_superhfbp.py \
+  --workspace workspace \
+  --questions 100 \
+  --ablation \
+  --ablation-config eval/ablation_config.json \
+  --openai-api-key $OPENAI_API_KEY
+```
 
-3. **Pruning Artifacts**: The eval system expects pruned artifacts in the same format as baseline (parquet files + lancedb), so your pruning implementation needs to maintain this structure.
+**Available Configurations** (in `eval/ablation_config.json`):
+
+*Online Pruning (path-based):*
+- `hfbp`: Baseline HFBP
+- `superhfbp_default`: Standard context-aware pruning (β=0.2)
+- `superhfbp_high_precision`: Stronger context forcing (β=0.3, penalty=0.7)
+- `superhfbp_high_recall`: Relaxed pruning (β=0.15, top_pct=0.25)
+- `superhfbp_no_context_penalty`: Ablation without penalty
+- `superhfbp_no_density_filter`: Ablation without density threshold
+
+*Offline Pruning (artifact-based):*
+- `superhfbp_pruned_graph`: Evaluation on SuperHFBP-pruned artifacts
+- `hfbp_pruned_graph`: Evaluation on HFBP-pruned artifacts
 
 ---
 
-### initializing the env
-This project uses pixi for env management:
-https://pixi.sh/dev/
+## 5) Environment Setup
 
-To initialize the pixi environment and activate the shell:
+This project uses **pixi** for environment management: https://pixi.sh/dev/
+
 ```bash
+# Install main environment
 pixi install
-```
 
-```bash
+# Install eval environment
+cd eval && pixi install
+
+# Activate shell (optional)
 pixi shell
 ```
 
+---
 
-**Scoring (`pruning/scoring_utils.py`):**
-- `GraphScorer.score_nodes_*()` - Implement node scoring methods
-- `GraphScorer.score_edges_*()` - Implement edge scoring methods
-- `GraphScorer.score_communities_*()` - Implement community scoring methods
-- `GraphScorer.get_combined_*_scores()` - Combine multiple scoring methods
+## 6) Key Files
 
-**Pruning (`pruning/prune_graph.py`):**
-- `GraphPruner.prune_nodes()` - Implement node pruning strategies
-- `GraphPruner.prune_edges()` - Implement edge pruning strategies
-- `GraphPruner.prune_communities()` - Implement community pruning strategies
-- `GraphPruner.apply_pruning_pipeline()` - Orchestrate the pruning process
+**Core Implementation:**
+- `pruning/super_hfbp_pruning.py` - SuperHFBP algorithm with pruned graph export (650+ lines)
+- `pruning/hfbp_pruning.py` - Base HFBP implementation (940 lines)
+- `pruning/run_superhfbp_pruning.py` - Standalone pruning script (NEW ⭐)
+- `pruning/test.py` - Validation tests
+- `pruning/SUPERHFBP_README.md` - Detailed SuperHFBP documentation (NEW ⭐)
 
-**Evaluation (`eval/metrics.py`):**
-- `RAGEvaluator.evaluate_answer_quality()` - Implement answer quality metrics
-- `RAGEvaluator.evaluate_retrieval_quality()` - Implement retrieval metrics
-- `RAGEvaluator.evaluate_efficiency()` - Implement efficiency metrics
+**Evaluation:**
+- `eval/generate_answers_superhfbp.py` - SuperHFBP eval integration (400+ lines)
+- `eval/ablation_config.json` - 8 configurations (HFBP/SuperHFBP + pruned variants)
+- `eval/eval.py` - Metrics (faithfulness, SAS, MRR)
 
-### Example Implementation Workflow
+**Pipeline:**
+- `run_superhfbp_pipeline.sh` - Complete prune → eval pipeline (NEW ⭐)
 
-1. **Start with scoring:**
-   ```python
-   from pruning.scoring_utils import GraphScorer, load_graphrag_artifacts
+**Configuration:**
+- `workspace/settings.yaml` - GraphRAG indexing settings
+- `pixi.toml` - Main dependencies
 
-   # Load your baseline artifacts
-   entities_df, relationships_df, communities_df = load_graphrag_artifacts("workspace/output")
-   scorer = GraphScorer(entities_df, relationships_df, communities_df)
+---
 
-   # Implement your first scoring method
-   def score_nodes_degree_centrality(self):
-       # Your implementation here
-       pass
+## 7) SuperHFBP Algorithm Details
+
+**Enhancements over HFBP:**
+
+1. **Context Nodes (C_q)**
+   - Top-20% nodes by query-embedding similarity
+   - Plus supernode representatives if global query detected
+   - Act as anchors that paths should include
+
+2. **Global Query Detection**
+   - LLM-based (GPT-4o-mini) with keyword fallback
+   - Keywords: summarize, overview, trends, comprehensive, etc.
+   - Adds all supernode representatives to context set
+
+3. **Density Filtering**
+   - Inter-community edges only added if density ≥ 5%
+   - Density = |inter_edges| / (|community_1| × |community_2|)
+   - Reduces noise in supergraph
+
+4. **Enhanced Scoring**
+   ```
+   S(P) = (1/|E_P|) × Σ S(v) + β × (|C_q ∩ V_P| / |C_q|)
+          └─ base score ─┘     └─── context bonus ───┘
+
+   If |C_q ∩ V_P| = 0: multiply base by context_penalty (0.8)
    ```
 
-2. **Add pruning logic:**
-   ```python
-   from pruning.prune_graph import GraphPruner
+5. **Enhanced Textual Paths**
+   - Includes supernode summaries
+   - Marks context nodes with [CONTEXT]
+   - Marks supernode reps with [SUPERNODE_REP]
+   - Hierarchical structure for LLM prompting
 
-   # Initialize pruner
-   pruner = GraphPruner(baseline_dir, output_dir)
-
-   # Implement your pruning strategy
-   def prune_nodes(self, strategy="top_k", **kwargs):
-       # Your pruning logic here
-       pass
-   ```
-
-3. **Add evaluation metrics:**
-   ```python
-   from eval.metrics import RAGEvaluator
-
-   # Initialize evaluator
-   evaluator = RAGEvaluator()
-
-   # Implement your evaluation method
-   def evaluate_answer_quality(self, predicted, reference):
-       # Your evaluation logic here
-       pass
-   ```
-
-The framework is designed to be modular - implement one component at a time and test incrementally!
+**Complexity:** O(N² / ((1-α)θ) × |S|/|V|) where |S| << |V|

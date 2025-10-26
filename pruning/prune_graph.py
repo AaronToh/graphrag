@@ -21,8 +21,13 @@ from typing import Dict, List, Tuple, Optional
 import logging
 import json
 from datetime import datetime
+import sys
 
-from scoring_utils import GraphScorer, load_graphrag_artifacts, save_scores
+# Handle both package import and direct script execution
+try:
+    from .scoring_utils import GraphScorer, load_graphrag_artifacts, save_scores
+except ImportError:
+    from scoring_utils import GraphScorer, load_graphrag_artifacts, save_scores
 
 logger = logging.getLogger(__name__)
 
