@@ -9,6 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.12.*"
+pip = ">=25.2,<26"
 
 [pypi-dependencies]
 graphrag = ">=0.5.0"

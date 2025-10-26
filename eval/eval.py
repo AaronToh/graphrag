@@ -6,9 +6,8 @@ For detailed documentation, see evaluation.md
 """
 
 import os
-import asyncio
 from typing import List, Tuple, Dict, Any, Optional, Union
-from haystack import AsyncPipeline, Document
+from haystack import Pipeline, Document
 from haystack.components.evaluators.document_mrr import DocumentMRREvaluator
 from haystack.components.evaluators.faithfulness import FaithfulnessEvaluator
 from haystack.components.evaluators.sas_evaluator import SASEvaluator
@@ -131,7 +130,7 @@ def evaluate_rag_pipeline(
         contexts.append([doc.content for doc in docs])
 
     # Build evaluation pipeline
-    eval_pipeline = AsyncPipeline()
+    eval_pipeline = Pipeline()
 
     # Add evaluators based on available data
     evaluators_to_run = {}
@@ -167,9 +166,7 @@ def evaluate_rag_pipeline(
         }
 
     # Run evaluation pipeline
-    results = asyncio.run(
-        eval_pipeline.run_async(evaluators_to_run, concurrency_limit=5)
-    )
+    results = eval_pipeline.run(evaluators_to_run)
 
     # Prepare inputs for EvaluationRunResult
     inputs = {
