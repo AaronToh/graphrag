@@ -2,10 +2,11 @@
 authors = ["yong <yongee2003@gmail.com>"]
 channels = ["conda-forge"]
 name = "evaluation"
-platforms = ["win-64"]
+platforms = ["osx-arm64", "osx-64", "win-64"]
 version = "0.1.0"
 
 [tasks]
+superhfbp_eval = "python run_superhfbp_eval.py --baseline ../workspace/output --pruned ../workspace/pruned_superhfbp --use-pubmedqa --pubmedqa-samples 3 --output-dir ../eval/results/superhfbp_comparison"
 
 [dependencies]
 haystack-ai = ">=2.13.1,<3"
