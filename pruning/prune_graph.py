@@ -253,6 +253,8 @@ class GraphPruner:
 
     def _save_pruned_artifacts(self, artifacts: Dict):
         """Save pruned artifacts to disk."""
+        import shutil
+
         # Save DataFrames
         artifacts['entities'].to_parquet(self.output_dir / "pruned_entities.parquet")
         artifacts['relationships'].to_parquet(self.output_dir / "pruned_relationships.parquet")
@@ -262,6 +264,20 @@ class GraphPruner:
         # Save metadata
         with open(self.output_dir / "pruning_metadata.json", 'w') as f:
             json.dump(artifacts['metadata'], f, indent=2, default=str)
+
+        # Copy corpus files needed for evaluation
+        corpus_files = [
+            'text_units.parquet',
+            'documents.parquet',
+            'community_reports.parquet',
+        ]
+
+        for filename in corpus_files:
+            source = self.baseline_dir / filename
+            if source.exists():
+                dest = self.output_dir / filename
+                shutil.copy2(source, dest)
+                logger.info(f"  Copied {filename} for evaluation")
 
         logger.info(f"💾 Pruned artifacts saved to {self.output_dir}")
 

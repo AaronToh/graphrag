@@ -11,14 +11,17 @@ It handles:
 - Running ablation studies
 
 Usage:
-    # Basic comparison
-    python eval/run_eval.py --baseline workspace/output --pruned workspace/pruned_output
+    # Basic comparison (uses default paths for baseline and CrumbTrail pruned)
+    python eval/run_eval.py --use-pubmedqa --pubmedqa-samples 20
+
+    # Compare with custom paths
+    python eval/run_eval.py --baseline workspace/output --pruned workspace/output/pruned_crumbtrail
 
     # Ablation study
-    python eval/run_eval.py --ablation --config eval/ablation_config.json
+    python eval/run_eval.py --ablation --ablation-config eval/ablation_config.json
 
     # Custom test data
-    python eval/run_eval.py --baseline workspace/output --test-data data/gold/test_questions.json
+    python eval/run_eval.py --test-data data/gold/test_questions.json
 """
 
 import argparse
@@ -30,9 +33,14 @@ from dataclasses import dataclass, asdict
 import pandas as pd
 from datetime import datetime
 import logging
+import os
+from dotenv import load_dotenv
 
 from haystack import Document
 from eval import evaluate_rag_pipeline, evaluate_with_defaults
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 # Configure logging
@@ -119,6 +127,121 @@ class MockGraphRAGSystem(RAGSystemInterface):
 
         # Simulate answer generation
         answer = f"Mock answer to: {question}"
+
+        return answer, docs
+
+
+class FileBackedGraphRAGSystem(RAGSystemInterface):
+    """
+    Simple file-backed GraphRAG system that loads corpus from workspace artifacts
+    and performs keyword-overlap retrieval over text units or documents.
+    """
+
+    def __init__(self, system_path: Path, system_name: str = "GraphRAG System", top_k: int = 5):
+        super().__init__(system_path, system_name)
+        self.top_k = top_k
+        self.corpus_texts: List[str] = []
+        self.corpus_ids: List[str] = []
+        self._doc_tokens: List[set] = []
+        self._load_corpus()
+
+    def _load_corpus(self) -> None:
+        import re
+        import pandas as pd
+
+        # Prefer text_units.parquet, fall back to documents.parquet
+        candidates = [
+            self.system_path / "text_units.parquet",
+            self.system_path / "documents.parquet",
+        ]
+        file_path = None
+        for p in candidates:
+            if p.exists():
+                file_path = p
+                break
+        if file_path is None:
+            raise FileNotFoundError(
+                f"No corpus parquet found in {self.system_path}. Expected one of: text_units.parquet, documents.parquet"
+            )
+
+        df = pd.read_parquet(file_path)
+        # Identify content and id columns with robust fallbacks
+        content_col = None
+        for col in ["text", "content", "body", "document", "chunk_text", "chunk"]:
+            if col in df.columns:
+                content_col = col
+                break
+        if content_col is None:
+            # Heuristic: first string-like column
+            for col in df.columns:
+                if df[col].dtype == object:
+                    content_col = col
+                    break
+        id_col = None
+        for col in [
+            "id",
+            "document_id",
+            "text_unit_id",
+            "doc_id",
+            "source_id",
+            "node_id",
+        ]:
+            if col in df.columns:
+                id_col = col
+                break
+        if id_col is None:
+            id_col = None  # will generate sequential ids
+
+        texts = df[content_col].astype(str).tolist()
+        if id_col:
+            ids = df[id_col].astype(str).tolist()
+        else:
+            ids = [f"doc_{i}" for i in range(len(texts))]
+
+        # Minimal cleaning and tokenization cache
+        def tokenize(s: str) -> set:
+            return set(re.findall(r"\w+", s.lower()))
+
+        self.corpus_texts = texts
+        self.corpus_ids = ids
+        self._doc_tokens = [tokenize(t) for t in texts]
+
+        logger.info(
+            f"Loaded corpus for {self.system_name} from {file_path} with {len(self.corpus_texts)} items"
+        )
+
+    def _score(self, query: str, doc_tokens: set) -> int:
+        import re
+
+        q_tokens = set(re.findall(r"\w+", query.lower()))
+        # Simple overlap count
+        return sum(1 for t in q_tokens if t in doc_tokens)
+
+    def query(self, question: str) -> Tuple[str, List[Document]]:
+        # Score all docs (naive token overlap); for larger corpora, consider sampling
+        scores = [self._score(question, tok) for tok in self._doc_tokens]
+        # Select top_k
+        top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[: self.top_k]
+
+        docs: List[Document] = []
+        for i in top_indices:
+            docs.append(
+                Document(
+                    content=self.corpus_texts[i],
+                    meta={
+                        "doc_id": self.corpus_ids[i],
+                        "source": str(self.system_path),
+                        "score": float(scores[i]),
+                    },
+                )
+            )
+
+        # Generate a simple extractive answer by concatenating snippets
+        def truncate(text: str, limit: int = 400) -> str:
+            return text if len(text) <= limit else text[: limit] + "..."
+
+        answer_context = " \n".join([truncate(self.corpus_texts[i], 400) for i in top_indices])
+        answer = f"Answer (extractive):\n{answer_context}"
 
         return answer, docs
 
@@ -268,10 +391,28 @@ class EvaluationRunner:
 
         # Extract metrics
         aggregated = eval_results["aggregated_report"]
+        # Robust faithfulness extraction to avoid defaulting to 0.0
+        faithfulness_mean = aggregated.get("faithfulness", {}).get("mean", None)
+        if faithfulness_mean is None:
+            df = eval_results.get("detailed_results", None)
+            if df is not None:
+                if "faithfulness" in df.columns:
+                    try:
+                        faithfulness_mean = float(df["faithfulness"].mean())
+                    except Exception:
+                        faithfulness_mean = None
+                elif "faithful" in df.columns:
+                    # Some evaluators output boolean faithful column; mean gives ratio
+                    try:
+                        faithfulness_mean = float(df["faithful"].mean())
+                    except Exception:
+                        faithfulness_mean = None
+        if faithfulness_mean is None:
+            faithfulness_mean = 0.0
 
         metrics = SystemMetrics(
             system_name=rag_system.system_name,
-            faithfulness_score=aggregated.get("faithfulness", {}).get("mean", 0.0),
+            faithfulness_score=faithfulness_mean,
             sas_score=(
                 aggregated.get("sas_evaluator", {}).get("mean", None)
                 if has_gt_answers
@@ -600,9 +741,17 @@ def main():
     )
 
     parser.add_argument(
-        "--baseline", type=Path, help="Path to baseline system artifacts"
+        "--baseline",
+        type=Path,
+        default=Path("workspace/output"),
+        help="Path to baseline system artifacts (default: workspace/output)"
     )
-    parser.add_argument("--pruned", type=Path, help="Path to pruned system artifacts")
+    parser.add_argument(
+        "--pruned",
+        type=Path,
+        default=Path("workspace/output/pruned_crumbtrail_aggressive"),
+        help="Path to pruned system artifacts (default: workspace/output/pruned_crumbtrail_aggressive)"
+    )
     parser.add_argument(
         "--test-data",
         type=Path,
@@ -649,6 +798,17 @@ def main():
         default="gpt-4o-mini",
         help="Model for faithfulness evaluation",
     )
+    # Add API configuration flags for faithfulness evaluator
+    parser.add_argument(
+        "--faithfulness-api-base-url",
+        type=str,
+        help="API base URL for faithfulness evaluator (e.g., OpenRouter/Ollama)",
+    )
+    parser.add_argument(
+        "--faithfulness-api-key",
+        type=str,
+        help="API key/token for faithfulness evaluator",
+    )
 
     args = parser.parse_args()
 
@@ -683,6 +843,8 @@ def main():
         test_questions=test_questions,
         faithfulness_llm_provider=args.faithfulness_provider,
         faithfulness_llm_model=args.faithfulness_model,
+        faithfulness_api_base_url=args.faithfulness_api_base_url,
+        faithfulness_api_key=args.faithfulness_api_key,
     )
 
     if args.ablation:
@@ -708,12 +870,22 @@ def main():
         )
     else:
         # Run single comparison
-        if not args.baseline or not args.pruned:
-            logger.error("--baseline and --pruned required for comparison")
+        # Check if default or custom paths exist
+        if not args.baseline.exists():
+            logger.error(f"Baseline directory not found: {args.baseline}")
+            logger.info("Make sure you've run Stage 1 (ingest/build_index.py) first")
             return
 
-        baseline_system = MockGraphRAGSystem(args.baseline, "Baseline")
-        pruned_system = MockGraphRAGSystem(args.pruned, "Pruned")
+        if not args.pruned.exists():
+            logger.error(f"Pruned directory not found: {args.pruned}")
+            logger.info("Run CrumbTrail pruning first: python examples/crumbtrail_quickstart.py")
+            return
+
+        logger.info(f"Baseline system: {args.baseline}")
+        logger.info(f"Pruned system: {args.pruned}")
+
+        baseline_system = FileBackedGraphRAGSystem(args.baseline, "Baseline")
+        pruned_system = FileBackedGraphRAGSystem(args.pruned, "Pruned")
 
         runner.compare_systems(
             baseline_system=baseline_system,

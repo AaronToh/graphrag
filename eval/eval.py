@@ -166,7 +166,17 @@ def evaluate_rag_pipeline(
         }
 
     # Run evaluation pipeline
-    results = eval_pipeline.run(evaluators_to_run)
+    import logging
+    logger = logging.getLogger(__name__)
+
+    try:
+        logger.info(f"Running evaluation pipeline with {len(evaluators_to_run)} evaluators...")
+        results = eval_pipeline.run(evaluators_to_run)
+        logger.info("Evaluation pipeline completed successfully")
+    except Exception as e:
+        logger.error(f"Evaluation pipeline failed: {e}")
+        logger.error(f"Evaluators: {list(evaluators_to_run.keys())}")
+        raise
 
     # Prepare inputs for EvaluationRunResult
     inputs = {

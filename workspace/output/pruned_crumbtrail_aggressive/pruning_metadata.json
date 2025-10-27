@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T10:52:24.938669",
+  "timestamp": "2025-10-27T12:40:57.502883",
   "algorithm": "CrumbTrail",
   "parameters": {
     "root_entity": "__VIRTUAL_ROOT__",
@@ -36,29 +36,29 @@
     "num_entity_types": 10
   },
   "pruned_stats": {
-    "num_entities": 17277,
-    "num_relationships": 23738,
+    "num_entities": 17309,
+    "num_relationships": 23925,
     "num_communities": 1573,
-    "num_nodes_in_graph": 17277,
-    "num_edges_in_graph": 23548,
-    "num_isolated_entities": 1239,
-    "num_weakly_connected_components": 1883,
-    "largest_component_size": 12822,
-    "largest_component_pct": 74.21427331133877,
-    "avg_degree": 2.7259362157782023,
-    "max_degree": 140,
+    "num_nodes_in_graph": 17309,
+    "num_edges_in_graph": 23715,
+    "num_isolated_entities": 1218,
+    "num_weakly_connected_components": 1845,
+    "largest_component_size": 12914,
+    "largest_component_pct": 74.60858512912358,
+    "avg_degree": 2.740192963198336,
+    "max_degree": 138,
     "min_degree": 0,
     "entity_types": {
-      "BIOLOGICAL_PROCESS": 6679,
-      "TECHNOLOGY": 2837,
-      "EVENT": 2265,
-      "DISEASE": 1225,
-      "TREATMENT": 1091,
+      "BIOLOGICAL_PROCESS": 6689,
+      "TECHNOLOGY": 2845,
+      "EVENT": 2270,
+      "DISEASE": 1232,
+      "TREATMENT": 1084,
       "": 1061,
-      "SYMPTOM": 858,
-      "MEDICATION": 459,
-      "ORGANIZATION": 427,
-      "PERSON": 375
+      "SYMPTOM": 859,
+      "MEDICATION": 460,
+      "ORGANIZATION": 426,
+      "PERSON": 383
     },
     "num_entity_types": 10
   }
