@@ -44,5 +44,29 @@
     "node_k": 70,
     "edge_k": 5,
     "description": "Combined node (70%) and edge (top 5) pruning"
+  },
+  {
+    "name": "crumbtrail_aggressive",
+    "artifacts_path": "workspace/output/pruned_crumbtrail_aggressive",
+    "pruning_strategy": "crumbtrail",
+    "protected_fraction": 0.1,
+    "protected_selection": "degree_centrality",
+    "description": "CrumbTrail with 10% protected nodes (aggressive pruning)"
+  },
+  {
+    "name": "crumbtrail_default",
+    "artifacts_path": "workspace/output/pruned_crumbtrail",
+    "pruning_strategy": "crumbtrail",
+    "protected_fraction": 0.2,
+    "protected_selection": "degree_centrality",
+    "description": "CrumbTrail with 20% protected nodes (default)"
+  },
+  {
+    "name": "crumbtrail_conservative",
+    "artifacts_path": "workspace/output/pruned_crumbtrail_conservative",
+    "pruning_strategy": "crumbtrail",
+    "protected_fraction": 0.3,
+    "protected_selection": "degree_centrality",
+    "description": "CrumbTrail with 30% protected nodes (conservative)"
   }
 ]

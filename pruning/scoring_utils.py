@@ -40,10 +40,30 @@ class GraphScorer:
 
         logger.info(f"Loaded {len(self.entities_df)} entities, {len(self.relationships_df)} relationships")
 
-    def _build_graph(self) -> nx.Graph:
-        """Build NetworkX graph - implement your graph construction logic here."""
-        # TODO: Implement graph construction
-        pass
+    def _build_graph(self) -> nx.DiGraph:
+        """Build NetworkX DiGraph from GraphRAG entities and relationships."""
+        logger.info("Building directed graph from entities and relationships...")
+
+        # Create directed graph
+        G = nx.DiGraph()
+
+        # Add nodes from entities
+        # Use 'title' as node ID since relationships use entity titles
+        for _, entity in self.entities_df.iterrows():
+            node_id = entity['title']  # Use title, not UUID
+            # Store all entity attributes including the UUID
+            G.add_node(node_id, **entity.to_dict())
+
+        # Add edges from relationships
+        # Relationships use entity titles as source/target
+        for _, rel in self.relationships_df.iterrows():
+            source = rel['source']
+            target = rel['target']
+            # Add edge with all relationship attributes
+            G.add_edge(source, target, **rel.to_dict())
+
+        logger.info(f"Built graph: {len(G.nodes())} nodes, {len(G.edges())} edges")
+        return G
 
     # === NODE SCORING METHODS ===
 

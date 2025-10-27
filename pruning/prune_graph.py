@@ -17,12 +17,13 @@ import argparse
 import pandas as pd
 import numpy as np
 from pathlib import Path
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Tuple, Optional, Set
 import logging
 import json
 from datetime import datetime
+import networkx as nx
 
-from scoring_utils import GraphScorer, load_graphrag_artifacts, save_scores
+from .scoring_utils import GraphScorer, load_graphrag_artifacts, save_scores
 
 logger = logging.getLogger(__name__)
 
@@ -263,6 +264,260 @@ class GraphPruner:
             json.dump(artifacts['metadata'], f, indent=2, default=str)
 
         logger.info(f"💾 Pruned artifacts saved to {self.output_dir}")
+
+    def apply_crumbtrail_pipeline(self,
+                                  root_entity: str = None,
+                                  protected_fraction: float = 0.2,
+                                  protected_selection: str = 'degree_centrality',
+                                  max_iterations: int = 1000) -> Dict[str, pd.DataFrame]:
+        """
+        Apply CrumbTrail pruning pipeline.
+
+        Args:
+            root_entity: Root node ID (if None, create virtual root)
+            protected_fraction: Fraction of nodes to protect (0.0-1.0)
+            protected_selection: Method to select protected nodes
+                                ('degree_centrality', 'random', 'community_based')
+            max_iterations: Maximum number of layers in CrumbTrail
+
+        Returns:
+            Dictionary with pruned artifacts and metadata
+        """
+        from pruning.crumbtrail import crumbtrail_prune
+
+        logger.info("🚀 Starting CrumbTrail pruning pipeline...")
+        timestamp = datetime.now().isoformat()
+
+        # Build graph from entities and relationships
+        logger.info("Building graph...")
+        G = self.scorer.graph  # Use the graph from scorer
+
+        if G is None or len(G.nodes()) == 0:
+            raise ValueError("Graph is empty. Check that entities and relationships are loaded.")
+
+        # Compute baseline stats
+        baseline_stats = self._compute_detailed_stats(
+            self.entities_df, self.relationships_df, G
+        )
+
+        # Select protected nodes
+        logger.info(f"Selecting protected nodes ({protected_selection} method)...")
+        protected_nodes = self._select_protected_nodes(
+            G, protected_fraction, protected_selection
+        )
+
+        # Select or create root
+        if root_entity is None:
+            # Create a virtual root node connected to high-degree nodes
+            root_entity = "__VIRTUAL_ROOT__"
+            G.add_node(root_entity, title="Virtual Root", type="VIRTUAL")
+            # Connect root to top 10 highest-degree nodes
+            top_nodes = sorted(G.degree(), key=lambda x: x[1], reverse=True)[:10]
+            for node, _ in top_nodes:
+                G.add_edge(root_entity, node, weight=1.0, description="Virtual root connection")
+            logger.info(f"Created virtual root '{root_entity}' connected to {len(top_nodes)} top nodes")
+        elif root_entity not in G:
+            raise ValueError(f"Root entity '{root_entity}' not found in graph")
+
+        # Add root to protected nodes
+        protected_nodes.add(root_entity)
+
+        logger.info(f"Root: {root_entity}")
+        logger.info(f"Protected nodes: {len(protected_nodes)} ({100*len(protected_nodes)/len(G.nodes()):.1f}%)")
+
+        # Run CrumbTrail
+        logger.info("Running CrumbTrail algorithm...")
+        pruned_graph = crumbtrail_prune(
+            G, protected_nodes, root_entity, max_iterations
+        )
+
+        # Extract pruned entities and relationships
+        logger.info("Extracting pruned artifacts...")
+        pruned_node_ids = set(pruned_graph.nodes())
+
+        # Filter entities to only those in pruned graph
+        # Note: graph uses 'title' as node ID
+        pruned_entities = self.entities_df[
+            self.entities_df['title'].isin(pruned_node_ids)
+        ].copy()
+
+        # Filter relationships to only those with both endpoints in pruned graph
+        pruned_relationships = self.relationships_df[
+            self.relationships_df['source'].isin(pruned_node_ids) &
+            self.relationships_df['target'].isin(pruned_node_ids)
+        ].copy()
+
+        # Remove virtual root from output if it was created
+        if root_entity == "__VIRTUAL_ROOT__":
+            pruned_entities = pruned_entities[pruned_entities['title'] != root_entity]
+            pruned_graph.remove_node(root_entity)
+
+        # Compute pruned stats
+        pruned_stats = self._compute_detailed_stats(
+            pruned_entities, pruned_relationships, pruned_graph
+        )
+
+        # Log reduction statistics
+        self._log_reduction_stats(baseline_stats, pruned_stats)
+
+        # Prepare artifacts
+        pruned_artifacts = {
+            'entities': pruned_entities,
+            'relationships': pruned_relationships,
+            'communities': None,  # CrumbTrail doesn't preserve communities
+            'metadata': {
+                'timestamp': timestamp,
+                'algorithm': 'CrumbTrail',
+                'parameters': {
+                    'root_entity': root_entity,
+                    'protected_fraction': protected_fraction,
+                    'protected_selection': protected_selection,
+                    'max_iterations': max_iterations,
+                    'num_protected': len(protected_nodes)
+                },
+                'baseline_stats': baseline_stats,
+                'pruned_stats': pruned_stats
+            }
+        }
+
+        # Save artifacts
+        self._save_pruned_artifacts(pruned_artifacts)
+
+        logger.info("✅ CrumbTrail pipeline completed")
+        return pruned_artifacts
+
+    def _select_protected_nodes(self, G: nx.DiGraph, fraction: float,
+                                method: str) -> Set[str]:
+        """
+        Select nodes to protect during pruning.
+
+        Args:
+            G: Graph
+            fraction: Fraction of nodes to protect
+            method: Selection method
+
+        Returns:
+            Set of protected node IDs
+        """
+        n_protect = max(1, int(len(G.nodes()) * fraction))
+
+        if method == 'degree_centrality':
+            # Select highest-degree nodes
+            centrality = nx.degree_centrality(G)
+            top_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)
+            protected = {node for node, _ in top_nodes[:n_protect]}
+
+        elif method == 'random':
+            # Random selection
+            import random
+            protected = set(random.sample(list(G.nodes()), n_protect))
+
+        elif method == 'community_based':
+            # Select nodes from each community (if communities available)
+            if self.communities_df is not None and len(self.communities_df) > 0:
+                # Get nodes from top communities
+                protected = set()
+                # This is a simplified version - could be improved
+                centrality = nx.degree_centrality(G)
+                top_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)
+                protected = {node for node, _ in top_nodes[:n_protect]}
+            else:
+                # Fall back to degree centrality
+                logger.warning("No communities available, using degree_centrality")
+                return self._select_protected_nodes(G, fraction, 'degree_centrality')
+
+        else:
+            raise ValueError(f"Unknown protected selection method: {method}")
+
+        logger.info(f"Selected {len(protected)} protected nodes using {method}")
+        return protected
+
+    def _compute_detailed_stats(self, entities_df: pd.DataFrame,
+                                relationships_df: pd.DataFrame,
+                                graph: nx.DiGraph) -> Dict:
+        """
+        Compute detailed statistics about the graph.
+
+        Args:
+            entities_df: Entities DataFrame
+            relationships_df: Relationships DataFrame
+            graph: NetworkX graph
+
+        Returns:
+            Dictionary of statistics
+        """
+        stats = {
+            'num_entities': len(entities_df),
+            'num_relationships': len(relationships_df),
+            'num_communities': len(self.communities_df) if self.communities_df is not None else 0,
+            'num_nodes_in_graph': len(graph.nodes()),
+            'num_edges_in_graph': len(graph.edges()),
+        }
+
+        # Graph structure stats
+        if len(graph.nodes()) > 0:
+            # Isolated nodes
+            isolated = list(nx.isolates(graph))
+            stats['num_isolated_entities'] = len(isolated)
+
+            # Connected components
+            if graph.is_directed():
+                wcc = list(nx.weakly_connected_components(graph))
+                stats['num_weakly_connected_components'] = len(wcc)
+                if wcc:
+                    largest = max(wcc, key=len)
+                    stats['largest_component_size'] = len(largest)
+                    stats['largest_component_pct'] = 100 * len(largest) / len(graph.nodes())
+            else:
+                cc = list(nx.connected_components(graph))
+                stats['num_connected_components'] = len(cc)
+                if cc:
+                    largest = max(cc, key=len)
+                    stats['largest_component_size'] = len(largest)
+                    stats['largest_component_pct'] = 100 * len(largest) / len(graph.nodes())
+
+            # Degree statistics
+            degrees = [d for n, d in graph.degree()]
+            if degrees:
+                stats['avg_degree'] = sum(degrees) / len(degrees)
+                stats['max_degree'] = max(degrees)
+                stats['min_degree'] = min(degrees)
+
+            # Entity type distribution
+            if 'type' in entities_df.columns:
+                type_counts = entities_df['type'].value_counts().to_dict()
+                stats['entity_types'] = type_counts
+                stats['num_entity_types'] = len(type_counts)
+
+        return stats
+
+    def _log_reduction_stats(self, baseline_stats: Dict, pruned_stats: Dict):
+        """Log reduction statistics."""
+        logger.info("\n" + "="*60)
+        logger.info("📊 PRUNING STATISTICS")
+        logger.info("="*60)
+
+        logger.info("\n🔵 Baseline:")
+        logger.info(f"  Entities:      {baseline_stats['num_entities']:,}")
+        logger.info(f"  Relationships: {baseline_stats['num_relationships']:,}")
+        logger.info(f"  Avg Degree:    {baseline_stats.get('avg_degree', 0):.2f}")
+        logger.info(f"  Components:    {baseline_stats.get('num_weakly_connected_components', 0)}")
+
+        logger.info("\n🟢 Pruned:")
+        logger.info(f"  Entities:      {pruned_stats['num_entities']:,}")
+        logger.info(f"  Relationships: {pruned_stats['num_relationships']:,}")
+        logger.info(f"  Avg Degree:    {pruned_stats.get('avg_degree', 0):.2f}")
+        logger.info(f"  Components:    {pruned_stats.get('num_weakly_connected_components', 0)}")
+
+        # Calculate reductions
+        entity_reduction = 100 * (1 - pruned_stats['num_entities'] / baseline_stats['num_entities'])
+        rel_reduction = 100 * (1 - pruned_stats['num_relationships'] / baseline_stats['num_relationships'])
+
+        logger.info("\n📉 Reduction:")
+        logger.info(f"  Entities:      {entity_reduction:.1f}%")
+        logger.info(f"  Relationships: {rel_reduction:.1f}%")
+
+        logger.info("\n" + "="*60)
 
     def compare_with_baseline(self) -> Dict:
         """
