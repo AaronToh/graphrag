@@ -1,7 +1,0 @@
-Document ID: 25422777
-
-To identify risk factors for hearing impairment among patients with type 2 diabetes mellitus.
-
-A total of 68 patients with type 2 diabetes were enrolled between March and September of 2011. Pure-tone auditory tests were carried out for each patient at the following speech frequencies: 250; 500; 1,000; 2,000; 4,000 and 8,000 Hz. Participants were classified as having hearing impairment if the average of the pure-tone thresholds measured at 500, 1000 and 2000 Hz in either ear exceeded 25 dBHL. Demographic, anthropometric, clinical, and laboratory parameters and diabetes-associated complications were analyzed.
-
-Patients were divided into those with (n = 32) and without (n = 36) hearing impairment. Hearing impaired participants had a higher urine albumin-to-creatinine ratio than those without (223.1 vs 56.5 mg/g, respectively). After adjustment for age, sex and other risk factors, the urine albumin-to-creatinine ratio remained significantly associated with hearing impairment (odds ratio 9.07, 95% confidence interval 1.73-47.43, P = 0.009). There were no significant differences in oxidative stress between the two groups.

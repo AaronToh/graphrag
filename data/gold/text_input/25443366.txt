@@ -1,7 +1,0 @@
-Document ID: 25443366
-
-To study the gastroprotective effect and in vivo antioxidant potential of a standardized iridoid fraction from B. prionitis leaves (BPE) against different gastric ulcer models in rats.
-
-The standardized iridoid fraction from BPE at 50, 100, and 200 mg/kg body weight was administered orally, twice daily for 5 days for prevention from aspirin, ethanol, cold-restraint stress (CRS), and pylorus ligation (PL)-induced ulcers. Estimation of the antioxidant enzyme activity was carried out in a CRS-induced ulcer model, and various gastric secretion parameters including volume of gastric juice, acid output, and pH value were estimated in the PL-induced ulcer model.
-
-BPE showed a dose-dependent ulcer protective effect in PL (18.67%-66.26% protection), aspirin (24.65%-63.25% protection), CRS (20.77%-59.42% protection), and EtOH (16.93%-77.04% protection)-induced ulcers. BPE treatment in PL-rats showed a decrease in acid-pepsin secretion, and enhanced mucin and mucosal glycoproteins. However, BPE reduced the ulcer index with significant decrease in LPO (P < 0.01-0.001), SOD (P < 0.01-0.001), and an increase in CAT (P < 0.01-0.001), activity in the CRS-induced model.

@@ -1,7 +1,0 @@
-Document ID: 25443923
-
-To investigate the effect of the percentage of free prostate-specific antigen (%fPSA) on future prostate cancer risk.
-
-We examined serum total PSA (tPSA) and %fPSA annually in a prostate cancer-screening cohort between July 2001 and June 2011. Men with tPSA >4.0 ng/mL or tPSA of 2.0-4.0 ng/mL with %fPSA ≤12% were screened as positive and were recommended to undergo a biopsy. The study population consisted of 6368 men, aged 40-79 years, who had tPSA ≤4.0 ng/mL at initial screening and who subsequently underwent 1 or more screenings. We calculated the cumulative risk and hazard ratio of prostate cancer stratified by the initial %fPSA groups as quartiles of prostate cancer patients.
-
-During a median follow-up of 36 months, 119 men were diagnosed with prostate cancer. The lowest quartile of %fPSA (<13.3%) was associated with a 21.2-fold higher risk of having prostate cancer compared with the highest quartile (>22.2%). For the subset with an initial tPSA ≤1.0 ng/mL, all men diagnosed with cancer had an initial %fPSA ≤33.3% (median). For the subset with tPSA >1.0 ng/mL, men with %fPSA ≤23.0% (median) had significantly higher risk for cancer than those with %fPSA >23.0% (P <.0001). Of the 114 men with prostate cancer in whom pathologic findings were available, 79 (69.3%) had a Gleason score ≥3 + 4 = 7.

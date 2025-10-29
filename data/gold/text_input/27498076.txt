@@ -1,9 +1,0 @@
-Document ID: 27498076
-
-Lamin A and C are nuclear filament proteins encoded by the LMNA gene. Mutations in the LMNA gene cause many congenital diseases known as laminopathies, including Emery-Dreifuss muscular dystrophy, Hutchinson-Gilford progeria syndrome, and familial dilated cardiomyopathy (DCM) with conduction disease. A missense mutation (N195K) in the A-type lamins results in familial DCM and sudden arrhythmic death.
-
-The purpose of this study was to investigate the ion current mechanism of arrhythmia and DCM caused by the LaminA-N195K variant.
-
-A homozygous mouse line expressing the Lmna-N195K mutation (Lmna
-
-Both peak and late I

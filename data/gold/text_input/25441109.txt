@@ -1,7 +1,0 @@
-Document ID: 25441109
-
-The aim of this study was to investigate the prognostic effect of serum free light chain (sFLC) response after 2 cycles of first-line chemotherapy (CT) in multiple myeloma (MM) patients.
-
-The data of 78 newly diagnosed MM patients who had sFLC levels at diagnosis and after 2 cycles of first-line CT were included in the study. The prognostic effect of sFLCs were evaluated with normalization of sFLC κ/λ ratio after 2 cycles of CT and involved/uninvolved (i/u) sFLCs.
-
-At the end of follow-up the probability of overall survival (OS) was 95.7% versus 68.5% in patients with and without normalized sFLC κ/λ ratio, respectively (P = .072). The probability of OS with i/u sFLC assessment was 97.4% versus 55.8% with regard to i/u sFLC ≤ 10 and > 10, respectively (P = .001). In univariate and multivariate analysis including sFLC ratio, age, sex, and International Staging System, i/u sFLC ratio > 10 after 2 cycles of CT was identified as an independent risk factor for OS (P = .015; hazard ratio [HR], 13.2; 95% confidence interval [CI], 1.668-104.65 vs. P = .011; HR, 15.17; 95% CI, 1.85-123.89).

@@ -1,7 +1,0 @@
-Document ID: 27517839
-
-Although trastuzumab improves the outcome of patients with human epidermal growth factor receptor 2 (HER2)-overexpressing gastric or gastroesophageal junction adenocarcinoma (collectively referred to as "gastroesophageal adenocarcinoma"; GEA), no clinical response is observed in a substantial population of patients. A predictive biomarker of trastuzumab response is required. The aim of this study was to evaluate whether the hyperactivation of the downstream phosphatidylinositol 3-kinase pathway, due to phosphatase and tensin homolog (PTEN) loss or PIK3CA mutations, could provide trastuzumab resistance in GEA.
-
-Expression of HER2 and PTEN, and PIK3CA gene mutations were screened in 264 surgically resected GEA specimens. The effects of PTEN knockdown on the response to trastuzumab on cell viability, HER2 downstream signaling, apoptosis, and cell cycle were evaluated in HER2-overexpressing NCI-N87 gastric adenocarcinoma and OE19 esophageal adenocarcinoma cell lines. Inhibition of xenograft tumor growth by trastuzumab was investigated in OE19 cells with or without PTEN knockdown. The PTEN expression and objective response were analyzed in 23 GEA patients who received trastuzumab-based therapy.
-
-PTEN loss was identified in 34.5 % of HER2-overexpressing GEA patients, whereas PIK3CA mutations were rare (5.6 %). Trastuzumab-mediated growth suppression, apoptosis, and G

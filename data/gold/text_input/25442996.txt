@@ -1,7 +1,0 @@
-Document ID: 25442996
-
-Aortic valve interstitial cells (AVICs) have been implicated in the pathogenesis of calcific aortic valve disease. Signal transducer and activator of transcription 3 (Stat3) possesses antiinflammatory effects. Given that calcification occurs in adult valves, we hypothesized that AVICs from adult valves more likely undergo a proosteogenic phenotypic change than those from pediatric valves and that may be related to different Stat3 activation in the response of those two age groups to toll-like receptor 4 (TLR4).
-
-AVICs from healthy human aortic valve tissues were treated with TLR4 agonist lipopolysaccharide. Cellular levels of TLR4, intercellular adhesion molecule 1, bone morphogenetic protein 2, and alkaline phosphatase, as well as phosphorylation of p-38 mitogen-activated protein kinase (MAPK), nuclear factor-κβ (NF-κβ), and Stat3, were analyzed.
-
-Toll-like receptor 4 protein levels were comparable between adult and pediatric AVICs. Adult cells produce markedly higher levels of the above markers after TLR4 stimulation, which is negatively associated with phosphorylation of Stat3. Inhibition of Stat3 enhanced p-38 MAPK and NF-κβ phosphorylation and exaggerated the expression of the above markers in pediatric AVICs after TLR4 stimulation.

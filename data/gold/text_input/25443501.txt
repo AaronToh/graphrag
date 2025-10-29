@@ -1,7 +1,0 @@
-Document ID: 25443501
-
-High tumor interstitial fluid pressure (IFP) is associated with poor outcome in locally advanced carcinoma of the uterine cervix. We have recently developed a noninvasive assay of the IFP of tumors, and in this assay, the outward interstitial fluid flow velocity at the tumor surface (v0) is measured by Gd-DTPA-based DCE-MRI and used as a parameter for IFP. Here, we investigated the independent prognostic significance of v0 in cervical cancer patients given cisplatin-based concurrent chemoradiotherapy with curative intent.
-
-The study involved 62 evaluable patients from a cohort of 74 consecutive patients (Stage IB through IIIB) with a median follow-up of 5.5 years.
-
-The actuarial disease-free survival (DFS) and overall survival (OS) at 5 years were 67% and 76%, respectively. Significant associations were found between v0 dichotomized about the median value and DFS and OS, both in the total patient cohort and a subcohort of 40 Stage IIB patients. Multivariate analysis involving stage, tumor volume, lymph node status, and v0 revealed that only v0 provided independent prognostic information about DFS and OS.

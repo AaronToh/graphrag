@@ -1,7 +1,0 @@
-Document ID: 25443141
-
-Early-life stress and a genetic predisposition to display an anxiety- and depressive-like phenotype are associated with behavioral and gastrointestinal (GI) dysfunction. Animals exposed to early-life stress, and those genetically predisposed to display anxiety or depressive behaviors, have proven useful tools in which to study stress-related GI disorders, such as irritable bowel syndrome (IBS). IBS is a heterogeneous disorder, and likely a consequence of both genetic and environmental factors. However, the combined effects of early-life stress and a genetic predisposition to display anxiety- and depression-like behaviors on GI function have not been investigated.
-
-We assessed the effect of maternal separation (MS) on behavioral and GI responses in WKY animals relative to a normo-anxious reference strain.
-
-Both non-separated (NS) WKY and WKY-MS animals displayed anxiety-like responses in the open-field test and depressive-like behaviors in the forced swim test relative to Sprague-Dawley rats. However, MS had no further influence on anxiety- and depressive-like behaviors exhibited by this stress-prone rat strain. Similarly, corticosterone levels measured after the OFT were insensitive to MS in WKY animals. However, WKY-MS displayed significantly increased colonic visceral hypersensitivity, fecal output, and altered colonic cholinergic sensitivity.

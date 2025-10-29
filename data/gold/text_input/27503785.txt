@@ -1,7 +1,0 @@
-Document ID: 27503785
-
-The relative contribution of interictal epileptiform discharges (IEDs) to cognitive dysfunction in comparison with the underlying brain pathology is not yet understood in children with lesional focal epilepsy.
-
-The current study investigated the association of IEDs with intellectual functioning in 103 children with medication-resistant focal epilepsy. Hierarchical multiple regression analyses were used to determine the independent contribution of IED features on intellectual functioning, after controlling for effects of lesional pathology, epilepsy duration, and medication. Exploratory analyses were conducted for language and memory scores as well as academic skills available in a subset of participants.
-
-The results reveal that IEDs have a negative association with IQ with independent, additive effects documented for frequent and bilaterally distributed IEDs as well as discharge enhancement in sleep. Left-lateralized IEDs had a prominent effect on verbal intelligence, in excess of the influence of left-sided brain pathology. These effects extended to other cognitive functions, most prominently for sleep-enhanced IEDs to be associated with deficits in expressive and receptive language, reading, spelling and numerical skills.

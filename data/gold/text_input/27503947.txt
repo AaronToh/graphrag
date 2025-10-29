@@ -1,7 +1,0 @@
-Document ID: 27503947
-
-To evaluate the relationship between pro-atherogenic biomarkers and epicardial adipose tissue (EAT) thickness in patients with cardiovascular risk factors.
-
-Plasma nitric oxide (NO), soluble intercellular adhesion molecule-1 and malondialdehyde (MDA) levels, EAT thickness, flow-mediated dilation (FMD) and carotid intima media thickness (CIMT) were determined in patients aged >18 years who were referred for echocardiography for heart ischemia or non-ischemic diseases. Cardiovascular risk factors (Framingham score [FS] ≥ 20) were weighted.
-
-Hypertension, dyslipidaemia and type 2 diabetes mellitus were prevalent (≥55% of 40 patients). Patients with FS ≥ 20 (n = 21) showed significantly higher EAT and CIMT values. Globally, MDA, CIMT, age, waist circumference, high-density lipoprotein cholesterol (HDL-C) and FS were associated with EAT thickness. EAT was significantly associated with NO in patients with FS ≥ 20. Significant differences in EAT thickness were found between patients stratified by NO value, FMD, age, smoking status, dyslipidaemia, type 2 diabetes mellitus and FS. An EAT-associated atherogenic risk (CIMT ≥ 1 mm) model was statistically significant when MDA and type 2 diabetes mellitus were included.

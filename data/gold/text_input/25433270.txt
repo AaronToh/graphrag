@@ -1,7 +1,0 @@
-Document ID: 25433270
-
-Vessel formation is a crucial event in tissue repair after injury. Thus, one assumption of innovative therapeutic approaches is the understanding of its molecular mechanisms. Notwithstanding our knowledge of the role of Protein Kinase C epsilon (PKCε) in cardio-protection and vascular restenosis, its role in vessel progenitor differentiation remains elusive.
-
-Given the availability of PKCε pharmacological modulators already tested in clinical trials, the specific aim of this study is to unravel the role of PKCε in vessel progenitor differentiation, with implications in vascular pathology and vasculogenesis.
-
-Mouse Peri-Vascular Adipose Tissue (PVAT) was used as source of mesenchymal vessel progenitors. VEGF-induced differentiation of PVAT cells down-regulates both PKCε and p-PAK1 protein expression levels. PKCε overexpression and activation: i) reduced the expression levels of SMA and PECAM in endothelial differentiation of PVAT cells; ii) completely abrogated tubules formation in collagen gel assays; iii) increased the expression of p-PAK1.

@@ -1,7 +1,0 @@
-Document ID: 25445244
-
-Current basic or more advanced methods for analysis of averaged EEG/ERP are based on assumptions on the underlying processes, which are not necessarily precise.
-
-In this work we present the findings of a method which obviates such assumptions and aims at a comprehensive analysis of the averaged EEG/ERP signal.
-
-For the sake of demonstration we chose the established go/no-go paradigm in the context of ADHD. Our analysis method characterized two spatiotemporally distinct neurophysiologic processes which underlie the sampled signal: one which may be related to attention and the other which may be more related to perception.

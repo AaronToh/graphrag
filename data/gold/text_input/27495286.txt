@@ -1,7 +1,0 @@
-Document ID: 27495286
-
-Total parenteral nutrition (TPN) is a cause of intestinal microbial dysbiosis and impaired gut barrier function. This may contribute to life-threatening parenteral nutrition-associated liver disease and sepsis in infants. We compared the effects of a lipid emulsion containing long-chain ω-3 polyunsaturated fatty acids (PUFAs; SMOFlipid) and a predominantly ω-6 PUFA emulsion (Intralipid) on microbial composition and host response at the mucosal surface.
-
-Neonatal piglets were provided isocaloric, isonitrogenous TPN for 14 days versus sow-fed (SF) controls. Equivalent lipid doses (10 g/kg/d) were given of either SMOFlipid (ML; n = 10) or Intralipid (SO; n = 9). Ileal segments and mucosal scrapings were used to characterize microbial composition by 16S rRNA gene sequencing and quantitative gene expression of tight junction proteins, mucins, antimicrobial peptides, and inflammatory cytokines.
-
-The microbial composition of TPN piglets differed from SF, while ML and SO differed from each other (analysis of molecular variance; P < .05); ML piglets were more similar to SF, as indicated by UniFrac distance (P < .05). SO piglets showed a specific and dramatic increase in Parabacteroides (P < .05), while ML showed an increase in Enterobacteriaceae (P < .05). Gene expression of mucin, claudin 1, β-defensin 2, and interleukin 8 were higher in TPN; overall increases were significantly less in ML versus SO (P < .05).

@@ -1,7 +1,0 @@
-Document ID: 25427256
-
-The relationship between self-reported lifetime traumatic brain injury (TBI) and drug and alcohol use and associated harms was examined using an epidemiological sample of Canadian adolescents.
-
-Data were derived from a 2011 population-based cross-sectional school survey, which included 6383 Ontario 9th-12th graders who self-completed anonymous self-administered questionnaires in classrooms. Traumatic brain injury was defined as loss of consciousness for at least 5 minutes or a minimum 1-night hospital stay due to symptoms.
-
-Relative to high schoolers without a history of TBI, those who acknowledged having a TBI in their lifetime had odds 2 times greater for binge drinking (5+ drinks per occasion in the past 4 weeks), 2.5 times greater for daily cigarette smoking, 2.9 times greater for nonmedical use of prescription drugs, and 2.7 times greater for consuming illegal drug in the past 12 months. Adolescents with a history of TBI had greater odds for experiencing hazardous/harmful drinking (adjusted odds ratio [aOR] = 2.3), cannabis problems (aOR = 2.4), and drug problems (aOR = 2.1), compared with adolescents who were never injured.

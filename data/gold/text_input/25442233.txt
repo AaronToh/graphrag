@@ -1,9 +1,0 @@
-Document ID: 25442233
-
-Physical inactivity has been associated with obesity and related chronic diseases. Understanding built environment (BE) influences on specific domains of physical activity (PA) around homes and workplaces is important for public health interventions to increase population PA.
-
-To examine the association of home and workplace BE features with PA occurring across specific life domains (work, leisure, and travel).
-
-Between 2012 and 2013, telephone interviews were conducted with participants in four Missouri metropolitan areas. Questions included sociodemographic characteristics, home and workplace supports for PA, and dietary behaviors. Data analysis was conducted in 2013; logistic regression was used to examine associations between BE features and domain-specific PA.
-
-In home neighborhoods, seven of 12 BE features (availability of fruits and vegetables, presence of shops and stores, bike facilities, recreation facilities, crime rate, seeing others active, and interesting things) were associated with leisure PA. The global average score of home neighborhood BE features was associated with greater odds of travel PA (AOR=1.99, 95% CI=1.46, 2.72); leisure PA (AOR=1.84, 95% CI=1.44, 2.34); and total PA (AOR=1.41, 95% CI=1.04, 1.92). Associations between workplace neighborhoods' BE features and workplace PA were small but in the expected direction.

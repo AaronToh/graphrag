@@ -1,9 +1,0 @@
-Document ID: 27513835
-
-Acute Kidney Injury (AKI) is a serious early complications in patients with acute pancreatitis (AP) that signifcantly increases mortality rates compared to patients without AKI. The early diagnosis of AKI during its treatable phases and implementation of appropriate treatment protocols can improve outcomes for this group of patients. A promising biomarker for AKI is neutrophil gelatinase-associated lipocalin (NGAL).
-
-This study evaluated the diagnostic value of NGAL concentrations in serum and in urine for patients developing AKI as an early complication of AP compared to AP patients without AKI.
-
-The study group composed of 65 patients (34 men and 31 women) with a mean age of 62.2 ± 16 years with AP and hospitalized in the Surgery Department of the Direct Hospital in Sucha Beskidzka, Poland between January and December 2014. Serum NGAL (sNGAL) levels were measured with the BioVendor ELISA kit, and urine NGAL (uNGAL) with the Abbott ARCHITECT Analyzer.
-
-In the early phase of AP, 11 patients (17%) developed AKI, including 10 patients with stage 1 and one with stage 2. AKI was associated with more severe AP, higher BISAP scores, the need for more intensive treatment, longer hospital stays and higher mortality. Both serum and urine NGAL concentrations were signifcantly higher in patients with AKI throughout the study and signifcantly predicted AKI in simple and multiple logistic regression adjusted for age, sex and comorbidities. Serum and urine NGAL concentrations were signifcantly correlated with levels of serum urea, creatinine, urine albumin, and the maximum change in serum creatinine. Serum and urine NGAL levels also correlated positively with direct neutrophil counts and CRP concentrations throughout the study.

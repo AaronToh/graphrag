@@ -1,7 +1,0 @@
-Document ID: 27493873
-
-We investigated the pathway of autophagy signaling linked to sarcopenia of mice.
-
-Young adult (3-month) and aged (24- month) C57BL/6J mice were used. Using real-time PCR, Western blotting, and immunohistochemical microscopy, we evaluated the amounts of p62/SQSTM1, LC3, and Beclin-1 in the quadriceps muscle change with aging in mice.
-
-Marked fiber atrophy (30%) and many fibers with central nuclei were observed in the aged mice. Western blotting using homogenate of the cytosolic fraction clearly showed that the amounts of p62/SQSTM1 and Beclin-1 proteins were significantly increased in the aged skeletal muscle. The amounts of these proteins in both nuclear and membrane fractions did not change significantly with age. Immunofluorescence labeling indicated that aged mice more frequently possessed p62/SQSTM1-positive fibers in the cytosol in quadriceps muscle than young ones (aged: 14% vs. young: 1%). In aged muscle, p62/SQSTM1-positive fibers were significantly smaller than the surrounding p62/SQSTM1-negative fibers. Aging did not elicit significant changes in the mRNA levels of p62/SQSTM1 and Beclin-1, but decreased LC3 mRNA level. In aged muscle, the location of p62/SQSTM1 immunoreactivity was similar to that of Beclin-1 protein, but not LC3.

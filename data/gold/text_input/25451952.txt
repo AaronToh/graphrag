@@ -1,7 +1,0 @@
-Document ID: 25451952
-
-Certain circulating cells have been shown to predict the clinical outcome of several cancers. The objective of this study was to identify clinical, hematological and immunological predictors of prognosis in non-small cell lung cancer (NSCLC) patients.
-
-A retrospective study on a prevalent cohort of 225 NSCLC patients hospitalized at the Zhejiang Province Cancer Hospital (ZPCH) was conducted from August 1, 2006 to April 15, 2008. Circulating lymphocytes were measured by flow cytometry. WBC count and classification in peripheral blood were measured with a Coulter counter. We calculated the proportion of patients surviving after first hospital admission and hazard ratios (HR) using the Cox proportional hazards model.
-
-Elevated levels of preoperative circulating CD44(+) lymphocytes, WBCs and neutrophils indicated low cumulative survival. Clinical stage (HR: 2.292; 95% confidence interval (CI): 1.34-3.91, P=0.002), neutrophils (HR: 1.877; 95% CI: 1.34-2.62, P<0.001) and CD44(+) lymphocytes (HR: 1.018; 95% CI: 1.00-1.03, P=0.002) are independent predictors of survival in NSCLC patients, respectively. Elevated levels of CD44(+) lymphocytes and neutrophils correlated with distant metastasis and prognosis in NSCLC patients with stage III/IV, respectively.

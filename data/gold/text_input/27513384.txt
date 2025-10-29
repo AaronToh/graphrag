@@ -1,9 +1,0 @@
-Document ID: 27513384
-
-Whether higher penile human papillomavirus (HPV) viral load is associated with a lower rate of HPV clearance remains unknown.
-
-We examined the association between penile HPV16 and HPV18 viral load and subsequent HPV clearance in uncircumcised Kenyan men.
-
-Participants were human immunodeficiency virus (HIV)-seronegative, sexually active, 18- to 24-year-old men randomized to the control arm of a male circumcision trial in Kisumu, Kenya. Men provided exfoliated penile cells from two anatomical sites (glans/coronal sulcus and shaft) every 6 months for 2 years. GP5+/6+ polymerase chain reaction was used to identify 44 HPV-DNA types. Human papillomavirus viral load testing was conducted using a LightCyler real-time polymerase chain reaction assay; viral load was classified as high (>250 copies/scrape) or low (≤250 copies/scrape), for nonquantifiable values. The Kaplan-Meier method and Cox regression modeling were used to examine the association between HPV viral load and HPV clearance.
-
-A total of 1097 men, with 291 HPV16 and 131 HPV18 cumulative infections over 24 months were analyzed. Human papillomavirus clearance at 6 months after first HPV detection was lower for high versus low viral load HPV16 infections in the glans (adjusted hazard ratio [aHR], 0.65; 95% confidence interval [CI], 0.46-0.92)] and shaft (aHR, 0.44; 95% CI, 0.16-0.90), and HPV18 infections in the glans (aHR, 0.05; 95% CI, 0.01-0.17).

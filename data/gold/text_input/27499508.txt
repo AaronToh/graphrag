@@ -1,7 +1,0 @@
-Document ID: 27499508
-
-Lung sound analysis is useful for objectively evaluating airways even in children with asymptomatic asthma. However, the relationship between lung sounds and morphological changes in the airways has not been elucidated. We examined the relationship between lung sounds and chronic morphological changes in the airways during the progression of asthma from onset in guinea pigs.
-
-Eleven male guinea pigs were examined; of these, seven were used as asthma models and four as controls. The asthma models were sensitized and repeatedly challenged by inhaling albumin chicken egg. We measured lung sounds and lung function twice a week for 21 weeks. After the final antigen challenge, the lungs were excised for histological examination. We measured the ratio of airway wall thickness to the total airway area and the ratio of the internal area to the total airway area in the trachea, third bronchi, and terminal bronchioles.
-
-Among the lungs sounds, the difference between the two groups was greatest with respect to inspiratory sound intensity. The ratio of airway wall thickness to the total airway area of the terminal bronchioles was greater in the asthma models than in the controls, and it correlated best with the changes in inspiratory sound intensity in the 501-1000-Hz range (r = 0.76, p < 0.003).

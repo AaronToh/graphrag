@@ -1,7 +1,0 @@
-Document ID: 27510021
-
-Activation and inactivation of nuclear factor of kappa light chain gene enhancer in B cells (NFKB) is tightly regulated to ensure effective onset and cessation of defensive inflammatory signaling. However, mutations within NFKB, or change in activation and inactivation molecules have been reported in a few cancers. Although oral squamous cell carcinoma is one of the most prevalent forms of cancer in India, with a development associated with malignant transformation of precancerous lesions, the genetic status of NFKB and relative rates of change in oral precancerous lesions remain unknown. Hence in the present study we investigated all twenty four exons of NFKB gene in two precancerous lesions, namely oral submucous fibrosis (OSMF) and oral leukoplakia (OL) to understand its occurrence, incidence and assess its possible contribution to malignant transformation.
-
-Chromosomal DNA isolated from twenty five each of OSMF and OL tissue biopsy samples were subjected to PCR amplification with intronic primers flanking twenty four exons of the NFKB gene. The PCR amplicons were subsequently subjected to direct sequencing to elucidate the mutation status.
-
-Sequence analysis identified a novel heterozygous mutation, c.419T>A causing substitution of leucine with glutamine at codon 140 (L140Q) in an OL sample.

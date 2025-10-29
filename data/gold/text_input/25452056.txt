@@ -1,7 +1,0 @@
-Document ID: 25452056
-
-Acute alcohol intoxication has been found to increase perseverative errors on the Wisconsin Card Sorting Test, a well known neuropsychological index of prefrontal cortical functioning, in both laboratory and naturalistic settings.
-
-The present study examined the relationship between levels of alcohol consumption at campus drinking venues and performance of the Iowa Gambling Task (IGT), another neuropsychological test designed to assess prefrontal cortex dysfunction, after controlling for potential confounding variables including habitual alcohol intake (as a proxy for alcohol tolerance), trait impulsivity, and everyday executive functioning.
-
-The 49 participants of both genders aged 18 to 30years were recruited at the relevant venues and showed a broad range of blood alcohol concentrations (BACs) from virtually zero (.002%) to .19%. After controlling for demographic variables, habitual use of alcohol and illicit drugs, and frontal lobe related behavioural traits including impulsivity and disinhibition, BAC negatively predicted gambling money won on the last two trial blocks of the IGT.

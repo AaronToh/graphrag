@@ -1,9 +1,0 @@
-Document ID: 25443700
-
-Although N-terminal pro-B-type natriuretic peptide (NT-proBNP) has a strong relationship with incident cardiovascular disease (CVD), few studies have examined whether NT-proBNP adds to risk prediction algorithms, particularly in women.
-
-This study sought to evaluate the relationship between NT-proBNP and incident CVD in women.
-
-Using a prospective case-cohort within the WHI (Women's Health Initiative) observational study, we selected 1,821 incident cases of CVD (746 myocardial infarctions, 754 ischemic strokes, 160 hemorrhagic strokes, and 161 other cardiovascular [CV] deaths) and a randomly selected reference cohort of 1,992 women without CVD at baseline.
-
-Median levels of NT-proBNP were higher at study entry among incident cases (120.3 ng/l [interquartile range (IQR): 68.1 to 219.5 ng/l]) than among control subjects (100.4 ng/l [IQR: 59.7 to 172.6 ng/l]; p < 0.0001). Women in the highest quartile of NT-proBNP (≥140.8 ng/l) were at 53% increased risk of CVD versus those in the lowest quartile after adjusting for traditional risk factors (1.53 [95% confidence interval (CI): 1.21 to 1.94]; p for trend <0.0001). Similar associations were observed after adjustment for Reynolds Risk Score covariables (1.53 [95% CI: 1.20 to 1.95]; p for trend <0.0001); the association remained in separate analyses of CV death (2.66 [95% CI: 1.48 to 4.81]; p for trend <0.0001), myocardial infarction (1.39 [95% CI: 1.02 to 1.88]; p for trend = 0.008), and stroke (1.60 [95% CI: 1.22 to 2.11]; p for trend <0.0001). When added to traditional risk covariables, NT-proBNP improved the c-statistic (0.765 to 0.774; p = 0.0003), categorical net reclassification (0.08; p < 0.0001), and integrated discrimination (0.0105; p < 0.0001). Similar results were observed when NT-proBNP was added to the Reynolds Risk Score.

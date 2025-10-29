@@ -1,7 +1,0 @@
-Document ID: 25424361
-
-Protein arginine methyltransferase 5 (PRMT5), is thought to play a role in epigenetic reprogramming of mouse germ cells. However, up to now there has been little information concerning its expression profile and effects on generation of induced pluripotent stem cells (iPSCs) from somatic cells, in livestock. Here, we have explored PRMT5 expression profiles in dairy goats and its consequences to derivation of iPSCs from dairy goat embryonic fibroblasts (GEFs).
-
-We investigated effects of PRMT5 on iPS-like cells production in vitro. alkaline phosphatase (AP) staining, QRT-PCR and western blotting analysis of expression of related markers were used to evaluate efficiency of generation of iPSCs derived from GEFs.
-
-These showed PRMT5 to be a conservative gene widely expressed in various tissues and different-aged testes. PRMT5 overexpression in combination with OCT3/4, SOX2, KLF4 and C-MYC (POSKM) significantly increased number of AP positive iPS-like colony-derived GEFs compared to OSKM alone, in our dairy goats. Moreover, our results demonstrated that PRMT5 overexpression stimulated GEF proliferation and down-regulated p53, p21 (a target gene of p53) and the apoptotic marker caspase 3, to enhance somatic cell reprogramming.

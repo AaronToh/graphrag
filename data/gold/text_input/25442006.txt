@@ -1,7 +1,0 @@
-Document ID: 25442006
-
-Sickness during pregnancy is associated with an increased risk of offspring neurodevelopmental disorders. Rodent models have played a critical role in establishing causal relationships and identifying mechanisms of altered brain and behavior development in pups prenatally exposed to maternal immune activation (MIA). We recently developed a novel nonhuman primate model to bridge the gap between human epidemiological studies and rodent models of prenatal immune challenge. Our initial results demonstrated that rhesus monkeys given the viral mimic synthetic double-stranded RNA (polyinosinic:polycytidylic acid stabilized with poly-l-lysine) during pregnancy produce offspring with abnormal repetitive behaviors, altered communication, and atypical social interactions.
-
-We utilized noninvasive infrared eye tracking to further evaluate social processing capabilities in a subset of the first trimester MIA-exposed offspring (n = 4) and control animals (n = 4) from our previous study.
-
-As juveniles, the MIA offspring differed from control animals on several measures of social attention, particularly when viewing macaque faces depicting the fear grimace facial expression. Compared with control animals, MIA offspring had a longer latency before fixating on the eyes, had fewer fixations directed at the eyes, and spent less total time fixating on the eyes of the fear grimace images.

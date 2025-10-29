@@ -1,7 +1,0 @@
-Document ID: 25442345
-
-The shape of the ionizing radiation response curve at very low doses has been the subject of considerable debate. Linear-no-threshold (LNT) models are widely used to estimate risks associated with low-dose exposures. However, the low-dose hyperradiosensitivity (HRS) phenomenon, in which cells are especially sensitive at low doses but then show increased radioresistance at higher doses, provides evidence of nonlinearity in the low-dose region. HRS is more prominent in the G2 phase of the cell cycle than in the G0/G1 or S phases. Here we provide the first cytogenetic mechanistic evidence of low-dose HRS in human peripheral blood lymphocytes using structural chromosomal aberrations.
-
-Human peripheral blood lymphocytes from 2 normal healthy female donors were acutely exposed to cobalt 60 γ rays in either G0 or G2 using closely spaced doses ranging from 0 to 1.5 Gy. Structural chromosomal aberrations were enumerated, and the slopes of the regression lines at low doses (0-0.4 Gy) were compared with doses of 0.5 Gy and above.
-
-HRS was clearly evident in both donors for cells irradiated in G2. No HRS was observed in cells irradiated in G0. The radiation effect per unit dose was 2.5- to 3.5-fold higher for doses ≤0.4 Gy than for doses >0.5 Gy.

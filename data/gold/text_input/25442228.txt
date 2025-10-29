@@ -1,9 +1,0 @@
-Document ID: 25442228
-
-Lack of insurance is associated with suboptimal receipt of diabetes preventive care. One known reason for this is an access barrier to obtaining healthcare visits; however, little is known about whether insurance status is associated with differential rates of receipt of diabetes care during visits.
-
-To examine the association between health insurance and receipt of diabetes preventive care during an office visit.
-
-This retrospective cohort study used electronic health record and Medicaid data from 38 Oregon community health centers. Logistic regression was used to test the association between insurance and receipt of four diabetes services during an office visit among patients who were continuously uninsured (n=1,117); continuously insured (n=1,466); and discontinuously insured (n=336) in 2006-2007. Generalized estimating equations were used to account for within-patient correlation. Data were analyzed in 2013.
-
-Overall, continuously uninsured patients had lower odds of receiving services at visits when due, compared to those who were continuously insured (AOR=0.73, 95% CI=0.66, 0.80). Among the discontinuously insured, being uninsured at a visit was associated with lower odds of receipt of services due at that visit (AOR=0.77, 95% CI=0.64, 0.92) than being insured at a visit.

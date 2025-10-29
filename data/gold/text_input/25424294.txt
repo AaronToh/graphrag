@@ -1,7 +1,0 @@
-Document ID: 25424294
-
-To evaluate intestinal inflammatory and apoptotic processes after intestinal ischemia/reperfusion injury, modulated by pentoxifylline and hypertonic saline.
-
-It was allocated into four groups (n=6), 24 male Wistar rats (200 to 250 g) and submitted to intestinal ischemia for 40 min and reperfusion for 80 min: IR (did not receive any treatment); HS group (Hypertonic Saline, 4 ml/kg-IV); PTX group (Pentoxifylline, 30 mg/kg-IV); HS+PTX group (Hypertonic Saline and Pentoxifylline). All animals were heparinized (100 U/kg). At the end of reperfusion, ileal fragments were removed and stained on hematoxylin-eosin and histochemical studies for COX-2, Bcl-2 and cleaved caspase-3.
-
-The values of sO2 were higher on treated groups at 40 minutes of reperfusion (p=0.0081) and 80 minutes of reperfusion (p=0.0072). Serum lactate values were lower on treated groups after 40 minutes of reperfusion (p=0.0003) and 80 minutes of reperfusion (p=0.0098). Morphologic tissue injuries showed higher grades on IR group versus other groups: HS (p=0.0006), PTX (p=0.0433) and HS+PTX (p=0.0040). The histochemical study showed lesser expression of COX-2 (p=0.0015) and Bcl-2 (p=0.0012) on HS+PTX group. A lower expression of cleaved caspase-3 was demonstrated in PTX (p=0.0090; PTXvsIR).

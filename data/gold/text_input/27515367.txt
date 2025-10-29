@@ -1,7 +1,0 @@
-Document ID: 27515367
-
-Liraglutide improves the metabolic control of diabetic animals after islet transplantation. However, the mechanisms underlying this effect remain unknown. The objective of this study was to evaluate the anti-inflammatory and anti-oxidative properties of liraglutide on rat pancreatic islets in vitro and in vivo.
-
-In vitro, rat islets were incubated with 10 μmol·L
-
-Islet viability and function were preserved and enhanced with liraglutide treatment. Liraglutide decreased CCL2 and IL-6 secretion and macrophage activation after 12 h of culture, while IL-10 secretion was unchanged. However, intracellular levels of ROS were increased with liraglutide treatment at 12 h. This result was correlated with an increase of anti-oxidative capacity. In vivo, liraglutide decreased macrophage infiltration and reduced fasting blood glucose in transplanted rats.

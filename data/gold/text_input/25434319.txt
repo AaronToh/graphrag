@@ -1,7 +1,0 @@
-Document ID: 25434319
-
-Phospholipase C epsilon 1 (PLCE1) plays a crucial role in carcinogenesis and progression of several types of cancers. A single nucleotide polymorphism (SNP, rs2274223) in PLCE1 has been identified as a novel susceptibility locus. The aim of the present study was to investigate the role of three potentially functional SNPs (rs2274223A > G, rs3765524C > T, and rs7922612C > T) of PLCE1 in gastric cancer patients from Kashmir Valley.
-
-The study was conducted in 108 GC cases and 195 healthy controls from Kashmir Valley. Genotyping was performed by polymerase chain reaction-restriction fragment length polymorphism method. Data were statistically analyzed using c2 test and logistic regression models. A P value of less than 0.05 was regarded as statistically significant.
-
-The frequency of PLCE1 A2274223C3765524T7922612, G2274223C3765524T7922612 , and G2274223T3765524C7922612 haplotypes were higher in patients compared with controls, conferred high risk for GC [odds ratio (OR) =6.29; P = 0.001; Pcorr = 0.003], (OR = 3.23; P = 0.011; Pcorr = 0.033), and (OR = 5.14; P = 0.011; Pcorr = 0.033), respectively. Smoking and salted tea are independent risk factors for GC, but we did not find any significant modulation of cancer risk by PLCE1 variants with smoking or excessive consumption of salted tea.

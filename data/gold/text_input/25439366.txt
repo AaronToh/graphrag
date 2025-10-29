@@ -1,9 +1,0 @@
-Document ID: 25439366
-
-Exacerbation-associated uncontrolled asthma represents a major public health problem. The relationship of elevated blood eosinophils to this process needs study.
-
-To determine whether a high blood eosinophil count is a risk factor for future asthma exacerbations in adult persistent asthma.
-
-By using electronic pharmacy and health care data from Kaiser Permanente Southern California, 2392 patients, ages 18 to 64 years, were identified who met the Health Effectiveness Data and Information Set 2-year criteria for persistent asthma, did not manifest chronic obstructive pulmonary disease and other major illnesses, and had a blood eosinophil determination in 2010. Exacerbations (primary outcome) were defined as asthma outpatient visits that required systemic corticosteroid dispensing within ±7 days or asthma emergency department visits or hospitalizations. A period of ≥8 days defined a new exacerbation. Multivariate modelling used negative binomial and Poisson regression to examine the association between a blood eosinophil count determined in 2010 and risk of exacerbations, and ≥7 short-acting β2-agonist (SABA) canisters dispensed (secondary outcome) in 2011 by adjusting for demographics, comorbidities, and asthma burden.
-
-The rate of asthma exacerbations in 2011 was 0.41 events per person year (95% CI, 0.37-0.45). Eosinophil count ≥400/mm(3) in 2010 was a risk factor for asthma exacerbations in 2011 (adjusted rate ratio 1.31 [95% CI, 1.07-1.60]; P = .009) and ≥7 SABA dispensed (adjusted risk ratio 1.17 [95% CI, 1.03-1.1.33]; P = .015).

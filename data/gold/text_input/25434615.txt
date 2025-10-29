@@ -1,7 +1,0 @@
-Document ID: 25434615
-
-We sought to identify whether stable single nucleotide polymorphisms (SNPs) of various endocrine and immune molecules could be used as biomarkers associated with specific immune alterations and chronic stress measures in normal humans.
-
-A total of 207 volunteer participants answered stress questionnaire and gave peripheral blood cells for identification of SNPs in genes coding for glucocorticoid receptor (GR), beta 2 adrenergic receptor (B2AR), interferon-gamma receptors (IFNGR1, IFNGR2), and interleukin-4 receptor (IL4R). Immunoregulatory profiles were measured by flow cytometry and genotyping assays were performed by allelic discrimination real-time PCR.
-
-Several significant differences were revealed in associations between stress marker and immune indicators based on SNP categories. For instance, Th1 levels of the minor alleles of GR TthIIII (AA) and IFNGR2 Q64R (Arg/Arg) groups were positively associated with chronic stress (PSS) (p = 0.024 and 0.005, respectively) compared with wild type (WT) and negatively associated with PSS in the heterozygous genotypes of GR BclI and IL4R Ile50Val (p = 0.040 and p = 0.052, respectively). Treg levels of the minor alleles of BclI (GG) and IFNGR1 T-56C (CC) groups were positively associated with PSS (p = 0.045 and p = 0.010, respectively) and negatively associated in the minor allele (Val/Val) of IL4R Ile50Va and the heterozygous genotype of IL4R Q576R (p = 0.041 and p = 0.017, respectively) compared to WT.

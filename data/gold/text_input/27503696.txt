@@ -1,7 +1,0 @@
-Document ID: 27503696
-
-Septic hip revisions are associated with greater complications and higher costs than aseptic revisions. It is unclear whether blood loss and transfusion requirements are different in septic and aseptic revisions. We hypothesized that the blood loss and transfusion are dependent on the complexity of the revision surgery and patient's general health rather than the presence of infection.
-
-We retrospectively reviewed 626 revision total hip arthroplasties in 547 patients between 2009 and 2013. All the procedures were classified as septic (n = 120) or aseptic (n = 506) based on the Musculoskeletal Infection Society criteria for periprosthetic joint infection. Independent risk factors for transfusion and blood loss were analyzed using a multiple regression analysis.
-
-The transfusion rate was higher in septic revisions (septic = 108/120 [90%], aseptic = 370/506 [73%]; P < .001), so was the average amount of blood loss (septic = 2533 ± 161 mL, aseptic = 1974 ± 68 mL; P < .001). After adjusting for potential confounders, infection was not an independent risk factor for transfusion (P = .176) or blood loss (P = .437). Increasing age (P = .004), higher American Society of Anesthesiologists score (P = .047), lower preoperative hemoglobin (P < .001), cell saver use (P < .001), and complex revision surgery (P < .001) were independently associated with greater risk of transfusion.

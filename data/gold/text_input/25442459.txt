@@ -1,7 +1,0 @@
-Document ID: 25442459
-
-We sought to determine whether outcomes of chronic total occlusion (CTO) percutaneous coronary intervention (PCI) vary according to CTO target vessel: left anterior descending artery (LAD), left circumflex artery (LCX), and right coronary artery (RCA).
-
-We evaluated the clinical and angiographic characteristics and procedural outcomes of 636 patients who underwent CTO PCI at 6 high-volume centres in the United States between January 2012 and March 2014.
-
-The CTO target vessel was the RCA in 387 cases (61%), LAD in 132 (21%), and LCX in 117 (18%). LCX lesions were more tortuous and RCA lesions had greater occlusion length and Japanese Chronic Total Occlusion (J-CTO) score, but were less likely to have a side branch at the proximal cap and had more developed collateral circulation. The rate of procedural success was lower in LCX CTOs (84.6%), followed by RCA (91.7%), and LAD (94.7%) CTOs (P = 0.016). Major complications tended to occur more frequently in LCX PCI (4.3% vs 1.0% for RCA vs 2.3% for LAD; P = 0.07). LCX and RCA CTO PCI required longer fluoroscopy times (45 [interquartile range (IQR), 30-74] minutes vs 45 [IQR, 21-69] minutes for RCA vs 34 [IQR, 20-60] minutes for LAD; P = 0.018) and LCX CTOs required more contrast administration (280 [IQR, 210-370] mL vs 250 [IQR, 184-350] mL for RCA and 280 [IQR, 200-400] mL for LAD).

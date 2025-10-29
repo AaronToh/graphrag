@@ -1,9 +1,0 @@
-Document ID: 27497153
-
-Corticotropin-releasing hormone receptor 1 (CRH-R1) in the amygdala and the stria terminalis plays an important role in the activation of central stress circuits. Genetic factors may contribute to the hyperresponsiveness of these circuits in irritable bowel syndrome (IBS).
-
-To determine if CRH-R1 SNPs are associated with: (1) a diagnosis of IBS, (2) gastrointestinal (GI) symptoms, and (3) acoustic startle response (ASR) to threat, which is mediated by the amygdala via CRH.
-
-Three CRH-R1 SNPS (rs110402, rs242924, and rs7209436) were genotyped using salivary DNA from IBS and healthy control subjects (HCs). Eye blink ASR was obtained during safe (no shock), anticipation (abdominal shock may soon occur) and threat (abdominal shock likely) conditions in a subset of subjects. Associations between each SNP with IBS status, clinical traits and ASR were measured.
-
-235 IBS patients (mean age 37.5 yrs, 74% F) and 264 HCs (mean age 32.1 yrs, 70% F) were studied. Of these, 57 IBS and 41 HCs underwent the ASR protocol. The presence of IBS was associated with the major allele for all three CRH-R1 SNPs (p=0.009-0.025). Within IBS, the major allele for all three SNPs (p=0.017-0.065) was associated with GI symptom anxiety scores. Within subjects with at least one copy of the major allele for the CRH-R1 SNPs, IBS had significantly lower ASR compared to HCs during threat conditions (p=0.001-0.002). Within IBS, CRH-R1 SNPs were associated with a graded increase in ASR to threat (p=0.007-0.008).

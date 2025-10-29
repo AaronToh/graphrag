@@ -1,7 +1,0 @@
-Document ID: 27503345
-
-Serum ferritin concentration >100 ng/mL was associated with a higher risk of death in hemodialysis patients in Japan, whereas such an association was less clear in hemodialysis patients in Western countries. Since Japanese dialysis patients are generally less inflamed than those in Western countries, inflammation may modify the association between serum ferritin and the adverse outcomes.
-
-We performed an observational cohort study using data from 2606 Japanese hemodialysis patients who participated in the Dialysis Outcomes and Practice Patterns Study (DOPPS) III (2005-2008) or DOPPS IV (2009-2012). The predictor was serum ferritin category (<50, 50-99.9, 100-199.9, and ≥200 ng/mL), and the primary and secondary outcomes were all-cause mortality and cardiovascular hospitalization, respectively. C-reactive protein (CRP, cut-off by 0.3 mg/dL) and serum albumin (cut-off by 3.8 g/dL) were stratification factors related to systemic inflammation.
-
-After adjustment for relevant confounding factors, a U-shaped association was observed between serum ferritin and all-cause mortality in the group with low CRP levels, whereas such relationship was not significant in the high CRP counterparts. In contrast, we found a linear association between serum ferritin and cardiovascular hospitalization in the low CRP and high CRP groups commonly. Similar results were obtained when the total cohort was stratified by serum albumin.

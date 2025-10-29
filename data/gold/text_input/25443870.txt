@@ -1,7 +1,0 @@
-Document ID: 25443870
-
-The development of human leukocyte antigen (HLA) antibody responses has been associated with worse clinical outcomes, such as bronchiolitis obliterans syndrome (BOS) and death, in lung transplant recipients (LTRs). However, the role of donor-specific HLA antibody (DSA) responses as a risk factor for poor outcomes remains controversial.
-
-We prospectively screened 445 LTRs for DSA at our institution at the time of surveillance bronchoscopies for the first 2 years after transplantation between 2003 and 2008, and evaluated clinical outcomes. For this purpose, we used the combination of panel-reactive antibodies (PRA) by enzyme-linked immunosorbent assay (ELISA) and the Luminex single-antigen bead (SAB) assay (One Lambda, Canoga Park, CA).
-
-We detected de novo DSA (dnDSA) in 58 of 445 (13%) LTRs in our cohort. Freedom from BOS was significantly reduced in LTRs with dnDSA versus those without dnDSA (p < 0.001). Using a Cox proportional hazards model, the development of dnDSA was associated with a significantly increased hazard ratio (HR = 6.59 [4.53 to 9.59]; p < 0.001) for BOS and high-grade BOS (Stage ≥ 2) (HR = 5.76 [3.48 to 9.52]; p < 0.001). Freedom from death was significantly reduced in LTRs with dnDSA (p < 0.001), including mortality attributable to BOS (HR = 9.86 [4.91 to 19.78]; p < 0.001).

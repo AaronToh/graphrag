@@ -1,9 +1,0 @@
-Document ID: 25449207
-
-Previous studies have reported on prognostic factors for castration-resistant prostate cancer (CRPC); however, most of these studies were conducted before docetaxel chemotherapy was approved for CRPC.
-
-To evaluate the prognostic value of multiple parameters in men with bone metastases due to CRPC using a contemporary dataset.
-
-The analysis included 1901 patients with metastatic CRPC enrolled in an international, multicenter, randomized, double-blind phase 3 trial conducted between May 2006 and October 2009.
-
-We developed multivariate validated Cox proportional hazards models and nomograms to estimate 12-mo and 24-mo survival probabilities and median survival time.

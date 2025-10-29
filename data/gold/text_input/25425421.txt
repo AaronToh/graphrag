@@ -1,7 +1,0 @@
-Document ID: 25425421
-
-Immunologic abnormalities have been found in bipolar disorder but pentraxin 3, a marker of innate immunity, has not been studied in this population.
-
-Levels of pentraxin 3 were measured in individuals with bipolar disorder, schizophrenia, and non-psychiatric controls. Linear regression models were used to compare the pentraxin 3 levels in each of the psychiatric groups to that in the control group, adjusting for demographic and clinical variables. Logistic regression models were used to calculate the odds ratios associated with levels of pentraxin 3 which differed from specified levels of the control group.
-
-The sample consisted of 831 individuals: 256 with bipolar disorder, 309 with schizophrenia, and 266 without a psychiatric disorder. The levels of pentraxin 3 in the bipolar disorder, but not in the schizophrenia, group were significantly lower than those of controls, adjusting for age, gender, race, maternal education, smoking status, and body mass index (t = -3.78, p < 0.001). The individuals with bipolar disorder also had significantly increased odds of having low levels of pentraxin 3 relative to both the 10th and 25th percentile level of the controls and significantly decreased odds of having a level greater than the 75th and the 90th percentile level of the controls, adjusting for the same covariates.

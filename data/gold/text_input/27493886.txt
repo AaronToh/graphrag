@@ -1,9 +1,0 @@
-Document ID: 27493886
-
-To assess the reliability of thyroglobulin (Tg) as a marker of iodine status during pregnancy.
-
-299 women aged 30.5 ± 4.8 years (mean ± SD) were studied.
-
-In every subject, we measured urinary iodine concentration (UIC), serum thyrotropin (TSH), Tg, free thyroxine (fT4), Tg autoantibodies (TgAbs) and human chorionic gonadotropin (hCG) levels. We excluded samples with increased TgAbs from the analysis.
-
-According to WHO criteria, the study population was iodine deficient in every trimester. Serum Tg levels did not differ during the three trimesters of pregnancy. Serum hCG levels fell significantly as pregnancies advanced. A weak, significantly negative correlation (limited to the 3rd trimester) was found between Tg and UIC (ρ = -0.187, p = 0.039). Serum fT4 decreased as pregnancies advanced and TSH increased. Serum fT4 was negatively correlated with TSH (ρ = -0.161, p = 0.006) and positively with hCG (ρ = +0.165, p = 0.005). The multiple regression equation of Tg based on hCG, TSH, UIC and trimester of pregnancy was significant but weak (F = 4.057, p = 0.003; R(2) = 0.055), with hCG as a significant predictor Tg (p for log hCG = 0.041).

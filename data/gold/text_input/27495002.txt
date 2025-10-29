@@ -1,7 +1,0 @@
-Document ID: 27495002
-
-In the context of advanced immunosuppression, M. tuberculosis is known to cause detectable mycobacteremia. However, little is known about the intra-patient mycobacterial microevolution and the direction of seeding between the sputum and blood compartments.
-
-From a diagnostic study of HIV-infected TB patients, 51 pairs of concurrent blood and sputum M. tuberculosis isolates from the same patient were available. In a previous analysis, we identified a subset with genotypic concordance, based on spoligotyping and 24 locus MIRU-VNTR. These paired isolates with identical genotypes were analyzed by whole genome sequencing and phylogenetic analysis.
-
-Of the 25 concordant pairs (49 % of the 51 paired isolates), 15 (60 %) remained viable for extraction of high quality DNA for whole genome sequencing. Two patient pairs were excluded due to poor quality sequence reads. The median CD4 cell count was 32 (IQR; 16-101)/mm(3) and ten (77 %) patients were on ART. No drug resistance mutations were identified in any of the sequences analyzed. Three (23.1 %) of 13 patients had SNPs separating paired isolates from blood and sputum compartments, indicating evidence of microevolution. Using a phylogenetic approach to identify the ancestral compartment, in two (15 %) patients the blood isolate was ancestral to the sputum isolate, in one (8 %) it was the opposite, and ten (77 %) of the pairs were identical.

@@ -1,7 +1,0 @@
-Document ID: 27496642
-
-The protective effects of grapefruit-derived naringin against HIV-1 Protease Inhibitors (PIs)-associated oxidative damage to pancreatic β-cells and apoptosis were investigated in RIN-5F cells in culture.
-
-Cells in culture medium were challenged with 11-25 mM glucose with or without nelfinavir (1-10 μM), saquinavir (1-10 μM) and atazanavir (5-20 μM), respectively for 24 h to determine insulin secretion. The cells were further treated with nelfinavir (10 μM), saquinavir (10 μM), atazanavir (20 μM) with and without naringin or glibenclamide (10 μM) for 24 h to determine insulin secretion, lipid peroxidation, Superoxide Dismutase (SOD) activity, glutathione (GSH) levels, ATP production and caspase-3 and-9 activities, respectively.
-
-Glucose-dependent insulin secretion was significantly reduced by PIs in a concentration-dependent manner. Treatment with either naringin or glibenclamide significantly reduced lipid peroxidation, Superoxide Dismutase (SOD) activities and also increased glutathione (GSH) and ATP levels in the cells that were treated with PIs. Furthermore, naringin or glibenclamide significantly reduced caspase-3 and caspase-9 activities in cells that were treated with PIs.

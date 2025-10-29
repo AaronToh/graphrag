@@ -1,9 +1,0 @@
-Document ID: 25449459
-
-Shexiang Tongxin dropping pill (STDP) is a formulation of Traditional Chinese Medicine mainly used for clinical treatment of stable angina pectoris in China.
-
-To investigate the effects and mechanisms of STDP treatment on atherosclerosis.
-
-ApoE deficient (ApoE(-/-)) mice were utilized to evaluate the effect of STDP treatment (30 mg/kg/day) on atherosclerotic lesions. Histopathological features of atherosclerotic lesions, serum levels of lipid proteins, parameters of oxidative stress and pro-inflammatory cytokines were measured by H&E staining, Masson's trichrome staining and ELISA, respectively. Real-time PCR analyses were performed to examine the aortic expression of atherosclerosis-associated microRNAs.
-
-The STDP treatment resulted in attenuated atherosclerotic lesion manifested by reduced lipid deposition, fibrosis and oxidative stress. It also led to increase in serum levels of GSH and SOD, decrease in MDA, decrease in CHO, TG, LDL, ox-LDL and increase in HDL, respectively. Additionally, the levels of pro-inflammatory cytokines including IL-2, IL-6, TNF-α and γ-IFN were markedly reduced by STDP treatment. Furthermore, STDP treatment was associated with a significant reduction in the aortic expression of miR-21a, miR-132, miR-126a, miR-155 and increased expression of miR-20a.

@@ -1,7 +1,0 @@
-Document ID: 25422913
-
-The effective mechanisms of microRNAs (miRNAs) functions as oncogenes or tumour suppressors in human hepatocellular carcinoma (HCC) are still obscure. Here, we investigated the function and expression of miR-1228 in HCC.
-
-The role of miR-1228 in HCC was determined by colony formation, transwell, and nude mice xenograft experiments. miR-1228 target gene were identified by EGFP reporter assays, real-time PCR, and western blot analysis. Dual-luciferase reporter assay and real-time PCR analysis are used to examine the regulation of p53.
-
-miR-1228 promoted proliferation and metastasis, and facilitated the transition of cell cycle in hepatoma cells. miR-1228 downregulated p53 expression by binding to its 3'UTR. The ectopic expression of p53 abrogated the phenotypes induced by miR-1228. An inverse correlation existed between miR-1228 and p53 expression in hepatoma tissues compared with the adjacent tissues and three hepatoma cell lines. Moreover, we found that p53 suppressed the expression and promoter activity of miR-1228.

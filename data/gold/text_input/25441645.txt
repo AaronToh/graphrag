@@ -1,9 +1,0 @@
-Document ID: 25441645
-
-Breast-feeding is protective against respiratory infections in early life. Given the co-evolutionary adaptations of humans and cattle, bovine milk might exert similar anti-infective effects in human infants.
-
-To study effects of consumption of raw and processed cow's milk on common infections in infants.
-
-The PASTURE birth cohort followed 983 infants from rural areas in Austria, Finland, France, Germany, and Switzerland, for the first year of life, covering 37,306 person-weeks. Consumption of different types of cow's milk and occurrence of rhinitis, respiratory tract infections, otitis, and fever were assessed by weekly health diaries. C-reactive protein levels were assessed using blood samples taken at 12 months.
-
-When contrasted with ultra-heat treated milk, raw milk consumption was inversely associated with occurrence of rhinitis (adjusted odds ratio from longitudinal models [95% CI]: 0.71 [0.54-0.94]), respiratory tract infections (0.77 [0.59-0.99]), otitis (0.14 [0.05-0.42]), and fever (0.69 [0.47-1.01]). Boiled farm milk showed similar but weaker associations. Industrially processed pasteurized milk was inversely associated with fever. Raw farm milk consumption was inversely associated with C-reactive protein levels at 12 months (geometric means ratio [95% CI]: 0.66 [0.45-0.98]).

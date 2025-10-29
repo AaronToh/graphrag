@@ -1,7 +1,0 @@
-Document ID: 27513822
-
-We previously identified two ARDS subphenotypes in two separate randomized controlled trials, with differential response to positive end-expiratory pressure. The current analysis sought to identify these subphenotypes in a third ARDS cohort, to test whether subphenotypes respond differently to fluid management strategy, and to develop a practical model for subphenotype identification.
-
- We used latent class analysis of baseline clinical and plasma biomarker data to identify subphenotypes in the Fluid and Catheter Treatment Trial (FACTT; n=1000). Logistic regression was used to test for an interaction between subphenotype and treatment for mortality. We used stepwise modeling to generate a model for subphenotype identification in FACTT and validated its accuracy in the two cohorts in which we previously identified ARDS subphenotypes.
-
-We confirmed that a two-class (two-subphenotype) model best described the study population. Subphenotype 2 was again characterized by higher inflammatory biomarkers and hypotension. Fluid management strategy had significantly different effects on 90-day mortality in the two subphenotypes (p=0.0039 for interaction); mortality in Subphenotype 1 was 26% with fluid conservative strategy versus 18% with fluid liberal, while mortality in Subphenotype 2 was 40% with fluid conservative strategy versus 50% in fluid liberal. A three-variable model of interleukin-8, bicarbonate, and tumor necrosis factor receptor-1 accurately classified the subphenotypes.

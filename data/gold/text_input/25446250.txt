@@ -1,5 +1,0 @@
-Document ID: 25446250
-
-The present study was designed to investigate whether H2S can protect testicular germ cells against heat exposure induced injury and the underlying mechanisms.
-
-It was found that all three H2S generating enzymes, cystathionine β-synthase (CBS), cystathionine γ-lysase (CSE), and 3-mercaptopyruvate sulfurtransferase (3 MST), were expressed in mouse testicular tissue. Three episodes of heat exposure (42 °C, 30 min/day, 3 days) significantly decreased endogenous H2S production and down-regulated the expression of CBS and CSE in testes. In primary cultured testicular germ cells, exogenous application of NaHS (an H2S donor) attenuated heat stress (42 °C, 30 min) induced cell death and apoptosis. This was mediated by the inhibitory effects of H2S on cytochrome C release and the ratio of the Bax/Bcl-2. NaHS also improved mitochondrial function by decreasing oxygen consumption and increasing ATP production. NaHS treatment also stimulated SOD activity and reduced ROS production.

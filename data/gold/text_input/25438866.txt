@@ -1,7 +1,0 @@
-Document ID: 25438866
-
-Although excess alcohol consumption has been believed to cause liver injury, light alcohol consumption (LAC) has been reported to play a protective role against fatty liver in recent studies. However, the association between non-alcoholic fatty liver disease (NAFLD) and LAC in men with metabolic syndrome (MS) is unclear. The aim of this study was to examine the association between NAFLD and LAC in men with MS.
-
-Subjects were 1055 men with MS who underwent a regular health check-up and drank less 20 g/day of alcohol. A distinction was made between non-drinkers and light drinkers and the association between NAFLD and LAC in men with MS was elucidated. NAFLD was referred as fatty liver with alanine aminotransferase (ALT) levels ≧31 IU/L in this study.
-
-Alanine aminotransferase (ALT), aspartate aminotransferase (AST) and the prevalence of NAFLD were significantly lower in light drinkers than in non-drinkers. Logistic regression analysis showed body mass index (BMI), waist circumference (WC), uric acid (UA), haemoglobin A1c (HbA1c), visceral fat type MS and LAC (odds ratios: 0.654; 95% confidence intervals: 0.473-0.906; <0.05) were significant predictors of the prevalence of NAFLD.

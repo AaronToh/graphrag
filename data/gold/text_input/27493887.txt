@@ -1,9 +1,0 @@
-Document ID: 27493887
-
-A possible impact of obesity on the risk of thyroid cancer has been postulated in some studies, but it remains controversial.
-
-To investigate the association between obesity and differentiated thyroid carcinoma in a population of unselected patients subjected to fine-needle aspiration cytology (FNAC) for thyroid nodules.
-
-We retrospectively evaluated the results of FNAC of thyroid nodules in 4,849 patients (3,809 females and 1,040 males; mean age 55.9 ± 14.1 years). Patients were stratified according to their body mass index (BMI). There were 1,876 (38.7%) normal-weight patients (BMI 18-24.9), 1,758 (36.2%) overweight (BMI 25-29.9), 662 (13.7%) grade 1 obese (BMI 30-34.9), 310 (6.4%) grade 2 obese (BMI 35-39.9) and 243 (5.0%) grade 3 obese (BMI >40).
-
-The prevalence of suspicious or malignant nodules (Thy4/Thy5) did not differ across the 5 BMI groups, i.e. it was 6.8% in normal-weight patients, 6.3% in overweight patients, 6.3% in grade 1 obese patients, 4.0% in grade 2 obese patients and 4.2% in grade 3 obese patients (p = 0.29). The prevalence of Thy4/Thy5 nodules did not differ when males and females were evaluated separately (p = 0.22 and p = 0.12, respectively). A significant, lower rate of Thy4/5 cytology was observed in female patients with grade 2-3 obesity (odds ratio 0.51; 95% confidence interval 0.284-0.920; p = 0.009).

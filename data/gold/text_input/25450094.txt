@@ -1,9 +1,0 @@
-Document ID: 25450094
-
-Protein kinase D (PKD or PKD1) is a serine/threonine protein kinase that has been shown to play a role in a variety of cellular processes; however, the function of PKD1 in the skin has not been fully investigated. The balance between proliferation and differentiation processes in the predominant cells of the epidermis, the keratinocytes, is essential for normal skin function.
-
-To investigate the effect of PKD1 deficiency on proliferation and differentiation of epidermal keratinocytes.
-
-We utilized a floxed PKD1 mouse model such that infecting epidermal keratinocytes derived from these mice with an adenovirus expressing Cre-recombinase allowed us to determine the effect of PKD1 gene loss in vitro. Proliferation and differentiation were monitored using qRT-PCR, Western blot, transglutaminase activity assays, [3H]thymidine incorporation into DNA and cell cycle analysis.
-
-A significant decrease in PKD1 mRNA and protein levels was achieved in adenoviral Cre-recombinase-infected cells. Deficiency of PKD1 resulted in significant increases in the mRNA and protein expression of various differentiation markers such as loricrin, involucrin, and keratin 10 either basally and/or upon stimulation of differentiation. PKD1-deficient keratinocytes also showed an increase in transglutaminase expression and activity, indicating an anti-differentiative role of PKD1. Furthermore, the PKD1-deficient keratinocytes exhibited decreased proliferation. However, PKD1 loss had no effect on stem cell marker expression.

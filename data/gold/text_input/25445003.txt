@@ -1,9 +1,0 @@
-Document ID: 25445003
-
-It has been proposed that nutritional therapy in critically ill patients after major burn reduces mortality. However, the actual practice of nutrient delivery, and the effect on outcome, has not been described.
-
-To evaluate international practices related to nutritional support and outcomes in mechanically ventilated patients with burn injury.
-
-Data from the International Nutrition Surveys (2007-2011) for patients with a primary diagnosis of burn were extracted and analysed.
-
-Eighty-eight of 90 patients (aged 16-84 years) received enteral nutrition. The median time for initiation of enteral feeding was 17 h [range 0-65]. Fifty patients (57%) had interruptions to nutrient delivery, most often these interruptions were fasting for operative procedures. There were substantive energy and protein deficits [943 (654) kcal/day and 49 (41) g/day, respectively; mean (SD)]. Nineteen (21%) patients died within 60 days of admission, and the energy and protein deficits were greater in those that died compared with survivors [died vs. survived, energy: 1251 (742) vs. 861 (607) kcal/d; p=0.02; and protein 67(42) vs. 44(39) g/d; p=0.03]. Energy and protein deficits were associated with increased mortality with the greater the deficit, the stronger the association with death (odds ratio for death: energy deficit/100 kcal 1.10 (1.01, 1.19); p=0.028 and protein/10 g 1.16 (1.01, 1.33); p=0.037). Results were similar and remained significant after adjusting for severity of illness.

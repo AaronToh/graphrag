@@ -1,7 +1,0 @@
-Document ID: 25436124
-
-The aims of this study were to demonstrate the tumorigenicity of CD133+ colon cancer cells in vitro, analyze the correlations between spheroid formation and clinicopathologic variables, and screen for overexpressed genes in CD133+ colon cancer stem cells. Moreover, the aim of this study was to establish a living tumor tissue bank using surgically resected specimens.
-
-Using LoVo cell line, we isolated CD133+ cells and performed clonogenic assay and animal experiment to test tumorigenicity of CD133+ cells. Twenty-nine surgical samples were freshly collected from 27 patients who received curative or palliative surgery, and the samples were mechanically and enzymatically dissociated into single cells.
-
-We confirmed the enhanced tumorigenicity of CD133+ cells isolated from LoVo cell line both in vitro and in vivo. Of these 29 samples, 8 (28%) contained >3% CD133+ cells. Sphere formation was significantly higher in samples from patients with lymphatic invasion than in those without lymphatic invasion [54.5% (6/11) vs. 12.5% (2/16); P=0.033] and in samples containing >3% of CD133+ cells than in those containing ≤3% of CD133+ cells [36.4% (4/11) vs. 0% (0/16); P=0.019].

@@ -1,5 +1,0 @@
-Document ID: 25435901
-
-Construction of electrochemical impedance sensors by the self-assembly technique has become a promising strategy for the 'label-free' detection of protein-ligand interactions. However, previous impedance sensors are devoid of an inherent electrochemical signal, which limits the standardization of the sensors for protein recognition in a reproducible manner.
-
-We designed and synthesized an anthraquinonyl glycoside (AG) where the anthraquinone (AQ) moiety can bind to the surface of a graphene-based working electrode while the glycoside serving as a ligand for lectin. By measuring the inherent voltammetric signal of AQ, the glycosides decorated on the working electrode could be simply quantified to obtain electrodes with a unified signal window. Subsequently, impedance analysis showed that the 'standardized' electrodes gave a reproducible electrochemical response to a selective lectin with no signal variation in the presence of unselective proteins.

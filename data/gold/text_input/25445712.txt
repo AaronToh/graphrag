@@ -1,7 +1,0 @@
-Document ID: 25445712
-
-Plasma levels of pancreatic polypeptide (PP) rise upon food intake. Although other pancreatic islet hormones, such as insulin and glucagon, have been extensively investigated, PP secretion and actions are still poorly understood.
-
-The release of PP upon glucose stimulation and the effects of PP on glucagon and insulin secretion were analyzed in isolated pancreatic islets. Expression of PP receptor (PPYR1) was investigated by immunoblotting, quantitative RT-PCR on sorted pancreatic islet cells, and immunohistochemistry.
-
-In isolated mouse pancreatic islets, glucose stimulation increased PP release, while insulin secretion was up and glucagon release was down. Direct exposure of islets to PP inhibited glucagon release. In mouse islets, PPYR1 protein was observed by immunoblotting and quantitative RT-PCR revealed PPYR1 expression in the FACS-enriched glucagon alpha-cell fraction. Immunohistochemistry on pancreatic sections showed the presence of PPYR1 in alpha-cells of both mouse and human islets, while the receptor was absent in other islet cell types and exocrine pancreas.

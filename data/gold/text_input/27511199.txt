@@ -1,7 +1,0 @@
-Document ID: 27511199
-
-The gross majority of colorectal cancer cases results from aberrant Wnt/β-catenin signalling through adenomatous polyposis coli (APC) or CTNNB1 mutations. However, a subset of human colon tumours harbour, mutually exclusive with APC and CTNNB1 mutations, gene fusions in RSPO2 or RSPO3, leading to enhanced expression of these R-spondin genes. This suggested that RSPO activation can substitute for the most common mutations as an alternative driver for intestinal cancer. Involvement of RSPO3 in tumour growth was recently shown in RSPO3-fusion-positive xenograft models. The current study determines the extent into which solely a gain in RSPO3 actually functions as a driver of intestinal cancer in a direct, causal fashion, and addresses the in vivo activities of RSPO3 in parallel.
-
-We generated a conditional Rspo3 transgenic mouse model in which the Rspo3 transgene is expressed upon Cre activity. Cre is provided by cross-breeding with Lgr5-GFP-Cre
-
-Upon in vivo Rspo3 expression, mice rapidly developed extensive hyperplastic, adenomatous and adenocarcinomatous lesions throughout the intestine. RSPO3 induced the expansion of Lgr5

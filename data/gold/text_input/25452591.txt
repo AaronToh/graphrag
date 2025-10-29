@@ -1,7 +1,0 @@
-Document ID: 25452591
-
-Bacterial vaginosis is a risk factor for preterm birth. The various conventional methods for its diagnosis are laborious and not easily reproducible. Molecular quantification methods have been reported recently, but the specific risk factors they might identify remain unclear.
-
-A prospective multicenter national study included pregnant women at risk of preterm birth. A quantitative molecular tool using a specific real-time polymerase chain reaction assay and serial dilutions of a plasmid suspension quantified Atopobium vaginae, Gardnerella vaginalis, lactobacilli, Mycoplasma hominis, and the human albumin gene (for quality control).
-
-In 813 pregnancies, high vaginal loads of either or both of A. vaginae and G. vaginalis were associated with preterm birth (hazard ratio [HR], 3.9; 95% confidence interval {CI}, 1.1-14.1; P = .031). A high vaginal load of A. vaginae was significantly associated with shortened time to delivery and therefore pregnancy length. These times were, respectively, 152.2 and 188.2 days (HR, 5.6; 95% CI, 1.5-21.3; P < .001) before 22 weeks, 149.0 and 183.2 days (HR, 2.8; 95% CI, 1.1-8.2; P = .048) before 28 weeks, and 132.6 and 170.4 days (HR, 2.2; 95% CI, 1.1-4.6; P = .033) before 32 weeks. After multivariate analysis, A. vaginae levels ≥10(8) copies/mL remained significantly associated with delivery before 22 weeks of gestation (adjusted HR, 4.7; 95% CI, .2-17.6; P = .014).

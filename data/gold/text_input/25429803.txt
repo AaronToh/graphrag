@@ -1,7 +1,0 @@
-Document ID: 25429803
-
-Extranodal natural killer/T-cell lymphoma, nasal type (ENKTL), is an aggressive type of lymphoma whose standard treatment and validated prognostic model have not yet been defined.
-
-CD30 expression was detected using immunohistochemistry in 96 ENKTL patients, and the data were used to evaluate its relationship with clinical features, treatment response and prognosis.
-
-Expression of CD30 was detected in 31.2% of ENKTL patients, which was significantly correlated with B symptoms and elevated serum lactate dehydrogenase. The complete remission rate was not significantly different between CD30-positive and negative groups. After a median follow-up time of 31 months, 5-year overall survival (OS) and 5-year progression-free survival (PFS) rates in the CD30-positive group were both significantly lower than those in the CD30-negative group (34.1% vs. 64.4%, P=0.002, for 5 year-OS; 26.0% vs. 66.7%, P<0.001, for 5 year-PFS). In patients with an International Prognostic Index (IPI) or Korean Prognostic Index (KPI) score of 0-1, CD30 positivity was associated with shorter 5-year OS and PFS (IPI: P=0.001 and 0.002, respectively; KPI: P=0.018 and 0.023, respectively). In a multivariate Cox regression model, CD30 expression and stage were independent prognostic factors for OS (p=0.004 and p=0.012, respectively) and PFS (p=0.001 and p=0.022, respectively).

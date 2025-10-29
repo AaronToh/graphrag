@@ -1,7 +1,0 @@
-Document ID: 25437886
-
-Acute rejection (AR) after organ transplantation results in transplant arteriosclerosis (TA). Endothelial progenitor cells (EPCs) are involved in tissue repair and blood vessel formation but are suspected to be a cause of TA.
-
-In this study, we introduced a syngeneic and allogeneic abdominal aortic transplant model with C57BL/6 and BALB/c mice. Syngeneic and allogeneic grafts were histopathologically analyzed after transplantation. Bone marrow-derived EPCs were injected into transplant model animals to observe their distribution and temporal concentration changes. Changes of vascular endothelial growth factor receptor 1 (VEGFR-1), phosphorylated VEGFR-1 (pVEGFR-1), VEGFR-2, pVEGFR-2, protein kinase B (Akt), pAkt, extracellular signal-regulated kinase 1 (Erk1), pErk1 levels in EPCs upon VEGF165 and the VEGFR inhibitor Vandetanib exposure were analyzed in vitro with western blotting.
-
-In the allogeneic transplant group, two weeks after transplantation, formations of new intima layers could be observed, and its proliferation gradually increased to four and six weeks post-transplantation (p < 0.05), accompanied by significant arterial stenoses. Exogenous EPCs mainly localized to the damaged sites of the transplant arteries. In vivo, Vandetanib caused a significant dose dependent decrease of transplant hyperplasia (p < 0.05) and inhibited VEGF related proliferation, migration and adhesion of EPCs.

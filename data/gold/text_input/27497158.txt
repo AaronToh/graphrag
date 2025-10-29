@@ -1,7 +1,0 @@
-Document ID: 27497158
-
-The interleukin (IL)-10-production B cells play an important role in the pathogenesis of atherosclerosis (Asro) with unknown mechanism. Micro RNA (miR)-17-92 cluster has strong immune regulatory activities. This study tests a hypothesis that miR-17-92 cluster suppresses IL-10 expression in B cells of Asro patients.
-
-Patients with Asro were recruited into this study. Peripheral blood samples were collected from the patients. B cells were isolated from the blood samples and analyzed to elucidate the role of miR-17-92 in the regulation of IL-10 expression.
-
-Peripheral B cells from patients with Asro show lower levels of IL-10 than that from healthy subjects. The IL-10 expression in the B cells is negatively correlated with the expression of miR-19a in the B cells. The serum levels of tumor necrosis factor (TNF)-α, interferon (IFN)-γ and interleukin (IL)-4 in Asro patients were higher than healthy subjects. Exposure to TNF-α or IFN-γ or IL-4 suppressed IL-10 expression in B cells via increasing the expression of miR-19a in B cells, which could be abolished by Inhibition of miR-19a.

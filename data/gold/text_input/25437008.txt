@@ -1,7 +1,0 @@
-Document ID: 25437008
-
-Low vitamin D status (serum 25(OH)D concentration) is associated with increased incidence and unfavourable outcome of various types of cancer. However, there are limited data on influence of serum 25(OH)D on risk and prognosis of malignant melanoma.
-
-Basal serum 25(OH)D concentrations were retrospectively analyzed in a cohort of melanoma patients (n = 324) and healthy controls (n = 141). We tested the hypothesis that serum 25(OH)D concentrations are predictive of melanoma risk, thickness of primary melanomas, and overall survival (OS).
-
-Median serum 25(OH)D concentrations were significantly lower (p = 0.004) in melanoma patients (median = 13.6 ng/ml) as compared to controls (median = 15.6 ng/ml). Primary tumors of patients with low serum 25(OH)D concentrations (<10 ng/ml) had significantly (p = 0.006) greater Breslow thickness (median: 1.9 mm) as compared to patients with higher levels (>20 ng/ml; median: 1.00 mm). Patients with 25(OH)D serum concentrations in the lowest quartile had inferior overall survival (median: 80 months) comparing with the highest quartile (median: 195 months; p = 0.049).

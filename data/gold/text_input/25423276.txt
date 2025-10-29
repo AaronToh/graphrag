@@ -1,7 +1,0 @@
-Document ID: 25423276
-
-Correlation between tumor volume and hormone levels in individual patients would permit calculation of the fraction of tumor removed by surgery, by measuring postoperative hormone levels. The goals of this study were to examine the relationship between tumor volume, growth hormone (GH), and insulin-like growth factor-1 (IGF-1) levels, and to assess the correlation between percent tumor removal and the reduction in plasma GH and IGF-1 in patients with acromegaly.
-
-The 3D region of interest-based volumetric method was used to measure tumor volume via MRI before and after surgery in 11 patients with GH-secreting adenomas. The volume of residual tumor as a fraction of preoperative tumor volume was correlated with GH levels before and after surgery. Examination of this potential correlation required selection of patients with acromegaly who 1) had incomplete tumor removal, 2) had precise measurements of initial and residual tumor, and 3) were not on medical therapy.
-
-Densely granulated tumors produced more peripheral GH per mass of tumor than sparsely granulated tumors (p = 0.04). There was a correlation between GH and IGF-1 levels (p = 0.001). Although there was no close correlation between tumor size and peripheral GH levels, after normalizing each tumor to its own plasma GH level and tumor volume, a comparison of percent tumor resection with percent drop in plasma GH yielded a high correlation coefficient (p = 0.006).

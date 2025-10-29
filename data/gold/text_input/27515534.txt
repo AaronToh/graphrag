@@ -1,7 +1,0 @@
-Document ID: 27515534
-
-To clarify the effect of human umbilical cord-derived mesenchymal stem cell (hUC-MSCs) treatment on colitis and to explore the role of CD5(+) B cells in MSC therapy.
-
-The trinitrobenzenesulfonic acid (TNBS)-induced colitis mouse model was used. HUC-MSCs were transferred peritoneally. Survival rates, colitis symptoms, and macroscopic and histologic scores were evaluated. CD4(+) T helper (Th) cell subgroups and CD5(+) regulatory B cell (Bregs) in lymphocytes were quantitated by flow cytometry. Cytokine levels were detected by ELISA and Bio-plex. CD5(+) B cells were isolated for in vitro co-culture and adaptive transfer.
-
-HUC-MSC treatment alleviated TNBS-induced colitis by increasing survival rates, relieving symptoms, and improving macroscopic and histologic scores. Labeled hUC-MSCs were located in the inflamed areas of colitis mice. Increases in regulatory T cells (Tregs) and CD5(+) B cells and decreases in Th1 cells, Th17 cells, and several pro-inflammatory cytokines were observed with hUC-MSC treatment. After adaptive transfer, CD5(+) B cells, which were located mainly in the peritoneal lavage fluid, improved TNBS-induced colitis by correcting Treg/Th1/Th17 imbalances. CD5(+) B cells also inhibited T-cell proliferation and produced interleukin (IL)-10.

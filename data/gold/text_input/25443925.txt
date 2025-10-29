@@ -1,7 +1,0 @@
-Document ID: 25443925
-
-To examine the accuracy of HistoScanning (HS) in detecting seminal vesicle (SV) invasion (SVI) within prostate cancer (PCa) patients.
-
-We relied on our prospective institutional database. Patients who received HS before radical prostatectomy were included in the study cohort. An experienced HS examiner retrospectively reanalyzed the HS data blinded to patient characteristics and pathologic results. The HS results for every single SV were compared with the corresponding findings from the final pathologic report after radical prostatectomy. An area under the receiver operating characteristic curve for the prediction of SVI by HS was calculated. Depending on HS signal volume cut-offs (>0, >0.2, and >0.5 mL), the sensitivity, specificity, positive predictive value, and negative predictive value for the prediction of SVI were assessed.
-
-Overall, 131 patients and 262 SVs were assessable. Of those, 23 (17.5%) men had SVI, and 39 (14.9%) single SVs were infiltrated by tumor overall. The area under the receiver operating characteristic curve for predicting SVI by HS was 0.54. Depending on the HS signal volume cut-offs (>0, >0.2, and >0.5 mL), the sensitivity, specificity, positive predictive value, and negative predictive value for predicting SVI were 76.9%, 10.8%, 13.1%, and 72.7%; 61.5%, 24.2%, 12.4%, and 78.3%; and 46.2%, 50.2%, 14.0%, and 84.2%, respectively.

@@ -1,7 +1,0 @@
-Document ID: 27504496
-
-Given evidence from genetic studies, we hypothesized that there may be a shared component to the role of myeloid function in Parkinson and Alzheimer disease (PD and AD) and assessed whether PD susceptibility variants influenced protein expression of well-established AD-associated myeloid genes in human monocytes.
-
-We repurposed data in which AD-related myeloid proteins CD33, TREM1, TREM2, TREML2, TYROBP, and PTK2B were measured by flow cytometry in monocytes from 176 participants of the PhenoGenetic Project (PGP) and Harvard Aging Brain Study. Linear regression was used to identify associations between 24 PD risk variants and protein expression. The 2 cohorts were meta-analyzed in a discovery analysis, and the 4 most strongly suggestive results were validated in an independent cohort of 50 PGP participants.
-
-We discovered and validated an association between the PD risk allele rs12456492(G) in the RIT2 locus and increased CD33 expression (p joint = 3.50 × 10(-5)) and found strongly suggestive evidence that rs11060180(A) in the CCDC62/HIP1R locus decreased PTK2B expression (p joint = 1.12 × 10(-4)). Furthermore, in older individuals, increased CD33 expression on peripheral monocytes was associated with a greater burden of parkinsonism (p = 0.047), particularly bradykinesia (p = 6.64 × 10(-3)).

@@ -1,7 +1,0 @@
-Document ID: 25445398
-
-Low-grade chronic inflammation is a cardinal feature of the metabolic syndrome, yet its pathogenesis is not well defined. The purpose of this study was to examine the role of TRAIL receptor (TR) signaling in the pathogenesis of obesity-associated inflammation using mice with the genetic deletion of TR.
-
-TR knockout (TR(-/-)) mice and their littermate wild-type (WT) mice were fed a diet high in saturated fat, cholesterol and fructose (FFC) or chow. Metabolic phenotyping, liver injury, and liver and adipose tissue inflammation were assessed. Chemotaxis and activation of mouse bone marrow-derived macrophages (BMDMϕ) was measured.
-
-Genetic deletion of TR completely repressed weight gain, adiposity and insulin resistance in FFC-fed mice. Moreover, TR(-/-) mice suppressed steatohepatitis, with essentially normal serum ALT, hepatocyte apoptosis and liver triglyceride accumulation. Gene array data implicated inhibition of macrophage-associated hepatic inflammation in the absence of the TR. In keeping with this, there was diminished accumulation and activation of inflammatory macrophages in liver and adipose tissue. TR(-/-) BMDMϕ manifest reduced chemotaxis and diminished activation of nuclear factor-κ B signaling upon activation by palmitate and lipopolysaccharide.

@@ -1,7 +1,0 @@
-Document ID: 25430407
-
-Total bilirubin (TB) was recently recognized as an endogenous anti-inflammatory and anti-oxidant molecule. Uric acid (UA) takes part in cardiovascular diseases by inducing oxidative stress, inflammation, and endothelial dysfunction. We assessed the relationship between serum TB levels, serum UA levels, and inflammatory status assessed by neutrophil-to-lymphocyte ratio (N/L) and arterial stiffness and arterial wave reflection in patients with a clinical diagnosis of coronary artery disease (CAD).
-
-We included 145 consecutive patients admitted with stable angina pectoris (SAP) or acute coronary syndrome (ACS). Blood samples were drawn at admission for complete blood count and biochemistry. Non-invasive pulse waveform analysis for the determination of augmentation index (AIx) and carotid-femoral pulse wave velocity (PWV) measurements were performed with the commercially available SphygmoCor system.
-
-When patients were divided into tertiles of PWV and AIx, median N/L and median serum UA levels were the highest and mean TB levels were the lowest in the third tertile (p<0.001 for all). AIx and PWV were positively associated with serum UA and N/L and negatively associated with serum TB levels (p<0.001 for all). After adjustments for age, gender, heart rate, systolic blood pressure, and presence of diabetes, significant correlations persisted for N/L, UA, and TB in ACS patients (p<0.05). In the SAP group, TB was significantly negatively correlated with AIx and PWV, and UA was significantly positively correlated with PWV (p<0.05).

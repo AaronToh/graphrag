@@ -1,7 +1,0 @@
-Document ID: 27508345
-
-Excessive time between the first presentation of symptoms of pulmonary tuberculosis (PTB) and diagnosis contributes to ongoing transmission and increased risk of infection in the community, as well as to increased disease severity and higher mortality. People with type 2 diabetes mellitus (T2DM) have a higher risk of developing PTB. However, the effect of T2DM on delayed diagnosis of PTB is not fully understood. This study investigated the effects of hyperglycemia (diabetes and prediabetes) and other factors on PTB patient delay in a rural area of China.
-
-In the present community-based investigation, PTB patients aged ≥16 years newly diagnosed at county tuberculosis dispensaries were recruited consecutively between September 2011 and December 2013. Fasting blood glucose was determined in all subjects, and a structured questionnaire was used to collect basic information.
-
-Of the 2280 patients, 605 (26.5 %) had hyperglycemia. The median (interquartile range) time to seeking health care was 44 (59) days. Health care seeking was delayed in 1754 subjects, and hyperglycemia was independently associated with an increased probability (odds ratio 2.10; 95 % confidence interval 1.49-2.97) of patient delay in subjects aged ≥30 years. Other factors associated with patient delay were cough, night sweats, and lack of knowledge regarding typical tuberculosis symptoms. The onset of hemoptysis was negatively correlated with patient delay.

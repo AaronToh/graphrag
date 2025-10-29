@@ -1,7 +1,0 @@
-Document ID: 25428756
-
-Hip dislocation in children with cerebral palsy (CP) is a common and severe problem. The Swedish follow-up program for CP (CPUP) includes standardized monitoring of the hips. Migration percentage (MP) is a widely accepted measure of hip displacement. Coxa valga and valgus of the femoral head in relation to the femoral neck can be measured as the head-shaft angle (HSA). We assessed HSA as a risk factor for hip displacement in CP.
-
-We analyzed radiographs of children within CPUP from selected regions of Sweden. Inclusion criteria were children with Gross Motor Function Classification System (GMFCS) levels III-V, MP of < 40% in both hips at the first radiograph, and a follow-up period of 5 years or until development of MP > 40% of either hip within 5 years. Risk ratio between children who differed in HSA by 1 degree was calculated and corrected for age, MP, and GMFCS level using multiple Poisson regression.
-
-145 children (73 boys) with a mean age of 3.5 (0.6-9.7) years at the initial radiograph were included. 51 children developed hip displacement whereas 94 children maintained a MP of < 40%. The risk ratio for hip displacement was 1.05 (p < 0.001; 95% CI 1.02-1.08). When comparing 2 children of the same age, GMFCS level, and MP, a 10-degree difference in HSA results in a 1.6-times higher risk of hip displacement in the child with the higher HSA.

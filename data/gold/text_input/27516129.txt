@@ -1,9 +1,0 @@
-Document ID: 27516129
-
-Hearing aids are prescribed to alleviate loss of audibility. It has been reported that about 31% of hearing aid users reject their own hearing aid because of annoyance towards background noise. The reason for dissatisfaction can be located anywhere from the hearing aid microphone till the integrity of neurons along the auditory pathway.
-
-To measure spectra from the output of hearing aid at the ear canal level and frequency following response recorded at the auditory brainstem from individuals with hearing impairment.
-
-A total of sixty participants having moderate sensorineural hearing impairment with age range from 15 to 65 years were involved. Each participant was classified as either Good or Poor Hearing aid Performers based on acceptable noise level measure. Stimuli /da/ and /si/ were presented through loudspeaker at 65dB SPL. At the ear canal, the spectra were measured in the unaided and aided conditions. At auditory brainstem, frequency following response were recorded to the same stimuli from the participants.
-
-Spectrum measured in each condition at ear canal was same in good hearing aid performers and poor hearing aid performers. At brainstem level, better F

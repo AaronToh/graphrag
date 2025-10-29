@@ -1,7 +1,0 @@
-Document ID: 27495278
-
-Lymph node ratio (LNR), positive nodes divided by nodes examined, has been proposed for prognostication in melanoma to mitigate problems with low node counts. However, it is unclear if LNR offers superior prognostication over total counts of positive nodes and nodes examined. Additionally, the prognostic value of LNR may change if a threshold number of nodes are examined. We evaluated whether LNR is more prognostic than positive nodes and nodes examined, and whether the prognostic value of LNR changes with minimum thresholds.
-
-Using the National Cancer Data Base Participant User File, we identified 74,692 incident cases with nodal dissection during 2000-2006. We compared LNR versus counts of examined and positive nodes based on Harrell's C, a measure of predictive ability. We then stratified by total nodes examined: greater versus fewer than ten for axillary lymph node dissection (ALND) and greater versus fewer than five for inguinal lymph node dissection (ILND).
-
-Overall, LNR had a Harrell's C of 0.628 (95 % confidence interval [CI] 0.625-0.631). Examined and positive nodes were not significantly different from this, with a Harrell's C of 0.625 (95 % CI 0.621-0.630). In ALND, LNR had a Harrell's C of 0.626 (95 % CI 0.610-0.643) with ≥10 nodes versus 0.554 (95 % CI 0.551-0.558) < 10 nodes. In ILND, LNR had a Harrell's C of 0.679 (95 % CI 0.664-0.694) with ≥5 nodes versus C of 0.601 (95 % CI 0.595-0.606) < 5 nodes.

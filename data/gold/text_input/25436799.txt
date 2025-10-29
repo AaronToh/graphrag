@@ -1,7 +1,0 @@
-Document ID: 25436799
-
-Soluble mesothelin related peptide (SMRP) was proposed as a promising diagnostic marker for malignant pleural mesothelioma (MPM). In a previous study, we found that rs1057147 within the 3' untranslated region of MSLN gene was associated with SMRP levels. Thus, we aimed to (1) confirm the previous association on a large series of volunteers and (2) test the hypothesis that the SNP could affect microRNA binding sites.
-
-The association analysis was verified in 759 subjects. Then, in silico predictions highlighted miR-611 and miR-887 as candidate miRNAs binding to the polymorphic site. Thus, chimeric constructs bearing the alternative alleles (G > A) were assayed alone or in cotransfection with the miRNA mimics, with dual luciferase reporter assay in non-MPM Met-5A cells. The miRNAs were also assayed by western blot analysis for their ability to down-regulate endogenous mesothelin in the MPM Mero-14 cell line.
-
-We confirmed that, among non-MPM volunteers, GG homozygotes have the lowest SMRP levels. When the genotype is taken into account, the specificity of SMRP as biomarker improves from 79.7% to 85.3%. Dual-luciferase assays showed a significantly lower reporter activity when the vector harbored the G allele as compared to A allele. miR-887 mimic caused a reduced reporter activity of vectors harboring A or G alleles, while miR-611 was effective only on the vector harboring the G allele. Transfection of these miRNAs into Mero-14 cells significantly reduced endogenous MSLN protein.

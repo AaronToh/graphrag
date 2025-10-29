@@ -1,7 +1,0 @@
-Document ID: 25447560
-
-Publication bias compromises the validity of systematic reviews. This problem can be addressed in part through searching clinical trials registries to identify unpublished studies. This study aims to determine how often systematic reviews published in emergency medicine journals include clinical trials registry searches.
-
-We identified all systematic reviews published in the 6 highest-impact emergency medicine journals between January 1 and December 31, 2013. Systematic reviews that assessed the effects of an intervention were further examined to determine whether the authors described searching a clinical trials registry and whether this search identified relevant unpublished studies.
-
-Of 191 articles identified through PubMed search, 80 were confirmed to be systematic reviews. Our sample consisted of 41 systematic reviews that assessed a specific intervention. Eight of these 41 (20%) searched a clinical trials registry. For 4 of these 8 reviews, the registry search identified at least 1 relevant unpublished study.

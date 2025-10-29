@@ -1,7 +1,0 @@
-Document ID: 25438677
-
-Rasmussen encephalitis (RE) is a rare but devastating condition, mainly in children, characterized by sustained brain inflammation, atrophy of one cerebral hemisphere, epilepsy, and progressive cognitive deterioration. The etiology of RE-induced seizures associated with the inflammatory process remains unknown.
-
-Cortical tissue samples from children undergoing surgical resections for the treatment of RE (n = 16) and non-RE (n = 12) were compared using electrophysiological, morphological, and immunohistochemical techniques to examine neuronal properties and the relationship with microglial activation using the specific microglia/macrophage calcium-binding protein, IBA1 in conjunction with connexins and pannexin expression.
-
-Compared with non-RE cases, pyramidal neurons from RE cases displayed increased cell capacitance and reduced input resistance. However, neuronal somatic areas were not increased in size. Instead, intracellular injection of biocytin led to increased dye coupling between neurons from RE cases. By Western blot, expression of IBA1 and pannexin was increased while connexin 32 was decreased in RE cases compared with non-RE cases. IBA1 immunostaining overlapped with pannexin and connexin 36 in RE cases.

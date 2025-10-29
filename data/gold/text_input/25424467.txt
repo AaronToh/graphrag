@@ -1,5 +1,0 @@
-Document ID: 25424467
-
-Oxidative stress is one of the mechanisms underlying pathogenesis in neurodegenerative diseases such as Alzheimer's disease. Generally, oxidative stress represents cell toxicity; however, we recently found that oxidative stress promotes the expression of growth factor progranulin (PGRN) in HT22 murine hippocampus cells, thereby protecting the HT22 cells. In this study, we attempted to clarify whether a similar system exists in the other neuronal cell model, rat pheochromocytoma (PC12) cells.
-
-After confirming that high concentrations of hydrogen peroxide (H2O2; 100-250 μM) initiate PC12 cell death, we analyzed growth factor expressional changes after H2O2 treatment. We found, intriguingly, that gene expression of brain-derived neurotrophic factor (BDNF), but not PGRN was significantly induced by H2O2. Although little expression of the high affinity BDNF receptor tropomyosin-related kinase TrkB was observed in PC12 cells, expression of low affinity neurotrophin receptor, p75NTR, was clearly observed. This BDNF signaling appeared to contribute to PC12 cell protection, since PC12 cell death was significantly attenuated by BDNF treatment.

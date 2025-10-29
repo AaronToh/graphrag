@@ -1,7 +1,0 @@
-Document ID: 27506680
-
-Areas of high signal intensity (HighT2) on T2-weighted cardiovascular magnetic resonance (CMR) imaging have been demonstrated in hypertrophic cardiomyopathy (HCM). It has been hypothesised that HighT2 may indicate active tissue injury in HCM. In this context, we studied HighT2 in relation to cardiac troponin.
-
-Outpatient HCM patients without a history of coronary artery disease underwent CMR imaging at 1.5 T using T2-weighted, cine and late gadolinium enhancement (LGE) imaging to assess HighT2, left ventricular (LV) function, LV mass and the presence and extent of LGE. Highly sensitive cardiac troponin T (hs-cTnT) was assessed as a marker of injury, with hs-cTnT ≥14 and >3 ng/L defined as an elevated and detectable troponin.
-
-HighT2 was present in 28% of patients (28/101). An elevated hs-cTnT was present in 54% of patients with HighT2 (15/28) compared with 14% of patients without HighT2 (10/73) (p<0.001). Hs-cTnT was detectable in 96% of patients with HighT2 (27/28) compared with 66% of patients without HighT2 (48/73) (p=0.002). In case of an undetectable hs-cTnT, HighT2 was only seen in 4% (1/26). In addition, the extent of HighT2 was related with increasing hs-cTnT concentrations (Spearman's ρ: 0.42, p<0.001).

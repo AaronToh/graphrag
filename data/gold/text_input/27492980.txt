@@ -1,7 +1,0 @@
-Document ID: 27492980
-
-The chronic inflammation plays an important role in heart failure and complement components might be useful markers of the prognosis. We set out to evaluate their predictive value in the clinical outcomes of patients with cardiac resynchronization therapy (CRT).
-
-We determined the complement levels C3, C3a, sC5b-9 and also the N-terminus of the prohormone brain natriuretic peptide (NT-proBNP) of 126 heart failure patients in a prospective, single-center observational study before and 6 months after CRT implantation.
-
-CRT reduced the C3a [212.5 (148.2-283.6) vs. 153 (119.8-218.3) ng/mL, p < 0.0001] and the sC5b-9 levels [296.9 (234.2-358.8) vs. 255.1 (210.1-319.0) ng/mL, p = 0.0006], but not the total C3 levels [1.43 (1.26-1.61) vs. 1.38 (1.23-1.57) g/L, p = 0.57]. C3a predicted the 5-year mortality of the patients [C3a > 165 ng/mL hazard ratio = 4.21 (1.65-10.72), p = 0.003] independent of the NT-proBNP and other factors. After reclassification, we observed a significant net reclassification improvement [NRI = 0.71 (0.43-0.98), p < 0.0001] and integrated discrimination improvement [IDI = 0.08 (0.03-0.12), p = 0.0002].

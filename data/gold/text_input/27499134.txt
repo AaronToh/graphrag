@@ -1,7 +1,0 @@
-Document ID: 27499134
-
-Iron deficiency (ID) anemia leads to long-term neurodevelopmental deficits by altering iron-dependent brain metabolism. The objective of the study was to determine if ID induces metabolomic abnormalities in the cerebrospinal fluid (CSF) in the pre-anemic stage and to ascertain the aspects of abnormal brain metabolism affected.
-
-Standard hematological parameters [hemoglobin (Hgb), mean corpuscular volume (MCV), transferrin (Tf) saturation, and zinc protoporphyrin/heme (ZnPP/H)] were compared at 2, 4, 6, 8, and 12 months in iron-sufficient (IS; n = 7) and iron-deficient (ID; n = 7) infant rhesus monkeys. Five CSF metabolite ratios were determined at 4, 8, and 12 months using 
-
-ID infants developed ID (Tf saturation < 25%) by 4 months of age and all became anemic (Hgb < 110 g/L and MCV < 60 fL) at 6 months. Their heme indices normalized by 12 months. Pyruvate/glutamine and phosphocreatine/creatine (PCr/Cr) ratios in CSF were lower in the ID infants by 4 months (P < 0.05). The PCr/Cr ratio remained lower at 8 months (P = 0.02). ZnPP/H, an established blood marker of pre-anemic ID, was positively correlated with the CSF citrate/glutamine ratio (marginal correlation, 0.34; P < 0.001; family wise error rate = 0.001).

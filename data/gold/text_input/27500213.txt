@@ -1,7 +1,0 @@
-Document ID: 27500213
-
-There is a critical need to better preserve isolated organs before transplantation. We developed a novel nonerythropoiesis cyclic helix B peptide (CHBP) derived from erythropoietin, which has potent tissue protection and prolonged serum stability. The renoprotection and potential mechanism of CHBP were evaluated in a kidney preservation model.
-
-Porcine kidneys (n = 5) subjected to 20-minute warm ischemia were retrieved and flushed with hyperosmolar citrate to mimic deceased donation. The kidneys and autologous blood ± 10.56 nmol/L CHBP were placed in cold storage (CS) for 18 hours. These kidneys were then normothermically hemoreperfused for 3 hours using an isolated organ perfusion system. The renal function and structure, apoptosis, inflammation, and expression of caspase-3 and heat shock protein 70 (HSP70) were assessed.
-
-Cyclic helix B peptide significantly increased the renal blood flow, oxygen consumption, and urine output during reperfusion, but decreased serum potassium and renal tissue damage. Apoptotic cells were significantly decreased in the tubular areas, but increased in the lumens and interstitial areas in the post-CS and postreperfused kidneys, whereas myeloperoxidase+ cells were reduced. In addition, the expression of both caspase-3 precursor and active subunits was downregulated by CHBP in reperfused kidneys. However, HSP70 was upregulated in the post-CS and postreperfused kidneys treated with CHBP.

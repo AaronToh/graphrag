@@ -1,7 +1,0 @@
-Document ID: 25426619
-
-We aimed to select true groove pancreatic ductal adenocarcinomas (GPDACs) and define their specific features.
-
-We performed histopathologic and immunohistochemical comparisons of 6 GPDACs with 6 duodenal adenocarcinomas (DACs) and 24 conventional pancreatic ductal adenocarcinomas (cPDACs). Both groups were adjusted to ensure similar mean tumor size.
-
-Representative loupe image showed prominent duodenal invasion and slight pancreatic invasion. Groove pancreatic ductal adenocarcinomas exhibited different mucins and cytokeratin profiles in DACs, but cPDACs and small branch pancreatic ducts had the same profiles. Histopathologic analysis of GPDACs showed a significantly higher incidence of duodenal invasion and well differentiation than cPDACs, although the incidences of lymph node metastasis, angiolymphatic invasion, and neural invasion were similar. Immunohistochemical analysis of GPDACs showed a significantly lower frequency of abnormal Smad4 immunolabeling, and fewer GPDAC samples exhibited abnormal immunolabeling for MUC1, p16, Smad4, and p53 than cPDACs.

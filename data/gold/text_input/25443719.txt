@@ -1,7 +1,0 @@
-Document ID: 25443719
-
-Efflux transporters overexpression has been proposed as one of the responsible mechanism for refractory epilepsy by preventing access of the antiepileptic drug to the brain. In this work we investigated whether phenytoin (PHT), could induce efflux transporters overexpression, at different biological barriers and to evaluate the implication it could have on its pharmacokinetics and therapeutic/toxic response.
-
-Forty-two adult females Sprague Dawley divided in five groups were treated with oral doses of 25, 50 and 75mg/kg/6h of PHT for 3 days and two additionally groups were treated with intraperitoneal (ip) doses of 25mg/kg/6h or 100mg/kg/24h. At day 4 PHT plasma concentrations were measured and, obtained several organs, brain, parotid gland, liver and duodenum in which were analyzed for the Pgp expression. At day 4 PHT plasma concentrations were measured and several tissues: brain, parotid gland, liver and duodenum were obtained in order to analyze Pgp expression. In order to evaluate the oral bioavailability of PHT, two groups were administered with oral or intraperitoneal doses of 100mg/kg and plasma level were measured.
-
-An induction of the expression of efflux transporter mediated by phenytoin in a concentration-and-time dependent manner was found when increasing oral and ip doses of phenytoin, One week after the interruption of ip treatment a basal expression of transporters was recovered.

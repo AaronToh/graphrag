@@ -1,7 +1,0 @@
-Document ID: 27519149
-
-We tested the hypothesis that collagen cross-linking (CXL) could be used to promote adhesion in mock corneal grafts.
-
-Donated human corneal tissue underwent epithelial debridement and was cut into sections measuring 4mm×3mm. Paired sections were sutured together with 10-0 vicryl, forming mock corneal grafts. Looped 6-0 sutures were placed at each end to facilitate tension measurement. Mock grafts underwent CXL before being cultured for 2days in Eagle's MEM culture medium. Control mock grafts did not undergo CXL treatment before culture. Tissue was obtained from 4 donors and a maximum of 2 controls and 2 treated grafts was obtained from each donor. Following the culture period, the 10-0 sutures were cut. The mock grafts were mounted on force transducers and were put under increasing tension until eventually the sections were pulled apart.
-
-The mean applied stress required to generate graft failure was calculated for all mock grafts±standard error of the mean. In the control group 0.236±0.09mPa of applied stress was required to cause graft failure, in comparison to 0.691±0.12mPa in the treated group. A paired t-test showed this result to be significant, (p=0.0087).

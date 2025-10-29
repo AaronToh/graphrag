@@ -1,7 +1,0 @@
-Document ID: 25430410
-
-Neutrophil gelatinase-associated lipocalin (NGAL) is a novel inflammatory marker that is released from neutrophils. In this study, we evaluated the correlation between serum NGAL level and clinical and angiographic risk scores in patients diagnosed with non-ST elevation acute coronary syndrome (NSTE-ACS).
-
-Forty-seven random NSTE-ACS patients and 45 patients with normal coronary arteries (NCA) who underwent coronary angiography were enrolled in the study. GRACE risk score and SYNTAX and Gensini risk scores were used, respectively, for the purpose of clinical risk assessment and angiographic risk scoring. Serum NGAL level was measured via ELISA in peripheral blood samples obtained from the patients at the time of admission.
-
-Serum NGAL level was significantly higher in the NSTE-ACS group compared to the control group (112.3±49.6 ng/mL vs. 58.1±24.3 ng/mL, p<0.001). There was a significant positive correlation between serum NGAL levels and the GRACE (r=0.533 and p<0.001), SYNTAX (r=0.395 and p=0.006), and Gensini risk scores (r=0.575 and p<0.001). The intermediate-high SYNTAX (>22) group had statistically significantly higher serum NGAL levels compared to the low SYNTAX (≤22) group (143±29.5 ng/mL vs. 98.7±43.2 ng/mL, p=0.001).

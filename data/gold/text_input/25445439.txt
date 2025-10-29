@@ -1,7 +1,0 @@
-Document ID: 25445439
-
-To investigate how affects electrical-conduction function following myocardial infarction (MI) in rats.
-
-Thirty SD rats of either sex (220-250 g) were anesthetized using chlorine hydrate and were randomly divided into three groups: control group, MI group and transplantation group. The field potential (FP) morphology and activation-conduction duration were recorded with microeletrode array techniques.
-
-The MEA recorded clear FP morphology. Activation-conduction duration was (6.5 ± 2.12) ms in the control group, (17.5 ± 3.54) ms in the MI group, and (9.13 ± 1.31) ms in the transplantation group.

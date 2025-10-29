@@ -1,7 +1,0 @@
-Document ID: 27494109
-
-Ischemia/reperfusion (I/R) injury, which is commonly seen in the field of renal surgery or transplantation, is a major cause of acute renal failure (ARF). The ischemic ARF in diabetic rats is much more severe than that in the normal rats exposed to as same ischemic time. Ischemic post-conditioning (IPO) is a phenomenon by which intermittent interruptions of blood flow in the early phase of reperfusion can protect organs from I/R injury. To determine whether the renal protection effect of IPO mediates by toll-like receptor 4 (TLR4) signaling pathway in diabetic rats.
-
-Streptozotocin-induced diabetic rats were randomly divided into three groups: sham operation group, I/R group, and IPO group. Except sham operation group, rats were subjected to 30 min of renal ischemia, both with and without treatment with IPO, then reperfusion 24 h. Light microscope and transmission electronic microscope were used to observe structural changes of renal tubule. RT-PCR was used to measure TLR4 and tumor necrosis factor-alpha (TNF-α) mRNA expression level, renal TLR4 and nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) protein expression was detected by Western blot.
-
-The results demonstrated that IPO markedly decreased renal ischemic injury caused by I/R and inhibited the proinflammatory expression levels of TLR4, TNF-α, and NF-κB, all of which up-regulated by I/R in diabetic rats.

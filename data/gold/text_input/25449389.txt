@@ -1,7 +1,0 @@
-Document ID: 25449389
-
-To evaluate whether anxiety-prone rats exposed to chronic water avoidance stress (WAS) develop visceral bladder hyperalgesia in addition to increased voiding frequency and anxiety-related behaviors.
-
-Female Wistar-Kyoto (WKY) rats were exposed to chronic (10-day) WAS or sham paradigms. Referred hyperalgesia and tactile allodynia were tested using von Frey filaments applied to the suprapubic region and plantar region of the hindpaw, respectively. To confirm that suprapubic nociception represented referred visceral bladder hyperalgesia, we recorded abdominal visceromotor responses (VMR) to slow (100 μl/min) and fast (1 cc/sec) bladder filling with room temperature or ice-cold saline. We assessed the development of hyperalgesia over the 10-day WAS protocol and the durability of increased pain sensations over time.
-
-Animals exposed to chronic WAS had significantly lower hindpaw withdrawal thresholds post-stress and significant differences in referred hyperalgesia. Rats exposed to chronic WAS demonstrated an increased pain response to suprapubic stimulation and decreased response threshold to mechanical hindpaw stimulation by day 8 of the stress protocol, which persisted for more than one month. Animals exposed to chronic WAS showed increased VMR to fast filling and ice water testing in comparison to sham animals. Cystometry under anesthesia did not show increases in the frequency of non-voiding contractions.

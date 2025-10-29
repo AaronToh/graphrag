@@ -1,7 +1,0 @@
-Document ID: 25433902
-
-Anorexia nervosa (AN) is a serious eating disorder characterized by self-starvation, extreme weight loss, and alterations in brain structure. Structural magnetic resonance imaging studies have documented brain volume reductions in acute AN, but it is unclear whether they are 1) regionally specific, or 2) reversible following weight restoration. Here, we measured cortical thickness (CT) for the first time in AN.
-
-Structural magnetic resonance imaging data were acquired from adolescent and young adult female patients with acute AN (n = 40), recovered patients following long-term weight restoration (n = 34), and an equal number of age-matched healthy control subjects. Group differences in CT were tested with well-validated procedures implemented in FreeSurfer. The mediating role of clinical variables including body mass index and drive for thinness were explored. For completeness, we also used FreeSurfer's subcortical segmentation stream to test group differences in volumes of select gray matter regions of interest.
-
-Vertex-wise analyses revealed significant thinning of over 85% of the cortical surface in patients with acute AN and CT normalization in recovered patients following long-term weight restoration, although normal age-related trajectories were absent in the disorder. This pattern of results was largely mirrored in subcortical volumes. We also observed a strong negative correlation between CT and drive for thinness in extrastriate regions involved in body perception.

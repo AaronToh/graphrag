@@ -1,9 +1,0 @@
-Document ID: 25444592
-
-Depression is the most common psychiatric comorbidity in epilepsy patients. The lack of success with current pharmacological interventions for this patient population, highlights the importance of optimizing non-pharmacological neuromodulatory treatments such as vagus nerve stimulation (VNS). Studies on the antidepressant effect of VNS in epilepsy patients may be confounded by concurrent anti-epileptic drug therapy. To date, studies in epilepsy models overcoming this problem are lacking.
-
-We investigated whether VNS affects anhedonia, a key symptom of major depression, in the kainic acid rat model for temporal lobe epilepsy.
-
-Anhedonia was assessed in kainic acid (KA) and saline (SAL) injected rats using the saccharin preference test (SPT). To exclude differences in taste perception, the quinine aversion test (QAT) was performed. Both groups were randomly subdivided in a VNS and a SHAM group, yielding 4 experimental arms: KA-VNS, KA-SHAM, SAL-VNS and SAL-SHAM. Both VNS groups received 2 weeks of VNS, while the SHAM groups were not stimulated. Thereafter, the SPT and QAT were repeated.
-
-Saccharin preference was significantly reduced in the KA compared to the SAL rats (P < 0.05), without differences in quinine aversion. Two weeks of VNS significantly increased the saccharin preference in the KA-VNS group (P < 0.05), while it had no effect on quinine aversion. No effects of VNS or SHAM were found in the other groups.

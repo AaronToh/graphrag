@@ -1,7 +1,0 @@
-Document ID: 25436343
-
-Cancer stem cells (CSC) was reported to play an important role in various kinds of cancer. CD133 is one of the cancer stem cell markers in solid cancers. However, the correlation between CD133 expression and the clinicopathological factors in colorectal cancer (CRC) remains unclear.
-
-Forty patients with CRC who underwent operations were enrolled. Expression of CD133 was investigated by immunohistochemistry (IHC). The staining was observed in the cytoplasm of cancer cells and the patients who have the staining were defined as CD133-positive cases. The patients were divided into two groups: the CD133-positive group (n = 22) and negative group (n = 18). Clinicopathological factors were compared between the two groups. The prognostic factors were investigated by multivariate analysis.
-
-In the CD133-positive group, the incidence of lymph node and liver metastasis, lymphatic and venous invasion, as well as the progression of stage of cancer were higher than that in the CD133-negative group. The 5-year survival rate and the disease-free survival rate in the CD133-positive group were lower than that in the CD133-negative group. The multivariate analysis revealed that CD133 expression tended to be an independent prognostic factor.

@@ -1,7 +1,0 @@
-Document ID: 25451536
-
-To evaluate whether Nrf2 deficiency impacts insulin resistance and lipid accumulation in liver and white adipose tissue.
-
-Lep(ob/ob) mice (OB) with targeted Nrf2 deletion (OB-Nrf2KO) were generated. Pathogenesis of obesity and type 2 diabetes was measured in C57BL/6J, Nrf2KO, OB, and OB-Nrf2KO mice. Hepatic lipid content, lipid clearance, and very low-density lipoprotein (VLDL) secretion were determined between OB and OB-Nrf2KO mice.
-
-OB-Nrf2KO mice exhibited decreased white adipose tissue mass and decreased adipogenic and lipogenic gene expression compared with OB mice. Nrf2 deficiency prolonged hyperglycemia in response to glucose challenge, which was paralleled by reduced insulin-stimulated Akt phosphorylation. In OB mice, Nrf2 deficiency decreased hepatic lipid accumulation, decreased peroxisome proliferator-activated receptor γ expression and nicotinamide adenine dinucleotide phosphate (NADPH) content, and enhanced VLDL secretion. However, this observation was opposite in lean mice. Additionally, OB-Nrf2KO mice exhibited increased plasma triglyceride content, decreased HDL-cholesterol content, and enhanced apolipoprotein B expression, suggesting Nrf2 deficiency caused dyslipidemia in these mice.

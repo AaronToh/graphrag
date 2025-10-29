@@ -1,7 +1,0 @@
-Document ID: 27503549
-
-To evaluate rotavirus vaccination in Malaysia from the household's perspective. The extended cost-effectiveness analysis (ECEA) framework quantifies the broader value of universal vaccination starting with non-health benefits such as financial risk protection and equity. These dimensions better enable decision-makers to evaluate policy on the public finance of health programmes.
-
-The incidence, health service utilisation and household expenditure related to rotavirus gastroenteritis according to national income quintiles were obtained from local data sources. Multiple birth cohorts were distributed into income quintiles and followed from birth over the first five years of life in a multicohort, static model.
-
-We found that the rich pay more out of pocket (OOP) than the poor, as the rich use more expensive private care. OOP payments among the poorest although small are high as a proportion of household income. Rotavirus vaccination results in substantial reduction in rotavirus episodes and expenditure and provides financial risk protection to all income groups. Poverty reduction benefits are concentrated amongst the poorest two income quintiles.

@@ -1,7 +1,0 @@
-Document ID: 27496484
-
-The role of BRCA1 in chronic ischemic episodes seems to be pivotal for adverse remodeling and development of ischemic cardiomyopathy, because of its role in DNA repair and apoptosis. The aim of this study was to investigate the role of BRCA-1 in idiopathic dilated cardiomyopathy (IDCM).
-
-The study group (IDCM) comprised myocardial samples from hearts explanted before transplantation owing to IDCM in 10 males (age 44 ± 5.3 years) without clinical symptoms of ischemic heart disease. The control group consisted myocardial fragments taken from 10 male heart valve and pulmonary artery donors with diagnosed cerebral death (age 40 ± 2.3 years). BRCA1 was detected immunohistochemically with rabbit anti-BRCA1 polyclonal antibody. The intensity of BRCA1 expression was semiquantitatively assessed for cardiocytes, small vessels including capillaries, and interstitial cells. The significances between groups were estimated using the Mann-Whitney U test.
-
-All IDCM cases were positive and presented nonuniform BRCA1 expression: hypertrophied cardiocytes showed very intense staining and typical cardiomyopathic cardiocytes were stained weakly forming mosaic. Control cases showed weak-to-moderate uniform staining. Intensity of staining was significantly higher in IDCM cardiocytes, whereas small vessels and interstitial were stained similarly in both groups.

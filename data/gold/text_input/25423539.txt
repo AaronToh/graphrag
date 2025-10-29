@@ -1,7 +1,0 @@
-Document ID: 25423539
-
-Our trauma service recently transitioned from a pulmonary intensive care unit (ICU) service to a surgical ICU (SICU) service. We hypothesized that a newly formed SICU service could provide comparable outcomes to the existing pulmonary ICU service. A specific aim of this study was to compare outcomes of trauma patients admitted to the ICU before and after implementation of a SICU service.
-
-We performed a retrospective study of trauma patients admitted to the ICU of our urban, American College of Surgeons- verified, Level 1 trauma center during a 4-year period (2009-2012). Patients managed by the pulmonary ICU service (2009-2010) were compared with patients managed by a SICU service (2011-2012). The primary outcome was mortality, while secondary outcomes included complications (pulmonary, infectious, cardiac, and thromboembolic), hospital and ICU length of stay, ventilator days, and need for reintubation.
-
-There were 2,253 trauma patients admitted to the ICU during the study period, 1,124 and 1,129 managed by the pulmonary ICU and SICU services, respectively. When comparing outcomes for SICU and pulmonary ICU patients, there was no difference in mortality (11% vs. 13%, p = 0.41), but patients managed by the SICU service had fewer pulmonary complications (3% vs. 6%, p < 0.001), fewer days on the ventilator (3 vs. 4, p = 0.002), and less often required reintubation after extubation (4% vs. 9%, p < 0.001).

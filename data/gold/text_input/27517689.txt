@@ -1,7 +1,0 @@
-Document ID: 27517689
-
-Substantial country differences in neurosurgical training throughout Europe have recently been described, ranging from subjective rating of training quality to objective working hours per week. The aim of this study was to analyse whether these differences translate into the results of the written and oral part of the European Board Examination in Neurological Surgery (EBE-NS).
-
-Country-specific composite scores for satisfaction with quality of theoretical and practical training, as well as working hours per week, were obtained from an electronic survey distributed among European neurosurgical residents between June 2014 and March 2015. These were related to anonymous country-specific results of the EBE-NS between 2009 and 2016, using uni- and multivariate linear regression analysis.
-
-A total of n = 1025 written and n = 63 oral examination results were included. There was a significant linear relationship between the country-specific EBE-NS result in the written part and the country-specific composite score for satisfaction with quality of theoretical training [adjusted regression coefficient (RC) -3.80, 95 % confidence interval (CI) -5.43-7 -2.17, p < 0.001], but not with practical training or working time. For the oral part, there was a linear relationship between the country-specific EBE-NS result and the country-specific composite score for satisfaction with quality of practical training (RC 9.47, 95 % CI 1.47-17.47, p = 0.021), however neither with satisfaction with quality of theoretical training nor with working time.

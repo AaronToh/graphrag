@@ -1,7 +1,0 @@
-Document ID: 25437888
-
-To examine if overall diet quality is associated with cellular and soluble biomarkers of systemic inflammation in middle-aged individuals.
-
-A group of 667 individuals, aged 63-68 years, selected from the cardiovascular arm of the Malmö Diet and Cancer cohort, participated in this study. Baseline examinations consisted of an extensive socio-demographic questionnaire, anthropometric measurements, blood sampling and detailed dietary data. Mononuclear leukocytes frozen at baseline were thawed and analysed with flow cytometry to quantify monocyte subsets based on CD14 and CD16 expression. Plasma cytokines were measured using multiplexed immune assays. A diet quality index consisting of six components (saturated fatty acids, polyunsaturated fatty acids, fish and shellfish, dietary fibre, fruit and vegetables, and sucrose) was constructed to measure adherence to the Swedish Nutrition Recommendations/Dietary Guidelines. General linear models were used to investigate associations between index scores and several biomarkers of inflammation.
-
-A higher percentage of women reported adherence to the nutritional recommendations and had better overall diet quality than men. Participants with higher diet quality were more likely to have a healthier lifestyle. The levels of high-sensitive CRP, S100A8/A9, TNF-α, white blood cells, neutrophils, lymphocytes and CD14(+)CD16(++) were lower in participants with higher index scores. The associations remained significant after adjustment for potential confounders.

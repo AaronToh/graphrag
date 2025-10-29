@@ -1,7 +1,0 @@
-Document ID: 25442790
-
-Stressors negatively impact emotional state and drive drug seeking, in part, by modulating the activity of the mesolimbic dopamine system. Unfortunately, the rapid regulation of dopamine signaling by the aversive stimuli that cause drug seeking is not well characterized. In a series of experiments, we scrutinized the subsecond regulation of dopamine signaling by the aversive stimulus, quinine, and tested its ability to cause cocaine seeking. Additionally, we examined the midbrain regulation of both dopamine signaling and cocaine seeking by the stress-sensitive peptide, corticotropin releasing factor (CRF).
-
-Combining fast-scan cyclic voltammetry with behavioral pharmacology, we examined the effect of intraoral quinine administration on nucleus accumbens dopamine signaling and hedonic expression in 21 male Sprague-Dawley rats. We tested the role of CRF in modulating aversion-induced changes in dopamine concentration and cocaine seeking by bilaterally infusing the CRF antagonist, CP-376395, into the ventral tegmental area (VTA).
-
-We found that quinine rapidly reduced dopamine signaling on two distinct time scales. We determined that CRF acted in the VTA to mediate this reduction on only one of these time scales. Further, we found that the reduction of dopamine tone and quinine-induced cocaine seeking were eliminated by blocking the actions of CRF in the VTA during the experience of the aversive stimulus.

@@ -1,7 +1,0 @@
-Document ID: 25431941
-
-This study examined links between DNA methylation and birth weight centile (BWC), and explored the impact of genetic variation.
-
-Using HumanMethylation450 arrays, we examined candidate gene-associated CpGs in cord blood from newborns with low (<15th centile), medium (40-60th centile) and high (>85th centile) BWC (n = 12). Candidates were examined in an investigation cohort (n = 110) using pyrosequencing and genotyping for putative methylation-associated polymorphisms performed using standard PCR.
-
-Array analysis identified 314 candidate genes associated with BWC extremes, four of which showed ≥ 4 BWC-linked CpGs. Of these, PM20D1 and MI886 suggested genetically determined methylation levels. However, methylation at three CpGs in FGFR2 remained significantly associated with high BWC (p = 0.004-0.027).

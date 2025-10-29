@@ -1,7 +1,0 @@
-Document ID: 27505183
-
-MRI of tissues with rapid transverse relaxation can be performed efficiently using the zero echo time (ZTE) technique. At high bandwidths leading to large relative initial radiofrequency (RF) dead times, the method becomes increasingly sensitive to artifacts related to signal stemming from outside the field of view, particularly from the RF coils. Therefore, in this work, a birdcage coil was designed that is virtually free of 1H signal.
-
-A transmit-receive birdcage RF coil for MRI of joints at 7T was designed by rigorously avoiding materials containing 1H nuclei, by using purely mechanical connections without glue, and by spoiling of unwanted signal by application of ferromagnetic materials. The coil was tested for residual 1H signal using ZTE phantom and in vivo joint imaging.
-
-In standard ZTE imaging, no 1H signal was detected above noise level. Only at extreme averaging, residual signal was observed close to conductors associated with 1H-containing molecules at adjacent glass surfaces. Phantom images with dead times up to 3.8 Nyquist dwells were obtained with only negligible background artifacts. Furthermore, high-quality ZTE images of human joints were acquired.

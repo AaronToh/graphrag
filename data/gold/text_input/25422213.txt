@@ -1,7 +1,0 @@
-Document ID: 25422213
-
-Acute lymphoblastic leukemia (ALL) is the most common cancer diagnosed in children and represents approximately 25% of cancer diagnoses among those younger than 15 years of age.
-
-This study investigated alterations in the displacement loop (d-loop) region of mitochondrial DNA (mtDNA) as a risk factor and diagnostic biomarker for early detection and diagnosis of acute lymphoblastic leukemia. Using mtDNA from 23 subjects diagnosed with acute lymphoblastic leukemia, the first 450 bp of the d-loop region were amplified and successfully sequenced.
-
-This revealed 132 mutations at 25 positions in this region, with a mean of 6 alterations per subject. The d-loop alterations in mtDNA in subjects were all identified as single nucleotide polymorphisms in a homoplasmic distribution pattern. Mutant alleles were observed in all subjects with individual frequency rates of up to 95%. Thirteen mutant alleles in the d-loop region of mtDNA occurred with a high frequency. Novel alleles and locations were also identified in the d-loop of mtDNA as follows: 89 G insertions (40%), 95 G insertions (13%), 182 C/T substitutions (5%), 308 C insertions (19%), and 311 C insertions (80%). The findings of this study need to be replicated to be confirmed.

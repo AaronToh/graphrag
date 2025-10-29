@@ -1,7 +1,0 @@
-Document ID: 25449983
-
-Trauma is the leading cause of injury and death for individuals aged 1-44 years. Up to 8% of the US population participates in winter sports, and although vascular injuries are uncommon in these activities, little is published in this area. We sought to identify the incidence, injury patterns, and outcomes of vascular injuries resulting from winter sports trauma.
-
-Patients with winter sports trauma and the subset with vascular injuries were identified by accessing the National Trauma Data Bank querying years 2007-2010. Patients with and without vascular injuries were then compared. Admission variables included transport time, emergency department hypotension (systolic blood pressure < 90), Glasgow Coma Scale ≤ 8, Injury Severity Score ≥ 25, fractures, solid organ injury, and vascular injury. Outcomes were analyzed and associations with vascular injuries were determined.
-
-A total of 2,298 patients were identified with winter sports-related trauma and 28 (1.2%) had associated vascular injuries. Overall, the top 3 injuries were head trauma (16.7%), thoracic vertebral fractures (5.5%), and lumbar vertebral fractures (5.1%). The most common associated vascular injures were to the popliteal artery (17.7%), splenic artery (14.7%), and brachial blood vessels (14.7%). In the entire cohort, 1 patient (0.04%) suffered an amputation and 15 patients (0.7%) died. There were no amputations in the vascular injury group. Mortality was 0.6% in patients without a vascular injury compared with 7.1% of those with a vascular injury (P = 0.01).

@@ -6,9 +6,12 @@ Converts the HuggingFace MedHop dataset into JSONL format
 compatible with Microsoft GraphRAG ingestion pipeline.
 
 Usage:
-    python ingest_medhop.py [--output-dir OUTPUT_DIR] [--limit LIMIT | --percentage PERCENT] [--verbose]
+    python ingest_medhop.py [--output-dir OUTPUT_DIR] [--limit LIMIT | --percentage PERCENT | --up-to-id ID] [--verbose]
 
 Examples:
+    # Process records up to MH_train_500 (MH_train_0 to MH_train_500)
+    python ingest_medhop.py --up-to-id MH_train_500
+    
     # Process 10% of dataset for testing
     python ingest_medhop.py --percentage 0.1
     
@@ -241,7 +244,7 @@ class MedHopIngester:
         
         return passage_records
     
-    def process_dataset(self, records: Any, limit: Optional[int] = None, percentage: Optional[float] = None) -> List[Dict[str, Any]]:
+    def process_dataset(self, records: Any, limit: Optional[int] = None, percentage: Optional[float] = None, up_to_id: Optional[str] = None) -> List[Dict[str, Any]]:
         """
         Process the entire dataset and convert to passage records.
         
@@ -249,6 +252,7 @@ class MedHopIngester:
             records: Dataset records to process
             limit: Optional limit on number of records to process
             percentage: Optional percentage of dataset to process (0.1 = 10%, 1.0 = 100%)
+            up_to_id: Optional ID to process up to (e.g., "MH_train_500" processes MH_train_0 to MH_train_500)
             
         Returns:
             List of passage records
@@ -257,8 +261,39 @@ class MedHopIngester:
         total_chars = 0
         total_supports = 0
         
-        # Apply percentage or limit if specified
-        if percentage is not None:
+        # Apply up_to_id, percentage, or limit if specified
+        if up_to_id is not None:
+            # Extract the numeric part from the up_to_id (e.g., "MH_train_500" -> 500)
+            try:
+                if "_" in up_to_id:
+                    target_num = int(up_to_id.split("_")[-1])
+                else:
+                    target_num = int(up_to_id)
+                
+                # Filter records up to the target ID
+                filtered_records = []
+                for record in records:
+                    record_id = record.get('id', '')
+                    if "_" in record_id:
+                        try:
+                            record_num = int(record_id.split("_")[-1])
+                            if record_num <= target_num:
+                                filtered_records.append(record)
+                            else:
+                                break  # Stop processing once we exceed the target
+                        except (ValueError, IndexError):
+                            # If we can't parse the ID, include it to be safe
+                            filtered_records.append(record)
+                    else:
+                        filtered_records.append(record)
+                
+                records = filtered_records
+                logger.info(f"Processing records up to ID {up_to_id}: {len(filtered_records)} records")
+                
+            except (ValueError, IndexError) as e:
+                logger.warning(f"Could not parse up_to_id '{up_to_id}': {e}, processing all records")
+                
+        elif percentage is not None:
             # Validate percentage
             if not (0.0 < percentage <= 1.0):
                 raise ValueError(f"Percentage must be between 0.0 and 1.0, got {percentage}")
@@ -388,7 +423,7 @@ class MedHopIngester:
         logger.info(f"Statistics saved to {stats_path}")
         return stats_path
     
-    def run_ingestion(self, config: str = "medhop_source", limit: Optional[int] = None, percentage: Optional[float] = None) -> Dict[str, Path]:
+    def run_ingestion(self, config: str = "medhop_source", limit: Optional[int] = None, percentage: Optional[float] = None, up_to_id: Optional[str] = None) -> Dict[str, Path]:
         """
         Run the complete ingestion pipeline.
         
@@ -396,6 +431,7 @@ class MedHopIngester:
             config: Dataset configuration to use
             limit: Optional limit on records to process
             percentage: Optional percentage of dataset to process (0.1 = 10%, 1.0 = 100%)
+            up_to_id: Optional ID to process up to (e.g., "MH_train_500")
             
         Returns:
             Dictionary with paths to output files
@@ -409,7 +445,7 @@ class MedHopIngester:
         records = self.load_dataset(config=config)
         
         # Process records
-        passages = self.process_dataset(records, limit=limit, percentage=percentage)
+        passages = self.process_dataset(records, limit=limit, percentage=percentage, up_to_id=up_to_id)
         
         if not passages:
             raise ValueError("No passages were successfully processed")
@@ -458,6 +494,11 @@ def main():
         help="Percentage of dataset to process (0.1 = 10%%, 1.0 = 100%%)"
     )
     parser.add_argument(
+        "--up-to-id",
+        type=str,
+        help="Process records up to this ID (e.g., 'MH_train_500' processes MH_train_0 to MH_train_500)"
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Enable verbose logging"
@@ -466,8 +507,11 @@ def main():
     args = parser.parse_args()
     
     # Validate arguments
-    if args.limit is not None and args.percentage is not None:
-        parser.error("Cannot specify both --limit and --percentage. Use one or the other.")
+    exclusive_args = [args.limit, args.percentage, args.up_to_id]
+    non_none_args = [arg for arg in exclusive_args if arg is not None]
+    
+    if len(non_none_args) > 1:
+        parser.error("Cannot specify more than one of --limit, --percentage, or --up-to-id. Use only one.")
     
     if args.percentage is not None and not (0.0 < args.percentage <= 1.0):
         parser.error("Percentage must be between 0.0 and 1.0 (e.g., 0.1 for 10%)")
@@ -483,7 +527,8 @@ def main():
         output_files = ingester.run_ingestion(
             config=args.config,
             limit=args.limit,
-            percentage=args.percentage
+            percentage=args.percentage,
+            up_to_id=args.up_to_id
         )
         
         print("\n" + "="*60)

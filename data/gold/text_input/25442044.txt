@@ -1,7 +1,0 @@
-Document ID: 25442044
-
-To determine whether in-house patient-specific intensity modulated radiation therapy quality assurance (IMRT QA) results predict Imaging and Radiation Oncology Core (IROC)-Houston phantom results.
-
-IROC Houston's IMRT head and neck phantoms have been irradiated by numerous institutions as part of clinical trial credentialing. We retrospectively compared these phantom results with those of in-house IMRT QA (following the institution's clinical process) for 855 irradiations performed between 2003 and 2013. The sensitivity and specificity of IMRT QA to detect unacceptable or acceptable plans were determined relative to the IROC Houston phantom results. Additional analyses evaluated specific IMRT QA dosimeters and analysis methods.
-
-IMRT QA universally showed poor sensitivity relative to the head and neck phantom, that is, poor ability to predict a failing IROC Houston phantom result. Depending on how the IMRT QA results were interpreted, overall sensitivity ranged from 2% to 18%. For different IMRT QA methods, sensitivity ranged from 3% to 54%. Although the observed sensitivity was particularly poor at clinical thresholds (eg 3% dose difference or 90% of pixels passing gamma), receiver operator characteristic analysis indicated that no threshold showed good sensitivity and specificity for the devices evaluated.

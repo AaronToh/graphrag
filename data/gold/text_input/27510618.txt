@@ -1,9 +1,0 @@
-Document ID: 27510618
-
-The relationship between post-exercise heart-rate recovery (HRR) and resting cardiac autonomic modulation is an incompletely explored issue.
-
-To correlate HRR with resting supine and orthostatic autonomic status.
-
-HRR at the 1st, 3th, and 5th min following maximal treadmill exercise were correlated with 5-min time-domain (CV, pNN50 and rMSSD) and frequency-domain (TP, LF, HF, LFn, HFn, and LF/HF ratio) indices of heart-rate variability (HRV) in both supine and standing positions in 31 healthy physically active non-athletes men. Statistical analysis employed non-parametric tests with two-tailed p value set at 5 %.
-
-Absolute HRR and Δ %HRR at each post-exercise time did not correlated with HRV in supine position, as well as at 1st min in standing position. At the 3rd min and 5th min, these measures negatively correlated with pNN50, rMSSD, TP, and HF indices, and only in the 5th min, they showed negative correlation with HFn and positive correlation with LF, LFn, and LF/HF ratio in the standing position. Coefficient of HRR (CHRR) at the 1st min negatively correlated with pNN50 and rMSSD and at 3rd and 5th min showed positive correlation with LFn and LF/HF ratio in supine position. With HRV indices in standing position CHRR from the 1st to 5th min showed the same respective negative and positive correlations as the other measures.

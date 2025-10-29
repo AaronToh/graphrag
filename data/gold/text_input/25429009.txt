@@ -1,7 +1,0 @@
-Document ID: 25429009
-
-Faster resting heart rate (HR), which is associated with inflammation and elevated cortisol levels, is a risk factor for excess cardiovascular morbidity and mortality. Obesity is associated with increased cardiovascular morbidity and mortality, inflammation, and elevated cortisol levels. The aim of the present study was to evaluate the interaction of Body Mass Index (BMI) with inflammation and cortisol in modulating HR in older subjects.
-
-We analyzed data of 895 participants aged 65+ enrolled in the "InCHIANTI" study, in sinus rhythm, and not taking beta blockers or digoxin. Linear regression was performed to assess the adjusted association between HR, IL-6, and cortisol levels. The model was also analyzed stratifying for BMI tertiles. Logistic regression was adopted for evaluating the association of HR exceeding the mean value with Il-6 and serum cortisol.
-
-According to multivariable linear regression, IL-6 and cortisol levels were associated with HR (B = 1.42, 95% CI = 0.43-2.42; p = .005 and B = .34, 95% CI = 0.17-.51; p < .0001, respectively). The association was significant only among women in the highest BMI tertile (B = 4.16, 95% CI = 1.40-6.91; p = .003 for IL-6 and B = .57, 95% CI = 0.14-1.01; p = .010 for cortisol). Logistic regression confirmed that IL-6 and cortisol levels were associated with HR above the mean value in the highest BMI tertile (OR = 2.13, 95% CI = 1.15-3.97; p = .009 and OR = 1.14, 95% CI = 1.03-1.25; p = .009, respectively).

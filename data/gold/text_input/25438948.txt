@@ -1,5 +1,0 @@
-Document ID: 25438948
-
-Animals control the speed of motion to meet behavioral demands. Yet, the underlying neuronal mechanisms remain poorly understood. Here we show that a class of segmentally arrayed local interneurons (period-positive median segmental interneurons, or PMSIs) regulates the speed of peristaltic locomotion in Drosophila larvae.
-
-PMSIs formed glutamatergic synapses on motor neurons and, when optogenetically activated, inhibited motor activity, indicating that they are inhibitory premotor interneurons. Calcium imaging showed that PMSIs are rhythmically active during peristalsis with a short time delay in relation to motor neurons. Optogenetic silencing of these neurons elongated the duration of motor bursting and greatly reduced the speed of larval locomotion.

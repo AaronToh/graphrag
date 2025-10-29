@@ -1,7 +1,0 @@
-Document ID: 25446583
-
-The fruits of Vitex rotundifolia L. are widely used to treat inflammation of the airway in Traditional Chinese medicine. Previous studies found that casticin, isolated from Vitex rotundifolia, could induce apoptosis of tumor cells. In this study, we evaluated the anti-inflammatory effects of casticin and its underlying molecular mechanism in lipopolysaccharide (LPS)-stimulated macrophages.
-
-RAW264.7 cells were pretreated with various concentrations of casticin (0.3-10μM), and then treated with LPS to induce inflammation. We assayed the levels of proinflammatory cytokines and prostaglandin E2 (PGE2) using ELISA, and examined the protein expression of inducible nitric oxide synthase (iNOS), cyclooxygenase (COX)-2, and heme oxygenase (HO)-1 by Western blot. We also investigated the anti-inflammatory molecular mechanism by analyzing inflammatory-associated signaling pathways, including the nuclear transcription factor kappa-B (NF-κB) and mitogen-activated protein kinase (MAPK) pathways.
-
-We found casticin inhibited the levels of nitric oxide and PGE2, and decreased the production of proinflammatory cytokines such as interleukin (IL)-1β, IL-6, and tumor necrosis factor α (TNF-α). In addition, iNOS and COX-2 expression levels were suppressed and casticin increased HO-1 and Nrf2 production in a concentration-dependent manner. Furthermore, casticin significantly inhibited NF-κB subunit p65 proteins in the nucleus and decreased Akt and MAPK activation.

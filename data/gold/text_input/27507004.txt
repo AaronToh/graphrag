@@ -1,7 +1,0 @@
-Document ID: 27507004
-
-The ADAMTS13-von Willebrand factor (vWF) axis has been suggested to play a critical role in the pathophysiology of ischemia-reperfusion injury (IRI) in the heart or brain. Therefore, we aimed to investigate whether this axis was involved in the pathophysiology of IRI-induced acute kidney injury.
-
-We performed renal IRI in ADAMTS13 knockout (KO) or wild type (WT) mice. Functional and histological kidney damage, and inflammation were compared and the effect of anti-vWF antibodies in ADAMTS13 KO mice was assessed.
-
-Following IRI, the blood and kidney ADAMTS13 levels were significantly decreased. vWF expression was significantly upregulated in both the medulla and cortex of injured kidneys as shown by immunohistochemistry and western blot analyses. There was also an increased level of vWF dimers after IRI. In ADAMTS13 KO mice, kidney vWF levels were further increased and this was associated with greater endothelial and epithelial injury compared to WT mice, suggesting an important role of vWF in renal IRI. In addition, the number of Gr-1

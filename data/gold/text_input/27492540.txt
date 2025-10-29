@@ -1,9 +1,0 @@
-Document ID: 27492540
-
-Bleach is widely used for household cleaning. Although it is recognized that occupational use of bleach may have adverse respiratory health effects, it is unknown whether common domestic use of bleach may be a risk factor for asthma.
-
-To assess whether the domestic use of bleach for home cleaning is associated with asthma and other respiratory outcomes.
-
-Questionnaire-based information on respiratory symptoms and cleaning habits and data from skin prick-tests, bronchial responsiveness challenge and white blood cells were analyzed in 607 women participating in the follow-up of the Epidemiological Study on the Genetics and Environment of Asthma (EGEA). Bleach use was evaluated in 3 categories (<1 day/week; 1-3 days/week; 4-7 days/week "frequent").
-
-Overall, 37% of the women reported using bleach weekly. Women using bleach frequently (11%) were more likely to have current asthma as compared to non-users (adjusted Odds-Ratio (aOR) = 1.7; 95% Confidence Interval (95%CI) 1.0-3.0). Among women with asthma, frequent use of bleach was significantly associated with higher blood neutrophil cell counts. Bleach use was significantly associated with non-allergic asthma (aOR 3.3; 95%CI 1.5-7.1), and more particularly with non-allergic adult-onset asthma (aOR 4.9; 95%CI 2.0-11.6). Consistently, among women without allergic sensitization, significant positive associations were found between use of bleach and bronchial hyperresponsiveness, asthma like-symptoms and chronic cough. No association was observed for allergic asthma.

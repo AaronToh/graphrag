@@ -1,7 +1,0 @@
-Document ID: 27516240
-
-There is a scarcity of information on the effect of white matter degeneration in patients with spinocerebellar ataxia type 7. Therefore, we investigated the WM integrity in a large group of patients with spinocerebellar ataxia type 7 by using Tract-Based Spatial Statistics.
-
-Thirty-three patients with a molecular diagnosis of spinocerebellar ataxia type 7 and their age- and sex-matched healthy controls participated in this study. The patients' ataxia severity was evaluated with the Scale for the Assessment and Rating of Ataxia. Voxelwise analyses of diffusion metrics, including fractional anisotropy and mean diffusivity, were performed with Tract-Based Spatial Statistics. The correlation between WM abnormalities and ataxia severity was then calculated.
-
-Tract-Based Spatial Statistics analysis revealed WM abnormalities in the cerebellum and the cerebellar peduncles, as well as in other major cortical and subcortical pathways. Further analysis between the Scale for the Assessment and Rating of Ataxia score and WM mean diffusivity showed significant associations only in key areas related to motor control and visuospatial processing, including the cerebellar WM, the middle occipital WM, the superior cerebellar peduncle, and bilateral anterior thalamic radiation. No significant associations between fractional anisotropy and the Scale for the Assessment and Rating of Ataxia were found.

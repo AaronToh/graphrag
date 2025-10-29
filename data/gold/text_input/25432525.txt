@@ -1,7 +1,0 @@
-Document ID: 25432525
-
-To evaluate the staging accuracy of preoperative multiparametric MRI (mp-MRI), its influence on the technique of radical retropubic prostatectomy (RRP), and its value for daily clinical practice.
-
-A total of 106 patients underwent RRP (January 2011-June 2012) and had preoperative MRI staging data available for review. Staging results acquired by mp-MRI were correlated to both biopsy and histopathology results. Surgical reports were reviewed for intraoperative aspect of tumor extension, technique of RRP (nerve sparing or extended), and extent of lymphadenectomy.
-
-The accuracy of diagnosing extracapsular extension (ECE) was 72.2 %, with an overall sensitivity and specificity of 30.0 and 93.3 %, respectively. The negative predictive value was 72.7 %. The sensitivity and specificity to diagnose positive seminal vesical invasion (SVI) were 63.6 and 92.9 %, respectively. Neither higher field force nor the use of an endorectal coil could enhance the accuracy of mp-MRI. In case of awareness of an existing MRI, there was a significantly higher percentage of nerve protection (left: 93 %; right: 89 % vs. left 75 %; right: 75 %). The higher percentage of nerve sparing surgery did not result in a higher level of positive resection margins.

@@ -1,5 +1,0 @@
-Document ID: 27503167
-
-There are many patients that exhibit connective tissue related cardiac malformations but do not have mutations in collagen genes. The Small Leucine Rich Proteoglycans (SLRP) fibromodulin (FMOD) and lumican (LUM) bind collagen and regulate fibril assembly in other biological contexts.
-
-FMOD deficient mice and double deficient FMOD; LUM mice exhibited anomalies in regions where cardiac valve tissue interdigitates with adjacent muscle for support. Ectopic connective and/or myocardial tissue(s) was associated with the more severe cardiac valve anomalies in FMOD; LUM deficient mice. At postnatal day 0 (P0) there was an increase in the mesenchymal cell number in the regions where valve cusps anchor in FMOD; LUM deficient mice compared to WT. The cardiac valve anomalies correlated with the highest levels of FMOD expression in the heart and also where myotendinous junctions (MTJ) components biglycan, collagen type I alpha 1, and collagen type VI, are also localized.

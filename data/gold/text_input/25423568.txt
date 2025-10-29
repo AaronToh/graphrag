@@ -1,9 +1,0 @@
-Document ID: 25423568
-
-Anaplastic thyroid carcinoma (ATC) is one of the most deadly human malignancies. It is 99% lethal, and patients have a median survival of only 6 months after diagnosis. Despite these grim statistics, the mechanism underlying the tumorigenic capability of ATC cells is unclear.
-
-S100A8 and S100A9 proteins have emerged as critical mediators in cancer. The aim was to investigate the expression and function of S100A8 and S100A9 in ATC and the mechanisms involved.
-
-We determined the expression of S100A8 and S100A9 in human ATC by gene array analysis and immunohistochemistry. Using RNAi-mediated stable gene knockdown in human ATC cell lines and bioluminescent imaging of orthotopic and lung metastasis mouse models of human ATC, we investigated the effects of S100A8 and S100A9 on tumorigenesis and metastasis.
-
-We demonstrated that S100A8 and S100A9 were overexpressed in ATC but not in other types of thyroid carcinomas. In vivo analysis in mice using ATC cells that had S100A8 knocked down revealed reduced tumor growth and lung metastasis, as well as significantly prolonged animal survival. Mechanistic investigations showed that S100A8 promotes ATC cell proliferation through an interaction with RAGE, which activates the p38, ERK1/2 and JNK signaling pathways in the tumor cells.

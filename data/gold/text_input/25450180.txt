@@ -1,7 +1,0 @@
-Document ID: 25450180
-
-Non-alcoholic steatohepatitis (NASH) is a subset of non-alcoholic fatty liver disease, the most common chronic liver disease in the U.S. Fibrosis, a common feature of NASH, results from the dysregulation of fibrogenesis in hepatic stellate cells (HSCs). In this study, we investigated whether astaxanthin (ASTX), a xanthophyll carotenoid, can inhibit fibrogenic effects of transforming growth factor β1 (TGFβ1), a key fibrogenic cytokine, in HSCs.
-
-Reactive oxygen species (ROS) accumulation was measured in LX-2, an immortalized human HSC cell line. Quantitative realtime PCR, Western blot, immunocytochemical analysis, and in-cell Western blot were performed to determine mRNA and protein of fibrogenic genes, and the activation of Smad3 in TGFβ1-activated LX-2 cells and primary mouse HSCs.
-
-In LX-2 cells, ROS accumulation induced by tert-butyl hydrogen peroxide and TGFβ1 was abolished by ASTX. ASTX significantly decreased TGFβ1-induced α-smooth muscle actin (α-SMA) and procollagen type 1, alpha 1 (Col1A1) mRNA as well as α-SMA protein levels. Knockdown of Smad3 showed the significant role of Smad3 in the expression of α-SMA and Col1A1, but not TGFβ1, in LX-2 cells. ASTX attenuated TGFβ1-induced Smad3 phosphorylation and nuclear translocation with a concomitant inhibition of Smad3, Smad7, TGFβ receptor I (TβRI), and TβRII expression. The inhibitory effect of ASTX on HSC activation was confirmed in primary mouse HSCs as evidenced by decreased mRNA and protein levels of α-SMA during activation.

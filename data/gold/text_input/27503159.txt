@@ -1,7 +1,0 @@
-Document ID: 27503159
-
-There is no consensus about the ideal method for diagnosis in patients who have already undergone endoscopic ultrasound fine needle aspiration (EUS-FNA), and the inconclusive material is often obtained. The aim was to evaluate the diagnostic yield of the second EUS-FNA of pancreatic lesions.
-
-A retrospective analysis of prospectively collected data of patients with EUS-FNA of pancreatic lesions is performed. All patients who underwent more than one EUS-FNA for the evaluation of suspected pancreatic cancer over a 7-year period were included in the analysis.
-
-A total of 296 EUS-FNAs of the pancreas were performed in 257 patients. The diagnostic yield with the first EUS-FNA was 78.6% (202/257). Thirty-nine (13.3%) FNAs were repeated in 34 patients; 17 (50%) patients were women. The mean ± standard deviation (SD) age was 58.8 ± 16.1 years. The location of the lesions in the pancreatic gland, from which the second biopsies were taken, was head of the pancreas, n = 28 (82.4%), body of the pancreas, n = 3 (8.8%), and tail, n = 3 (8.8%). The mean ± SD of the size of the lesion was 36.3 ± 14.6 mm. The second EUS-FNA was more likely to be positive for diagnosis in patients with an "atypical" histological result in the first EUS-FNA (odds ratio [OR]: 4.04; 95% confidence interval [CI]: 0.9-18.3), in contrast to patients with a first EUS-FNA reported as "normal" (OR: 0.21; 95% CI: 0.06-0.71). Overall, the diagnostic yield of the second EUS-FNA was 58.8% (20/34) with an increase to 86.3% overall (222/257).

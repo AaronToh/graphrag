@@ -1,7 +1,0 @@
-Document ID: 25438665
-
-Low serum levels of vitamin D have been associated with depression in non-stroke subjects. Our aim was to examine the possible association between serum vitamin D levels and the development of post-stroke depression (PSD).
-
-In total, 189 patients with acute ischaemic stroke were consecutively recruited. Serum levels of 25-hydroxyvitamin D [25(OH)D] were measured by competitive protein-binding assay within 24 h after admission. The 17-item Hamilton Depression Scale was used for screening for the existence of depressive symptoms at 1 month after stroke. Patients with a Hamilton Depression Scale score of ≥7 were given the Structured Clinical Interview of the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, for diagnosis of PSD. Meanwhile, 100 healthy control subjects were also recruited and underwent measurement of 25(OH)D.
-
-Fifty-five patients (29.1%) were diagnosed as having PSD at 1 month. Serum vitamin D levels within 24 h after admission were significantly lower in both non-PSD patients and PSD patients than in normal controls. PSD patients had significantly lower vitamin D than non-PSD patients. Serum vitamin D levels (≤37.1 and ≥64.1 nmol/l) were independently associated with the development of PSD (odds ratio 8.824, 95% confidence interval 2.011-38.720, P = 0.004, and odds ratio 0.127, 95% confidence interval 0.022-0.718, P = 0.020, respectively).

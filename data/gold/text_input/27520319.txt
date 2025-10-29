@@ -1,7 +1,0 @@
-Document ID: 27520319
-
-To define the predictive capability of serum C-reactive protein for a contemporary patient collective undergoing metastasectomy for metastatic renal cell carcinoma with access to modern targeted therapies.
-
-A total of 88 patients treated with metastasectomy for metastatic renal cell carcinoma from 2003 to 2014 were evaluated for putative clinicopathological risk factors and survival. Kaplan-Meier analyses, univariate and multivariate testing were carried out. Receiver operating characteristic curve analysis was applied to evaluate available risk stratification instruments for patients undergoing metastasectomy.
-
-Median overall survival for the collective was 66.31 months (95% confidence interval 50.67-135.47; 5-year overall survival 55%). The median preoperative C-reactive protein level was 6.7 mg/L (range 0.1-161.7). A C-reactive protein cut-off value of 5 mg/dL was significantly discriminative of survival (P = 0.029). Median survival in dependence of C-reactive protein accounted for 50.67 months (range 33.86-63.05 months) in the C-reactive protein >5 mg/L group, and 135.47 months in the C-reactive protein ≤5 mg/L group (range 66.31-135.47 months). C-reactive protein elevation >5 mg/L, anemia and surgical margin status were identified as significant predictors of overall survival in univariate analysis. In a multivariate model, resection margin status (P = 0.015) and C-reactive protein elevation (P = 0.038) were confirmed as independent predictive variables.

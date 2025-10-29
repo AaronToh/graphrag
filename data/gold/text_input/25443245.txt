@@ -1,7 +1,0 @@
-Document ID: 25443245
-
-There is great variability for the type of anaesthesia used during TAVI, with no clear consensus coming from comparative studies or guidelines. We sought to detect regional differences in the anaesthetic management of patients undergoing transcatheter aortic valve implantation (TAVI) in Europe and to evaluate the relationship between type of anaesthesia and in-hospital and 1 year outcome.
-
-Between January 2011 and May 2012 the Sentinel European TAVI Pilot Registry enrolled 2807 patients treated via a transfemoral approach using either local (LA-group, 1095 patients, 39%) or general anaesthesia (GA-group, 1712 patients, 61%).
-
-A wide variation in LA use was evident amongst the 10 participating countries. The use of LA has increased over time (from a mean of 37.5% of procedures in the first year, to 57% in last 6 months, p<0.01). MI, major stroke as well as in-hospital death rate (7.0% LA vs 5.3% GA, p=0.053) had a similar incidence between groups, confirmed in multivariate regression analysis after adjusting for confounders. Dividing our population in tertiles according to the Log-EuroSCORE we found similar mortality under LA, whilst mortality was higher in the highest risk tertile under GA. Survival at 1 year, compared by Kaplan-Meier analysis, was similar between groups (log-rank: p=0.1505).

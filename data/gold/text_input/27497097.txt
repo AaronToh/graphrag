@@ -1,9 +1,0 @@
-Document ID: 27497097
-
-Resting heart rate (RHR) declines with exercise training. Possible mechanisms include: 1) increased parasympathetic tone, 2) decreased responsiveness to beta-adrenergic stimulation, 3) decreased intrinsic heart rate or 4) combination of these factors.
-
-To determine whether an increase in resting parasympathetic tone or decrease in response to beta-adrenergic stimulation contributes to the decrease in RHR with training.
-
-51 screened healthy subjects aged 18-32 (n=20, mean age 26, 11 female) or 65-80 (n=31, mean age 69, 16 female) were tested before and after 6months of supervised exercise training. Heart rate response to parasympathetic withdrawal was assessed using atropine and beta-adrenergic responsiveness during parasympathetic withdrawal using isoproterenol.
-
-Training increased VO2 max by 17% (28.7±7.7 to 33.6±9.20ml/kg/min, P<0.001). RHR decreased from 62.8±6.6 to 57.6±7.2 beats per minute (P<0.0001). The increase in heart rate in response to parasympathetic withdrawal was unchanged after training (+37.3±12.8 pre vs. +36.4±12.2 beats per min post, P=0.41). There was no change in the heart rate response to isoproterenol after parasympathetic blockade with training (+31.9±10.9 pre vs. +31.0±12.0 post beats per min, P=0.56). The findings were similar in all four subgroups.

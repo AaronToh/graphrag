@@ -1,9 +1,0 @@
-Document ID: 25436612
-
-Self-perception of changes in body fat among HIV+ persons is associated with decreased health related quality of life in cross-sectional studies. The longitudinal impact of body fat changes on health related quality of life, while accounting for comorbidity and anatomic location or severity of body fat changes, is unknown.
-
-This was a longitudinal analysis of HIV+ and HIV- Multicenter AIDS Cohort Study (MACS) participants who completed questionnaires assessing self-perceived body fat changes (baseline visit) and a health related quality of life (Short Form-36) at baseline and then ≥5 years later.
-
-Relationships between body fat changes and change in Short Form-36 Physical and Mental Component Summary scores were investigated using mixed-model regression.
-
-We studied 270 HIV+ and 247 HIV- men. At baseline, ≥50% of HIV+ men reported body fat changes; physical component but not mental component summary scores were lower among HIV+ men who reported moderate/severe leg or abdominal fat changes (p<0.05). At follow-up, physical component summary scores were significantly lower among men with face, leg, or abdominal fat changes compared to men without perceived fat changes (p<0.05). No significant changes were seen in mental component scores by fat change location or severity. In the final model, body fat changes at any site or severity were significant predictors of a decline in physical component summary score (p<0.05), independent of demographics or comorbidities. Mental component summary score was not associated with body fat changes, but higher mental component summary score was associated with increasing age and time.

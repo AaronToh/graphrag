@@ -1,7 +1,0 @@
-Document ID: 25440261
-
-To investigate whether epileptogenic focus localization is possible based on resting state connectivity analysis of magnetoencephalographic (MEG) data.
-
-A multivariate autoregressive (MVAR) model was constructed using the sensor space data and was projected to the source space using lead field and inverse matrix. The generalized partial directed coherence was estimated from the MVAR model in the source space. The dipole with the maximum information inflow was hypothesized to be within the epileptogenic focus.
-
-Applying the focus localization algorithm (FLA) to the interictal MEG recordings from five patients with neocortical epilepsy, who underwent presurgical evaluation for the identification of epileptogenic focus, we were able to correctly localize the focus, on the basis of maximum interictal information inflow in the presence or absence of interictal epileptic spikes in the data, with three out of five patients undergoing resective surgery and being seizure free since.

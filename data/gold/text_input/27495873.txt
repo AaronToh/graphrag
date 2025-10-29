@@ -1,7 +1,0 @@
-Document ID: 27495873
-
-Dynamin-related protein 1 (Drp1) is a newly discovered therapeutic target for tumor initiation, migration, proliferation, and chemosensitivity. In the present study, we aimed to examine the level of expression and distribution of DRP1 in glioma tissues and explore the concrete mechanism of DRP1 played in glioma.
-
-Expression of DRP1 in glioma tissues was determined by immunohistochemistry staining. The DRP1 gene was knocked down using small interfering RNA, and was overexpressed using plasmids in glioma cells. To assess changes in cell function, in vitro assays for invasion and growth were applied. Protein expression was tested by using Western-blot method. Variation of F-actin in cells was analyzed using immunofluorescence staining. Interactions between proteins were determined by co-immunoprecipitation.
-
-The protein expression levels of DRP1 were significantly increased in glioma tissues compared to the normal brain tissues. Down-regulation of DRP1 decreased cell proliferation and invasion, and inhibited the formation of pseudopodias and microvillis. Moreover, a possible link between DRP1 and RHOA was confirmed when interactions between these two proteins were observed in the cells.

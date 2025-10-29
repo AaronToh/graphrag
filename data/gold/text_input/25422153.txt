@@ -1,7 +1,0 @@
-Document ID: 25422153
-
-Although epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) have become key therapeutic agents for non-small cell lung cancer (NSCLC) patients with EGFR mutation, little is known about the efficacy of EGFR-TKIs according to different treatment timings.
-
-A total of 1,250 patients with NSCLC were screened for EGFR mutations at a single institution between March 2006 and May 2010. The efficacy of EGFR-TKIs in terms of response rate (RR), progression-free survival (PFS), and overall survival (OS) were compared according to the treatment timing.
-
-Among the 437 patients (36.1 %) with EGFR mutation, we analyzed 222 patients who received EGFR-TKI treatment. With a median follow-up duration of 27.5 months (range 8.3-69.2), EGFR-TKI was given to 97 (43.7 %), 109 (49.1 %), and 16 (7.2 %) patients as first-line, second-line, and third-line therapy, respectively. All three groups showed similar RR (71.1, 72.5, and 75.0 %, respectively) to EGFR-TKI (p = 0.802). No significant difference was observed according to treatment timing of EGFR-TKI in terms of PFS (median 10.6, 13.0, and 10.4 months; p = 0.670) and OS (median 20.5, 26.2, and 17.1 months; p = 0.142). The treatment timing of EGFR-TKI still showed no association with PFS or OS after adjusting significant prognostic factors including performance, disease status, and EGFR mutation types.

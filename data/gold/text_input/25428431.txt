@@ -1,7 +1,0 @@
-Document ID: 25428431
-
-Hordeum vulgare L. (HV or barley) is used by traditional healers to treat various inflammatory and cardiovascular diseases, without the knowledge of pharmacologic rationale behind its actions. This study was designed to explore the potential scientific mechanism(s) that could explain the use of Hordeum vulgare in traditional medicine as a treatment for various inflammatory and cardiovascular diseases.
-
-A crude extract and its three fractions were prepared from HV and screened for the inhibition of platelet aggregation and various metabolites of cyclooxygenase (COX), lipoxygenase (LOX) pathways of arachidonic acid (AA) metabolism as well as for its effects on certain antioxidant enzymes. Platelet aggregation was monitored using turbidometric principle, AA metabolism through radioimmunoassay and antioxidant enzymes by commercial kits using spectrophotometer.
-
-Results show that HV exhibited activities against all human platelet agonists used except adenine diphosphate, and inhibited both COX and LOX pathways of AA metabolism. It also elevated the activities of superoxide dismutase (SOD) and glutathione peroxidase (GPx). However, these activities were distributed in various fractions of HV. Aqueous fraction was most potent in elevating SOD activity; chloroform fraction had concentrated compounds responsible for COX inhibition while n-hexane seems to possess compounds responsible for LOX inhibition as well as the only fraction enhancing the activity of GPx.

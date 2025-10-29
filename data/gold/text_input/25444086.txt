@@ -1,7 +1,0 @@
-Document ID: 25444086
-
-The associations of transferrin saturation with diabetes have not been well evaluated and conflicting results have been reported. The purpose of this study is to examine the association of iron indices (serum ferritin and transferrin saturation) with risk of impaired fasting glucose and insulin resistance.
-
-We conducted a cross-sectional study in 2413 individuals (1150 men and 1263 women) aged 20-50 years who participated in the 2010 Korean National Health and Nutrition Examination Survey. Participants were free of diabetes, malignancy, liver cirrhosis, chronic renal failure, anaemia, pregnancy and menopause. Fasting plasma glucose, insulin and the homeostasis model assessment of insulin resistance (HOMA-IR) were measured as the outcomes.
-
-Impaired fasting glucose was more prevalent in the highest compared with the lowest serum ferritin quartile among men (odds ratio [OR], 1.97; 95% confidence interval [CI], 1.20-3.24) after adjustment for multiple covariates. Following the same adjustment, impaired fasting glucose was less prevalent in the highest compared with the lowest transferrin saturation quartile among men (OR, 0.45; 95% CI, 0.25-0.80) and women (OR, 0.33; 95% CI, 0.14-0.77). Moreover, a higher ferritin level was significantly associated with higher HOMA-IR after adjusting for confounders in men. Lower transferrin saturation was also significantly associated with higher insulin levels and HOMA-IR in both sexes.

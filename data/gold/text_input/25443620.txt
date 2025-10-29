@@ -1,7 +1,0 @@
-Document ID: 25443620
-
-Nonalcoholic steatohepatitis (NASH) is associated with cirrhosis and hepatocellular carcinoma. Reactive oxygen species (ROS) and reactive nitrogen species (RNS) play key roles in the development of the disease. However, the therapeutic target of NASH has not been fully defined and new treatments are needed. We investigated the protective effects of the antioxidant indole-derived NecroX-7 in a NASH mouse model using leptin-deficient ob/ob and methionine- and choline-deficient (MCD) diet-fed ob/ob mice.
-
-Six-week-old male mice were divided into three groups: ob/+ mice, ob/ob mice treated with vehicle and ob/ob mice treated daily with NecroX-7 (20 mg/kg) for 4 weeks. To study the effects of NecroX-7 in a fibrosis model, NASH was induced by feeding ob/ob mice an MCD diet. The effects of NecroX-7 on NASH progression were evaluated using biochemical, histological and molecular markers.
-
-NecroX-7-treated ob/ob mice had a marked decrease in serum aspartate aminotransferase and alanine transaminase compared with vehicle-treated controls. Interestingly, hepatic steatosis and lipid peroxidation were significantly improved by NecroX-7 treatment. NecroX-7 inhibited tert-butylhydroperoxide- and H2 O2 -induced mitochondrial ROS/RNS in primary hepatocytes and attenuated mitochondrial dysfunction in vitro and in vivo. Furthermore, NecroX-7-treated mice exhibited fewer infiltrating macrophages and reduced hepatic tumour necrosis factor-alpha expression. Hepatic fibrosis in MCD-fed ob/ob mice was significantly decreased by NecroX-7 treatment.

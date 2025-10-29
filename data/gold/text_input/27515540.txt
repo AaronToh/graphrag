@@ -1,7 +1,0 @@
-Document ID: 27515540
-
-Measuring quality of care is essential to improve primary care. Quality of primary care for patients is usually assessed by patient satisfaction questionnaires. However, patients may not be able to judge quality of care without also reflecting their perception of the environment. We determined the effect that redesigning a primary care office had on patient satisfaction. We hypothesized that renovating the interior would make patients more satisfied with the quality of medical care.
-
-We performed a Pretest-Posttest analysis in a recently renovated single-practice primary care office in Grenchen, Switzerland. Before and after renovation, we distributed a questionnaire to assess patient satisfaction in four domains. We chose a Likert scale (1 = very poor to 6 = very good), and 12 quality indicators, and included two consecutive samples of patients presenting at the primary care office before (n = 153) and after (n = 153) interior design renovation.
-
-Response rate was high (overall 85 %). The sample was similar to the enlisted patient collective, but the sample population was older (60 years) than the collective (52 years). Patient satisfaction was higher for all domains after the office was renovated (p < 0.01-0.001). Results did not change when we included potential confounders in the multivariable model (p < 0.01).

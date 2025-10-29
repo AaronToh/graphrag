@@ -1,7 +1,0 @@
-Document ID: 25450947
-
-Metabolic adaptations are essential during tumour growth to maintain the high proliferation levels exhibited by cancer cells. In this study, we examined the transformations that occurred in the lipid metabolism in astrocytic tumours, and the possible role of the fuel-sensing enzyme AMPK. Metabolic targets might help design new and effective drugs for cancer.
-
-To accomplish this objective, we studied both mice and human astrocytic tumours. We first used a mouse model of astrocytoma driven by oncogenic H-RasV12 and/or with PTEN deletion based on the common constitutive activation of the Raf/MEK/ERK and PI3K/AKT cascades in human astrocytomas. We then confirmed the results in human glioblastoma cell lines and in glioblastoma tissue samples from patients.
-
-We show that the high levels of activated AMPK, observed in astrocytic tumours, increase extracellular lipid internalisation and reduce energy expenditure by inhibiting 'de novo' fatty acid (FA) synthesis, which allows tumour cells to obtain building blocks and energy to be able to create new organelles and new cells.

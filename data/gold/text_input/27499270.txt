@@ -1,7 +1,0 @@
-Document ID: 27499270
-
-Atrial fibrillation (AF) and chronic kidney disease (CKD) are closely related. The present study aimed to evaluate the association between estimated glomerular filtration rate (eGFR) and outcomes after cryoballoon catheter ablation for AF.
-
-We included a total of 110 patients (64.0±10.1 years, 64% men) with paroxysmal AF who underwent second-generation cryoballoon catheter ablation in this study. Recurrence and change in renal function after ablation were assessed by stratification of eGFR sub-groups.
-
-During a mean follow-up period of 9 months, 20 (18%) patients had AF recurrence after the first catheter ablation procedure. Multivariate Cox regression analysis showed that eGFR [hazard ratio (HR) 0.97, 95% confidence interval (CI) 0.93-0.99, p=0.047], non-pulmonary vein (PV) ectopic beats at initial ablation (HR 2.92, 95% CI 1.03-8.27, p=0.043), and history of stroke (HR 7.47, 95% CI 2.30-24.2, p=0.001) were independent predictors of recurrence after the ablation. Among the CKD groups, recurrence was found in 7% (1/15), 12% (9/73), and 46% (10/22) of the eGFR ≥90mL/min/1.73m

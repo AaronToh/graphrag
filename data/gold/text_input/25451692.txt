@@ -1,7 +1,0 @@
-Document ID: 25451692
-
-We previously found that Dual-specificity phosphatase 6 (Dusp6) over-expression enhanced the growth-promoting effect of estrogen in endometrial adenocarcinoma cells. The aim of this study was to explore the correlation of Dusp6 expression with progestin sensitivity in atypical endometrial hyperplasia (AEH) and earlier endometrial carcinomas (EC).
-
-Using immunohistochemistry study, we analyzed the expression of Dusp6 protein in AEH.
-
-We found that progestin treatment was effective in 89% of AEH and 50% of EC. Before treatment, Dusp6 expression was significantly higher in progestin-sensitive AEH groups compared with progestin-resistant groups. After treatment, Dusp6 expression was significantly upregulated in progestin-sensitive groups, but not in progestin-resistant groups. Moreover, a high-dose of Dusp6 transfection significantly enhanced progestin-induced growth-inhibition in Ishikawa cells.

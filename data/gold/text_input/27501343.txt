@@ -1,7 +1,0 @@
-Document ID: 27501343
-
-In this study, we compared the success of sinus lifting and alternative treatment methods in applying dental implants in cases lacking adequate bone due to pneumatization of the maxillary sinus.
-
-In a computer environment, 3D models were created using computerized tomography data from a patient. Additionally, implants and abutments were scanned at the macroscopic level, and the resulting images were transferred to the 3D models. Five different models were examined: a control model, lateral sinus lifting (LSL), short dental implant placement (SIP), tilted implant placement (TIP) and distal prosthetic cantilever (DC) use. Vertical and oblique forces were applied in each model. The compression, tension and von Mises stresses in each model were analyzed by implementing a finite element analysis method.
-
-In our study, the LSL method was observed to be the closest to the control model. The TIP model showed high stress values under conditions of oblique forces but showed successful results under conditions of vertical forces, and the opposite results were observed in the SIP model. The DC model provided the least successful results among all models.

@@ -1,7 +1,0 @@
-Document ID: 27520310
-
-Metastasis is a primary cause of colorectal cancer (CRC)-related death, and cancer stem cells (CSCs) are thought to be majorly responsible for initiating metastatic behaviors. Doublecortin-like kinase 1 (DCLK1) was recently discovered to be a marker for gastrointestinal CSCs. Here, we aimed to explore whether DCLK1 is associated with CRC metastasis through clinical and in vitro investigations.
-
-The expression levels of DCLK1 mRNA and protein in human CRC tissues were analyzed through quantitative RT-PCR and immunohistochemistry staining, respectively. Human CRC cell line SW480 was selected to explore the effect of DCLK1 overexpression on cell migration and invasion. Besides, the associations between DCLK1 and epithelial-mesenchymal transition (EMT) were determined.
-
-Compared to normal colorectal tissues, DCLK1 expression was significantly up-regulated in human CRC tissues and correlated well with high lymphatic metastasis and poor prognosis in patients. DCLK1 expression was inversely associated with overall survival in CRC patients. Overexpression of DCLK1 in SW480 cells markedly promoted cell migration and invasion. Furthermore, we validated that DCLK1 could facilitate EMT in cancer cells by up-regulation of the mesenchymal markers Vimentin and ZEB1 and down-regulation of the epithelial marker E-cadherin in SW480 cells.

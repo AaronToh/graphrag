@@ -1,7 +1,0 @@
-Document ID: 27519815
-
-To discriminate non-proliferative diabetic retinopathy (NPDR) patients from healthy controls by fluorescence lifetime imaging ophthalmoscopy (FLIO).
-
-A prototype FLIO (Heidelberg-Engineering, Heidelberg, Germany) was used to examine the retina of 33 patients and 28 controls. As increased fluorescence of the diabetic lens is known, the lenses of 34 patients and 24 controls were investigated as well. Time-resolved decay was detected in two spectral channels (ch1: 498-560 nm, ch2: 560-720 nm) and approximated by a series of three exponential functions yielding in lifetimes (τ
-
-Significant differences between patients and controls were found for all fundus lifetime components (τ

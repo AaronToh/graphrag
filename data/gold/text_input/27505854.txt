@@ -1,7 +1,0 @@
-Document ID: 27505854
-
-Nitrofurantoin is a nitroderivative antibiotic that has bactericidal activity against pathogens causing urinary tract infection. A few studies have reported that nitrofurantoin has cytotoxic activity against cancer cells; however, nitrofurans remain a poorly explored class of compounds with respect to their anticancer potential. The aim of this study was to investigate the anticancer effects of a nitrofurantoin derivative, n-pentyl-nitrofurantoin (NFP), on HL-60 leukemia cells.
-
-Cytotoxicity was assayed by the MTT assay. Cell morphology and phosphatidylserine externalization were visualized after Giemsa-May-Grunwald and annexin V staining, respectively. DNA content and mitochondrial depolarization were measured by flow cytometry. BAX and BCL-xL expression was examined by RT-PCR.
-
-NFP was 3.8-fold more cytotoxic against HL-60 leukemia cells than against normal cells. NFP reduced the number of viable cells 24h after the treatment with a concomitant increase in the number of apoptotic cells indicated by the externalization of phosphatidylserine, DNA fragmentation, and mitochondrial depolarization. The mRNA levels of BAX increased, whereas the mRNA levels of BCL-xL decreased.

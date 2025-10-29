@@ -1,9 +1,0 @@
-Document ID: 25423126
-
-There are two opposing possibilities for the main pathogenesis of trauma-induced coagulopathy: an acute coagulopathy of trauma shock and disseminated intravascular coagulation with the fibrinolytic phenotype.
-
-The objective of this study was to clarify the main pathogenesis of trauma-induced coagulopathy using a rat model of Noble-Collip drum trauma.
-
-Eighteen rats were divided into the control, trauma 0, and trauma 30 groups. The trauma 0 and 30 groups were exposed to Noble-Collip drum trauma. Blood samples were drawn without, immediately after, and 30 min after Noble-Collip drum trauma in the control, trauma 0, and trauma 30 groups, respectively. Coagulation and fibrinolysis markers were measured. Thrombin generation was assessed according to a calibrated automated thrombogram.
-
-Spontaneous thrombin bursts resulting from circulating procoagulants were observed in the nonstimulated thrombin generation assay immediately after trauma. Soluble fibrin levels (a marker of thrombin generation in the systemic circulation) were 50-fold greater in the trauma groups than in the control group. The resultant coagulation activation consumed platelets, coagulation factors, and antithrombin. Endogenous thrombin potential and factor II ratio were significantly negatively correlated with antithrombin levels, suggesting insufficient control of thrombin generation by antithrombin. High levels of active tissue-type plasminogen activator induced hyperfibrin(ogen)olysis. Soluble thrombomodulin increased significantly. However, activated protein C levels did not change.

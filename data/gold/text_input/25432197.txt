@@ -1,7 +1,0 @@
-Document ID: 25432197
-
-Advanced heart failure (HF) is associated with increased morbidity and mortality; traditionally used prognostic factors often fail to predict the outcome. Increased red blood cell distribution width (RDW) has recently been recognized as an important unfavorable prognostic factor in HF, independent of anemia; however, the role of RDW in patients with advanced HF has not yet been investigated.
-
-Eighty consecutive patients with stage D heart failure, recently hospitalized for HF decompensation, were enrolled. A Cox proportional-hazard model was used to determine whether RDW was independently associated with outcome.
-
-At study entry, ejection fraction (EF), pulmonary capillary wedge pressure (PCWP), hemoglobin (Hb) and RDW were 25 ± 8.6%, 27.5 ± 8 mmHg, 12.5 ± 1.9 mg/dL and 18 ± 3.5% (normal <14.5%) respectively. At 6 months, 44 patients (55%) had died. In this patient population, EF (p=0.45), PCWP (p=0.106), age (p=0.54), albumin (0.678), iron (p=0.37), creatinine (p=0.432), iron deficiency defined by bone marrow aspiration (p=0.37), bilirubin (p=0.422), peak VO2 (p=0.057) and Hb (p=0.95) were not significant predictors of a worse outcome. However, RDW was a significant marker for adverse prognosis (p=0.007, HR: 1.14, CI: 1.04-1.24) and retained its prognostic significance even when corrected for Hb values (HR: 1.15, CI: 1.05-1.27, p=0.003).

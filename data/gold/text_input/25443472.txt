@@ -1,7 +1,0 @@
-Document ID: 25443472
-
-For patients with cystic fibrosis (CF) Pseudomonas aeruginosa infection is a major contributor to progressive lung disease. While colonizing strains are thought to be primarily environmental, which environments are important in lung colonization is unclear.
-
-We took 11,674 samples from a broad range of sites over 3-8 visits to homes with (7) and without (8) CF patients.
-
-Twenty-eight percent of sampled drains yielded P. aeruginosa at least once, and a general mixed linear model estimated that 6.3% of samples from drains yield P. aeruginosa. This is more than eight times the estimated recovery from any other type of household environment.

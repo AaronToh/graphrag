@@ -1,7 +1,0 @@
-Document ID: 25432701
-
-Immunohistochemistry (IHC) is a well-established, widely accepted method in both clinical and experimental parts of medical science. It allows receiving valuable information about any process in any tissue, and especially in bone. Each year the amount of data, received by IHC, grows in geometric progression. But the lack of standardization, especially on the post-analytical stage (interpreting and reporting of results), makes the comparison of the results of different studies impossible.
-
-Comprehensive PubMED literature search with a combination of search words "immunohistochemistry" and "scoring system" was performed and 773 articles describing IHC results were identified. After further manual analysis 120 articles were selected for detailed evaluation of used approaches.
-
-Six major approaches to the interpretation and presentation of IHC analysis results were identified, analyzed and described.

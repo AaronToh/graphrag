@@ -1,7 +1,0 @@
-Document ID: 25450844
-
-Osteoarthritis (OA) is associated with a gradual reduction in the interstitial osmotic pressure within articular cartilage. The aim of this study was to compare the effects of sudden and gradual hypo-osmotic challenge on chondrocyte morphology and biomechanics.
-
-Bovine articular chondrocytes were exposed to a reduction in extracellular osmolality from 327 to 153 mOsmol/kg applied either suddenly (<5 s) or gradually (over 180 min). Temporal changes in cell diameter and the existence of regulatory volume decrease (RVD) were quantified along with changes in cortical actin and chromatin condensation. The cellular viscoelastic mechanical properties were determined by micropipette aspiration.
-
-In response to a sudden hypo-osmotic stress, 66% of chondrocytes exhibited an increase in diameter followed by RVD, whilst 25% showed no RVD. By contrast, cells exposed to gradual hypo-osmotic stress exhibited reduced cell swelling without subsequent RVD. There was an increase in the equilibrium modulus for cells exposed to sudden hypo-osmotic stress. However, gradual hypo-osmotic challenge had no effect on cell mechanical properties. This cell stiffening response to sudden hypo-osmotic challenge was abolished when actin organization was disrupted with cytochalasin D or RVD inhibited with REV5901. Both sudden and gradual hypo-osmotic challenge reduced cortical F-actin distribution and caused chromatin decondensation.

@@ -1,7 +1,0 @@
-Document ID: 27499935
-
-Preoperative neutrophil-lymphocyte ratio (NLR) and platelet-lymphocyte ratio (PLR) have prognostic value in patients with various operable tumors. The aim of our study was to determine whether NLR and PLR are predictive of survival in thymic carcinoma patients after complete resection.
-
-A total of seventy-nine patients who underwent complete resection of thymic carcinoma at our hospital between January 2005 and December 2015 were retrospectively enrolled. Differential leukocyte counts were collected before surgery, and the relationships of NLR, PLR, and other patient clinical variables with survival were estimated by Cox regression analysis and Kaplan-Meier survival analysis.
-
-Univariate analysis found that a high level of NLR was associated with lower disease-free survival (DFS) (HR: 3.385, 95% CI: 1.073-10.678, P=0.037) and lower overall survival (OS) (HR: 12.836, 95% CI: 1.615-101.990, P=0.016). The optimal NLR threshold of 4.1 could stratify the patients with high risk of recurrence or metastasis (P=0.026) and death (P=0.006). Meanwhile, the NLR value of >4.1 in those patients was associated with bigger tumor size (P=0.035) and more advanced Masaoka stages (P=0.040) compared with NLR ≤4.1. However, the PLR and other variables were not significantly associated with survival in thymic carcinoma patients.

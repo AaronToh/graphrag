@@ -1,7 +1,0 @@
-Document ID: 27489225
-
-The circadian clocks are internal timing mechanisms that drive ∼24-hour rhythms in a tissue-specific manner. Many aspects of the physiology of the intervertebral disc (IVD) show clear diurnal rhythms. However, it is unknown whether IVD tissue contains functional circadian clocks and if so, how their dysregulation is implicated in IVD degeneration.
-
-Clock gene dynamics in ex vivo IVD explants (from PER2:: luciferase (LUC) reporter mice) and human disc cells (transduced with lentivirus containing Per2::luc reporters) were monitored in real time by bioluminescence photon counting and imaging. Temporal gene expression changes were studied by RNAseq and quantitative reverse transcription (qRT)-PCR. IVD pathology was evaluated by histology in a mouse model with tissue-specific deletion of the core clock gene Bmal1.
-
-Here we show the existence of the circadian rhythm in mouse IVD tissue and human disc cells. This rhythm is dampened with ageing in mice and can be abolished by treatment with interleukin-1β but not tumour necrosis factor α. Time-series RNAseq revealed 607 genes with 24-hour patterns of expression representing several essential pathways in IVD physiology. Mice with conditional knockout of Bmal1 in their disc cells demonstrated age-related degeneration of IVDs.

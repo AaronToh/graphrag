@@ -1,7 +1,0 @@
-Document ID: 25426567
-
-Hyponatraemia is a common, potentially life-threatening, complication of thiazide diuretics. The mechanism of thiazide-induced hyponatraemia is incompletely understood. Previous experiments have suggested a direct effect of thiazide diuretics on the plasma membrane expression of aquaporin (AQP)2.
-
-We examined the effects of a single re-exposure to hydrochlorothiazide (HCTZ) 50 mg on water balance, renal sodium handling and osmoregulation in 15 elderly hypertensive patients with a history of thiazide-induced hyponatraemia and 15 matched hypertensive controls using thiazide diuretics without previous hyponatraemia.
-
-Patients with thiazide-induced hyponatraemia had significantly lower body weight and lower plasma sodium and osmolality at baseline. After HCTZ administration, plasma sodium and osmolality significantly decreased and remained lower in patients compared with controls (P < 0.001). Plasma antidiuretic hormone (ADH) and urine AQP2 were low or suppressed in patients, whereas solute and electrolyte-free water clearance was significantly increased compared with controls. Ad libitum water intake was significantly higher in patients (2543 ± 925 ml) than in controls (1828 ± 624 ml, P < 0.05), whereas urinary sodium excretion did not differ. In contrast, urea excretion remained significantly lower in patients (263 ± 69 mmol per 24 h) compared with controls (333 ± 97 mmol per 24 h, P < 0.05) and predicted the decrease in plasma sodium following HCTZ administration.

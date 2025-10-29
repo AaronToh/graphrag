@@ -1,7 +1,0 @@
-Document ID: 25438959
-
-Our previous study suggested that N-cadherin was downregulated in hepatocellular carcinoma (HCC). Our aim in this study was to investigate the correlation between N- and E-cadherin expression in HCC and its clinical significance.
-
-Eighty-six patients with HCC undergoing liver resection were retrospectively studied. N- and E-cadherin expression in HCC and adjacent liver tissue were investigated using immunohistochemistry and immunofluorescence. The correlation between the expression status of both cadherins and surgical outcomes was analyzed.
-
-In 23 patients negative for E-cadherin expression, 19 of them (82.6%) were also negative for N-cadherin expression. In 30 patients with heterogeneous expression of E-cadherin, 20 of them (66.7%) also had heterogeneous expression of N-cadherin. In 33 patients with uniformly positive expression of E-cadherin, 19 of them (57.6%) also had uniformly positive expression of N-cadherin. Therefore, there was a positive correlation between expression patterns of N- and E-cadherins. Concurrent loss of both N- and E-cadherin expressions was significantly associated with absence of the tumor capsule, vascular invasion, and poor differentiation. The 1- and 3-y disease-free survival rates were 27% and 9%, respectively, and the 1- and 3-y overall survival rates were 64.3% and 14.3%, respectively, in patients with concurrent loss of both cadherins, which were significantly worse than those with concurrent uniformly positive expression or heterogeneous expression of both cadherins.

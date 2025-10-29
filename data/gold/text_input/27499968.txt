@@ -1,7 +1,0 @@
-Document ID: 27499968
-
-MicroRNA-361-5p (miR-361-5p) has been reported to be tumor suppressor in colorectal, gastric and prostate cancer, but as an oncogene in cervical cancer. No previous research has focused on the expression of miR-361-5p and its exact prognostic role in breast cancer (BC).
-
-In this study, a tissue microarray (TMA)-based miRNA detection in situ hybridization (ISH) with LNA probe was used to detect miR-361-5p expression in 375 BC tissue. The expression level of miR-361-5p in BC and its potential prognostic value was investigated.
-
-Positive miR-361-5p staining was observed in 78.7% (N=295; 78.7% positive, 21.3% negative) in the 375 cases. The clinical outcome of patients with positive miR-361-5p expression [median disease-free survival (DFS) time 95.52 months] was significantly better than that of patients (median DFS time 82.33 months) with negative miR-361-5p expression (P=0.002). Moreover, the prognostic value of miR-361-5p was most significant among patients with triple-negative breast cancer (TNBC) for DFS (P=0.004).

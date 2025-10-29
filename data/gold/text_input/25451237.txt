@@ -1,7 +1,0 @@
-Document ID: 25451237
-
-Stress neurocircuitry may modulate the relationship between alcohol drinking and chronic pain. The corticotropin-releasing factor (CRF) system is crucial for regulation of stress responses. The current study aimed to elucidate the role of the endogenous CRF ligand Urocortin 3 (Ucn3) in the relationship between alcohol drinking behavior and chronic pain using a genetic approach.
-
-Ucn3 (KO) and wildtype (WT) littermates were subjected to a 24-h access drinking procedure prior to and following induction of chronic inflammatory pain.
-
-Ucn3 KO mice displayed significantly increased ethanol intake and preference compared with WT across the time course. There were no long-term effects of chronic pain on alcohol drinking behavior, regardless of genotype, nor any evidence for alcohol-induced analgesia.

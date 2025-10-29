@@ -1,7 +1,0 @@
-Document ID: 25448803
-
-Esophageal squamous cell carcinoma (ESCC) is an important cause of cancer-related death worldwide. To improve prognoses in patients with ESCC, we evaluated the potential of transforming growth factor-beta-induced protein (TGFBI), which is overexpressed in ESCC, as a therapeutic candidate.
-
-We examined the clinical significance of TBFBI in 102 ESCC samples using real-time RT-PCR. Immunohistochemical studies were conducted to examine the localization of TGFBI. Knockdown of TGFBI in cocultured fibroblasts was performed to determine the roles of TGFBI in migration and invasion.
-
-The level of TGFBI in ESCC tissues was higher than that in normal tissues. The high TGFBI expression group (n = 16) had higher TGFB1 expression and more frequent hematogenous recurrence than the low-expression group (n = 86). High TGFBI expression was an independent prognostic factor in patients with ESCC. TGFBI was mainly localized in stromal cells of ESCC. Moreover, suppression of TGFBI in fibroblasts inhibited the migration and invasion capacity of TE8 ESCC cells.

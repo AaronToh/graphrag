@@ -1,7 +1,0 @@
-Document ID: 27497617
-
-MicroRNAs are non-coding small RNAs that regulate expression of target genes by binding to 3' untranslated regions. In this study, we used bronchial epithelial cells to investigate in vitro the role of the microRNA miR-155 in the expression of chemokines associated with airway inflammation. miR-155 has previously been reported to regulate allergic inflammation.
-
-BEAS-2B bronchial epithelial cells were cultured and transfected with mimic or inhibitor oligonucleotides to overexpress or downregulate miR-155, as confirmed by real-time PCR. Cells were then stimulated with tumor necrosis factor-alpha, interleukin-13 (IL-13), and a double stranded RNA that binds Toll-like receptor 3. Expression and secretion of the chemokines CCL5, CCL11, CCL26, CXCL8, and CXCL10 were then quantified by real-time PCR and ELISA, respectively. Phosphorylation of signal transducer and activator of transcription 6 (STAT6), a target of the IL-13 receptor, was analyzed by ELISA.
-
-miR-155 overexpression significantly suppressed IL-13-induced secretion of CCL11 and CCL26. These effects were specific, and were not observed for other chemokines, nor in cells with downregulated miR-155. miR-155 overexpression also suppressed CCL11 and CCL26 mRNA, but did not affect expression of the IL-13 receptor or phosphorylation of STAT6.

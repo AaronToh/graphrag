@@ -1,9 +1,0 @@
-Document ID: 25445161
-
-Cirrhosis, or liver fibrosis, which is mainly triggered by cirrhosis fat-storing cells (CFSCs) activation, has traditionally been considered an irreversible disease. However, recent observations indicate that even advanced fibrosis is still reversible by removing the causative agents. Anti-fibrotic effects of bone marrow-derived stromal cells (BMSCs) have been demonstrated by inhibiting CFSCs via cytokines secretion; however, the mechanisms are still unclear.
-
-The purpose of this study was to explore the underlying mechanisms by which BMSCs modulate the function of activated CFSCs.
-
-After the co-culture of CFSCs with BMSCs supernatants with or without the addition of recombinant rat adrenomedullin (AM)/AM-specific siRNA, western blot analysis was mainly used to detect the differences of relative protein expression on CFSCs.
-
-BMSC-secreted adrenomedullin (AM) effectively inhibited the proliferation and activation of CFSCs by suppressing the expression of Ang II and its binding receptor, AT1, which resulted in a reduction of p47-phox formation.

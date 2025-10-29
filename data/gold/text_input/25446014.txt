@@ -1,7 +1,0 @@
-Document ID: 25446014
-
-Studies have reported effects of prenatal marijuana exposure (PME) on cognitive and behavioral outcomes. An earlier publication from this study found that PME predicted early onset of marijuana use and frequency of marijuana use at age 14. No study has reported the effects of PME on marijuana use in young adulthood. This is a developmental period when substance use peaks, and by which, initiation of substance use has largely occurred.
-
-Subjects were from a longitudinal cohort. Women were interviewed initially in their fourth prenatal month and women and their offspring were followed through 22 years. Significant covariates of offspring marijuana use at 22 years were identified and controlled for using ordinal logistic regression.
-
-PME predicted marijuana use in the offspring at 22 years after controlling for significant covariates. Prenatal alcohol exposure, offspring race, gender, and age were also significant predictors, but family history of substance abuse or disorder, and sociodemographic and psychological characteristics of the mother and offspring were not. This association was not moderated by gender or race.

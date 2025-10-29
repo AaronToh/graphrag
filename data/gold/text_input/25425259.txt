@@ -1,7 +1,0 @@
-Document ID: 25425259
-
-Mental fatigue can negatively impact on submaximal endurance exercise and has been attributed to changes in perceived exertion rather than changes in physiological variables. The impact of mental fatigue on maximal anaerobic performance is, however, unclear. Therefore, the aim of the present study was to induce a state of mental fatigue to examine the effects on performance, physiological and perceptual variables from subsequent tests of power, strength and anaerobic capacity.
-
-Twelve participants took part in the single-blind, randomised, crossover design study. Mental fatigue was induced by 90 min of the computer-based Continuous Performance Task AX version. Control treatment consisted of 90 min of watching emotionally neutral documentaries. Participants consequently completed countermovement jump, isometric leg extension and a 3-min all-out cycling tests.
-
-Results of repeated measures analysis of variance and paired t tests revealed no difference in any performance or physiological variable. Rating of perceived exertion tended to be greater when mentally fatigued (mental fatigue = 19 ± 1 vs control = 18 ± 1, p = 0.096, [Formula: see text] = .232) and intrinsic motivation reduced (mental fatigue = 11 ± 4 vs control = 13 ± 6, p = 0.063, d = 0.597) in the mental fatigue condition.

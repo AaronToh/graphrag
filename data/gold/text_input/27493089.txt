@@ -1,7 +1,0 @@
-Document ID: 27493089
-
-Inadequate apoptosis of fibroblast-like synoviocytes (FLS) plays a crucial role in the immunopathogenesis of rheumatoid arthritis (RA). Interleukin-22 (IL-22) is a novel member of the cytokine network that has been found to be involved in the immunological process underlying RA. In this study, we investigated the effect of IL-22 on the survival of RA-FLS from RA patients and examined the possible mechanism to determine new therapeutic strategies for RA.
-
-FLS obtained from patients with RA were cultured in vitro and treated with sodium nitroprussiate (SNP) to induce apoptosis in the presence or absence of IL-22. RA-FLS viability was evaluated using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. RA-FLS apoptosis was analyzed by annexin V/propidium iodide staining (AV/PI). The levels of IL-22R1, pSTAT3-Y705, pSTAT3-S727, total STAT3, Bcl-xL and Bcl-2 were detected by Western blot analysis.
-
-IL-22R1 was expressed on RA-FLS. IL-22 pretreatment at concentrations ranging from 10 to 100 ng/mL increased RA-FLS viability and prevented SNP-induced apoptosis. Treatment with the STAT3 inhibitors, HO3867 or STA21, reversed the protective effect of IL-22 on SNP-induced apoptosis of RA-FLS. IL-22-induced phosphorylation of STAT3 (pSTAT3-Y705 and pSTAT3-S727) was increased in RA-FLS. Also IL-22 increased Bcl-2 expression in SNP-treated RA-FLS, and the effect was reversed by treatment with HO3867 or STA21.

@@ -1,7 +1,0 @@
-Document ID: 27491313
-
-To study the possible association of catechol-O-methyltransferase (COMT) Val158Met polymorphism with multiple and solitary uterine leiomyomas (ULs) and to check whether the COMT Val/Val genotype is associated with MED12 exon 2 mutations in fibroids.
-
-The COMT Val158Met allele and genotype frequencies were compared between age-matched women with ULs (n=104) and controls (n=59). Patients with UL were subcategorised by diagnosis of solitary (n=59) or multiple (n=45) fibroids and by the presence of somatic MED12 exon 2 mutations in at least one fibroid (n=32) or in neither fibroid (n=26). The association of COMT Val/Val genotype with the presence of any ULs, solitary/multiple ULs and ULs positive/negative for MED12 exon 2 mutations was evaluated by χ
-
-The COMT Val/Val genotype frequency did not differ between the patients with UL and the controls (28.8% vs 18.6%, p=0.149, OR 1.77; CI 0.81 to 3.86). However, it was significantly higher in the patients who had multiple UL compared with the solitary UL (40% vs 20.3%, p=0.028, OR 2.61; CI 1.09 to 6.24) and to the controls (40% vs 18.6%, p=0.016, OR 2.91; CI 1.20 to 7.06). No association of the COMT Val/Val genotype with UL-specific MED12 exon 2 mutations was found (p=0.662, OR 0.77; CI 0.23 to 2.53).
