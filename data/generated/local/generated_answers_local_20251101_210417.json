@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "total": 3,
+    "successful": 3,
+    "failed": 0,
+    "success_rate": 1.0,
+    "average_response_time": 3.4762420654296875,
+    "timestamp": "2025-11-01T21:04:27.829305"
+  },
+  "results": [
+    {
+      "question_id": 1,
+      "question": "interacts_with DB00773?",
+      "generated_answer": "DB00072",
+      "raw_response": "DB00072",
+      "ground_truth_answer": "DB00072",
+      "ground_truth_doc_ids": [
+        "MH_train_0"
+      ],
+      "retrieved_doc_ids": [
+        "MH_train_10",
+        "MH_train_47",
+        "MH_train_33",
+        "MH_train_34",
+        "MH_train_24"
+      ],
+      "candidates": [
+        "DB00072",
+        "DB00294",
+        "DB00338",
+        "DB00341",
+        "DB00588",
+        "DB00820",
+        "DB02546",
+        "DB02901",
+        "DB04844"
+      ],
+      "is_valid_candidate": true,
+      "is_correct": true,
+      "search_method": "local",
+      "response_time": 2.28975510597229,
+      "success": true,
+      "error": null,
+      "metadata": {
+        "source": "medhop",
+        "index": 0,
+        "id": "MH_train_0::support_0",
+        "doc_id": "MH_train_0",
+        "candidates": [
+          "DB00072",
+          "DB00294",
+          "DB00338",
+          "DB00341",
+          "DB00588",
+          "DB00820",
+          "DB02546",
+          "DB02901",
+          "DB04844"
+        ],
+        "support_index": 0,
+        "total_supports": 47,
+        "text_snippet": "Induction of apoptosis of Beta cells of the pancreas by advanced glycation end-products , important mediators of chronic complications of diabetes mellitus . We herein report cytotoxicity of advanced ..."
+      },
+      "timestamp": "2025-11-01T21:04:19.506830"
+    },
+    {
+      "question_id": 2,
+      "question": "interacts_with DB00773?",
+      "generated_answer": "DB00072",
+      "raw_response": "DB00072",
+      "ground_truth_answer": "DB00072",
+      "ground_truth_doc_ids": [
+        "MH_train_0"
+      ],
+      "retrieved_doc_ids": [
+        "MH_train_10",
+        "MH_train_47",
+        "MH_train_33",
+        "MH_train_34",
+        "MH_train_24"
+      ],
+      "candidates": [
+        "DB00072",
+        "DB00294",
+        "DB00338",
+        "DB00341",
+        "DB00588",
+        "DB00820",
+        "DB02546",
+        "DB02901",
+        "DB04844"
+      ],
+      "is_valid_candidate": true,
+      "is_correct": true,
+      "search_method": "local",
+      "response_time": 2.3459529876708984,
+      "success": true,
+      "error": null,
+      "metadata": {
+        "source": "medhop",
+        "index": 1,
+        "id": "MH_train_0::support_1",
+        "doc_id": "MH_train_0",
+        "candidates": [
+          "DB00072",
+          "DB00294",
+          "DB00338",
+          "DB00341",
+          "DB00588",
+          "DB00820",
+          "DB02546",
+          "DB02901",
+          "DB04844"
+        ],
+        "support_index": 1,
+        "total_supports": 47,
+        "text_snippet": "Chronic daily tadalafil prevents the corporal fibrosis and veno-occlusive dysfunction that occurs after cavernosal nerve resection . OBJECTIVES : To determine whether a long-term single daily oral dos..."
+      },
+      "timestamp": "2025-11-01T21:04:21.947864"
+    },
+    {
+      "question_id": 3,
+      "question": "interacts_with DB00773?",
+      "generated_answer": "DB00072",
+      "raw_response": "DB00072",
+      "ground_truth_answer": "DB00072",
+      "ground_truth_doc_ids": [
+        "MH_train_0"
+      ],
+      "retrieved_doc_ids": [
+        "MH_train_10",
+        "MH_train_47",
+        "MH_train_33",
+        "MH_train_34",
+        "MH_train_24"
+      ],
+      "candidates": [
+        "DB00072",
+        "DB00294",
+        "DB00338",
+        "DB00341",
+        "DB00588",
+        "DB00820",
+        "DB02546",
+        "DB02901",
+        "DB04844"
+      ],
+      "is_valid_candidate": true,
+      "is_correct": true,
+      "search_method": "local",
+      "response_time": 5.793018102645874,
+      "success": true,
+      "error": null,
+      "metadata": {
+        "source": "medhop",
+        "index": 2,
+        "id": "MH_train_0::support_2",
+        "doc_id": "MH_train_0",
+        "candidates": [
+          "DB00072",
+          "DB00294",
+          "DB00338",
+          "DB00341",
+          "DB00588",
+          "DB00820",
+          "DB02546",
+          "DB02901",
+          "DB04844"
+        ],
+        "support_index": 2,
+        "total_supports": 47,
+        "text_snippet": "Potentiation of neurotoxicity in double-mutant mice with Pink1 ablation and A53T- P37840 overexpression . The common age-related neurodegeneration of Parkinson 's disease can result from dominant caus..."
+      },
+      "timestamp": "2025-11-01T21:04:27.828863"
+    }
+  ]
+}
