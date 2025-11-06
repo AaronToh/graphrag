@@ -1,0 +1,127 @@
+{
+  "crumbtrail_conservative": {
+    "baseline": {
+      "system_name": "Baseline",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.0033891677856445314,
+      "total_queries": 5
+    },
+    "pruned": {
+      "system_name": "Pruned",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.0033710479736328127,
+      "total_queries": 5
+    },
+    "comparison": {
+      "faithfulness_change_pct": 0.0,
+      "response_time_change_pct": -0.5346389779953853
+    },
+    "method_name": "crumbtrail_conservative",
+    "timestamp": "2025-11-07T07:17:19.065686",
+    "num_samples": 5
+  },
+  "kgtrimmer_default": {
+    "baseline": {
+      "system_name": "Baseline",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003231382369995117,
+      "total_queries": 5
+    },
+    "pruned": {
+      "system_name": "Pruned",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003344440460205078,
+      "total_queries": 5
+    },
+    "comparison": {
+      "faithfulness_change_pct": 0.0,
+      "response_time_change_pct": 3.498753080407874
+    },
+    "method_name": "kgtrimmer_default",
+    "timestamp": "2025-11-07T07:18:12.275401",
+    "num_samples": 5
+  },
+  "pathrag_hybrid": {
+    "baseline": {
+      "system_name": "Baseline",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003261566162109375,
+      "total_queries": 5
+    },
+    "pruned": {
+      "system_name": "Pruned",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003311491012573242,
+      "total_queries": 5
+    },
+    "comparison": {
+      "faithfulness_change_pct": 0.0,
+      "response_time_change_pct": 1.5307017543859622
+    },
+    "method_name": "pathrag_hybrid",
+    "timestamp": "2025-11-07T07:19:02.669787",
+    "num_samples": 5
+  },
+  "pog_hybrid": {
+    "baseline": {
+      "system_name": "Baseline",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003282022476196289,
+      "total_queries": 5
+    },
+    "pruned": {
+      "system_name": "Pruned",
+      "faithfulness_score": 0.95,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003228902816772461,
+      "total_queries": 5
+    },
+    "comparison": {
+      "faithfulness_change_pct": -5.000000000000004,
+      "response_time_change_pct": -1.6185038283281705
+    },
+    "method_name": "pog_hybrid",
+    "timestamp": "2025-11-07T07:19:56.020966",
+    "num_samples": 5
+  },
+  "adaptive_multi_strategy": {
+    "baseline": {
+      "system_name": "Baseline",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.0032517433166503905,
+      "total_queries": 5
+    },
+    "pruned": {
+      "system_name": "Pruned",
+      "faithfulness_score": 1.0,
+      "sas_score": 0.551408565044403,
+      "mrr_score": 1.0,
+      "avg_response_time": 0.003260040283203125,
+      "total_queries": 5
+    },
+    "comparison": {
+      "faithfulness_change_pct": 0.0,
+      "response_time_change_pct": 0.25515441241165715
+    },
+    "method_name": "adaptive_multi_strategy",
+    "timestamp": "2025-11-07T07:20:52.311906",
+    "num_samples": 5
+  }
+}

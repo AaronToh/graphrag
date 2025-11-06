@@ -38,6 +38,7 @@ from dotenv import load_dotenv
 
 from haystack import Document
 from eval import evaluate_rag_pipeline, evaluate_with_defaults
+from eval import calculate_mrr, calculate_sas
 
 # Load environment variables from .env file
 load_dotenv()
@@ -165,6 +166,53 @@ class FileBackedGraphRAGSystem(RAGSystemInterface):
             )
 
         df = pd.read_parquet(file_path)
+        
+        # Check if this is a pruned system by looking for pruned artifacts
+        pruned_entities_path = self.system_path / "pruned_entities.parquet"
+        pruned_relationships_path = self.system_path / "pruned_relationships.parquet"
+        
+        if pruned_entities_path.exists() and pruned_relationships_path.exists():
+            logger.info(f"Found pruned artifacts, filtering corpus for {self.system_name}")
+            
+            # Load pruned entities and relationships to get valid IDs
+            pruned_entities = pd.read_parquet(pruned_entities_path)
+            pruned_relationships = pd.read_parquet(pruned_relationships_path)
+            
+            # Get sets of valid entity and relationship IDs
+            valid_entity_ids = set(pruned_entities['id'].astype(str)) if 'id' in pruned_entities.columns else set()
+            valid_relationship_ids = set(pruned_relationships['id'].astype(str)) if 'id' in pruned_relationships.columns else set()
+            
+            # Filter text units to only include those with entities/relationships in the pruned set
+            if 'entity_ids' in df.columns and 'relationship_ids' in df.columns:
+                def has_valid_entities_or_relationships(row):
+                    # Check if any entity_ids or relationship_ids are in the pruned sets
+                    entity_ids = row['entity_ids']
+                    relationship_ids = row['relationship_ids']
+                    
+                    # Convert to sets for intersection, handling None and empty arrays
+                    text_entity_ids = set()
+                    if entity_ids is not None and len(entity_ids) > 0:
+                        text_entity_ids = set(str(eid) for eid in entity_ids)
+                    
+                    text_relationship_ids = set()
+                    if relationship_ids is not None and len(relationship_ids) > 0:
+                        text_relationship_ids = set(str(rid) for rid in relationship_ids)
+                    
+                    # Keep text unit if it has any entities or relationships that are in the pruned graph
+                    has_valid_entities = bool(text_entity_ids.intersection(valid_entity_ids))
+                    has_valid_relationships = bool(text_relationship_ids.intersection(valid_relationship_ids))
+                    
+                    return has_valid_entities or has_valid_relationships
+                
+                # Apply filter
+                original_count = len(df)
+                df = df[df.apply(has_valid_entities_or_relationships, axis=1)]
+                filtered_count = len(df)
+                
+                logger.info(f"Filtered corpus from {original_count} to {filtered_count} text units based on pruned entities/relationships")
+            else:
+                logger.warning("Text units don't have entity_ids/relationship_ids columns, cannot filter based on pruned graph")
+
         # Identify content and id columns with robust fallbacks
         content_col = None
         for col in ["text", "content", "body", "document", "chunk_text", "chunk"]:
@@ -365,22 +413,38 @@ class EvaluationRunner:
             else:
                 ground_truth_answers.append(None)
 
+            # Handle PubMedQA context as ground truth documents
+            if test_q.metadata and test_q.metadata.get("source") == "PubMedQA":
+                context = test_q.metadata.get("context", "")
+                if isinstance(context, str) and context.strip():
+                    # Split context into sentences/paragraphs as individual documents
+                    sentences = [s.strip() for s in context.split('.') if s.strip() and len(s.strip()) > 20]
+                    if sentences:
+                        gt_docs = [Document(content=sentence) for sentence in sentences]
+                    else:
+                        # Fallback: use entire context as single document
+                        gt_docs = [Document(content=context.strip())]
+                else:
+                    gt_docs = []
+                ground_truth_documents.append(gt_docs)
+                if gt_docs:
+                    has_gt_docs = True
             # TODO: Load ground truth documents from IDs
-            if test_q.ground_truth_doc_ids:
+            elif test_q.ground_truth_doc_ids:
                 # Placeholder: would need to load actual documents
                 ground_truth_documents.append([])
                 has_gt_docs = True
             else:
                 ground_truth_documents.append([])
 
-        # Run evaluation
+        # Run evaluation for faithfulness only
         logger.info("\nRunning evaluation metrics...")
         eval_results = evaluate_with_defaults(
             questions=questions,
             retrieved_documents=retrieved_docs,
             predicted_answers=answers,
-            ground_truth_answers=ground_truth_answers if has_gt_answers else None,
-            ground_truth_documents=ground_truth_documents if has_gt_docs else None,
+            ground_truth_answers=None,
+            ground_truth_documents=None,
             run_name=run_name,
             faithfulness_llm_provider=self.faithfulness_llm_provider,
             faithfulness_llm_model=self.faithfulness_llm_model,
@@ -389,9 +453,12 @@ class EvaluationRunner:
             model=self.sas_model,
         )
 
-        # Extract metrics
+        # Compute MRR and SAS using modular functions
+        mrr_score = calculate_mrr(ground_truth_documents, retrieved_docs) if has_gt_docs else None
+        sas_score = calculate_sas(answers, ground_truth_answers, self.sas_model) if has_gt_answers else None
+
+        # Extract faithfulness
         aggregated = eval_results["aggregated_report"]
-        # Robust faithfulness extraction to avoid defaulting to 0.0
         faithfulness_mean = aggregated.get("faithfulness", {}).get("mean", None)
         if faithfulness_mean is None:
             df = eval_results.get("detailed_results", None)
@@ -402,7 +469,6 @@ class EvaluationRunner:
                     except Exception:
                         faithfulness_mean = None
                 elif "faithful" in df.columns:
-                    # Some evaluators output boolean faithful column; mean gives ratio
                     try:
                         faithfulness_mean = float(df["faithful"].mean())
                     except Exception:
@@ -413,16 +479,8 @@ class EvaluationRunner:
         metrics = SystemMetrics(
             system_name=rag_system.system_name,
             faithfulness_score=faithfulness_mean,
-            sas_score=(
-                aggregated.get("sas_evaluator", {}).get("mean", None)
-                if has_gt_answers
-                else None
-            ),
-            mrr_score=(
-                aggregated.get("doc_mrr_evaluator", {}).get("mean", None)
-                if has_gt_docs
-                else None
-            ),
+            sas_score=sas_score,
+            mrr_score=mrr_score,
             avg_response_time=(
                 sum(response_times) / len(response_times) if response_times else 0.0
             ),
@@ -522,10 +580,28 @@ class EvaluationRunner:
                 if baseline_metrics.sas_score > 0
                 else 0
             )
-            logger.info(f"\nSemantic Answer Similarity:")
+            logger.info(f"\nSemantic Answer Similarity (SAS):")
             logger.info(f"  Baseline: {baseline_metrics.sas_score:.4f}")
             logger.info(f"  Pruned:   {pruned_metrics.sas_score:.4f}")
             logger.info(f"  Change:   {sas_change:+.2f}%")
+
+        if (
+            baseline_metrics.mrr_score is not None
+            and pruned_metrics.mrr_score is not None
+        ):
+            mrr_change = (
+                (
+                    (pruned_metrics.mrr_score - baseline_metrics.mrr_score)
+                    / baseline_metrics.mrr_score
+                    * 100
+                )
+                if baseline_metrics.mrr_score > 0
+                else 0
+            )
+            logger.info(f"\nMean Reciprocal Rank (MRR):")
+            logger.info(f"  Baseline: {baseline_metrics.mrr_score:.4f}")
+            logger.info(f"  Pruned:   {pruned_metrics.mrr_score:.4f}")
+            logger.info(f"  Change:   {mrr_change:+.2f}%")
 
         logger.info(f"\nResponse Time:")
         logger.info(f"  Baseline: {baseline_metrics.avg_response_time:.2f}s")

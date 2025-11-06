@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-10-27T07:59:13.637296",
+  "timestamp": "2025-11-07T05:55:32.240043",
   "algorithm": "PathRAG",
   "parameters": {
-    "alpha": 0.7,
+    "alpha": 0.8,
     "theta": 0.05,
-    "top_n_nodes": 150,
-    "top_k_paths": 75,
-    "max_path_length": 7,
-    "seed_method": "combined",
+    "top_n_nodes": 100,
+    "top_k_paths": 500,
+    "max_path_length": 5,
+    "seed_method": "degree_centrality",
     "path_scoring_method": "avg_edge_flow"
   },
   "baseline_stats": {
@@ -16,7 +16,7 @@
     "num_communities": 1573,
     "num_nodes_in_graph": 19314,
     "num_edges_in_graph": 32568,
-    "num_isolated_entities": 0,
+    "num_isolated_entities": 345,
     "num_weakly_connected_components": 532,
     "largest_component_size": 17615,
     "largest_component_pct": 91.203272237755,
@@ -38,29 +38,30 @@
     "num_entity_types": 10
   },
   "pruned_stats": {
-    "num_entities": 100,
-    "num_relationships": 114,
-    "num_communities": 0,
-    "num_nodes_in_graph": 100,
-    "num_edges_in_graph": 114,
+    "num_entities": 305,
+    "num_relationships": 443,
+    "num_communities": 1573,
+    "num_nodes_in_graph": 305,
+    "num_edges_in_graph": 349,
     "num_isolated_entities": 0,
-    "num_weakly_connected_components": 2,
-    "largest_component_size": 95,
-    "largest_component_pct": 95.0,
-    "avg_degree": 2.28,
-    "max_degree": 11,
+    "num_weakly_connected_components": 6,
+    "largest_component_size": 238,
+    "largest_component_pct": 78.0327868852459,
+    "avg_degree": 2.2885245901639344,
+    "max_degree": 34,
     "min_degree": 1,
     "entity_types": {
-      "BIOLOGICAL_PROCESS": 46,
-      "TECHNOLOGY": 25,
-      "EVENT": 15,
-      "": 4,
-      "DISEASE": 3,
-      "TREATMENT": 2,
-      "SYMPTOM": 2,
-      "PERSON": 2,
-      "MEDICATION": 1
+      "BIOLOGICAL_PROCESS": 105,
+      "EVENT": 59,
+      "TECHNOLOGY": 56,
+      "": 35,
+      "DISEASE": 19,
+      "PERSON": 11,
+      "TREATMENT": 9,
+      "SYMPTOM": 6,
+      "ORGANIZATION": 3,
+      "MEDICATION": 2
     },
-    "num_entity_types": 9
+    "num_entity_types": 10
   }
 }

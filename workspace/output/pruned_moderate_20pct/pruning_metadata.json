@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-27T14:59:48.516825",
+  "algorithm": "UltraAggressiveCrumbTrail",
+  "parameters": {
+    "root_entity": "__VIRTUAL_ROOT__",
+    "protected_fraction": 0.02,
+    "protected_selection": "degree_centrality",
+    "max_iterations": 1000,
+    "connectivity_threshold": 0.15,
+    "degree_threshold_percentile": 70.0,
+    "multi_stage_pruning": true,
+    "num_protected": 161
+  },
+  "baseline_stats": {
+    "num_entities": 19314,
+    "num_relationships": 32568,
+    "num_communities": 1573,
+    "num_nodes_in_graph": 19314,
+    "num_edges_in_graph": 32568,
+    "num_isolated_entities": 345,
+    "num_weakly_connected_components": 532,
+    "largest_component_size": 17615,
+    "largest_component_pct": 91.203272237755,
+    "avg_degree": 3.372475924200062,
+    "max_degree": 208,
+    "min_degree": 0,
+    "entity_types": {
+      "BIOLOGICAL_PROCESS": 7379,
+      "TECHNOLOGY": 3187,
+      "EVENT": 2482,
+      "DISEASE": 1447,
+      "TREATMENT": 1268,
+      "": 1085,
+      "SYMPTOM": 952,
+      "MEDICATION": 562,
+      "ORGANIZATION": 518,
+      "PERSON": 434
+    },
+    "num_entity_types": 10
+  },
+  "pruned_stats": {
+    "num_entities": 6515,
+    "num_relationships": 14266,
+    "num_communities": 1573,
+    "num_nodes_in_graph": 6515,
+    "num_edges_in_graph": 14108,
+    "num_isolated_entities": 0,
+    "num_weakly_connected_components": 1,
+    "largest_component_size": 6515,
+    "largest_component_pct": 100.0,
+    "avg_degree": 4.330928626247122,
+    "max_degree": 122,
+    "min_degree": 1,
+    "entity_types": {
+      "BIOLOGICAL_PROCESS": 2620,
+      "TECHNOLOGY": 979,
+      "EVENT": 710,
+      "DISEASE": 611,
+      "TREATMENT": 492,
+      "SYMPTOM": 286,
+      "": 271,
+      "MEDICATION": 244,
+      "PERSON": 174,
+      "ORGANIZATION": 128
+    },
+    "num_entity_types": 10
+  },
+  "reduction_percentages": {
+    "entities": 66.26799213006109,
+    "relationships": 56.19626627364285
+  }
+}

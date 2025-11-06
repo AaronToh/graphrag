@@ -1,0 +1,443 @@
+question,predicted_answer,answer,ground_truth_docs,doc_mrr_evaluator,faithfulness,sas_evaluator
+Are group 2 innate lymphoid cells ( ILC2s ) increased in chronic rhinosinusitis with nasal polyps or eosinophilia?,"Answer (extractive):
+Document ID: 25429730
+
+Chronic rhinosinusitis (CRS) is a heterogeneous disease with an uncertain pathogenesis. Group 2 innate lymphoid cells (ILC2s) represent a recently discovered cell population which has been implicated in driving Th2 inflammation in CRS; however, their relationship with clinical disease characteristics has yet to be investigated.
+
+The aim of this study was to identify ILC2s in... 
+Document ID: 25429844
+
+The mechanisms and immune pathways associated with chronic rhinosinusitis (CRS) are not fully understood. Immunological changes during acute exacerbation of CRS may provide valuable clues to the pathogenesis and perpetuation of the disease.
+
+To characterize local and systemic immune responses associated with acute worsening of sinonasal symptoms during exacerbation in CRS wi... 
+Document ID: 27493883
+
+Hypothyroidism is a common endocrine disease associated with increased oxidative stress, increased cardiovascular (CV) risk, CV events and endothelial dysfunction. Endothelial progenitor cells (EPCs) are a well-known marker of CV risk.
+
+The aim of this work was to ascertain whether hypothyroidism is associated with lower EPC counts and if treatment with levothyroxine (LT4) o... 
+Document ID: 25429648
+
+Secretory phospholipases A2 (sPLA2) initiate the biosynthesis of eicosanoids, are increased in the airways of people with severe asthma, and induce mucin hypersecretion. We used IL-13-transformed, highly enriched goblet cells and differentiated (ciliary cell-enriched) human bronchial epithelial cell culture to evaluate the relative contribution of ciliated and goblet cells t... 
+Document ID: 25449986
+
+The blotchy mouse caused by mutations of ATP7A develops low blood copper and aortic aneurysm and rupture. Although the aortic pathologies are believed primarily due to congenital copper deficiencies in connective tissue, perinatal copper supplementation does not produce significant therapeutic effects, hinting additional mechanisms in the symptom development, such as an inde...","As ILC2s are elevated in patients with CRSwNP, they may drive nasal polyp formation in CRS. ILC2s are also linked with high tissue and blood eosinophilia and have a potential role in the activation and survival of eosinophils during the Th2 immune response. The association of innate lymphoid cells in CRS provides insights into its pathogenesis.","['Chronic rhinosinusitis (CRS) is a heterogeneous disease with an uncertain pathogenesis. Group 2 innate lymphoid cells (ILC2s) represent a recently discovered cell population which has been implicated in driving Th2 inflammation in CRS; however, their relationship with clinical disease characteristics has yet to be investigated. The aim of this study was to identify ILC2s in sinus mucosa in patients with CRS and controls and compare ILC2s across characteristics of disease. A cross-sectional study of patients with CRS undergoing endoscopic sinus surgery was conducted. Sinus mucosal biopsies were obtained during surgery and control tissue from patients undergoing pituitary tumour resection through transphenoidal approach. ILC2s were identified as CD45(+) Lin(-) CD127(+) CD4(-) CD8(-) CRTH2(CD294)(+) CD161(+) cells in single cell suspensions through flow cytometry. ILC2 frequencies, measured as a percentage of CD45(+) cells, were compared across CRS phenotype, endotype, inflammatory CRS subtype and other disease characteristics including blood eosinophils, serum IgE, asthma status and nasal symptom score. 35 patients (40% female, age 48 ± 17 years) including 13 with eosinophilic CRS (eCRS), 13 with non-eCRS and 9 controls were recruited. ILC2 frequencies were associated with the presence of nasal polyps (P = 0.002) as well as high tissue eosinophilia (P = 0.004) and eosinophil-dominant CRS (P = 0.001) (Mann-Whitney U). They were also associated with increased blood eosinophilia (P = 0.005). There were no significant associations found between ILC2s and serum total IgE and allergic disease. In the CRS with nasal polyps (CRSwNP) population, ILC2s were increased in patients with co-existing asthma (P = 0.03). ILC2s were also correlated with worsening nasal symptom score in CRS (P = 0.04).']",0.0,1.0,0.7180938720703125
+Does vagus nerve contribute to the development of steatohepatitis and obesity in phosphatidylethanolamine N-methyltransferase deficient mice?,"Answer (extractive):
+Document ID: 25433161
+
+Phosphatidylethanolamine N-methyltransferase (PEMT), a liver enriched enzyme, is responsible for approximately one third of hepatic phosphatidylcholine biosynthesis. When fed a high-fat diet (HFD), Pemt(-/-) mice are protected from HF-induced obesity; however, they develop steatohepatitis. The vagus nerve relays signals between liver and brain that regulate peripheral adipos... 
+Document ID: 25443620
+
+Nonalcoholic steatohepatitis (NASH) is associated with cirrhosis and hepatocellular carcinoma. Reactive oxygen species (ROS) and reactive nitrogen species (RNS) play key roles in the development of the disease. However, the therapeutic target of NASH has not been fully defined and new treatments are needed. We investigated the protective effects of the antioxidant indole-der... 
+Document ID: 27512981
+
+Regulatory T cell (Treg) is required for the maintenance of tolerance to various tissue antigens and to protect the host from autoimmune disorders. However, Treg may, indirectly, support cancer progression and bacterial infections. Therefore, a balance of Treg function is pivotal for adequate immune responses. Acid sphingomyelinase (ASM) is a rate limiting enzyme involved in... 
+Document ID: 25449986
+
+The blotchy mouse caused by mutations of ATP7A develops low blood copper and aortic aneurysm and rupture. Although the aortic pathologies are believed primarily due to congenital copper deficiencies in connective tissue, perinatal copper supplementation does not produce significant therapeutic effects, hinting additional mechanisms in the symptom development, such as an inde... 
+Document ID: 27489502
+
+PTH stimulates bone formation in Fgfr3 knockout mice through promotion of proliferation and differentiation in osteoblasts.
+
+Previous studies showed that endogenous fibroblast growth factor 2 (FGF-2) is required for parathyroid hormone (PTH)-stimulated bone anabolic effects, however, the exact mechanisms by which PTH stimulate bone formation and the function of FGF receptors...",Neuronal signals via the hepatic vagus nerve contribute to the development of steatohepatitis and protection against obesity in HFD fed Pemt(-/-) mice.,"['Phosphatidylethanolamine N-methyltransferase (PEMT), a liver enriched enzyme, is responsible for approximately one third of hepatic phosphatidylcholine biosynthesis. When fed a high-fat diet (HFD), Pemt(-/-) mice are protected from HF-induced obesity; however, they develop steatohepatitis. The vagus nerve relays signals between liver and brain that regulate peripheral adiposity and pancreas function. Here we explore a possible role of the hepatic branch of the vagus nerve in the development of diet induced obesity and steatohepatitis in Pemt(-/-) mice. 8-week old Pemt(-/-) and Pemt(+/+) mice were subjected to hepatic vagotomy (HV) or capsaicin treatment, which selectively disrupts afferent nerves, and were compared to sham-operated or vehicle-treatment, respectively. After surgery, mice were fed a HFD for 10 weeks. HV abolished the protection against the HFD-induced obesity and glucose intolerance in Pemt(-/-) mice. HV normalized phospholipid content and prevented steatohepatitis in Pemt(-/-) mice. Moreover, HV increased the hepatic anti-inflammatory cytokine interleukin-10, reduced chemokine monocyte chemotactic protein-1 and the ER stress marker C/EBP homologous protein. Furthermore, HV normalized the expression of mitochondrial electron transport chain proteins and of proteins involved in fatty acid synthesis, acetyl-CoA carboxylase and fatty acid synthase in Pemt(-/-) mice. However, disruption of the hepatic afferent vagus nerve by capsaicin failed to reverse either the protection against the HFD-induced obesity or the development of HF-induced steatohepatitis in Pemt(-/-) mice.']",0.0,1.0,0.6174601316452026
+Does psammaplin A induce Sirtuin 1-dependent autophagic cell death in doxorubicin-resistant MCF-7/adr human breast cancer cells and xenografts?,"Answer (extractive):
+Document ID: 25445714
+
+Psammaplin A (PsA) is a natural product isolated from marine sponges, which has been demonstrated to have anticancer activity against several human cancer cell lines via the induction of cell cycle arrest and apoptosis. New drugs that are less toxic and more effective against multidrug-resistant cancers are urgently needed.
+
+We tested cell proliferation, cell cycle progressi... 
+Document ID: 27501501
+
+Due to the chemo resistant nature of cancer cells and adverse effects of current therapies, researchers are looking for the most efficient therapeutic approach which has the lowest side effects and the highest toxicity on cancer cells. The aim of the present study was to investigate the synergic effect of Urtica dioica extract in combination with paclitaxel on cell death and... 
+Document ID: 27519795
+
+Prostate cancer (PCa) is a leading cause of cancer-related death in men, which emphasizes the need for novel therapeutic approaches. Targeting microRNA (miRNA) has been considered as a therapeutic strategy against cancers. Human miR-204-5p potentially targeting BCL2 has been reported to be downregulated in various cancers. We hypothesized that miR-204-5p overexpression induc... 
+Document ID: 25436452
+
+Palmitate, a saturated fatty acid (FA), is known to induce toxicity and cell death in various types of cells. Resveratrol (RSV) is able to prevent pathogenesis and/or decelerate the progression of a variety of diseases. Several in vitro and in vivo studies have also shown a protective effect of RSV on fat accumulation induced by FAs. Additionally, endoplasmic reticulum (ER) ... 
+Document ID: 25435628
+
+A Chinese herb Corydalis yanhusuo W.T. Wang that showed anticancer and anti-angiogenesis effects in our previous studies was presented for further studies. In the present study, we studied the anticancer proliferation and adhesion effects of five alkaloids which were isolated from Corydalis yanhusuo.
+
+MTT dose response curves, cell migration assay, cell invasion assay, as we...","PsA significantly inhibited MCF-7/adr cells proliferation in a concentration-dependent manner, with accumulation of cells in G2/M phase of the cell cycle. PsA significantly decreased SIRT1 enzyme activity and reduced expression of SIRT1 protein in the cultured cells with greater potency than sirtinol or salermide. Acetylation of p53, a putative target of SIRT1, increased significantly following PsA treatment. In addition, PsA markedly increased the expression levels of autophagy-related proteins. In support of this, it was found that PsA significantly increased the expression of damage-regulated autophagy modulator (DRAM), a p53-induced protein.","['Psammaplin A (PsA) is a natural product isolated from marine sponges, which has been demonstrated to have anticancer activity against several human cancer cell lines via the induction of cell cycle arrest and apoptosis. New drugs that are less toxic and more effective against multidrug-resistant cancers are urgently needed. We tested cell proliferation, cell cycle progression and autophagic cell death pathway in doxorubicin-resistant MCF-7 (MCF-7/adr) human breast cancer cells. The potency of PsA was further determined using an in vivo xenograft model.']",0.0,1.0,0.3993232846260071
+Is methylation of the FGFR2 gene associated with high birth weight centile in humans?,"Answer (extractive):
+Document ID: 25431941
+
+This study examined links between DNA methylation and birth weight centile (BWC), and explored the impact of genetic variation.
+
+Using HumanMethylation450 arrays, we examined candidate gene-associated CpGs in cord blood from newborns with low (<15th centile), medium (40-60th centile) and high (>85th centile) BWC (n = 12). Candidates were examined in an investigation cohort (... 
+Document ID: 25452591
+
+Bacterial vaginosis is a risk factor for preterm birth. The various conventional methods for its diagnosis are laborious and not easily reproducible. Molecular quantification methods have been reported recently, but the specific risk factors they might identify remain unclear.
+
+A prospective multicenter national study included pregnant women at risk of preterm birth. A quant... 
+Document ID: 25445398
+
+Low-grade chronic inflammation is a cardinal feature of the metabolic syndrome, yet its pathogenesis is not well defined. The purpose of this study was to examine the role of TRAIL receptor (TR) signaling in the pathogenesis of obesity-associated inflammation using mice with the genetic deletion of TR.
+
+TR knockout (TR(-/-)) mice and their littermate wild-type (WT) mice were... 
+Document ID: 25441645
+
+Breast-feeding is protective against respiratory infections in early life. Given the co-evolutionary adaptations of humans and cattle, bovine milk might exert similar anti-infective effects in human infants.
+
+To study effects of consumption of raw and processed cow's milk on common infections in infants.
+
+The PASTURE birth cohort followed 983 infants from rural areas in Aust... 
+Document ID: 25448664
+
+Achievement of early therapeutic anticoagulation with unfractionated heparin (UFH) is associated with improved outcomes in thromboembolic disease. Weight based UFH expedites time to therapeutic anticoagulation. Treatment with UFH is challenging in surgical patients due to their high propensity for bleeding. We sought to test the hypothesis that an initial weight based UFH in...",We identified a novel biologically plausible candidate (FGFR2) for with BWC that merits further study.,"['This study examined links between DNA methylation and birth weight centile (BWC), and explored the impact of genetic variation. Using HumanMethylation450 arrays, we examined candidate gene-associated CpGs in cord blood from newborns with low (<15th centile), medium (40-60th centile) and high (>85th centile) BWC (n = 12). Candidates were examined in an investigation cohort (n = 110) using pyrosequencing and genotyping for putative methylation-associated polymorphisms performed using standard PCR. Array analysis identified 314 candidate genes associated with BWC extremes, four of which showed ≥ 4 BWC-linked CpGs. Of these, PM20D1 and MI886 suggested genetically determined methylation levels. However, methylation at three CpGs in FGFR2 remained significantly associated with high BWC (p = 0.004-0.027).']",0.0,1.0,0.3164569139480591
+Do tumor-infiltrating immune cell profiles and their change after neoadjuvant chemotherapy predict response and prognosis of breast cancer?,"Answer (extractive):
+Document ID: 25432519
+
+Tumor microenvironment immunity is associated with breast cancer outcome. A high lymphocytic infiltration has been associated with response to neoadjuvant chemotherapy, but the contribution to response and prognosis of immune cell subpopulations profiles in both pre-treated and post-treatment residual tumor is still unclear.
+
+We analyzed pre- and post-treatment tumor-infiltr... 
+Document ID: 25445419
+
+To provide optimal treatment of heterogeneous triple negative breast cancer (TNBC), we need biomarkers that can predict the chemotherapy response.
+
+We retrospectively investigated BRCAness in 73 patients with breast cancer who had been treated with taxane- and/or anthracycline-based neoadjuvant chemotherapy (NAC). Using multiplex, ligation-dependent probe amplification on fo... 
+Document ID: 25446402
+
+To investigate B7-H4 expression and its correlation with the number of infiltrating T lymphocytes and cytokine production by those lymphocytes in human cervical cancer and to determine the effect of recombinant B7-H4 on the active peripheral blood T cells of the patients in vitro.
+
+B7-H4 expression was detected in 67 cases of cervical cancer using immunohistochemical stainin... 
+Document ID: 27514406
+
+KRAS-mutant lung adenocarcinoma is among the most common cancer entities and, in advanced stages, typically displays poor prognosis due to acquired resistance against chemotherapy, which is still largely based on cisplatin-containing combination regimens. Mechanisms of cisplatin resistance have been extensively investigated, and ERCC1 has emerged as a key player due to its c... 
+Document ID: 25442991
+
+The current American Joint Committee on Cancer Seventh Edition (AJCC7) pathologic staging for esophageal adenocarcinoma (EAC) is derived from data assessing the outcomes of patients having undergone esophagectomy without neoadjuvant treatment and has unclear significance in patients who have received multimodality therapy. Lymph nodes with evidence of neoadjuvant treatment e...","Breast cancer immune cell subpopulation profiles, determined by immunohistochemistry-based computerized analysis, identify groups of patients characterized by high response (in the pre-treatment setting) and poor prognosis (in the post-treatment setting). Further understanding of the mechanisms underlying the distribution of immune cells and their changes after chemotherapy may contribute to the development of new immune-targeted therapies for breast cancer.","['Tumor microenvironment immunity is associated with breast cancer outcome. A high lymphocytic infiltration has been associated with response to neoadjuvant chemotherapy, but the contribution to response and prognosis of immune cell subpopulations profiles in both pre-treated and post-treatment residual tumor is still unclear. We analyzed pre- and post-treatment tumor-infiltrating immune cells (CD3, CD4, CD8, CD20, CD68, Foxp3) by immunohistochemistry in a series of 121 breast cancer patients homogeneously treated with neoadjuvant chemotherapy. Immune cell profiles were analyzed and correlated with response and survival. We identified three tumor-infiltrating immune cell profiles, which were able to predict pathological complete response (pCR) to neoadjuvant chemotherapy (cluster B: 58%, versus clusters A and C: 7%). A higher infiltration by CD4 lymphocytes was the main factor explaining the occurrence of pCR, and this association was validated in six public genomic datasets. A higher chemotherapy effect on lymphocytic infiltration, including an inversion of CD4/CD8 ratio, was associated with pCR and with better prognosis. Analysis of the immune infiltrate in post-chemotherapy residual tumor identified a profile (cluster Y), mainly characterized by high CD3 and CD68 infiltration, with a worse disease free survival.']",0.0,1.0,0.7057088613510132
+Is hidradenitis suppurativa a systemic disease with substantial comorbidity burden : a chart-verified case-control analysis?,"Answer (extractive):
+Document ID: 25440440
+
+Hidradenitis suppurativa (HS) is a chronic inflammatory disease involving intertriginous skin. Previous epidemiologic studies have been limited by small sample size.
+
+We sought to describe the prevalence and comorbidities of HS in a large patient care database.
+
+In this retrospective case-control study, we chart-validated all patients within a hospital database who received ... 
+Document ID: 25427271
+
+Anemia of chronic disease, a cytokine-mediated anemia, is a frequent complication of many chronic inflammatory conditions. The present case-control study was aimed to evaluate levels of systemic hematological markers indicative of anemia in patients with generalized, severe, chronic periodontitis.
+
+A convenience quota sample of 30 systemically-healthy, urban, male patients c... 
+Document ID: 25426940
+
+Suboptimal adherence to antiretroviral therapy (ART) is a strong predictor of virologic failure (VF) among people with HIV. Various methods such as patient self-report, pill counts and pharmacy refills have been utilized to monitor adherence. However, there are limited data on the accuracy of combining methods to better predict VF in routine clinical settings. We examined va... 
+Document ID: 25445624
+
+Schizophrenia is recognized as a disorder of the brain and neuronal connectivity. The neural cell adhesion molecule 1 (NCAM1) gene plays a crucial role in regulating neuronal connectivity.
+
+We conducted a two-stage association analysis on 17 NCAM1 SNPs in two independent Han Chinese schizophrenia case-control cohorts (discovery sample from Hunan Province: 986 patients and 10... 
+Document ID: 27493875
+
+Cachexia has a devastating impact on survival and quality of life for many cancer patients and contributes to nearly one-third of all cancer deaths; also, it is associated with poor responses to chemotherapy and survival. A better understanding of the underlying mechanisms of cancer-associated cachexia (CAC), coupled with effective therapeutic approaches, will improve manage...",Control subjects were not validated for absence of HS and comorbidity validation was not performed for either group.,"['Hidradenitis suppurativa (HS) is a chronic inflammatory disease involving intertriginous skin. Previous epidemiologic studies have been limited by small sample size. We sought to describe the prevalence and comorbidities of HS in a large patient care database. In this retrospective case-control study, we chart-validated all patients within a hospital database who received at least 1 billing code for HS between 1980 and 2013. Verified cases were matched with controls based on age, gender, and race. Prevalences of a priori selected comorbidities were compared between HS and control groups. A total of 2292 patients at Massachusetts General Hospital received at least 1 code for HS. A total of 1776 cases had a validated diagnosis of HS, yielding a prevalence of 0.08%. In unadjusted analysis, all comorbidities were diagnosed significantly more in HS compared with control including (in rank order of likelihood): smoking, arthropathies, dyslipidemia, polycystic ovarian syndrome, psychiatric disorders, obesity, drug dependence, hypertension, diabetes, thyroid disease, alcohol dependence, and lymphoma (all P < .01).']",0.0,1.0,0.23650825023651123
+Does reference range for serum and salivary testosterone in young men of Mediterranean region?,"Answer (extractive):
+Document ID: 25444977
+
+The interassay variability found in the measurement of testosterone (T) levels warrants the need for laboratories to validate their methods to establish trustworthy cut-off points for diagnosis of male hypogonadism. The aims of this study were to validate measurement of total T (TT) at our laboratory in order to obtain reference ranges for TT, calculated free T (CFT), calcul... 
+Document ID: 25443702
+
+The adrenal sex hormone dehydroepiandrosterone (DHEA), which is present in serum mainly as the sulfate DHEA-S, is the most abundant steroid hormone in human blood. Its levels decline dramatically with age. Despite the great amount of literature on vascular and metabolic actions of DHEA/-S, evidence for an association between DHEA/-S levels and cardiovascular events is contra... 
+Document ID: 25446422
+
+To evaluate the efficacy and safety of radiofrequency (RF) ablation for treatment of bilateral thyroid nodules as well as preservation of thyroid function.
+
+Between January 2007 and October 2012, 18 patients (16 women and 2 men; mean age, 49.9 y; median age, 44 y; age range, 27-81 y) with bilateral thyroid nodules treated by RF ablation were included in this study. The inclu... 
+Document ID: 25443923
+
+To investigate the effect of the percentage of free prostate-specific antigen (%fPSA) on future prostate cancer risk.
+
+We examined serum total PSA (tPSA) and %fPSA annually in a prostate cancer-screening cohort between July 2001 and June 2011. Men with tPSA >4.0 ng/mL or tPSA of 2.0-4.0 ng/mL with %fPSA ≤12% were screened as positive and were recommended to undergo a biopsy.... 
+Document ID: 25452543
+
+Currently, there is no standardised screening for prostate cancer in Europe. Assessment of risk is opportunistically undertaken in consultation with the GP or urologist. Evaluation of the prostate gland consists of a prostate-specific antigen (PSA) serum level and a digital rectal examination (DRE) of the gland. DRE is an essential part of the assessment that can independent...","In men from the Mediterranean region, values of TT>9.7 nmol/L, CFT>0.22 nmol/L, and/or CBT>4.9 nmol/L make the presence of biochemical hypogonadism unlikely. According to the correlation between serum and ST, the clinical value of ST remains to be established.","[""The interassay variability found in the measurement of testosterone (T) levels warrants the need for laboratories to validate their methods to establish trustworthy cut-off points for diagnosis of male hypogonadism. The aims of this study were to validate measurement of total T (TT) at our laboratory in order to obtain reference ranges for TT, calculated free T (CFT), calculated bioavailable T (CBT), and salivary T (ST) in healthy young men from the Mediterranean region, and to evaluate the potential clinical value of ST by establishing its correlation with serum T. An observational, cross-sectional study with sequential sampling. men aged 18-30 years with body mass index (BMI)<30. chronic diseases, hepatic insufficiency or use of drugs altering circulating T levels. Main outcome measures TT (chemiluminescent immunoassay UniCell DXI 800 [Access T Beckman Coulter]), CFT and CBT (Vermeulen's formula), and ST (radioimmunoassay for serum TT modified for saliva [Coat-A-Count, Siemens]). Descriptive statistical analyses and correlation by Spearman's rho (SPSS 19.0 Inc., Chicago) were used. One hundred and twenty-one subjects aged 24±3.6 years with BMI 24±2.5 kg/m(2) were enrolled. Hormone study: TT, 19±5.5 nmol/L (reference range [rr.] 9.7-33.3); CFT, 0.38 nmol/L (rr. 0.22-0.79); CBT, 9.7 nmol/L (rr. 4.9-19.2); and ST, 0.35 nmol/L (rr. 0.19-0.68). Correlation between ST and CFT was 0.46.""]",0.0,1.0,0.6387884020805359
+Are secretory phospholipases A2 secreted from ciliated cells and increase mucin and eicosanoid secretion from goblet cells?,"Answer (extractive):
+Document ID: 25429648
+
+Secretory phospholipases A2 (sPLA2) initiate the biosynthesis of eicosanoids, are increased in the airways of people with severe asthma, and induce mucin hypersecretion. We used IL-13-transformed, highly enriched goblet cells and differentiated (ciliary cell-enriched) human bronchial epithelial cell culture to evaluate the relative contribution of ciliated and goblet cells t... 
+Document ID: 25428807
+
+Exosomes are 30-100 nm membrane vesicles of endocytic origin, mediating diverse biological functions including tumor cell invasion, cell-cell communication and antigen presentation through transfer of proteins, mRNAs and microRNAs. Recent evidence suggests that microRNAs can be released through ceramide-dependent secretory machinery regulated by neutral sphingomyelinase 2 (n... 
+Document ID: 25426294
+
+Therapeutic cancer vaccines aim to boost the natural immunity against transformed cancer cells, and a series of adjuvants and co-stimulatory molecules have been proposed to enhance the immune response against weak self-antigens expressed on cancer cells. For instance, a peptide/CpG-based cancer vaccine has been evaluated in several clinical trials and was shown in pre-clinic... 
+Document ID: 25423132
+
+Glial cell line-derived neurotrophic factor (GDNF) and N-cadherin interact to transduce intracellular signals. However, the specific molecular mechanisms of this interaction are unclear. This study attempted to detect changes in GDNF-induced β-catenin phosphorylation and nuclear translocation in C6 glioma cells.
+
+C6 glioma cells were treated with GDNF (70 ng/mL) and membrane... 
+Document ID: 25424483
+
+As the primary immune cells of the central nervous system, microglia contribute to development, homeostasis, and plasticity of the central nervous system, in addition to their well characterized roles in the foreign body and inflammatory responses. Increasingly, inappropriate activation of microglia is being reported as a component of inflammation in neurodegenerative and ne...","sPLA2 are secreted from ciliated cells and appear to induce mucin and cysLT secretion from goblet cells, strongly suggesting that airway goblet cells are proinflammatory effector cells.","['Secretory phospholipases A2 (sPLA2) initiate the biosynthesis of eicosanoids, are increased in the airways of people with severe asthma, and induce mucin hypersecretion. We used IL-13-transformed, highly enriched goblet cells and differentiated (ciliary cell-enriched) human bronchial epithelial cell culture to evaluate the relative contribution of ciliated and goblet cells to airway sPLA2 generation and response. We wished to determine the primary source(s) of sPLA2 and leukotrienes in human airway epithelial cells. Human bronchial epithelial cells from subjects without lung disease were differentiated to a ciliated-enriched or goblet-enriched cell phenotype. Synthesis of sPLA2, cysteinyl leukotrienes (cysLTs), and airway mucin messenger RNA and protein was measured by real-time-polymerase chain reaction and an enzyme-linked immunosorbent assay, and the localization of mucin and sPLA2 to specific cells types was confirmed by confocal microscopy. sPLA2 group IIa, V, and X messenger RNA expression was increased in ciliated-enriched cells (P < .001) but not in goblet-enriched cells. sPLA2 were secreted from the apical (air) side of ciliated-enriched cells but not goblet-enriched cells (P < .001). Immunostaining of sPLA2 V was strongly positive in ciliated-enriched cells but not in goblet-enriched cells. sPLA2 released cysLTs from goblet-enriched cells but not from ciliated-enriched cells, and this result was greatest with sPLA2 V (P < .05). sPLA2 V increased goblet-enriched cell mucin secretion, which was inhibited by inhibitors of lipoxygenase or cyclooxygenase (P < .02).']",0.0,1.0,0.5695487856864929
+Is admission hyperglycemia associated with failed reperfusion following fibrinolytic therapy in patients with STEMI : results of a retrospective study?,"Answer (extractive):
+Document ID: 25424148
+
+Hyperglycemia on admission is associated with increased mortality rates in patients with ST-elevation myocardial infarction (STEMI) who are treated with either fibrinolytic therapy (FT) or primary percutaneous coronary intervention (PCI). However, data regarding the relationship between hyperglycemia and the success of FT are lacking. The aim of this study was to investigate... 
+Document ID: 27497949
+
+An intense systemic inflammatory response is observed following reperfusion after cardiac arrest. Heparin-binding protein (HBP) is a granule protein released by neutrophils that intervenes in endothelial permeability regulation. In the present study, we investigated plasma levels of HBP in a large population of patients resuscitated from out-of-hospital cardiac arrest. We hy... 
+Document ID: 25439321
+
+Neuroendocrine tumors (NETs) of the ileum are sporadic tumors derived from submucosal gastrointestinal stem cells. They often show clinical symptoms only after hepatic metastasation when curative therapy is limited or impossible. In this study, we analyzed the expression of the candidate genes mammalian target of rapamycin (mTOR), alpha thalassemia/mental retardation syndrom... 
+Document ID: 27501701
+
+Fragility fractures are a major health care problem worldwide. Both hip and non-hip fractures are associated with excess mortality in the years following the fracture. Residents of long-term nursing homes represent a special high-risk group for poor outcomes. Orthogeriatric co-management models of care have shown in multiple studies to have medical as well as economic advant... 
+Document ID: 25450751
+
+To assess the influence of vascular clamping and ischemia time on long-term post-operative renal function following partial nephrectomy (PN) for cancer in a solitary kidney.
+
+This is a retrospective study including 259 patients managed by PN between 1979 and 2010 in 13 centers. Clamping use, technique choice (pedicular or parenchymal clamping), ischemia time, and peri-operat...","In patients with STEMI who undergo FT, admission hyperglycemia is an independent predictor of the failure of fibrinolysis.","['Hyperglycemia on admission is associated with increased mortality rates in patients with ST-elevation myocardial infarction (STEMI) who are treated with either fibrinolytic therapy (FT) or primary percutaneous coronary intervention (PCI). However, data regarding the relationship between hyperglycemia and the success of FT are lacking. The aim of this study was to investigate the value of admission blood glucose for the prediction of failed reperfusion following FT. This is a retrospective study of 304 STEMI patients who received FT and whose admission glucose levels were recorded. The main outcome measure was ST segment resolution≥50%. The median (interquartile range [IQR]) blood glucose level in the entire study group was 112 (95-153). In 92 (30.2%) patients, FT was unsuccessful and rescue PCI was performed. Admission glucose (126 [99-192] vs. 110 [94-144] mg/dL, p<0.001), time from symptom onset to FT (180 [120-270] vs. 150 [120-180] min, p=0.009), and maximum ST elevation amplitude (3 [2-7] vs. 3 [2-6] mm, p=0.05) were higher in the failed reperfusion group than in the reperfusion group. Admission hyperglycemia was an independent predictive factor for failed reperfusion (hazard ratio 4.79 [1.80-12.76], p=0.002), along with time from symptom onset to fibrinolysis and anterior wall myocardial infarction.']",0.0,0.9,0.5219670534133911
+Do systematic Reviews Published in Emergency Medicine Journals Routinely Search Clinical Trials Registries : A Cross-Sectional Analysis?,"Answer (extractive):
+Document ID: 25447560
+
+Publication bias compromises the validity of systematic reviews. This problem can be addressed in part through searching clinical trials registries to identify unpublished studies. This study aims to determine how often systematic reviews published in emergency medicine journals include clinical trials registry searches.
+
+We identified all systematic reviews published in the... 
+Document ID: 27504739
+
+The glycolysis-derived metabolite methylglyoxal has been linked to clinical microvascular complications, including diabetic nephropathy. We aimed to further investigate the hypothesis that methylglyoxal is involved in decline in renal function by assessing the associations between measures of renal function during a 6-year follow-up in 1481 people with screen-detected Type 2... 
+Document ID: 25450204
+
+A vaccine against hepatitis C virus (HCV) is unavailable and cost-effective antivirals that prevent HCV infection and re-infection, such as in the transplant setting, do not exist. In a search for novel and economical prophylactic agents, we examined the antiviral activity of saikosaponins (SSa, SSb2, SSc, and SSd) from Bupleurum kaoi root (BK) as entry inhibitors against HC... 
+Document ID: 25448329
+
+Programs seek to expose trainees to research during residency. However, little is known in any formal sense regarding how to do this effectively, or whether these efforts result in more or better-quality research output.
+
+The objective of our study was to evaluate a dedicated resident research program in terms of the quantity and quality of resident research peer-reviewed pu... 
+Document ID: 25437889
+
+This study was to examine the association between plasma retinol binding protein 4 (RBP4) levels and the complexity of angiographic coronary lesion in patients with coronary artery disease (CAD).
+
+A cross-sectional and prospective study was carried out in Guangzhou Chinese population. 672 persons were evaluated by medical history, clinical examination, coronary angiography, ...","Systematic reviews published in emergency medicine journals do not routinely include searches of clinical trials registries. By helping authors identify unpublished trial data, the addition of registry searches may improve the validity of systematic reviews.","['Publication bias compromises the validity of systematic reviews. This problem can be addressed in part through searching clinical trials registries to identify unpublished studies. This study aims to determine how often systematic reviews published in emergency medicine journals include clinical trials registry searches. We identified all systematic reviews published in the 6 highest-impact emergency medicine journals between January 1 and December 31, 2013. Systematic reviews that assessed the effects of an intervention were further examined to determine whether the authors described searching a clinical trials registry and whether this search identified relevant unpublished studies. Of 191 articles identified through PubMed search, 80 were confirmed to be systematic reviews. Our sample consisted of 41 systematic reviews that assessed a specific intervention. Eight of these 41 (20%) searched a clinical trials registry. For 4 of these 8 reviews, the registry search identified at least 1 relevant unpublished study.']",0.0,1.0,0.3588164746761322
+Do obese patients with idiopathic pulmonary fibrosis have a higher 90-day mortality risk with bilateral lung transplantation?,"Answer (extractive):
+Document ID: 25447567
+
+Obese patients with idiopathic pulmonary fibrosis (IPF) have higher 90-day mortality after lung transplantation. We sought to determine whether body mass index (BMI) differentially modified the effect of transplant procedure type on 90-day mortality in IPF patients.
+
+We analyzed data from the Organ Procurement and Transplantation Network (OPTN) for all patients with IPF who ... 
+Document ID: 27513656
+
+Bleeding in ACS patients is an independent marker of adverse outcomes. Its prognostic impact is even worse in elderly population. Current bleeding risk scores include chronological age but do not consider biologic vulnerability. No studies have assessed the effect of frailty on major bleeding. The aim of this study is to determine whether frailty status increases bleeding ri... 
+Document ID: 27491833
+
+A high serum angiopoietin-like 2 (ANGPTL2) concentration is an independent risk factor for developing diabetes and is associated with insulin resistance and atherosclerosis. In this work, we have examined the impact of serum ANGPTL2 on improving cardiovascular (CV) risk stratification in patients with type 2 diabetes.
+
+A prospective, monocentric cohort of consecutive type 2 ... 
+Document ID: 27508345
+
+Excessive time between the first presentation of symptoms of pulmonary tuberculosis (PTB) and diagnosis contributes to ongoing transmission and increased risk of infection in the community, as well as to increased disease severity and higher mortality. People with type 2 diabetes mellitus (T2DM) have a higher risk of developing PTB. However, the effect of T2DM on delayed dia... 
+Document ID: 25443010
+
+Various techniques and devices have been proposed for tricuspid valve (TV) repair in patients with tricuspid regurgitation (TR). However, residual or recurrent TR is not uncommon occurring in 20% to 30% of patients. This study reports first experiences with a new three-dimensional annuloplasty ring.
+
+We retrospectively reviewed 200 consecutive patients who underwent TV repai...",Our results suggest that obese patients who receive a BLT may be at higher risk of 90-day mortality compared with patients of normal weight. Further study is needed to obtain more detailed information about comorbidities and other risk factors for early death that are not included in the OPTN database.,"['Obese patients with idiopathic pulmonary fibrosis (IPF) have higher 90-day mortality after lung transplantation. We sought to determine whether body mass index (BMI) differentially modified the effect of transplant procedure type on 90-day mortality in IPF patients. We analyzed data from the Organ Procurement and Transplantation Network (OPTN) for all patients with IPF who were transplanted between 2000 and 2010. Post-transplant survival was examined using Kaplan-Meier estimates. Multivariable logistic regression modeling was used to determine the difference in 90-day survival. The primary variable of interest was the interaction term between body mass index (BMI) and transplant type. A total of 3,389 (58% single-lung transplant [SLT] and 42% bilateral lung transplant [BLT]) subjects were included. Multivariable logistic regression modeling demonstrated a statistically significant interaction between BMI and transplant type (p = 0.047). Patients with a BMI > 30 kg/m(2) who received a BLT are 1.71 times (95% CI [1.03 to 2.85], p = 0.038) more likely to die within 90 days than BLT recipients with a BMI of 18.5 to 30 kg/m(2).']",0.0,1.0,0.4697648286819458
+Does promoter variant rs2301228 on the neural cell adhesion molecule 1 gene confer risk of schizophrenia in Han Chinese?,"Answer (extractive):
+Document ID: 25445624
+
+Schizophrenia is recognized as a disorder of the brain and neuronal connectivity. The neural cell adhesion molecule 1 (NCAM1) gene plays a crucial role in regulating neuronal connectivity.
+
+We conducted a two-stage association analysis on 17 NCAM1 SNPs in two independent Han Chinese schizophrenia case-control cohorts (discovery sample from Hunan Province: 986 patients and 10... 
+Document ID: 25442300
+
+Ginsenoside Rg3 is one of the active ingredients isolated from Panax ginseng C.A. Meyer. Previous studies demonstrated that Rg3 has antioxidant and neuroprotective abilities.
+
+The purpose of this study was to evaluate the protective effect of Rg3 on erectile function in streptozotocin (STZ)-induced diabetic rats.
+
+Two-month-old Sprague-Dawley male rats received a one-time in... 
+Document ID: 25441644
+
+Prostaglandin D2 (PGD2) and cysteinyl leukotrienes (cysLTs) are lipid mediators derived from mast cells, which activate TH2 cells. The combination of PGD2 and cysLTs (notably cysteinyl leukotriene E4 [LTE4]) enhances TH2 cytokine production. However, the synergistic interaction of cysLTs with PGD2 in promoting TH2 cell activation is still poorly understood. The receptors for... 
+Document ID: 25435628
+
+A Chinese herb Corydalis yanhusuo W.T. Wang that showed anticancer and anti-angiogenesis effects in our previous studies was presented for further studies. In the present study, we studied the anticancer proliferation and adhesion effects of five alkaloids which were isolated from Corydalis yanhusuo.
+
+MTT dose response curves, cell migration assay, cell invasion assay, as we... 
+Document ID: 25435921
+
+Although Alzheimer's disease (AD) is associated with early death, its life expectancy differs greatly between patients. A better understanding of this heterogeneity may reveal important disease mechanisms underlying the malignancy of AD. The aim of this study was to examine the relation between AD pathologies and early death in AD caused by dementia.
+
+At a memory clinic, 247...","Our results provide direct evidence for NCAM1 as a susceptibility gene for schizophrenia, which offers support to a neurodevelopmental model and neuronal connectivity hypothesis in the onset of schizophrenia.","['Schizophrenia is recognized as a disorder of the brain and neuronal connectivity. The neural cell adhesion molecule 1 (NCAM1) gene plays a crucial role in regulating neuronal connectivity. We conducted a two-stage association analysis on 17 NCAM1 SNPs in two independent Han Chinese schizophrenia case-control cohorts (discovery sample from Hunan Province: 986 patients and 1040 normal controls; replication sample from Yunnan Province: 564 cases and 547 healthy controls). Allele, genotype and haplotype frequencies were compared between case and control samples. Transcription factor binding site prediction and luciferase reporter assays were employed to assess the potential function of promoter SNPs. We detected developmental changes at the transcriptional level of NCAM1 during neuron differentiation in Macaca mulatta neural progenitor cells (NPC). Serum levels of NCAM1 were measured in 72 cases and 88 controls. A promoter variant, rs2301228, was found to be associated with schizophrenia at the allelic level and was validated in a replication cohort. Luciferase reporter assays demonstrated that risk allele rs2301228-A significantly down-regulated NCAM1 gene transcription compared to the G-allele. Concordantly, schizophrenia patients had a significantly lower level of serum NCAM1 compared to healthy donors. During the NPC neuronal differentiation, NCAM1 mRNA was significantly increased, suggesting a critical role of this gene in neural development.']",0.0,1.0,0.48376548290252686
+Are [ Higher nitric oxide levels associated with disease activity in Egyptian rheumatoid arthritis patients ]?,"Answer (extractive):
+Document ID: 25445628
+
+Oxidative stress generated within inflammatory joints can produce autoimmune phenomena and joint destruction. Radical species with oxidative activity, including reactive nitrogen species, represent mediators of inflammation and cartilage damage.
+
+To assess serum nitric oxide as a marker of oxidative stress in Egyptian patients with rheumatoid arthritis and its relation to di... 
+Document ID: 25425494
+
+The objective of the study was to evaluate work disability and its main associated factors in patients with early arthritis. Argentine Consortium for Early Arthritis (CONAART) is the first early arthritis cohort in Argentina. Patients with one or more swollen joints and less than 2 years of symptoms duration were followed up prospectively in 13 departments of rheumatology. S... 
+Document ID: 25452308
+
+Epigenetic modifications play an important role in the regulation of gene transcription and cellular function. Here, we examined if pro-inflammatory factors present in the inflamed joint of patients with rheumatoid arthritis (RA) could regulate histone deacetylase (HDAC) expression and function in fibroblast-like synoviocytes (FLS).
+
+Protein acetylation in synovial tissue wa... 
+Document ID: 27503947
+
+To evaluate the relationship between pro-atherogenic biomarkers and epicardial adipose tissue (EAT) thickness in patients with cardiovascular risk factors.
+
+Plasma nitric oxide (NO), soluble intercellular adhesion molecule-1 and malondialdehyde (MDA) levels, EAT thickness, flow-mediated dilation (FMD) and carotid intima media thickness (CIMT) were determined in patients aged... 
+Document ID: 27497911
+
+Coronary artery disease (CAD) is a major problem worldwide. As an endothelium-enriched microRNA (miRNA), miR-126 has been reported to serve as a potential biomarker of acute myocardial infarction. However, the relationship between miR-126 and the severity of CAD remains unknown. This study was designed to test whether circulating miR-126 levels are associated with the severi...","There are increased levels of nitric oxide in the serum of patients with rheumatoid arthritis. Nitric oxide correlates significantly with disease activity, inflammatory markers and radiological joint status.","['Oxidative stress generated within inflammatory joints can produce autoimmune phenomena and joint destruction. Radical species with oxidative activity, including reactive nitrogen species, represent mediators of inflammation and cartilage damage. To assess serum nitric oxide as a marker of oxidative stress in Egyptian patients with rheumatoid arthritis and its relation to disease activity. 80 patients with rheumatoid arthritis were divided into 2 groups, according to the DAS-28 score: Group I: 42 patients with disease activity, and Group II: 38 patients with no disease activity. Forty age- and sex-matched individuals were included as control group (Group III). Routine laboratory investigations were done, and nitric oxide was measured using Elisa. Hand plain radiographies were done for radiological status scoring using the Sharp method. A comparison between nitric oxide in all three groups showed a highly significant difference (p < 0.001), significantly higher levels were obtained among rheumatoid arthritis patients in comparison to controls, and higher levels were obtained in patients with active disease (mean±SD 82.38±20.46) in comparison to patients without active disease (35.53±7.15). Nitric oxide in Group I showed a significant positive correlation with morning stiffness (r=0.45), arthritis (r=0.43), platelet count (r=0.46), erythrocyte sedimentation rate (r=0.83), C-reactive protein (r=0.76) and Disease Activity Score (r=0.85). Nitric oxide showed a significant positive correlation (r=0.43) with hand radiographies (Sharp score) in Group I.']",0.0,1.0,0.6413350105285645
+Does increased Syk phosphorylation lead to overexpression of TRAF6 in peripheral B cells of patients with systemic lupus erythematosus?,"Answer (extractive):
+Document ID: 25432781
+
+Activation of B cells is a hallmark of systemic lupus erythematosus (SLE). Syk and TRAF6 are key signaling molecules in B-cell activation through BCR and CD40/TLR, respectively. Nevertheless, whether expression of Syk and TRAF6 is altered in SLE B cells remains unknown.
+
+Phosphorylation and/or expression of Syk and TRAF6 were analyzed by flow cytometry in peripheral blood mo... 
+Document ID: 25446283
+
+Vein bypass is an essential therapy for patients with advanced peripheral and coronary artery disease despite development of neointimal hyperplasia. We have shown that stimulation of the receptor tyrosine kinase ephrin type-B receptor 4 (Eph-B4) with its ligand ephrin-B2 prevents neointimal hyperplasia in murine vein grafts. This study determines whether Eph-B4 in adult huma... 
+Document ID: 27510602
+
+Statins have been proposed as a potential treatment for systemic lupus erythematosus (SLE) due to their immunomodulatory properties, their role restoring endothelial function and preventing atherosclerosis. We evaluate the effect of a short period treatment with a low dose of atorvastatin and its withdrawal on early stage subclinical atherosclerosis.
+
+Thirty-seven SLE female... 
+Document ID: 27507882
+
+Acute lymphoblastic leukemia (ALL) makes up a significant proportion of all pediatric cancers, and relapsed ALL is a leading cause of cancer-associated deaths in children. Identification of risk factors and druggable molecular targets in ALL can lead to a better stratification of treatments and subsequent improvement in prognosis.
+
+We enrolled 59 children with relapsed or pr... 
+Document ID: 25439526
+
+To investigate whether serum anti-high mobility group box 1 (anti-HMGB1) antibodies are related to the development of skin lesions in systemic lupus erythematosus (SLE).
+
+This study involved 21 SLE patients with skin lesions, 18 without skin lesions, and 22 healthy controls. The presence and serum levels of anti-HMGB1-IgG and -IgM were measured by western blot and enzyme-lin...","Our results suggest that the activated Syk-mediated TRAF6 pathway leads to aberrant activation of B cells in SLE, and also highlight Syk as a potential target for B-cell-mediated processes in SLE.","['Activation of B cells is a hallmark of systemic lupus erythematosus (SLE). Syk and TRAF6 are key signaling molecules in B-cell activation through BCR and CD40/TLR, respectively. Nevertheless, whether expression of Syk and TRAF6 is altered in SLE B cells remains unknown. Phosphorylation and/or expression of Syk and TRAF6 were analyzed by flow cytometry in peripheral blood mononuclear cells isolated from SLE patients. Pronounced phosphorylation and expression of Syk were noted in B cells from SLE patients compared with healthy donors. Levels of Syk phosphorylation correlated with the disease activity score. TRAF6 was significantly over-expressed in B cells of SLE patients as compared with healthy donors, and significant correlation of levels of TRAF6 expression and Syk phosphorylation was observed in SLE patients. Levels of TRAF6 expression were more pronounced in CD27+ memory B cells than in CD27-naïve B cells. In vitro treatment of SLE B cells with a Syk inhibitor (BAY61-3606) reduced Syk phosphorylation as well as TRAF6 expression.']",0.0,0.8,0.5905681252479553
+Are reasons why erupted third molars extracted in a public university in Mexico?,"Answer (extractive):
+Document ID: 25429481
+
+The aim of this study was to determine the reasons for which erupted third molars (3M) are extracted in a sample of Mexican patients.
+
+A retrospective cross-sectional study was performed on a sample of 83 patients attending exodontia (minor oral surgery) clinics of a public university in Mexico (Autonomous University of Hidalgo State). The outcome variable was the reason for... 
+Document ID: 27519883
+
+There are conflicting results for relationships between serum vitamin D levels and metabolic diseases. The aim of this study was to investigate whether serum vitamin D levels were associated with various metabolic diseases including insulin resistance (IR), metabolic syndrome (MS), fatty liver (FL), and coronary artery calcification (CAC), along with assessing gender differe... 
+Document ID: 25431836
+
+The rubber tree, Hevea brasiliensis, is a major commercial source of natural rubber. Increasing the rubber yield of rubber trees is a very serious problem since the demands for high quality rubber materials are great. Establishment of a tapping system is based on an estimate of tapping intensity from the rubber tree. Latex flowing time is one of the most critical factors tha... 
+Document ID: 27509667
+
+The aim of this review is to discuss the possibilities and disadvantages of the techniques for visual inspection of the uterine cervix with acetic acid (VIA) and with Lugol's iodine (VILI) for early detection of cervical neoplasia. Efficient cervical screening method, approved in practice, is cytology--PAP smear. The lack of organized screening program in Bulgaria is the rea... 
+Document ID: 25423132
+
+Glial cell line-derived neurotrophic factor (GDNF) and N-cadherin interact to transduce intracellular signals. However, the specific molecular mechanisms of this interaction are unclear. This study attempted to detect changes in GDNF-induced β-catenin phosphorylation and nuclear translocation in C6 glioma cells.
+
+C6 glioma cells were treated with GDNF (70 ng/mL) and membrane...","Women and patients 18 to 34 years of age had erupted 3M extracted more frequently, primarily for prosthetic reasons. The age profile indicated a trend in demand for services that differ from those of overall tooth extractions, but not for the trend across gender.","[""The aim of this study was to determine the reasons for which erupted third molars (3M) are extracted in a sample of Mexican patients. A retrospective cross-sectional study was performed on a sample of 83 patients attending exodontia (minor oral surgery) clinics of a public university in Mexico (Autonomous University of Hidalgo State). The outcome variable was the reason for extractions using Kay and Blinkhorn's classification. The independent variables were age, gender, arch and tooth number according to the World Health Organization (WHO). For statistical analysis, we used the Chi-squared test in Stata 9.0. Eighty-three patients underwent 150 3M extractions. Mean age was 38.67 ± 13.96 years, and 71.1% were female. The four reasons for 3M extraction were prosthetic (44.0%), followed by orthodontic (24.7%), dental caries (20.0%) and periodontal disease (11.3%). Differences were observed in the reasons for 3M extractions across age groups (p < 0.05). No significant differences existed between men and women (p > 0.05), or the WHO tooth number (p > 0.05).""]",0.0,1.0,0.47169479727745056
+Does the Boston keratoprosthesis provide a wide depth of focus?,"Answer (extractive):
+Document ID: 25424372
+
+To measure the through-focus curve for eyes implanted with a type 1 Boston keratoprosthesis (KPro) and compare it to that of pseudophakic controls with fixed pupil sizes. The results should assist in evaluating postoperative visual quality after surgery. They should also help to determine the necessary KPro inventories in terms of refractive power steps.
+
+Autorefraction and ... 
+Document ID: 25432866
+
+Young people in Tanzania are known to access reproductive health services from a range of close-to-community providers outside formal health settings such as drug stores, village AIDS committees, traditional healers and traditional birth attendants (TBAs). However, questions remain about the quality of services such agents provide. This study investigated their capacity to p... 
+Document ID: 27502401
+
+Transcriptome analysis may provide means to investigate the underlying genetic causes of shared and divergent phenotypes in different populations and help to identify potential targets of adaptive evolution. Applying RNA sequencing to whole male Drosophila melanogaster from the ancestral tropical African environment and a very recently colonized cold-temperate European envir... 
+Document ID: 27514407
+
+It is well established that environmental toxins, such as exposure to arsenic, are risk factors in the development of urinary bladder cancer, yet recent genome-wide association studies (GWAS) provide compelling evidence that there is a strong genetic component associated with disease predisposition. A single-nucleotide polymorphism (SNP), rs8102137, was identified on chromos... 
+Document ID: 25431309
+
+Up to 3% of infants with bronchiolitis under 12 months of age are hospitalised, and up to 9% require intensive care. We evaluated the costs of bronchiolitis hospitalisation, with a special focus on whether infants needed intensive care.
+
+Baseline and cost data were retrospectively collected, using electronic hospital files, for 80 infants under 12 months old who were treated...",The KPro's wide depth-of-focus makes the visual acuity less dependent on an exact refractive correction at distance and explains the 'pseudoaccomodation' experienced by these patients. This is primarily due to the small pupil diameter of the KPro. The current manufacturing steps in 0.50 dioptre increments appears to be sufficient.,"['To measure the through-focus curve for eyes implanted with a type 1 Boston keratoprosthesis (KPro) and compare it to that of pseudophakic controls with fixed pupil sizes. The results should assist in evaluating postoperative visual quality after surgery. They should also help to determine the necessary KPro inventories in terms of refractive power steps. Autorefraction and manifest refraction were performed on all eyes. The monocular through-focus acuity curve was plotted in reference to the best-corrected visual acuity by spectacle plane defocus ranging from +5.00 to -5.00\xa0dioptres in 0.50\xa0dioptre increments. These measurements were obtained on KPro-implanted eyes, pseudophakic eyes as controls, and on the same control eyes after fixing the pupil diameter to 3 and 2\xa0mm using black painted iris contact lenses. Ten KPro eyes and five control eyes were included. Good agreement was noted between the subjective refractions and autorefraction in KPro eyes. The average through-focus curve for the control eyes was significantly steeper than that of the KPro curve, but became comparable after fixing the control pupil to 2 and 3\xa0mm.']",0.0,1.0,0.48303836584091187
+Do large portion sizes increase bite size and eating rate in overweight women?,"Answer (extractive):
+Document ID: 25449410
+
+Larger food portions lead to increased intake but the mechanism behind this effect is unclear. We investigated the effect of portion size on bite size, eating rate, deceleration rate, and meal duration.
+
+Thirty-seven overweight women attended 5 visits after a 3 h fast and consumed a 229, 303, 400, 529 or 700 g portion of a lunch meal in random order. Meal eating parameters w... 
+Document ID: 25433917
+
+Decreases in mate and/or pollinator availability would be expected to affect the selective pressure on plant mating systems. An increase in self-fertilization may evolve to compensate for the negative effects of pollination failure. However, the benefit of selfing in variable pollination environments depends on the relative fitnesses of selfed and outcrossed progeny. We inve... 
+Document ID: 27507659
+
+Previous studies have shown that birth order is an important predictor of later life health as well as socioeconomic attainment. In this study, we examine the relationship between birth order and hospitalization for alcohol and narcotics use in Sweden.
+
+We study the relationship between birth order and hospitalization related to alcohol and narcotics use before and after the... 
+Document ID: 27496914
+
+Modular junctions are ubiquitous in contemporary hip arthroplasty. The head-trunnion junction is implicated in the failure of large diameter metal-on-metal (MoM) hips which are the currently the topic of one the largest legal actions in the history of orthopaedics (estimated costs are stated to exceed $4 billion). Several factors are known to influence the strength of these ... 
+Document ID: 27501808
+
+Bracing is a common treatment for patients with adolescent idiopathic scoliosis (AIS) and is recommended for most skeletally immature patients with a curve of 25-45° in order to prevent or delay curve progression. The aim of this study was to determine at which body habitus orthotic management for AIS becomes less effective. We hypothesize that overweight children are more l...","Increasing portion size led to a larger bite size and faster eating rate, but a slower reduction in eating speed during the meal. These changes may underlie greater energy intakes with exposure to large portions. Interventions to reduce bite size and slow eating rate may provide individuals with strategies to reduce the risk of overconsumption.","['Larger food portions lead to increased intake but the mechanism behind this effect is unclear. We investigated the effect of portion size on bite size, eating rate, deceleration rate, and meal duration. Thirty-seven overweight women attended 5 visits after a 3 h fast and consumed a 229, 303, 400, 529 or 700 g portion of a lunch meal in random order. Meal eating parameters were measured with the Sussex Ingestion Pattern Monitor. Data were analyzed with mixed effects models. Average bite size increased by 0.22 g for every 100 g increase in portion size (p=0.001); portion size had a non-linear effect on eating rate, increasing with portion sizes up to about 540 g (p=0.01). Deceleration rate (reduction in speed of eating) decreased by 20% (p<0.001) and meal duration increased by 22.5% for every 100 g increase in portion size (p<0.001), relative to the smallest portion.']",0.0,1.0,0.472909152507782
+Are routine preoperative restaging CTs after neoadjuvant chemoradiation for locally advanced rectal cancer low yield : a retrospective case study?,"Answer (extractive):
+Document ID: 25448648
+
+Pre-operative restaging CT scans are often performed routinely following neoadjuvant chemoradiotherapy for locally advanced rectal cancer. There is a paucity of data on the utility of this common practice. We sought to determine how often restaging CTs identified disease progression or regression that altered management.
+
+We performed a single-institution retrospective study... 
+Document ID: 25440680
+
+Patients with familial adenomatous polyposis (FAP) are prone to developing duodenal adenoma and cancer. Optimal surveillance and management of these adenomas are not well established.
+
+We assessed the outcome of FAP patients undergoing intense multimodal surveillance and subsequent endoscopic resection of advanced lesions.
+
+Eighty consecutive FAP patients enrolled during 200... 
+Document ID: 25451952
+
+Certain circulating cells have been shown to predict the clinical outcome of several cancers. The objective of this study was to identify clinical, hematological and immunological predictors of prognosis in non-small cell lung cancer (NSCLC) patients.
+
+A retrospective study on a prevalent cohort of 225 NSCLC patients hospitalized at the Zhejiang Province Cancer Hospital (ZPC... 
+Document ID: 27491044
+
+To investigate the surgical results of macular hole surgery without gas tamponade or postoperative posturing in patients with Stage 3 and Stage 4 macular holes with ≥500 μm mean base diameter.
+
+Retrospective interventional case series.
+
+Twenty-six patients with Stage 3 and Stage 4 macular holes.
+
+Twenty-six eyes of 26 patients with Stage 3 and Stage 4 macular holes and a mea... 
+Document ID: 25426940
+
+Suboptimal adherence to antiretroviral therapy (ART) is a strong predictor of virologic failure (VF) among people with HIV. Various methods such as patient self-report, pill counts and pharmacy refills have been utilized to monitor adherence. However, there are limited data on the accuracy of combining methods to better predict VF in routine clinical settings. We examined va...","Because of the financial costs and established risks of intravenous contrast and cumulative radiation exposure, it may be advisable to take a more selective approach to preoperative imaging. Larger, prospective studies may enable identification of an at-risk cohort who would benefit most from restaging CT.","['Pre-operative restaging CT scans are often performed routinely following neoadjuvant chemoradiotherapy for locally advanced rectal cancer. There is a paucity of data on the utility of this common practice. We sought to determine how often restaging CTs identified disease progression or regression that altered management. We performed a single-institution retrospective study. From 2007 to 2011, 182 patients had newly-diagnosed, non-metastatic rectal adenocarcinoma, of which 96 were surgical candidates with clinical stage II/III disease. Ninety-one of these patients (95%) completed neoadjuvant chemoradiation. Eighty-three out of 91 patients (91%) had restaging CTs. Four patients (5%) had new lesions suspicious for distant metastasis (2 lung, 2 liver) on restaging CT scan reports (1 of these was present on initial staging CT but not reported). All 4 patients had node-positive disease. In no case did restaging CT result in a change in surgical management.']",0.0,1.0,0.41261130571365356
+Does pancreatic polypeptide regulate glucagon release through PPYR1 receptors expressed in mouse and human alpha-cells?,"Answer (extractive):
+Document ID: 25445712
+
+Plasma levels of pancreatic polypeptide (PP) rise upon food intake. Although other pancreatic islet hormones, such as insulin and glucagon, have been extensively investigated, PP secretion and actions are still poorly understood.
+
+The release of PP upon glucose stimulation and the effects of PP on glucagon and insulin secretion were analyzed in isolated pancreatic islets. Ex... 
+Document ID: 25423568
+
+Anaplastic thyroid carcinoma (ATC) is one of the most deadly human malignancies. It is 99% lethal, and patients have a median survival of only 6 months after diagnosis. Despite these grim statistics, the mechanism underlying the tumorigenic capability of ATC cells is unclear.
+
+S100A8 and S100A9 proteins have emerged as critical mediators in cancer. The aim was to investigate... 
+Document ID: 27496865
+
+Lung adenocarcinomas with mutations in the epidermal growth factor receptor (EGFR) have unprecedented initial responses to targeted therapy against the EGFR. Over time, however, these tumors invariably develop resistance to these drugs. We set out to investigate alternative treatment approaches for these tumors.
+
+To investigate the immunologic underpinnings of EGFR mutant lu... 
+Document ID: 27493455
+
+Primary human hepatocytes offer the best human in vitro model for studies on human liver cell metabolism. Investigators use a variety of different media supplements and matrix biocoatings and the type of culture system used may influence the outcome.
+
+To optimize in vitro conditions for primary human hepatocytes with regard to bile acid synthesis.
+
+Human hepatocytes were iso... 
+Document ID: 25450180
+
+Non-alcoholic steatohepatitis (NASH) is a subset of non-alcoholic fatty liver disease, the most common chronic liver disease in the U.S. Fibrosis, a common feature of NASH, results from the dysregulation of fibrogenesis in hepatic stellate cells (HSCs). In this study, we investigated whether astaxanthin (ASTX), a xanthophyll carotenoid, can inhibit fibrogenic effects of tran...",Glucose stimulates PP secretion and PP inhibits glucagon release in mouse pancreatic islets. PP receptors are present in alpha-cells of mouse and human pancreatic islets.,"['Plasma levels of pancreatic polypeptide (PP) rise upon food intake. Although other pancreatic islet hormones, such as insulin and glucagon, have been extensively investigated, PP secretion and actions are still poorly understood. The release of PP upon glucose stimulation and the effects of PP on glucagon and insulin secretion were analyzed in isolated pancreatic islets. Expression of PP receptor (PPYR1) was investigated by immunoblotting, quantitative RT-PCR on sorted pancreatic islet cells, and immunohistochemistry. In isolated mouse pancreatic islets, glucose stimulation increased PP release, while insulin secretion was up and glucagon release was down. Direct exposure of islets to PP inhibited glucagon release. In mouse islets, PPYR1 protein was observed by immunoblotting and quantitative RT-PCR revealed PPYR1 expression in the FACS-enriched glucagon alpha-cell fraction. Immunohistochemistry on pancreatic sections showed the presence of PPYR1 in alpha-cells of both mouse and human islets, while the receptor was absent in other islet cell types and exocrine pancreas.']",0.0,0.0,0.5218461751937866
+Do two decades of British newspaper coverage regarding attempt cardiopulmonary resuscitation decisions : Lessons for clinicians?,"Answer (extractive):
+Document ID: 25449344
+
+To review UK newspaper reports relating to Do Not Attempt Cardiopulmonary Resuscitation (DNACPR) decisions in order to identify common themes and encourage dialogue.
+
+An online media database (LexisNexis(®)) was searched for UK Newspaper articles between 1993 and 2013 that referenced DNACPR decisions. Legal cases, concerning resuscitation decisions, were identified using two... 
+Document ID: 25447436
+
+During cardiopulmonary resuscitation (CPR), myocardial blood flow generated by chest compression rarely exceeds 35% of its normal level. Cardiac output generated by chest compression decreases gradually with the prolongation of cardiac arrest and resuscitation. Early studies have demonstrated that myocardial blood flow during CPR is largely dependent on peripheral vascular r... 
+Document ID: 25442036
+
+To describe the long-term outcomes from a completed, multi-institutional phase 4 registry trial using the Contura multilumen balloon (CMLB) breast brachytherapy catheter to deliver accelerated partial breast irradiation (APBI) in patients with early-stage breast cancer.
+
+Three hundred forty-two evaluable patients were enrolled by 23 institutions between January 2008 and Febr... 
+Document ID: 27493094
+
+Inspired by the limited facility of the Penn classification, the authors aimed to determine a rapid and optimal preoperative assessment tool to predict surgical mortality after acute Stanford type-A aortic dissection (AAAD) repair.
+
+Patients who underwent an attempted surgical repair of AAAD were determined using a de-identified single institution database. The charts of 144... 
+Document ID: 25433681
+
+Most burns happen in low- and middle-income countries. In India, deaths related to burns are more common in women than in men and occur against a complex background in which the cause - accidental or non-accidental, suicidal or homicidal - is often unclear. Our study aimed to understand the antecedents to burns and the problem of ascribing cause, the sequence of medicolegal ...","Regarding DNACPR decision-making, the predominant theme was perceived lack of patient involvement, and, more recently, lack of surrogate involvement. Negative language was common, especially when decisions were presumed unilateral. Increased dialogue, and shared decision-making, is recommended.","['To review UK newspaper reports relating to Do Not Attempt Cardiopulmonary Resuscitation (DNACPR) decisions in order to identify common themes and encourage dialogue. An online media database (LexisNexis(®)) was searched for UK Newspaper articles between 1993 and 2013 that referenced DNACPR decisions. Legal cases, concerning resuscitation decisions, were identified using two case law databases (Lexis Law(®) and Westlaw(®)), and referenced back to newspaper publications. All articles were fully reviewed. Three hundred and thirty one articles were identified, resulting from 77 identifiable incidents. The periods 2000-01 and 2011-13 encompassed the majority of articles. There were 16 high-profile legal cases, nine of which resulted in newspaper articles. Approximately 35 percent of newspaper reports referred to DNACPR decisions apparently made without adequate patient and/or family consultation. ""Ageism"" was referred to in 9 percent of articles (mostly printed 2000-02); and ""discrimination against the disabled"" in 8 percent (mostly from 2010-12). Only five newspaper articles (2 percent) discussed patients receiving CPR against their wishes. Eighteen newspaper reports (5 percent) associated DNACPR decisions with active euthanasia.']",0.0,1.0,0.4259335398674011

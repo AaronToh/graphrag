@@ -14,6 +14,7 @@ from haystack.components.evaluators.sas_evaluator import SASEvaluator
 from haystack.evaluation.eval_run_result import EvaluationRunResult
 from haystack.components.generators.chat import OpenAIChatGenerator
 from haystack.utils import Secret
+from sentence_transformers import SentenceTransformer, util
 
 
 def create_faithfulness_evaluator(
@@ -248,6 +249,94 @@ def evaluate_with_defaults(
         ground_truth_documents=ground_truth_documents,
         **kwargs,
     )
+
+
+def calculate_mrr(
+    ground_truth_documents: List[List[Document]],
+    retrieved_documents: List[List[Document]],
+) -> float:
+    """
+    Calculate Mean Reciprocal Rank (MRR) for a set of queries.
+
+    Args:
+        ground_truth_documents: List of lists of ground truth Documents for each query
+        retrieved_documents: List of lists of retrieved Documents for each query, ranked by relevance
+
+    Returns:
+        The MRR score averaged across all queries
+    """
+    if len(ground_truth_documents) != len(retrieved_documents):
+        raise ValueError("Input lists must have the same length")
+
+    mrr_sum = 0.0
+    num_queries = len(ground_truth_documents)
+
+    for gt_docs, ret_docs in zip(ground_truth_documents, retrieved_documents):
+        if not gt_docs:
+            continue
+
+        gt_contents = {doc.content for doc in gt_docs if doc.content}
+
+        for rank, doc in enumerate(ret_docs, 1):
+            # First try exact matching
+            if doc.content in gt_contents:
+                mrr_sum += 1.0 / rank
+                break
+            
+            # If exact matching fails, try partial matching
+            # Handle case where retrieved docs have "Document ID: XXXXX" prefix
+            doc_content = doc.content
+            if doc_content.startswith("Document ID:"):
+                # Extract content after the document ID line
+                lines = doc_content.split('\n', 1)
+                if len(lines) > 1:
+                    doc_content = lines[1].strip()
+            
+            # Check if any ground truth content is contained in the retrieved document
+            for gt_content in gt_contents:
+                if gt_content.strip() in doc_content or doc_content in gt_content.strip():
+                    mrr_sum += 1.0 / rank
+                    break
+            else:
+                continue
+            break
+
+    return mrr_sum / num_queries if num_queries > 0 else 0.0
+
+
+def calculate_sas(
+    predicted_answers: List[str],
+    ground_truth_answers: List[str],
+    model_name: str = "sentence-transformers/all-MiniLM-L6-v2",
+) -> float:
+    """
+    Calculate average Semantic Answer Similarity (SAS) score.
+
+    Args:
+        predicted_answers: List of predicted answers
+        ground_truth_answers: List of ground truth answers
+        model_name: Sentence Transformers model to use
+
+    Returns:
+        Average SAS score (cosine similarity) across all pairs
+    """
+    if len(predicted_answers) != len(ground_truth_answers):
+        raise ValueError("Input lists must have the same length")
+
+    model = SentenceTransformer(model_name)
+    sas_scores = []
+
+    for pred, gt in zip(predicted_answers, ground_truth_answers):
+        if not pred or not gt:
+            sas_scores.append(0.0)
+            continue
+
+        pred_emb = model.encode(pred)
+        gt_emb = model.encode(gt)
+        similarity = util.cos_sim(pred_emb, gt_emb)[0][0].item()
+        sas_scores.append(similarity)
+
+    return sum(sas_scores) / len(sas_scores) if sas_scores else 0.0
 
 
 if __name__ == "__main__":

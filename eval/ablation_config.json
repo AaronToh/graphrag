@@ -6,67 +6,52 @@
     "description": "Baseline system with no pruning"
   },
   {
-    "name": "prune_top_k_50",
-    "artifacts_path": "workspace/pruned_top_k_50",
-    "pruning_strategy": "top_k",
-    "k": 50,
-    "target": "nodes",
-    "description": "Keep top 50% of nodes by degree centrality"
-  },
-  {
-    "name": "prune_top_k_70",
-    "artifacts_path": "workspace/pruned_top_k_70",
-    "pruning_strategy": "top_k",
-    "k": 70,
-    "target": "nodes",
-    "description": "Keep top 70% of nodes by degree centrality"
-  },
-  {
-    "name": "prune_threshold",
-    "artifacts_path": "workspace/pruned_threshold",
-    "pruning_strategy": "threshold",
-    "threshold": 0.5,
-    "target": "nodes",
-    "description": "Keep nodes with score > 0.5"
-  },
-  {
-    "name": "prune_edges_top_5",
-    "artifacts_path": "workspace/pruned_edges_top_5",
-    "pruning_strategy": "top_k",
-    "k": 5,
-    "target": "edges",
-    "description": "Keep top 5 edges per node"
-  },
-  {
-    "name": "combined_pruning",
-    "artifacts_path": "workspace/pruned_combined",
-    "pruning_strategy": "combined",
-    "node_k": 70,
-    "edge_k": 5,
-    "description": "Combined node (70%) and edge (top 5) pruning"
-  },
-  {
-    "name": "crumbtrail_aggressive",
-    "artifacts_path": "workspace/output/pruned_crumbtrail_aggressive",
-    "pruning_strategy": "crumbtrail",
-    "protected_fraction": 0.1,
-    "protected_selection": "degree_centrality",
-    "description": "CrumbTrail with 10% protected nodes (aggressive pruning)"
-  },
-  {
-    "name": "crumbtrail_default",
-    "artifacts_path": "workspace/output/pruned_crumbtrail",
-    "pruning_strategy": "crumbtrail",
-    "protected_fraction": 0.2,
-    "protected_selection": "degree_centrality",
-    "description": "CrumbTrail with 20% protected nodes (default)"
-  },
-  {
     "name": "crumbtrail_conservative",
     "artifacts_path": "workspace/output/pruned_crumbtrail_conservative",
     "pruning_strategy": "crumbtrail",
     "protected_fraction": 0.3,
     "protected_selection": "degree_centrality",
     "description": "CrumbTrail with 30% protected nodes (conservative)"
+  },
+  {
+    "name": "kgtrimmer_default",
+    "artifacts_path": "workspace/output/pruned_kgtrimmer",
+    "pruning_strategy": "kgtrimmer",
+    "collective_weight": 0.5,
+    "holistic_weight": 0.5,
+    "min_importance_percentile": 0.4,
+    "description": "KGTrimmer with default parameters (40% keep - more conservative)"
+  },
+  {
+    "name": "pathrag_hybrid",
+    "artifacts_path": "workspace/output/pruned_pathrag_hybrid",
+    "pruning_strategy": "pathrag_hybrid",
+    "path_method": "pathrag",
+    "top_n_nodes": 500,
+    "top_k_paths": 5000,
+    "node_retention_pct": 0.3,
+    "node_scoring_method": "degree_centrality",
+    "description": "PathRAG hybrid: paths + top 30% nodes by centrality"
+  },
+  {
+    "name": "pog_hybrid",
+    "artifacts_path": "workspace/output/pruned_pog_hybrid",
+    "pruning_strategy": "pog_hybrid",
+    "path_method": "pog",
+    "num_seeds": 300,
+    "top_k_paths": 5000,
+    "node_retention_pct": 0.3,
+    "node_scoring_method": "degree_centrality",
+    "description": "POG hybrid: paths + top 30% nodes by centrality"
+  },
+  {
+    "name": "adaptive_multi_strategy",
+    "artifacts_path": "workspace/output/pruned_adaptive_multi_strategy",
+    "pruning_strategy": "adaptive_multi_strategy",
+    "target_reduction": 0.55,
+    "min_connectivity_pct": 0.90,
+    "protected_fraction": 0.15,
+    "hub_degree_percentile": 0.80,
+    "description": "Adaptive Multi-Strategy: combines CrumbTrail, KGTrimmer, PathRAG/POG signals with region-specific pruning"
   }
 ]

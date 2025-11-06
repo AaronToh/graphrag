@@ -1,0 +1,22 @@
+{
+  "baseline": {
+    "system_name": "Baseline",
+    "faithfulness_score": 1.0,
+    "sas_score": 0.551408565044403,
+    "mrr_score": 1.0,
+    "avg_response_time": 0.003261566162109375,
+    "total_queries": 5
+  },
+  "pruned": {
+    "system_name": "Pruned",
+    "faithfulness_score": 1.0,
+    "sas_score": 0.551408565044403,
+    "mrr_score": 1.0,
+    "avg_response_time": 0.003311491012573242,
+    "total_queries": 5
+  },
+  "comparison": {
+    "faithfulness_change_pct": 0.0,
+    "response_time_change_pct": 1.5307017543859622
+  }
+}

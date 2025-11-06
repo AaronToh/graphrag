@@ -1,0 +1,25 @@
+{
+  "baseline": {
+    "system_name": "Baseline",
+    "faithfulness_score": 1.0,
+    "sas_score": 0.551408565044403,
+    "mrr_score": 1.0,
+    "avg_response_time": 0.0032517433166503905,
+    "total_queries": 5
+  },
+  "pruned": {
+    "system_name": "Pruned",
+    "faithfulness_score": 1.0,
+    "sas_score": 0.551408565044403,
+    "mrr_score": 1.0,
+    "avg_response_time": 0.003260040283203125,
+    "total_queries": 5
+  },
+  "comparison": {
+    "faithfulness_change_pct": 0.0,
+    "response_time_change_pct": 0.25515441241165715
+  },
+  "method_name": "adaptive_multi_strategy",
+  "timestamp": "2025-11-07T07:20:52.311906",
+  "num_samples": 5
+}
