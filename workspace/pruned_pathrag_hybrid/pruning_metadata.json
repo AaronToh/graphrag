@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-11-07T19:13:56.726593",
+  "method": "pathrag_hybrid",
+  "config": {
+    "top_n_nodes": 500,
+    "top_k_paths": 3000,
+    "max_path_length": 6,
+    "node_retention_pct": 0.45,
+    "node_scoring_method": "degree_centrality",
+    "alpha": 0.8,
+    "theta": 0.02
+  },
+  "baseline_stats": {
+    "num_entities": 47030,
+    "num_relationships": 113352,
+    "num_communities": 5068
+  },
+  "pruned_stats": {
+    "num_entities": 23421,
+    "num_relationships": 91722,
+    "num_communities": 5068
+  }
+}

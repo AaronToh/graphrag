@@ -6,43 +6,60 @@
     "description": "Baseline system with no pruning"
   },
   {
-    "name": "prune_top_k_50",
-    "artifacts_path": "workspace/pruned_top_k_50",
-    "pruning_strategy": "top_k",
-    "k": 50,
-    "target": "nodes",
-    "description": "Keep top 50% of nodes by degree centrality"
+    "name": "crumbtrail",
+    "artifacts_path": "workspace/pruned_crumbtrail",
+    "pruning_strategy": "crumbtrail",
+    "protected_fraction": 0.2,
+    "protected_selection": "degree_centrality",
+    "max_iterations": 1000,
+    "description": "CrumbTrail: Bottom-up iterative layering preserving connectivity"
   },
   {
-    "name": "prune_top_k_70",
-    "artifacts_path": "workspace/pruned_top_k_70",
-    "pruning_strategy": "top_k",
-    "k": 70,
-    "target": "nodes",
-    "description": "Keep top 70% of nodes by degree centrality"
+    "name": "kgtrimmer",
+    "artifacts_path": "workspace/pruned_kgtrimmer",
+    "pruning_strategy": "kgtrimmer",
+    "collective_weight": 0.5,
+    "holistic_weight": 0.5,
+    "min_importance_percentile": 0.45,
+    "preserve_connectivity": true,
+    "max_iterations": 1,
+    "description": "KGTrimmer: Fast combined scoring (~55% reduction target)"
   },
   {
-    "name": "prune_threshold",
-    "artifacts_path": "workspace/pruned_threshold",
-    "pruning_strategy": "threshold",
-    "threshold": 0.5,
-    "target": "nodes",
-    "description": "Keep nodes with score > 0.5"
+    "name": "pathrag_hybrid",
+    "artifacts_path": "workspace/pruned_pathrag_hybrid",
+    "pruning_strategy": "pathrag_hybrid",
+    "top_n_nodes": 500,
+    "top_k_paths": 3000,
+    "max_path_length": 6,
+    "node_retention_pct": 0.45,
+    "node_scoring_method": "degree_centrality",
+    "alpha": 0.8,
+    "theta": 0.02,
+    "description": "PathRAG Hybrid: Path-based + node-based retention"
   },
   {
-    "name": "prune_edges_top_5",
-    "artifacts_path": "workspace/pruned_edges_top_5",
-    "pruning_strategy": "top_k",
-    "k": 5,
-    "target": "edges",
-    "description": "Keep top 5 edges per node"
+    "name": "pog_hybrid",
+    "artifacts_path": "workspace/pruned_pog_hybrid",
+    "pruning_strategy": "pog_hybrid",
+    "num_seeds": 400,
+    "top_k_paths": 4000,
+    "max_path_length": 7,
+    "node_retention_pct": 0.45,
+    "node_scoring_method": "degree_centrality",
+    "seed_method": "degree_centrality",
+    "sbert_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "semantic_threshold": 0.35,
+    "description": "POG Hybrid: Path-based + node-based retention"
   },
   {
-    "name": "combined_pruning",
-    "artifacts_path": "workspace/pruned_combined",
-    "pruning_strategy": "combined",
-    "node_k": 70,
-    "edge_k": 5,
-    "description": "Combined node (70%) and edge (top 5) pruning"
+    "name": "adaptive_multi_strategy",
+    "artifacts_path": "workspace/pruned_adaptive_multi_strategy",
+    "pruning_strategy": "adaptive_multi_strategy",
+    "target_reduction": 0.60,
+    "min_connectivity_pct": 0.85,
+    "protected_fraction": 0.20,
+    "hub_degree_percentile": 0.75,
+    "description": "Adaptive Multi-Strategy: Hybrid-aware aggressive pruning"
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-11-07T19:13:49.927002",
+  "method": "crumbtrail",
+  "config": {
+    "protected_fraction": 0.2,
+    "protected_selection": "degree_centrality",
+    "max_iterations": 1000
+  },
+  "baseline_stats": {
+    "num_entities": 47030,
+    "num_relationships": 113352,
+    "num_communities": 5068
+  },
+  "pruned_stats": {
+    "num_entities": 11765,
+    "num_relationships": 66396,
+    "num_communities": 5068
+  }
+}

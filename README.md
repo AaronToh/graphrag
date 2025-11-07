@@ -206,6 +206,11 @@ graphrag/
    - LLM-based answer generation with OpenAI
    - Metrics: Faithfulness, SAS, MRR, response time
 
+5. **Pruning Strategy Overhaul (Experimental)**
+   - Plain POG/PathRAG pipelines retired in favour of tuned hybrid variants.
+   - KGTrimmer rebuilt with cached/normalised metrics for ~55% reduction targets.
+   - Adaptive Multi-Strategy now blends KG + hybrid signals while enforcing connectivity.
+
 📋 **Next Steps:**
 
 1. **Run validation:** `python pruning/test.py`
