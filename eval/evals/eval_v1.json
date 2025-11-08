@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source_directory": "..\\data\\generated\\local\\generated_answers_local_20251108_164456",
+    "evaluation_timestamp": "2025-11-08T19:30:04.458631",
+    "num_files_evaluated": 11,
+    "files": [
+      "pruned_adaptive_multi_strategy.json",
+      "pruned_adaptive_multi_strategy_tuned.json",
+      "pruned_crumbtrail.json",
+      "pruned_crumbtrail_tuned.json",
+      "pruned_kgtrimmer.json",
+      "pruned_kgtrimmer_tuned.json",
+      "pruned_pathrag_hybrid.json",
+      "pruned_pathrag_hybrid_tuned.json",
+      "pruned_pog_hybrid.json",
+      "pruned_pog_hybrid_tuned.json",
+      "unpruned.json"
+    ]
+  },
+  "results": {
+    "pruned_adaptive_multi_strategy.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.11976047904191617,
+          0.022697888643711438,
+          0.8665876843020349
+        ]
+      },
+      "error": null
+    },
+    "pruned_adaptive_multi_strategy_tuned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.1217564870259481,
+          0.021846777014156694,
+          0.8670692919733044
+        ]
+      },
+      "error": null
+    },
+    "pruned_crumbtrail.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.11377245508982035,
+          0.02013513760058489,
+          0.8646979287950817
+        ]
+      },
+      "error": null
+    },
+    "pruned_crumbtrail_tuned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.11377245508982035,
+          0.02069562898206587,
+          0.8656919097710036
+        ]
+      },
+      "error": null
+    },
+    "pruned_kgtrimmer.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.11976047904191617,
+          0.02203266249300115,
+          0.866433050461158
+        ]
+      },
+      "error": null
+    },
+    "pruned_kgtrimmer_tuned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.12974051896207583,
+          0.0229312981221757,
+          0.8678576031368888
+        ]
+      },
+      "error": null
+    },
+    "pruned_pathrag_hybrid.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.1157684630738523,
+          0.026623303974191815,
+          0.8647247260202191
+        ]
+      },
+      "error": null
+    },
+    "pruned_pathrag_hybrid_tuned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.11976047904191617,
+          0.025867941229628225,
+          0.8657086833032543
+        ]
+      },
+      "error": null
+    },
+    "pruned_pog_hybrid.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.12974051896207583,
+          0.024150647525719517,
+          0.8676659649241708
+        ]
+      },
+      "error": null
+    },
+    "pruned_pog_hybrid_tuned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.13373253493013973,
+          0.02539675475104478,
+          0.8672882499333151
+        ]
+      },
+      "error": null
+    },
+    "unpruned.json": {
+      "aggregated_report": {
+        "metrics": [
+          "answer_exact_match",
+          "doc_mrr_evaluator",
+          "sas_evaluator"
+        ],
+        "score": [
+          0.118,
+          0.023042360672586328,
+          0.8662214661836625
+        ]
+      },
+      "error": null
+    }
+  }
+}
