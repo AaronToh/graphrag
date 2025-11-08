@@ -1,7 +1,0 @@
-Document ID: 27507659
-
-Previous studies have shown that birth order is an important predictor of later life health as well as socioeconomic attainment. In this study, we examine the relationship between birth order and hospitalization for alcohol and narcotics use in Sweden.
-
-We study the relationship between birth order and hospitalization related to alcohol and narcotics use before and after the age of 20 using Swedish register data for cohorts born 1987-1994. We apply Cox proportional hazard models and use sibling fixed effects, eliminating confounding by factors shared by the siblings.
-
-Before age 20 we find that later born siblings are hospitalized for alcohol use at a higher rate than first-borns, and there is a monotonic increase in the hazard of hospitalization with increasing birth order. Second-borns are hospitalized at a rate 47% higher than first-borns, and third-borns at a rate 65% higher. Similar patterns are observed for hospitalization for narcotics use. After age 20 the pattern is similar, but the association is weaker. These patterns are consistent across various sibling group sizes.

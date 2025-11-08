@@ -1,7 +1,0 @@
-Document ID: 27497155
-
-Lipodystrophies (LD) are genetic or acquired disorders sharing the symptom of partial or complete adipose tissue deficiency and a dysregulation of adipokines including leptin and adiponectin. Progranulin, an adipokine with proinflammatory and insulin resistance-inducing characteristics, has not been investigated in LD so far.
-
-Circulating progranulin was determined in LD patients (N=37) and in age-, gender-, and body mass index-matched healthy control subjects (N=37). Additionally, we investigated progranulin expression in an LD mouse model as compared to wild-type mice. Moreover, we elucidated circulating progranulin before and during metreleptin supplementation in 10 patients with LD.
-
-Median [interquartile range] circulating progranulin was increased in patients with LD (82.9 [25.9] μg/l) as compared to controls (73.6 [22.8] μg/l) (p=0.005). C-reactive protein (CRP) remained an independent and positive predictor of progranulin in multivariate analysis. Progranulin mRNA was significantly upregulated in all adipose tissue depots, i.e. visceral, subcutaneous, and brown adipose tissue, and in muscle of LD animals versus wild-type mice. Progranulin levels did not significantly change during metreleptin supplementation.

@@ -1,7 +1,0 @@
-Document ID: 25436289
-
-Lymph node metastasis is one of the most important prognostic factors in patients with esophageal squamous cell carcinoma (ESCC). Neoadjuvant treatment can reduce micrometastasis in lymph nodes to enable curative resection by down staging. The aim of this study was to evaluate the histological effect of neoadjuvant therapy on lymph node metastasis of ESCC by performing immunohistochemistry for cytokeratin staining.
-
-A total of 3061 lymph nodes were examined from 62 patients who received neoadjuvant treatment followed by esophagectomy with lymphadenectomy.
-
-We observed positive staining for cytokeratin in 276 (9.0%) lymph nodes, which included overt metastasis, micrometastasis and hyalinized cytokeratin particles (HCP). Patients with HCPs in lymph nodes had better outcomes than patients without HCPs in lymph node. A significant prognostic difference between the patients with HCPs and without HCPs was observed in a subgroup of patients with nodal metastasis.

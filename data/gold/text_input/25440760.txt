@@ -1,7 +1,0 @@
-Document ID: 25440760
-
-To investigate the role of S100A3 and the effect of S100A3 inhibition on human castration-resistant prostate cancer (CRPC) cells by using in vitro and in vivo functional assays.
-
-Using human CRPC cells (PC3 and DU145), S100A3 expression levels were assessed by reverse transcription-polymerase chain reaction and Western blot analysis. After S100A3-specific small interfering ribonucleic acid (RNA) treatment, cell viability was determined by Cell Counting Kit-8 assay, and apoptotic cell fractions were evaluated by flow cytometry. The invasive properties of these cells and the expression pattern of matrix metalloproteinases (MMPs) were assessed using transwell migration assays, reverse transcription-polymerase chain reaction, and gelatin zymography. Finally, the in vivo efficacy of S100A3 inhibition on human CRPC cells was investigated using human tumor xenograft models in nude mice.
-
-Human CRPC cells showed overexpression of S100A3, and its suppression reduced cell viability owing to apoptotic cell death. Additionally, S100A3 inhibition decreased the invasiveness of human CRPC cells. Moreover, MMP-2 and MMP-9 were downregulated in PC3, whereas only MMP-9 was downregulated in D145 after S100A3 inhibition. In human CRPC xenograft models, we noted a marked reduction in tumor growth in mice injected with S100A3 short hairpin RNA-transfected PC3 and DU145 cells.

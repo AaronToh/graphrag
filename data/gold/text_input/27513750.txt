@@ -1,7 +1,0 @@
-Document ID: 27513750
-
-Both cadmium (Cd) and bisphenol A (BPA) are commonly encountered in humans' daily activities, but their combined genotoxic effects remain unclear.
-
-In the present study, we exposed a mouse embryonic fibroblast cell line (NIH3T3) to Cd for 24 h, followed by a 24 h BPA exposure to evaluate toxicity. The cytotoxicity was evaluated by viability with CCK-8 assay and lactate dehydrogenase (LDH) release. Reactive oxygen species (ROS) production was measured by 2',7'-dichlorofluorescein diacetate (DCFH-DA). And DNA damage was measured by 8-hydroxydeoxyguanosine (8-OHdG), phosphorylated H2AX (γH2AX) and the comet assay. The flow cytometry was used to detect cell cycle distribution, and apoptosis was determined by TUNEL assay and western blot against poly-ADP-ribose polymerase (PARP).
-
-The results showed that Cd or BPA treatments alone (with the exception of BPA exposure at 50 μM) did not alter cell viability. However, pre-treatment with Cd aggravated the BPA-induced reduction in cell viability; increased BPA-induced LDH release, ROS production, DNA damage and G2 phase arrest; and elevated BPA-induced TUNEL-positive cells and the expression levels of cleaved PARP. Cd exposure concurrently decreased the expression of 8-oxoguanine-DNA glycosylase-1 (OGG1), whereas OGG1 over-expression abolished the enhancement of Cd on BPA-induced genotoxicity and cytotoxicity.

@@ -1,7 +1,0 @@
-Document ID: 25440814
-
-To evaluate the risk of reclassification on serial biopsy for Caucasian and African American (AA) men with very low-risk (VLR) prostate cancer enrolled in a large prospective active surveillance (AS) registry.
-
-The Johns Hopkins AS registry is a prospective observational study that has enrolled 982 men since 1994. Including only men who met all National Comprehensive Cancer Network VLR criteria (clinical stage ≤T1, Gleason score ≤6, prostate-specific antigen [PSA] level <10 ng/mL, PSA density <0.15 ng/mL/cm(3), positive cores <3, percent cancer per core ≤50), we analyzed a cohort of 654 men (615 Caucasians and 39 AAs). The association of race with reclassification on serial biopsy was assessed with competing-risks regressions.
-
-AA men on AS were more likely than Caucasians to experience upgrading on serial biopsy (36% vs 16%; adjusted P <.001). Adjusting for PSA level, prostate size, volume of cancer on biopsy, treatment year, and body mass index, AA race was an independent predictor of biopsy reclassification (subdistribution hazard ratio, 1.8; P = .003). Examining specific modes of reclassification, AA race was independently associated with reclassification by grade (subdistribution hazard ratio, 3.0; P = .002) but not by volume.

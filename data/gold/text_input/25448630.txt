@@ -1,7 +1,0 @@
-Document ID: 25448630
-
-We aimed to study the association between cytomegalovirus (CMV) infection and hypertension in Kazakh and Han populations from Xinjiang Province, China.
-
-We analyzed data on 800 Kazakhs (467 hypertension patients and 333 healthy control participants) and 800 Hans (482 hypertension patients and 318 healthy control participants) aged 18-84 years old. ELISA and real-time quantitative PCR coupled with restriction fragment length polymorphism analysis were applied for determining CMV infection and glycoprotein B (gB) genotypes, respectively.
-
-Serologic evidence of CMV infection was obtained for 95.4% and 90.1% of the Kazakhs and Hans, respectively. The CMV seroprevalence rates among the Kazakh and Han participants with hypertension were 96.8% and 89.8%, respectively. Multiple logistic regression analyses revealed statistically significant independent associations between CMV seropositivity and hypertension in Kazakh males and between CMV antibody titers and hypertension in Hans; significant relationships also existed between CMV antibody titers and blood pressure in Hans. In Kazakhs, 3 CMV gB genotypes were identified: gB2 and genotype mixtures gB1+gB2 and gB2+gB3. In Hans, 4 CMV gB genotypes were identified: gB1, gB2, gB1+gB2, and gB2+gB3. Of the 4 studied genotypes, gB2+gB3 showed a significant independent association with hypertension in Kazakh females.

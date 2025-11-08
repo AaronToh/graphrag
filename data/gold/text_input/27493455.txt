@@ -1,9 +1,0 @@
-Document ID: 27493455
-
-Primary human hepatocytes offer the best human in vitro model for studies on human liver cell metabolism. Investigators use a variety of different media supplements and matrix biocoatings and the type of culture system used may influence the outcome.
-
-To optimize in vitro conditions for primary human hepatocytes with regard to bile acid synthesis.
-
-Human hepatocytes were isolated and cultured on collagen type I or EHS matrigel in cell media with or without dexamethasone. The glucocorticoid receptor (GR) antagonist RU486 was used to elucidate the involvement of GR.
-
-Hepatocytes cultured on EHS matrigel produced more bile acids and expressed higher levels of cholesterol 7α-hydroxylase (CYP7A1) than cells cultured on rat tail collagen. Supplementation with dexamethasone increased the formation of cholic acid (CA) and decreased chenodeoxycholic acid formation. In line with these results, the mRNA expression of sterol 12α-hydroxylase (CYP8B1) increased following dexamethasone treatment. Surprisingly, the mRNA expression of CYP7A1 and CYP27A1 was not increased to the same extent. By using the GR antagonist RU486, we concluded that CYP8B1 induction is mediated via a GR-independent pathway. An altered expression of retinoid-related orphan receptor (ROR) α and ROR α target gene Glucose-6-phosphatase (G6Pase) suggests that ROR α signaling may regulate CYP8B1 expression.

@@ -1,7 +1,0 @@
-Document ID: 25434576
-
-Malnutrition is a common, hence frequently underdiagnosed condition in patients with liver cirrhosis as well as in patients with cancer and has been shown to have a negative impact on survival in these patients. Frequently applied screening tools including anthropometric measurements or laboratory parameters to screen for malnutrition are not suitable for patients with liver cirrhosis with additional pathophysiological mechanisms leading to hypoalbuminemia and edema. Prospective data on the prevalence and prognostic impact of malnutrition in patients with HCC are scarce.
-
-Fifty-one consecutive patients with hepatocellular carcinoma were prospectively enrolled into this study and screened for malnutrition by anthropometric measurements, the MNA score, the NRS score, laboratory work-up, and BIA measurement. The results of the different screening tools were compared to each other and with the BIA assessment and correlated with the outcome of patients.
-
-The calculation of a body mass index (BMI) was not suitable to identify malnourished patients with HCC. The MNA identified 19, the NRS score 17 patients at a risk for malnutrition. BIA revealed a reduction in relative body cell mass in 12 patients. Univariate Cox regression analyses identified tumor stage, MNA score, and phase angle obtained by BIA as significant factors with influence on survival. Multivariate analyses confirmed the phase angle at a cut-off of 4.8 to be an independent factor.

@@ -1,9 +1,0 @@
-Document ID: 25427013
-
-Waist-to-height ratio (WHtR) is a cardiometabolic risk indicator in children. A value greater than or equal to 0.55 is an effective screening tool for identifying obese children with metabolic syndrome. However, it is unclear whether this cutoff can be applied equally to any age or gender.
-
-To analyze the variability of WHtR by age, gender and pubertal stage in elementary school children.
-
-Cross-sectional study in 2,980 school children (6-14 years old, 51% male) of Santiago, Chile. We measured weight, height and waist circumference and calculated body mass index and WHtR. Pubertal stage was assessed and classified as peripubertal (Tanner I and II) and pubertal (Tanner III, IV and V).
-
-The mean age was 9.9 ± 2.3 years, with no gender difference (p = 0.5). Eighty one percent of boys and 59.4% of girls were peripubertal (p < 0.001). The association between age-adjusted WHtR by gender and pubertal stage was not significant (p = 0.409). Therefore mean, standard deviation and percentiles of WHtR were calculated without sex and pubertal stage segmentations.

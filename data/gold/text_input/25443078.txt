@@ -1,7 +1,0 @@
-Document ID: 25443078
-
-Bariatric surgery is associated with cognitive benefits, but the nature of such gains may be variable across demographically and clinically diverse persons. Older adults achieve less weight loss and resolution of fewer medical co-morbidities after surgery compared to younger patients and are also at heightened risk for nutritional deficiencies. However, no study has examined the influence of age on cognitive improvements after bariatric surgery. The objective of this study was to determine the effects of age on cognitive function postbariatric surgery.
-
-A total of 95 participants enrolled in the Longitudinal Assessment for Bariatric Surgery completed a computerized cognitive test battery before bariatric surgery and at 12-weeks and 12-months postoperatively.
-
-Baseline cognitive impairments were common. Significant improvements were found in attention/executive function and memory abilities 12-weeks and 12-months after surgery. Age was not associated with baseline cognitive test performance. Separate multivariable regression analyses controlling for baseline attention/executive function and memory also showed that age was not a significant predictor of 12-week or 12-month performances in these domains (P>.05 for all).

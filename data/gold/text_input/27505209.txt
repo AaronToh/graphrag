@@ -1,7 +1,0 @@
-Document ID: 27505209
-
-There has been growing interest in the role that implicit processing of drug cues can play in motivating drug use behavior. However, the extent to which drug cue processing biases relate to the processing biases exhibited to other types of evocative stimuli is largely unknown. The goal of the present study was to determine how the implicit cognitive processing of smoking cues relates to the processing of affective cues using a novel paradigm.
-
-Smokers (n = 50) and nonsmokers (n = 38) completed a picture-viewing task, in which participants were presented with a series of smoking, pleasant, unpleasant, and neutral images while engaging in a distractor task designed to direct controlled resources away from conscious processing of image content. Electroencephalogram recordings were obtained throughout the task for extraction of event-related potentials (ERPs).
-
-Smokers exhibited differential processing of smoking cues across 3 different ERP indices compared with nonsmokers. Comparable effects were found for pleasant cues on 2 of these indices. Late cognitive processing of smoking and pleasant cues was associated with nicotine dependence and cigarette use.

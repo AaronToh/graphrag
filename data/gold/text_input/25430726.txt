@@ -1,7 +1,0 @@
-Document ID: 25430726
-
-It is common in public health and epidemiology that the outcome of interest is counts of events occurrence. Analysing these data using classical linear models is mostly inappropriate, even after transformation of outcome variables due to overdispersion. Zero-adjusted mixture count models such as zero-inflated and hurdle count models are applied to count data when over-dispersion and excess zeros exist. Main objective of the current paper is to apply such models to analyse risk factors associated with human helminths (S. haematobium) particularly in a case where there's a high proportion of zero counts.
-
-The data were collected during a community-based randomised control trial assessing the impact of mass drug administration (MDA) with praziquantel in Malawi, and a school-based cross sectional epidemiology survey in Zambia. Count data models including traditional (Poisson and negative binomial) models, zero modified models (zero inflated Poisson and zero inflated negative binomial) and hurdle models (Poisson logit hurdle and negative binomial logit hurdle) were fitted and compared.
-
-Using Akaike information criteria (AIC), the negative binomial logit hurdle (NBLH) and zero inflated negative binomial (ZINB) showed best performance in both datasets. With regards to zero count capturing, these models performed better than other models.

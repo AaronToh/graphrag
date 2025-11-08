@@ -1,7 +1,0 @@
-Document ID: 27504739
-
-The glycolysis-derived metabolite methylglyoxal has been linked to clinical microvascular complications, including diabetic nephropathy. We aimed to further investigate the hypothesis that methylglyoxal is involved in decline in renal function by assessing the associations between measures of renal function during a 6-year follow-up in 1481 people with screen-detected Type 2 diabetes, as part of the Danish arm of the ADDITION-Europe trial (ADDITION-DK).
-
-Biobank serum samples collected at ADDITION-DK baseline (2001-2006) and follow-up (2009-2010) were used in the current analysis of methylglyoxal. We assessed cross-sectional baseline and longitudinal associations between methylglyoxal and urinary albumin-to-creatinine ratio (ACR) or estimated GFR (eGFR), and between methylglyoxal and categories of albuminuria or reduced eGFR.
-
-Baseline methylglyoxal was positively associated with ACR at baseline (12% higher ACR per doubling in methylglyoxal levels), and change in methylglyoxal during 6 years of follow-up was inversely associated with change in eGFR (-1.6 ml/min/1.73 m

@@ -1,7 +1,0 @@
-Document ID: 27516046
-
-Studies have demonstrated a robust association between interpersonal callousness (IC) and the development of severe and chronic conduct problems (CP) in youth. Although children exhibiting IC are also believed to be at particularly high risk for developing psychopathic personality features in adulthood, there is little longitudinal evidence supporting this assumption, particularly after controlling for co-occuring CP severity.
-
-This study used data collected on a longitudinal cohort of boys (n = 508), with an oversampling of youth exhibiting elevated conduct problems. Analyses examined the unique and interactive association between latent growth curve trajectories of IC and CP assessed bi-annually from late childhood to early adolescence (~ages 10-13) and features of psychopathy in early adulthood (age ~ 24) assessed using the Psychopathy Checklist - Short Version (PCL:SV; Hart, Cox, & Hare, 1995).
-
-Growth curve analysis indicated that initial levels of IC and CP in childhood (~age 10 intercept) both uniquely predicted the development of the interpersonal/affective features of adult psychopathy, and boys with a combination of high initial levels of IC and CP were at particularly high risk for developing the impulsive/antisocial features of the disorder. Boys who exhibited systematic increases in CP from late childhood to early adolescence also demonstrated higher adult psychopathy scores, but changes in IC across this developmental period did not significantly add to the prediction of adult psychopathy.

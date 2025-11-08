@@ -1,8 +1,9 @@
 {
-  "total_records": 1056,
-  "processed_records": 1056,
+  "total_records": 501,
+  "processed_records": 501,
   "skipped_records": 0,
-  "total_passages": 1056,
-  "avg_passage_length": 1392.7263257575758,
-  "dataset_config": "pqa_artificial"
+  "total_passages": 21163,
+  "avg_passage_length": 1574.2132967915702,
+  "avg_supports_per_record": 42.24151696606786,
+  "dataset_config": "medhop_source"
 }

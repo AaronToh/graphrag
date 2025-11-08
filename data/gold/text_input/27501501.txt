@@ -1,7 +1,0 @@
-Document ID: 27501501
-
-Due to the chemo resistant nature of cancer cells and adverse effects of current therapies, researchers are looking for the most efficient therapeutic approach which has the lowest side effects and the highest toxicity on cancer cells. The aim of the present study was to investigate the synergic effect of Urtica dioica extract in combination with paclitaxel on cell death and invasion of human breast cancer MDA-MB-468 cell line.
-
-To determine the cytotoxic effects of Urtica dioica extract with paclitaxel, MTT assay was performed. The scratch test was exploited to assess the effects of Urtica dioica, Paclitaxel alone and combination on migration of cancer cells. The expression levels of snail-1, ZEB1, ZEB2, twist, Cdc2, cyclin B1 and Wee1 genes were quantified using qRT-PCR and western blot performed for snail-1expression. The effects of plant extract, Paclitaxel alone and combination on different phases of cell cycle was analyzed using flow cytometry.
-
-Results of MTT assay showed that Urtica dioica significantly destroyed cancer cells. Interestingly, Concurrent use of Urtica dioica extract with paclitaxel resulted in decreased IC50 dose of paclitaxel. Moreover, findings of scratch assay exhibited the inhibitory effects of Urtica dioica, Paclitaxel alone and combination on migration of MDA-MB-468 cell line. Our findings also demonstrated that the extract substantially decreased the Snail-1 and related gene expression. Ultimately, Cell cycle arrest occurred at G2/M phase post-treatment by deregulating Cdc2 and wee1.

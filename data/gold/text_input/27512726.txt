@@ -1,7 +1,0 @@
-Document ID: 27512726
-
-To verify the effects of several 5,8-dimethoxy-1,4-naphthoquinone (DMNQ) derivatives on LPS-induced NO production, cellular ROS levels and cytokine expression in BV-2 microglial cells.
-
-An MTT assay and FACS flow cytometry were performed to assess the cellular viability and apoptosis and cellular ROS levels, respectively. To examine the expression of pro-inflammatory cytokines and cellular signaling pathways, semi-quantitative RT-PCR and Western blotting were also used in this study.
-
-Among the six newly synthesized DMNQ derivatives, 2-cyclohexylamino-5,8-dimethoxy-1,4-naphthoquinone (R6) significantly inhibited the NO production, cellular ROS levels and the cytokines expression in BV-2 microglial cells, which stimulated by LPS. Signaling study showed that compound R6 treatment also significantly down-regulated the LPS-induced phosphorylation of MAPKs (ERK, JNK and p38) and decreased the degradation of IκB-α in BV2 microglial cells.

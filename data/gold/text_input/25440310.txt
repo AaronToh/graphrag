@@ -1,7 +1,0 @@
-Document ID: 25440310
-
-Child maltreatment is associated with dysregulation of stress-mediating systems and an increased risk of mental and physical health problems. Specifically, disruptions in hypothalamic-pituitary-adrenal (HPA) axis regulation have been reported in maltreated children. The current study investigates whether increased cortisol variability is responsible for inconsistent patterns in the literature.
-
-This study modeled cortisol activity over 20 weeks in 187 maltreated and 154 nonmaltreated children (mean = 8.4 years, SD = 1.8 years) in order to capture week-to-week cortisol patterns. Maltreatment was assessed through coding of Department of Human Services records. Children attended an after-school program 1 day per week for 20 weeks, where saliva was collected at the same time each day and subsequently assayed for cortisol.
-
-Multiple-group growth curves indicated that maltreated and non-maltreated children differ in longitudinal cortisol patterns. Maltreated children showed higher variance in the initial cortisol levels and slope over time compared to nonmaltreated children, indicating greater between-person variability in the maltreated group. Maltreated children with higher cortisol at the first assessment showed cortisol suppression over time, indicating potential HPA blunting after chronic high cortisol levels. The severity, timing, and number of subtypes of maltreatment predicted individuals' cortisol variability, and both maltreatment status and greater cortisol variability predicted more behavior problems.

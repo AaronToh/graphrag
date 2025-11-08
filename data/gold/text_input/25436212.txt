@@ -1,7 +1,0 @@
-Document ID: 25436212
-
-Temporomandibular joint (TMJ) disorders are common disease in maxillofacial surgery. The aim of this study is to regenerate fibrocartilage with a mixture of TMJ fibrochondrocytes and periodontal ligament derived mesenchymal stem cells (PD-MSCs).
-
-Fibrochondrocytes and PD-MSC were cocultured (ratio 1 : 1) for 3 weeks. Histology and glycosaminoglycans (GAGs) assay were performed to examine the deposition of GAG. Green florescent protein (GFP) was used to track PD-MSC. Conditioned medium of PD-MSCs was collected to study the soluble factors. Gene expression of fibrochondrocytes cultured in conditioned medium was tested by quantitative PCR (qPCR).
-
-Increased proliferation of TMJ-CH was observed in coculture pellets when compared to monoculture. Enhanced GAG production in cocultures was shown by histology and GAG quantification. Tracing of GFP revealed the fact that PD-MSC disappears after coculture with TMJ-CH for 3 weeks. In addition, conditioned medium of PD-MSC was also shown to increase the proliferation and GAG deposition of TMJ-CH. Meanwhile, results of qPCR demonstrated that conditioned medium enhanced the expression levels of matrix-related genes in TMJ-CH.

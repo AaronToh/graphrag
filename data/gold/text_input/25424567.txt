@@ -1,7 +1,0 @@
-Document ID: 25424567
-
-Transcranial direct current stimulation (tDCS) of the primary motor cortex has been shown to modulate pain and trigeminal nociceptive processing.
-
-Ten patients with classical trigeminal neuralgia (TN) were stimulated daily for 20 minutes over two weeks using anodal (1 mA) or sham tDCS over the primary motor cortex (M1) in a randomized double-blind cross-over design. Primary outcome variable was pain intensity on a verbal rating scale (VRS 0-10). VRS and attack frequency were assessed for one month before, during and after tDCS. The impact on trigeminal pain processing was assessed with pain-related evoked potentials (PREP) and the nociceptive blink reflex (nBR) following electrical stimulation on both sides of the forehead before and after tDCS.
-
-Anodal tDCS reduced pain intensity significantly after two weeks of treatment. The attack frequency reduction was not significant. PREP showed an increased N2 latency and decreased peak-to-peak amplitude after anodal tDCS. No severe adverse events were reported.

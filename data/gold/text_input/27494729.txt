@@ -1,9 +1,0 @@
-Document ID: 27494729
-
-Non-response to cardiac resynchronization therapy (CRT) might be due to insufficient resynchronization as a result of a sub-optimal left ventricular lead positon (LV-LP).
-
-To evaluate the impact of different LV-LPs on mortality and symptomatic improvement in a large cohort of patients treated with CRT.
-
-We performed a nationwide cohort study on consecutive patients receiving a CRT device from 1997 to 2012 registered in the Danish pacemaker and ICD register. The LV-LP was defined clockwise in a left anterior oblique (LAO) view and categorized as anterior (≤2 o'clock), lateral (2 to 4 o'clock) or posterior (>4 o'clock), and as basal, mid-ventricular, or apical in a right anterior oblique (RAO) view. Outcomes were all cause mortality and clinical response (improvement in NYHA class). Adjusted hazard ratio (aHR) and odds ratio (aOR) with 95% confidence intervals (CI) were calculated using Cox and logistic regression analysis.
-
-A total of 2594 patients were included. A lateral LV-LP, (aHR 0.77, 95% CI 0.64-0.92, p=0.004), and a posterior LV-LP, (aHR 0.71 95% CI 0.53-0.97, p=0.029) were associated with lower mortality as compared to an anterior LV-LP. A lateral LV-PV was associated with higher clinical response rate as compared to an anterior LV-LP (aOR 1.37, 1.03-1.83, p=0.032). No statistically significant associations were observed between LV-LP in the RAO view and mortality or clinical response.

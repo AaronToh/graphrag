@@ -1,7 +1,0 @@
-Document ID: 25427582
-
-The aim of the present study was to explore the association of the functional single-nucleotide polymorphism (SNP) rs3746804 in C20orf54 with the susceptibility to esophageal squamous cell carcinoma (ESCC).
-
-SNP rs3746804 in C20orf54 was detected by direct sequencing in 434 ESCC patients and 554 healthy controls from Shanxi and Henan Provinces in China, geographically a high incidence area for ESCC. The frequencies and distribution of TT, CT, and CC genotypes of SNP rs3746804 between those 2 cohorts were compared and its association with ESCC was assessed.
-
-For SNP rs3746804 the genotype distribution of CT and CC in ESCC patients both significantly differed from those in healthy controls (p=0.002, 0.001, respectively), while the distribution of TT did not differ significantly between the groups (p=0.757). The ratio of T:C was high in healthy individuals and low in ESCC patients. Compared to genotype CC, both genotypes CT (odds ratio (OR)=0.63, 95% confidence interval (CI) 0.48l-0.826), and CT+TT (OR=0.654, 95% CI 0.507-0.844) were associated with significantly decreased risk for ESCC.

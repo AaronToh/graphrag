@@ -1,7 +1,0 @@
-Document ID: 27519527
-
-The preferred chemotherapy method for gastric cancer continues to be matter of debate. We performed a meta-analysis to comparing prognosis and safety between perioperative chemotherapy and adjuvant chemotherapy to identify the better chemotherapy option for gastric cancer.
-
-We searched the PubMed, EMBASE, Cochrane Library, and Ovid databases for eligible studies until February 2016. The main endpoints were prognostic value (hazard ratio [HR] for overall survival [OS] and 1-, 2-, 3-, and 5-year survival rate), response rate of chemotherapy, radical resection rate, post-operative complication rate, and adverse effects of chemotherapy.
-
-Five randomized controlled trials and six clinical controlled trials involving 1,240 patients were eligible for analysis. Compared with the adjuvant chemotherapy group, the perioperative chemotherapy group had significantly better prognosis (HR, 0.74; 95 % CI, 0.61 to 0.89; P < 0.01). The difference between the two groups remained significant in the studies that used combination chemotherapy as the neoadjuvant chemotherapy regimen (HR, 0.59; 95 % CI, 0.46 to 0.76; P < 0.01) but were not significant in the studies that used fluoropyrimidine monotherapy (HR, 0.93; 95 % CI, 0.56 to 1.55; P = 0.84). Furthermore, the two groups showed no significant differences in the post-operative complication rates (relative risk, 0.98; 95 % CI, 0.63 to 1.51; P = 0.91) or adverse effects of chemotherapy (P > 0.05 for all adverse effects).

@@ -1,7 +1,0 @@
-Document ID: 25433272
-
-Local anesthetics are commonly used for the treatment of a variety of tendinopathies in combination with corticosteroids injection. The goal of this study was to evaluate the effects of lidocaine and triamcinolone acetonide (TA) on cultured rat tenocytes and to determine whether there is a synergistic effect.
-
-Rat patellar tendon-derived tenocytes were cultured with or without TA and lidocaine, and the culture without any additive served as the control. Cell morphology and cell viability were evaluated. Expressions of tenocyte-related genes were measured by qRT-PCR.
-
-TA, when exposed to tenocytes in vitro, significantly decreased cell viability. The cells cultured with TA had a flattened shape. Moreover, the expressions of tenocyte-related genes in tenocytes were markedly decreased in the TA-treated group. We found that 1% lidocaine synergistically increased the deleterious effects of TA.

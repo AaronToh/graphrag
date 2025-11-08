@@ -1,7 +1,0 @@
-Document ID: 25444751
-
-ADAMTS 13, sP-Selectin and HSP27 have been investigated as potential prognostic markers in patients with hemorrhagic shock.
-
-This study was part of a double-blind, randomized, parallel-group, controlled trial and included seventeen trauma patients presented to ED with severe hemorrhagic. The sera for testing were collected from these patients at the time of admission. Investigators and laboratory personnel performing testing were blinded to the patients' identity and clinical course.
-
-The prognostic value of ADAMTS13, sP-Selectin, and HSP27 was compared to prognostic value of systolic blood pressure (SBP), base deficit estimation (BD), heart rate (HR), shock index (SI) and tissue oxygen saturation (StO2) by constructing the receiver operation characteristics (ROC). The area under the curve (AUC) of the ROC for HSP27 (0.92) was greater than for SBP (0.45), BD (0.89), HR (0.61), SI (0.45) and StO2 (0.46). AUC for sP-Selectin (0.86) and for ADAMTS13 antigen (0.74) were comparable with BD one, but greater than for the rest of currently used tests.

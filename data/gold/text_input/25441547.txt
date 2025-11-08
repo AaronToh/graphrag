@@ -1,9 +1,0 @@
-Document ID: 25441547
-
-Methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-resistant coagulase-negative staphylococci (MRCoNS) as important human pathogens are causes of nosocomial infections worldwide. Burn patients are at a higher risk of local and systemic infections with these microorganisms.
-
-A screening method for MRSA by using a multiplex polymerase chain reaction (PCR) targeting the 16S ribosomal RNA (rRNA), mecA, and nuc genes was developed. The aim of the present study was to investigate the potential of this PCR assay for the detection of MRSA strains in samples from burn patients.
-
-During an 11-month period, 230 isolates (53.11%) of Staphylococcus spp. were collected from burn patients. The isolates were identified as S. aureus by using standard culture and biochemical tests. DNA was extracted from bacterial colonies and multiplex PCR was used to detect MRSA and MRCoNS strains.
-
-Of the staphylococci isolates, 149 (64.9%) were identified as S. aureus and 81 (35.21%) were described as CoNS. Among the latter, 51 (62.97%) were reported to be MRCoNS. From the total S. aureus isolates, 132 (88.6%) were detected as MRSA and 17 (11.4%) were methicillin-susceptible S. aureus (MSSA). The presence of the mecA gene in all isolates was confirmed by using multiplex PCR as a gold standard method.

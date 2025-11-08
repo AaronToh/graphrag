@@ -1,7 +1,0 @@
-Document ID: 25447567
-
-Obese patients with idiopathic pulmonary fibrosis (IPF) have higher 90-day mortality after lung transplantation. We sought to determine whether body mass index (BMI) differentially modified the effect of transplant procedure type on 90-day mortality in IPF patients.
-
-We analyzed data from the Organ Procurement and Transplantation Network (OPTN) for all patients with IPF who were transplanted between 2000 and 2010. Post-transplant survival was examined using Kaplan-Meier estimates. Multivariable logistic regression modeling was used to determine the difference in 90-day survival. The primary variable of interest was the interaction term between body mass index (BMI) and transplant type.
-
-A total of 3,389 (58% single-lung transplant [SLT] and 42% bilateral lung transplant [BLT]) subjects were included. Multivariable logistic regression modeling demonstrated a statistically significant interaction between BMI and transplant type (p = 0.047). Patients with a BMI > 30 kg/m(2) who received a BLT are 1.71 times (95% CI [1.03 to 2.85], p = 0.038) more likely to die within 90 days than BLT recipients with a BMI of 18.5 to 30 kg/m(2).

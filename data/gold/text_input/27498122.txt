@@ -1,9 +1,0 @@
-Document ID: 27498122
-
-The evidence on the prognostic value of transthoracic echocardiography (TTE) in elderly, hemodynamically stable patients with Pulmonary Embolism (PE) is limited.
-
-To evaluate the prevalence of common echocardiographic signs of right ventricular (RV) dysfunction and their prognostic impact in hemodynamically stable patients aged ≥65years with acute PE in a prospective multicenter cohort.
-
-TTE was performed by cardiologists. We defined RV dysfunction as a RV/left ventricular ratio >0.9 or RV hypokinesis (primary definition) or the presence of ≥1 or ≥2 of 6 predefined echocardiographic signs (secondary definitions). Outcomes were overall mortality and mortality/non-fatal recurrent venous thromboembolism (VTE) at 30days, adjusting for the Pulmonary Embolism Severity Index risk score and highly sensitive troponin T values.
-
-Of 400 patients, 36% had RV dysfunction based on our primary definition, and 81% (≥1 sign) and 53% (≥2 signs) based on our secondary definitions, respectively. Using our primary definition, there was no association between RV dysfunction and mortality (adjusted HR 0.90, 95% CI 0.31-2.58) and mortality/non-fatal VTE (adjusted HR 1.09, 95% CI 0.40-2.98). Similarly, there was no statistically significant association between the presence of ≥1 or ≥2 echocardiographic signs (secondary definitions) and clinical outcomes.

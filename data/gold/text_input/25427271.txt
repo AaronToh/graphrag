@@ -1,7 +1,0 @@
-Document ID: 25427271
-
-Anemia of chronic disease, a cytokine-mediated anemia, is a frequent complication of many chronic inflammatory conditions. The present case-control study was aimed to evaluate levels of systemic hematological markers indicative of anemia in patients with generalized, severe, chronic periodontitis.
-
-A convenience quota sample of 30 systemically-healthy, urban, male patients comprised two groups, based on full mouth periodontal examination: group A patients (n=15) were diagnosed with generalized, severe, chronic periodontitis, and group B patients comprised the control group (n=15), which included patients with a clinically-healthy periodontium. Laboratory blood investigations included hemoglobin (g%), total number of erythrocytes (red blood cells), hematocrit/packed cell volume, erythrocyte sedimentation rate, mean corpuscular volume of erythrocytes, and mean corpuscular hemoglobin concentration. An analysis of covariance using age as a covariate was done to compare the mean values of hematological parameters within groups.
-
-The mean values of hemoglobin, red blood cells, packed cell volume, and mean corpuscular hemoglobin concentration were significantly lower, while the mean corpuscular volume of erythrocytes and erythrocyte sedimentation rate were significantly higher in group A patients compared to those in group B, indicating mild anemia.

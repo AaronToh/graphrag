@@ -1,7 +1,0 @@
-Document ID: 25433903
-
-Besides chronic stress, chronic pain is a prevalent determinant for depression. Changes induced in specific brain regions by sustained pain may alter the processing of affective information, thus resulting in anxiodepressive disorders. Here, we compared the role of the anterior cingulate cortex (ACC) and the posterior insular cortex in the anxiodepressive, sensory, and affective aspects of chronic pain.
-
-Neuropathic pain was induced by cuffing the right sciatic nerve of C57BL/6J mice. Lesions were performed by local injection of ibotenic acid and chronic activation of the ACC by optogenetic stimulation. Anxiodepressive-related behaviors were evaluated through the novelty suppressed feeding, marble burying, splash, and forced swimming tests. Mechanical thresholds were determined using von Frey filaments, and the relief of spontaneous pain was determined by using place conditioning.
-
-The ACC lesion prevented the anxiodepressive consequences of chronic pain without affecting the sensory mechanical allodynia. Conversely, the tonic or spontaneous pain and the anxiodepressive consequences of pain remained present after posterior insular cortex lesion, even though the mechanical allodynia was suppressed. Furthermore, optogenetic stimulation of the ACC was sufficient to induce anxiety and depressive-like behaviors in naïve animals.

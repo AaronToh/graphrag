@@ -1,7 +1,0 @@
-Document ID: 25445498
-
-Hirschsprung disease (HSCR) is a rare multigenic congenital disorder characterized by the absence of the enteric ganglia. To date, single nucleotide polymorphisms (SNPs) in pre-miRNAs have been confirmed related with some diseases. Thus, we hypothesized that pre-miRNA polymorphisms might contribute to HSCR susceptibility. We investigated whether rs2910164 and rs11614913 of pre-miR-146a and pre-miR-196a2, are associated with HSCR.
-
-Polymorphisms were genotyped using the Taqman method. Real-time PCR was used for detecting the expression level of miR-146a and its target gene ROBO1 in CC and GG genotypes.
-
-Significant differences were found in the genotype distribution of rs2910164 and rs11614913 polymorphism between HSCR cases and controls (p = 0.023 and 0.041, respectively). Furthermore, G allele of rs2910164 might increase the risk of HSCR (OR, 1.54; 95% CI, 1.06-2.23). Moreover, the expression level of miR-146a for homozygote GG was also higher than homozygote CC (p = 0.0193). In contrast, the expression level of its target gene ROBO1 predicted in bioinformatics for homozygote GG was much lower than homozygote CC (p = 0.0096).

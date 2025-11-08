@@ -1,7 +1,0 @@
-Document ID: 25436288
-
-Esophageal carcinoma is one of the most aggressive human cancers, and novel treatment modality is required. Although expressing adequate levels of functional tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) receptors DR4/DR5, significant proportion of esophageal cancer cells exhibit resistance to the cytotoxic effect of this ligand. Licochalcone-A (LA), a flavonoid present in a variety of edible plants, exhibits a wide spectrum of pharmacologic properties such as anticancer, antioxidant, and anti-inflammatory activities.
-
-Eca109 and TE1 cells were cultured and transfected, then their viability was detected using MTT assay. Immunoprecipitation and immunoblotting analysis and RT-PCR analysis were also performed.
-
-In this study, we found that LA synergistically caused the TRAIL-induced apoptosis in Eca109 and TE1 cells. Such potentiation was achieved through inhibiting Akt activation and promoting proteasomal degradation of X-linked Inhibitor of Apoptosis Protein (XIAP) which mediated the survival signals and allow the cells to escape from apoptosis in various human cancers.

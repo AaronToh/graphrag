@@ -1,5 +1,0 @@
-Document ID: 25449029
-
-In animal models, maternal obesity (OB) leads to augmented risk of offspring OB. While placental function is influenced by maternal habitus, the effect of maternal obesity on the interacting zones of the placenta [the labyrinth (LZ), junctional (JZ) and metrial gland (MG)] remains unknown.
-
-Using a rat maternal obesity model, we conducted transcriptomic profiling of the utero-placental compartments and fetal liver (FL) at dpc 18.5, in conjunction with analyses of mRNA expression of key thyroid hormone (TH) signaling genes in the placenta, fetus and weanling offspring.

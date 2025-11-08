@@ -1,7 +1,0 @@
-Document ID: 25451672
-
-To compare the efficacy of intensity-modulated radiotherapy, three-dimensional conformal radiotherapy, and conventional radiotherapy for cervical cancer treatment.
-
-Whole pelvis intensity-modulated radiotherapy, three-dimensional conformal radiotherapy, and conventional radiotherapy plans were designed for 16 patients with stage IIB cervical cancer, each using the prescribed dose of 50.4 Gy/28 fractions. Dose-volume histograms of the target volume and organs at risk were evaluated.
-
-Compared to the 3D conformal and conventional radiotherapy plans, the intensity-modulated radiotherapy plan demonstrated superior conformal treatment. The mean planning target volume dose of all three plans reached the target effective therapeutic dose. The planning target volume dose of the intensity-modulated radiotherapy plan was significantly higher than that of either the three-dimensional conformal radiotherapy or conventional radiotherapy plan (P<0.05). When more than 30 Gy was administered in intensity-modulated radiotherapy, organs at risk including the small intestine, rectum, bladder, and bone marrow received a significantly reduced volume of radiation. In comparison of the average planning target volume doses, significant volume reductions in irradiation of organs at risk were obtained with full bladders.

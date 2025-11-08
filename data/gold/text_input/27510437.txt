@@ -1,7 +1,0 @@
-Document ID: 27510437
-
-The aim of this study was to analyze the biochemical and histochemical effects of radiation therapy and protective melatonin administration on periodontal tissues in rats with experimental periodontitis.
-
-Sixty male Sprague Dawley rats were divided into six groups, as follows: control; experimental periodontitis (Ped); radiotherapy administration (Rt); experimental periodontitis and exposure to irradiation (Ped-Rt); radiotherapy and protective melatonin administration (Rt-Mel); and periodontitis, radiation therapy and protective melatonin administration (Ped-Rt-Mel). The rats were killed at the end of the experimental procedure, and the oxidative stress level and periodontal destruction were compared among the groups.
-
-The oxidative stress index and the levels of 8-hydroxy-2'-deoxyguanosine, malondialdehyde and C-terminal telopeptide of type I collagen were found to be significantly higher in the Ped-Rt group compared with the Ped group (p < 0.05), and the levels were lower in the Ped-Rt-Mel group than in the Ped-Rt group (p < 0.05). Alveolar bone destruction and attachment level were also significantly lower in the Ped-Rt-Mel group than in the Ped-Rt group (p < 0.05).

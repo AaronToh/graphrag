@@ -1,7 +1,0 @@
-Document ID: 25439488
-
-Sox6 is a transcription factor that is crucial for the differentiation and development of cortical interneurons and dopaminergic neurons of the substantia nigra pars compact. Loss-of-function mutations might thus result in complex paroxysmal diseases such as epilepsy syndromes or movement disorders.
-
-We present a 15-year-old boy with delayed speech development and attention deficit hyperactivity disorder who presented with a rapid-onset generalized dopa-responsive dystonia.
-
-Neurological examination revealed generalized dystonic and frequent athetoid movements of the arms, trunk, and neck. Gait was severely impaired secondary to frequent dystonic postures. Both a resting tremor and action tremors were observed in both hands. Speech was dysarthric but language comprehension was unimpaired. Testing for saccadic dysfunction revealed hypometric horizontal and vertical saccades. Physical examination was otherwise significant for a pectus carinatum and splenomegaly. Laboratory studies, brain magnetic resonance imaging, and electroencephalography were unremarkable. Treatment with levodopa/carbidopa led to a complete and sustained remission of neurological symptoms. Genetic testing revealed a mono-allelic de novo 84-kb deletion on chromosome 11p15.2 encompassing exons 14-16 of the SOX6 gene (chr11: 15944880-16029095, NCBI 37/hg19).

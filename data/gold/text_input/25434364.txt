@@ -1,7 +1,0 @@
-Document ID: 25434364
-
-Our goal was to analyze the association of the level of antiphospholipid antibodies (aPLs) with stroke severity and outcome in patients with antiphospholipid syndrome (APS).
-
-Observational study included consecutive patients with ischemic stroke younger than 55 years (2007-2012). We analyzed serum levels of aPLs, including anticardiolipin (aCL) antibodies, anti-β2-glycoprotein I antibodies (anti-β2GPI) and antiprothrombin antibodies (aPS/PT) within the first 48 h after admission, and again, in the case of a positive result, at least 12 weeks after the first measurement. Stroke severity was measured by the National Institutes of Health Stroke Scale (NIHSS), and the three-month stroke outcome by the modified Rankin Scale (mRS). Multiple linear regression models were used to analyze the correlation between the aPLs and stroke severity and outcome.
-
-Overall 255 stroke patients were included, 22 (8.6%) with APS. Among them, a positive correlation was found between immunoglobulin M (IgM) aCL levels within 48 h and NIHSS (rho = 0.471; p = 0.027), as well as a tendency toward a positive correlation between immunoglobulin G (IgG) anti-β2GPI levels within 48 h and three-month mRS (rho = 0.364; p = 0.096). Multiple linear regression analyses showed a positive correlation between levels of IgM aCL < 48 h and the NIHSS (β-coefficient [standard error; SE] = 0.127 [0.044]), as well as the levels of IgG anti-β2GPIwithin 48 h and the three-month mRS (β-coefficient [SE] = 0.034 [0.011]).

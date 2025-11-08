@@ -1,7 +1,0 @@
-Document ID: 25451947
-
-Mineral bone disorder (MBD) is prevalent among chronic dialysis patients. However, relationship between different forms of vitamin D and fibroblast growth factor 23 (FGF-23) remains unclear in this population.
-
-A multicenter hemodialysis cohort was assembled. We evaluated 25-OH-D and 1,25-(OH)2-D, vitamin D-binding protein, and FGF-23, in this cohort. Multiple regression analyses were performed to investigate the relationship and stewardship between different vitamin D forms and FGF-23 concentrations.
-
-Chronic dialysis patients presented significantly higher FGF-23 concentrations. 25-OH-D concentrations of <20 ng/ml (deficiency), 20-30 ng/ml (insufficiency), and ≥30 ng/ml (sufficiency) were associated with progressively lower FGF-23 concentrations (p<0.01). Serum FGF-23 concentrations were significantly correlated with total (p=0.02), free (p<0.01) and bioavailable (p<0.01) 25-OH-D and total (p=0.04), free (p=0.02), and bioavailable (p=0.03) 1,25-(OH)2-D concentrations. With all 25-OH-D and 1,25-(OH)2-D forms in the regression model, we found that free 1,25-(OH)2-D outweighed all other vitamin D forms regarding its association with FGF-23 (p=0.03).

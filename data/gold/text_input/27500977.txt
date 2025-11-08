@@ -1,7 +1,0 @@
-Document ID: 27500977
-
-The population analysis of cardiovascular risk and non-risk genetic variation can help to identify adaptive or random demographic processes that shaped coronary incidence variation across geography.
-
-In this study, 114 single nucleotide polymorphisms and 17 tandem repeat polymorphisms from Nitric Oxide Synthases (NOS) regions were analyzed in 1686 individuals from 35 populations from Europe, North Africa, and the Middle East. NOS genes encode for key enzymes on nitric oxide availability, which is involved in several cardiovascular processes. These genetic variations were used to test for selection and to infer the population structure of NOS regions. Moreover, we tested whether the variation in the incidence of coronary events and in the levels of classical risk factors in 11 of these European populations could be explained by the population structure estimates.
-
-Our results supported, first, the absence of clear signs of selection for NOS genetic variants associated with cardiovascular diseases, and second, the presence of a continuous genetic pattern of variation across European and North African populations without a Mediterranean barrier for gene flow. Finally, population structure estimates from NOS regions are closely correlated with coronary event rates and classical risk parameters (explaining 39-98%) among European populations.

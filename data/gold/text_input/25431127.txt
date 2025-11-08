@@ -1,7 +1,0 @@
-Document ID: 25431127
-
-Diets high in cruciferous vegetables are associated with lower risk of incidence of prostate cancer, including aggressive forms of this disease. Human intervention studies with cruciferous vegetable-rich diets also demonstrate modulation of gene expression in important pathways in prostate cells.
-
-Sulforaphane is a constituent of these foods postulated to harbor the anti-neoplastic activity based on multiple tumor models. Our own work demonstrates that sulforaphane inhibits AR signaling in prostate cancer cells. Here, we report results from the first clinical trial of sulforaphane-rich extracts in men with prostate cancer.
-
-We treated 20 patients who had recurrent prostate cancer with 200 μmoles/day of sulforaphane-rich extracts for a maximum period of 20 weeks and determined the proportion of patients with ≥50% PSA declines, the primary endpoint. Only one subject experienced a ≥50% PSA decline. Thus, the primary endpoint was not achieved. Seven patients experienced smaller PSA declines (<50%). There was also a significant lengthening of the on-treatment PSA doubling time (PSADT) compared with the pre-treatment PSADT [6.1 months pre-treatment vs. 9.6 months on-treatment (p = 0.044)]. Finally, treatment with sulforaphane-rich extracts was safe with no Grade 3 adverse events.

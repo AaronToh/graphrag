@@ -1,7 +1,0 @@
-Document ID: 27501808
-
-Bracing is a common treatment for patients with adolescent idiopathic scoliosis (AIS) and is recommended for most skeletally immature patients with a curve of 25-45° in order to prevent or delay curve progression. The aim of this study was to determine at which body habitus orthotic management for AIS becomes less effective. We hypothesize that overweight children are more likely to fail brace treatment.
-
-This was a retrospective cohort study involving consecutive patients with AIS treated with a thoracolumbosacral orthosis at a large pediatric tertiary care center. Patients were divided into three groups based on BMI: (1) high-BMI group (BMI >85th percentile); (2) low-BMI group (BMI <20th percentile); (3) mid-BMI group (BMI 20th-85th percentile). Successful orthotic treatment was defined as an increase in the primary curve of <5°, prevention of progression past 45°, and avoidance of surgery.
-
-The study cohort comprised 182 patients with a mean age of 12.5 years at brace prescription and a mean follow-up of 2 years. Compared to the mid-BMI group, high- and low-BMI patients were significantly more likely to fail orthotic management. The association between high-BMI and orthotic failure disappeared when compliance and in-brace correction were taken into account, but the association between low-BMI and each poor outcome remained significant.

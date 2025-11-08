@@ -1,7 +1,0 @@
-Document ID: 25445226
-
-Despite recent advances in prostate cancer diagnostics and therapeutics, the overall survival rate still remains low. This study was aimed to assess potential anti-cancer activity of maysin, a major flavonoid of corn silk (CS, Zea mays L.), in androgen-independent human prostate cancer cells (PC-3).
-
-Maysin was isolated from CS of Kwangpyeongok, a Korean hybrid corn, via methanol extraction and preparative C18 reverse phase column chromatography. Maysin cytotoxicity was determined by either monitoring cell viability in various cancer cell lines by MTT assay or morphological changes. Apoptotic cell death was assessed by annexin V-FITC/PI double staining, depolarization of mitochondrial membrane potential (MMP), expression levels of Bcl-2 and pro-caspase-3 and by terminal transferase mediated dUTP-fluorescein nick end labeling (TUNEL) staining. Underlying mechanism in maysin-induced apoptosis of PC-3 cells was explored by evaluating its effects on Akt and ERK pathway.
-
-Maysin dose-dependently reduced the PC-3 cell viability, with an 87% reduction at 200 μg/ml. Maysin treatment significantly induced apoptotic cell death, DNA fragmentation, depolarization of MMP, and reduction in Bcl-2 and pro-caspase-3 expression levels. Maysin also significantly attenuated phosphorylation of Akt and ERK. A combined treatment with maysin and other known anti-cancer agents, including 5-FU, etoposide, cisplatin, or camptothecin, synergistically enhanced PC-3 cell death.

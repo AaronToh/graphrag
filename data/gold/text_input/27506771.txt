@@ -1,7 +1,0 @@
-Document ID: 27506771
-
-Antenatal vitamin D3 (vitD3) supplementation significantly increases maternal and neonatal 25-hydroxyvitamin D3 (25(OH)D3) concentration, yet the effect of an improvement in maternal-fetal vitamin D status on the neonatal immune response is unclear.
-
-To assess the effect of prenatal vitD3 supplementation on cord blood T cell function, healthy pregnant Bangladeshi women (n = 160) were randomized to receive either oral 35,000 IU/week vitD3 or placebo from 26 to 29 weeks of gestation to delivery. In a subset of participants (n = 80), cord blood mononuclear cells (CBMC) were cultured, non-adherent lymphocytes were isolated to assess T cell cytokine responses to phytohemagglutinin (PHA) and anti-CD3/anti-CD28 (iCD3/iCD28), measured by multiplex assay. In 12 participants, lymphocyte gene expression profiles were analyzed by PCR array.
-
-In supplemented group, increased concentrations of IL-10 (P < 0.000) and TNF-α (P = 0.05) with iCD3/iCD28 stimulation and IFN-γ (p = 0.05) with PHA stimulation were obtained compared to placebo group. No differences in the gene expression profile were noted between the two groups. However, PHA stimulation significantly induced the expression of genes encoding Th1 and Th2 cytokines and down-regulated a number of genes involved in T-cell development, proliferation and differentiation of B cells, signal transduction pathway, transcriptional regulation and pattern recognition receptors (PRRs) in the vitamin D group (vitD group).

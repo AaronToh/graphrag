@@ -1,7 +1,0 @@
-Document ID: 25449980
-
-To investigate serum beta2-glycoprotein I-low-density lipoprotein (β2-GPI-LDL) and oxidized low-density lipoprotein (ox-LDL) levels in type 2 diabetes mellitus (T2DM) patients, and to further evaluate the associations of β2-GPI-LDL with ox-LDL in vivo and with the presence of diabetic microvascular complications.
-
-We determined β2-GPI-LDL, ox-LDL and small dense low density lipoprotein cholesterol (sdLDL-C) levels in 236 T2DM patients with or without microvascular complications and 75 controls. The correlation analyses, multiple linear regression analyses and logistic regression analyses were performed, respectively.
-
-Compared with controls, β2-GPI-LDL and ox-LDL levels were significantly elevated in both groups of T2DM patients and those with microvascular complications exhibited the more significant increase than those without complications. Serum β2-GPI-LDL levels were positively correlated with ox-LDL as well as sdLDL-C levels in T2DM patients. Multiple linear regression analyses showed that ox-LDL was one of the independent determinants of β2-GPI-LDL levels. Logistic regression analyses indicated that elevated β2-GPI-LDL and ox-LDL levels had significant predictive values for diabetic microvascular complications.

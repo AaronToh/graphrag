@@ -1,7 +1,0 @@
-Document ID: 27509223
-
-Adipose tissue derived-mesenchymal stem cells (AMSCs) are one of the most widely used MSCs in the cell therapy for regenerative medicine. In the current study, the role of CXCL13 in AMSCs and its potential signaling pathway were investigated.
-
-AMSCs were isolated from adipose tissue of healthy subjects. After administrating the cells with CXCL13, the expression levels of miR-23a and runt-related transcription factor 2 (Runx2) were assessed by real-time PCR and western blot. The alterations of phosphoinositide-3 kinase (PI3K)/Akt, stress-activated protein kinase (SAPK)/c-jun kinase (JNK), and extracellular-signal-regulated kinase (ERK1/2) pathways were also evaluated.
-
-CXCL13 down-regulated miR-23a and up-regulated Runx2 expression in AMSCs. The inhibitor specific for PI3K/AKT, but not SAPK/JNK and ERK ERK1/2, reversed the effects of CXCL13 on miR-23a and Runx2 expression.

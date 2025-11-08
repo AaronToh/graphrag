@@ -1,7 +1,0 @@
-Document ID: 27516980
-
-Oxygen free radicals may be implicated in the pathogenesis of ischemia reperfusion damage. The beneficial effects of antioxidant nutrients, as well as complex plant extracts, on cerebral ischemia-reperfusion injuries are well known. This study was conducted to determine the effects of the hydro-alcoholic root extract of Withania coagulans on CA1 hippocampus oxidative damages following global cerebral ischemia/reperfusion in rat.
-
-Male Wistar rats were randomly divided in five groups: control, sham operated, Ischemia/ Reperfiusion (IR), and Withania Coagulans Extract (WCE) 500 and 1000mg/kg + I/R groups. Ischemia was induced by ligation of bilateral common carotid arteries for 30 min after 30 days of WCE administration. Three days after, the animals were sacrificed, their brains were fixed for histological analysis (NISSL and TUNEL staining) and some samples were prepared for measurement of malondialdehyde (MDA) level and superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPx) activity in hippocampus.
-
-WCE showed neuroprotective activity by significant decrease in MDA level and increase in the SOD, CAT and GPx activity in pretreated groups as compared to I/R groups (p<0.001). The number of intact neurons was increased while the number of TUNEL positive neurons in CA1 hippocampal region in pretreated groups were decreased as compared to I/R group (p<0.001).

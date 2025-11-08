@@ -1,7 +1,0 @@
-Document ID: 27517645
-
-Transfusion of packed erythrocytes stored for a long duration is associated with increased pulmonary arterial pressure and vascular resistance. Prolonged storage decreases erythrocyte deformability, and older erythrocytes are rapidly removed from the circulation after transfusion. The authors studied whether treating stored packed ovine erythrocytes with NO before transfusion could prevent pulmonary vasoconstriction, enhance erythrocyte deformability, and prolong erythrocyte survival after transfusion.
-
-Ovine leukoreduced packed erythrocytes were treated before transfusion with either NO gas or a short-lived NO donor. Sheep were transfused with autologous packed erythrocytes, which were stored at 4°C for either 2 ("fresh blood") or 40 days ("stored blood"). Pulmonary and systemic hemodynamic parameters were monitored before, during, and after transfusion. Transfused erythrocytes were labeled with biotin to measure their circulating lifespan. Erythrocyte deformability was assessed before and after NO treatment using a microfluidic device.
-
-NO treatment improved the deformability of stored erythrocytes and increased the number of stored erythrocytes circulating at 1 and 24 h after transfusion. NO treatment prevented transfusion-associated pulmonary hypertension (mean pulmonary arterial pressure at 30 min of 21 ± 1 vs. 15 ± 1 mmHg in control and NO-treated packed erythrocytes, P < 0.0001). Washing stored packed erythrocytes before transfusion did not prevent pulmonary hypertension.

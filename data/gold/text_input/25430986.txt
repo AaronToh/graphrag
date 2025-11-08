@@ -1,7 +1,0 @@
-Document ID: 25430986
-
-Researchers studying the murine response to stress generally use mice housed under standard, nationally mandated conditions as controls. Few investigators are concerned whether basic physical aspects of mouse housing could be an additional source of stress, capable of influencing the subsequent impact of an experimentally applied stressor. We have recently become aware of the potential for housing conditions to impact important physiological and immunological properties in mice.
-
-Here we sought to determine whether housing mice at standard temperature (ST; 22 °C) vs. thermoneutral temperature (TT; 30 °C) influences baseline expression of heat shock proteins (HSPs) and their typical induction following a whole body heating.
-
-There were no significant differences in baseline expression of HSPs at ST and TT. However, in several cases, the induction of Hsp70, Hsp110 and Hsp90 in tissues of mice maintained at ST was greater than at TT following 6 h of heating (which elevated core body temperature to 39.5 °C). This loss of HSP induction was also seen when mice housed at ST were treated with propranolol, a β-adrenergic receptor antagonist, used clinically to treat hypertension and stress.

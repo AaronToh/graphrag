@@ -1,7 +1,0 @@
-Document ID: 25436802
-
-Detection of anaplastic lymphoma kinase (ALK)-gene rearrangements in non-small-cell lung cancer (NSCLC) is mainly performed by fluorescence in-situ hybridization (FISH). The question was raised if FISH might be replaced by immunohistochemistry (IHC) in a reliable and reproducible manner across different laboratories.
-
-After calibration of the staining instruments and training of the observers to binary interpretation (positive versus negative), 15 NSCLC were independently tested for ALK protein expression by IHC only in a multicenter setting (16 institutes). Each laboratory utilized the VENTANA ALK-D5F3 IHC assay. As demonstrated by FISH the samples displayed unequivocal ALK break-positivity (6×) and negativity (7×), as well as ALK positive-"borderline" character (2×), which is challenging for FISH diagnosis and thus was RT-PCR-confirmed.
-
-All seven ALK FISH-negative cases were homogenously scored as ALK-IHC negative. All 16 participants scored the two ALK positive-"borderline" samples as unequivocally positive according to their protein expression. Concordant IHC interpretation was also noticed in four of six unequivocal ALK break positive cases. In two of six some observers described a weak/heterogeneous ALK-IHC staining. This would have resulted in a subsequent ALK-testing (FISH/PCR) in a routine diagnostic setting.

@@ -1,5 +1,0 @@
-Document ID: 25450267
-
-The aim of this study was to examine the growth arrest and DNA damage-inducible (Gadd45a) expression and its role in tumor progression, invasion and metastasis in oral squamous cell carcinoma (OSCC).
-
-Growth arrest and DNA damage-inducible 45a distribution was detected by immunohistochemistry in tumor sections of 106 patients with primary OSCC and sections of adjacent pericancerous tissues from 60 patients among the 106. The association between the Gadd45a expression and clinical prognosis of OSCC were performed by statistical analysis. Gadd45a gene knockdown was performed in Tca8113 cells by small interfering ribonucleic acid treatment and its effects on cell cycle, and migration were detected by Flow Cytometric (Becton Dickinson, USA) and transwell chamber assay respectively.

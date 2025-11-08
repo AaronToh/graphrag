@@ -1,7 +1,0 @@
-Document ID: 27509009
-
-Prematurity and fetal growth restriction are risk factors for pulmonary hypertension (PH) in infants with bronchopulmonary dysplasia (BPD). Neonatal rats develop PH and vascular remodeling when exposed to hyperoxia. We hypothesize that postnatal growth restriction (PNGR) due to under-nutrition increases the severity of PH induced by hyperoxia in neonatal rats.
-
-Pups were randomized at birth to litters maintained in room air or 75% oxygen (hyperoxia), together with litters of normal milk intake (10 pups) or PNGR (17 pups). After 14 d, right ventricular hypertrophy (RVH) was assessed by Fulton's index (right ventricular weight/left ventricular plus septal weight) and PH by echocardiography. Lungs were analyzed by immunohistochemistry, morphometrics, western blotting, and metabolomics.
-
-Hyperoxia and PNGR each significantly increased pulmonary arterial pressure, RVH and pulmonary arterial medial wall thickness, and significantly decreased pulmonary vessel number. These changes were significantly augmented in pups exposed to both insults. Hyperoxia and PNGR both significantly decreased expression of proteins involved in lung development and vasodilation.

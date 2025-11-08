@@ -1,7 +1,0 @@
-Document ID: 25436022
-
-Capnography provides a continuous, non-invasive monitoring of the CO2 to assess adequacy of ventilation and provide added safety features in mechanically ventilated patients by allowing for quick identification of unplanned extubation. These monitors may allow for decreased utilization of blood gases. The objective was to determine if implementation of continuous capnography monitoring decreases the utilization of blood gases resulting in decreased charges.
-
-This is a retrospective review of a quality improvement project that compares the utilization of blood gases before and after the implementation of standard continuous capnography. The time period of April 2010 to September 2010 was compared to April 2011 to September 2011. Parameters collected included total number of blood gases analyzed, cost of blood gas analysis, ventilator and patient days.
-
-The total number of blood gases after the institution of end tidal CO2 monitoring decreased from 12,937 in 2009 and 13,171 in 2010 to 8,070 in 2011. The average number of blood gases per encounter decreased from 20.8 in 2009 and 21.6 in 2010 to 13.8 post intervention. The blood gases per ventilator day decreased from 4.94 in 2009 and 4.76 in 2010 to 3.30 post intervention. The total charge savings over a 6-month period was $880,496.

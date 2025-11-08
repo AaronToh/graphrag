@@ -1,7 +1,0 @@
-Document ID: 27504985
-
-Metabolic adverse effects of atypical antipsychotics (AAP) contribute significantly to increased risk of cardiovascular morbidity and mortality in patients suffering from schizophrenia. Extensive preclinical research has addressed this issue over the past years, though mechanisms underlying these adverse effects of AAP are still not understood completely. Recently, attention is drawn towards the role of adipose tissue metabolism and neurohormonal regulations.
-
-The aim of this study was to evaluate the time-dependent effects of olanzapine depot administration at clinically relevant dosing on the regulation of energy homeostasis, glucose and lipid metabolism, gastrointestinal and adipose tissue-derived hormones involved in energy balance regulations in female Sprague-Dawley rats. The study lasted 8 weeks and the markers were assayed at day 8, 15, 29, 43 and 57.
-
-The results indicate that in the absence of hyperphagia, olanzapine chronic exposure induced weight gain from the beginning of the study. In the later time-point, increased adiposity was also observed. In the initial phase of the study, lipid profile was altered by an early increase in triglyceride level and highly elevated leptin level was observed. Clear bi-phasic time-dependent effect of olanzapine on leptin serum concentration was demonstrated. Olanzapine treatment did not lead to changes in serum levels of ghrelin, FGF-21 and pro-inflammatory markers IL-1a, IL-6 and TNF-α at any time-point of the study.

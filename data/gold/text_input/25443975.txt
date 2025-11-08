@@ -1,7 +1,0 @@
-Document ID: 25443975
-
-Accurate diagnosis of egg allergy by IgE testing is challenged by a large number of atopic subjects sensitized, but clinically tolerant to eggs. In addition, discrimination between allergy to raw only, or raw and cooked egg allergy is important. In this study, we investigate the diagnostic performance of IgE tests to native and denatured egg proteins.
-
-According to food challenges and clinical tolerance, study subjects were randomized to the following groups: (Group A) sensitized but clinically tolerant to egg, (Group B) allergic to raw egg only, or (Group C) allergic to raw and cooked egg. Serum-specific IgE to native or reduced and oxidized egg white, ovomucoid, and ovalbumin were measured.
-
-Increasing titers of specific IgE to the various proteins were found according to the degree of the egg allergy. Cut-off values for IgE testing to native egg could be determined to distinguish between raw egg allergic and egg-tolerant subjects (1.6 kU/l), as well as raw and cooked egg allergic and egg-tolerant subjects (4.1 kU/l). ROC curves analysis showed that native ovalbumin was the best test for the diagnosis of allergy to raw and cooked egg, and native ovomucoid was best to distinguish between allergy to raw only, and allergy to raw and cooked egg. Sequential testing improved the diagnosis, when in addition to IgE to native egg white, IgE to native ovalbumin was tested for the diagnosis of raw and cooked egg allergy, and IgE to native ovomucoid for the discrimination between allergy to raw only, or to raw and cooked eggs.

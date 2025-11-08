@@ -1,7 +1,0 @@
-Document ID: 27520407
-
-Enterococcus faecalis is a pathogenic gram-positive bacterium closely associated with apical periodontitis. Although sodium hypochlorite (NaOCl) has been used as a common endodontic irrigant to eradicate bacteria in the root canal, it has not been elucidated whether NaOCl attenuates the inflammatory response induced by the E. faecalis virulence factor lipoteichoic acid (EfLTA).
-
-Structurally intact EfLTA purified from E. faecalis was treated with NaOCl at various concentrations and time periods. Murine macrophage cell line RAW 264.7 was treated with interferon gamma followed by treatment with intact or NaOCl-treated EfLTA to determine the inducibility of inflammatory mediators such as nitric oxide, interferon gamma-inducible protein 10, and macrophage inflammatory protein-1α. Reporter gene assays assessed by flow cytometry were used to examine the ability of intact or NaOCl-treated EfLTA to activate Toll-like receptor 2 (TLR2), which is known to recognize EfLTA on host cells. Structural damage of EfLTA by NaOCl was examined using silver staining and thin-layer chromatography.
-
-NaOCl-treated EfLTA showed markedly less induction of nitric oxide, interferon gamma-inducible protein 10, and macrophage inflammatory protein-1α in RAW 264.7 cells compared with intact EfLTA. In contrast to intact EfLTA that potently stimulated TLR2 activation, NaOCl-treated EfLTA did not activate TLR2. Structural analysis showed that NaOCl damaged EfLTA structure by deacylation.

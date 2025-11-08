@@ -1,9 +1,0 @@
-Document ID: 27512976
-
-As metoclopramide stimulates aldosterone secretion, we tested its usefulness in the assessment of lateralization of primary aldosteronism by adrenal vein sampling (AVS).
-
-Prospective within-patient study in consecutive patients undergoing AVS for primary aldosteronism subtyping.
-
-We compared the diagnostic accuracy of baseline and postmetoclopramide lateralization index and relative (to cortisol) aldosterone secretion indices (RASI) for each adrenal gland with aldosterone-producing adenoma (APA) determined by the four corners criteria as the reference diagnosis.
-
-We recruited 93 consecutive patients (mean age: 52 years; women 31%). Metoclopramide increased plasma aldosterone in the inferior vena cava and in both adrenal veins. The postmetoclopramide lateralization index was accurate in identifying APA, but did not increase diagnostic accuracy over baseline lateralization index, because the RASI increased similarly in both sides. Conversely, metoclopramide raised RASI to values more than 0.90 bilaterally in non-APA patients allowing accurate identification of factitious aldosterone suppression. In contrast, RASI was 0.90 or less in 48% contralateral to the tumor in APA patients. Regression analysis showed the APA patients with persistent suppression of RASI contralaterally showed a more florid primary aldosteronism phenotype.

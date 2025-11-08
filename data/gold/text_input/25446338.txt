@@ -1,7 +1,0 @@
-Document ID: 25446338
-
-Interferon Lambda-3 (IFN-λ3) gene polymorphism is associated with spontaneous clearance of hepatitis C virus (HCV) and response to IFN-based therapy (IFN). However, very few data are available about its value in predicting sustained virologic response (SVR) in patients with cirrhosis, and whether IFN-λ3 genotype influences liver disease progression remains unclear.
-
-We determined IFN-λ3 genotype by PCR in a cohort of patients with compensated HCV-related cirrhosis, enrolled between 1989 and 1992. Person-years follow-up was calculated for each individual from the date of enrolment to the development of first episode of decompensation, HCC, liver transplant, death or end of follow-up. The follow-up of patients who achieved SVR was censored at the time of IFN initiation. Kaplan-Meier curves and Cox regression analyses were used to assess the association between IFN-λ3 genotype and clinical outcome.
-
-IFN-λ3 was determined in 264 patients (52% males, mean age 57±8 years, 67% HCV genotype (G)1, while CC, CT and TT genotypes were 36%, 50% and 14%, respectively. During a median follow-up of 14.8 years, 149 (56%) patients received IFN. Overall, SVR was achieved in 31 (21%) patients, 40% among those with CC genotype (22% in G1 and 61% in G2, respectively) compared to 10% and 13% among patients with CT and TT genotypes (p<0.0001). Univariate and multivariate analyses found no association between IFN-λ3 (CC vs. non-CC genotype) and disease progression.

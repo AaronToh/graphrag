@@ -1,7 +1,0 @@
-Document ID: 27497986
-
-Ovarian cancer is the most lethal gynecologic malignancy, and there is an unmet clinical need to develop new therapies. Although showing promising anticancer activity, Niclosamide may not be used as a monotherapy. We seek to investigate whether inhibiting IGF signaling potentiates Niclosamide's anticancer efficacy in human ovarian cancer cells.
-
-Cell proliferation and migration are assessed. Cell cycle progression and apoptosis are analyzed by flow cytometry. Inhibition of IGF signaling is accomplished by adenovirus-mediated expression of siRNAs targeting IGF-1R. Cancer-associated pathways are assessed using pathway-specific reporters. Subcutaneous xenograft model is used to determine anticancer activity.
-
-We find that Niclosamide is highly effective on inhibiting cell proliferation, cell migration, and cell cycle progression, and inducing apoptosis in human ovarian cancer cells, possibly by targeting multiple signaling pathways involved in ELK1/SRF, AP-1, MYC/MAX and NFkB. Silencing IGF-1R exert a similar but weaker effect than that of Niclosamide's. However, silencing IGF-1R significantly sensitizes ovarian cancer cells to Niclosamide-induced anti-proliferative and anticancer activities both in vitro and in vivo.

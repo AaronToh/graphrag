@@ -1,7 +1,0 @@
-Document ID: 25423020
-
-We evaluated the current role of minimally invasive surgery (MIS) in children with small bowel obstruction (SBO) at our institution.
-
-A retrospective review of patients undergoing MIS for acute SBO was performed from 2008 to 2013. The study population was compared with a historical control including patients from 2001 to 2008.
-
-There were 71 patients who met inclusion criteria; 35 were male, and 36 were female. Sixty-two children underwent laparoscopy for their first episode of SBO, and 12 underwent laparoscopy for recurrent SBO, accounting for 74 episodes of SBO managed with MIS. The most common etiology of SBO was adhesions (n=40). Laparoscopy and laparoscopic-assisted procedures were associated with shorter nasogastric tube decompression (1.4±2 days [P<.001] and 1.5±2.7 days [P=.002], respectively) and time to regular diet (3.9±4 days [P=.002] and 4.6±2.8 days [P=.024], respectively) compared with those converted to laparotomy (5.1±4.9 days of nasogastric tube decompressions and 8±4.7 days to regular diet). There was no difference in postoperative morbidity comparing laparoscopy (11%), laparoscopic-assisted (5%), and laparoscopic converted to open procedures (18%) (P=.48).

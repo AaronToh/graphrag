@@ -1,7 +1,0 @@
-Document ID: 25450205
-
-Intrahepatic cholestasis of pregnancy (ICP) is defined by pruritus, elevated total fasting serum bile salts (TBS) and transaminases, and an increased risk of adverse fetal outcome. An accurate diagnostic marker is needed. Increased serum autotaxin correlates with cholestasis-associated pruritus. We aimed at unraveling the diagnostic accuracy of autotaxin in ICP.
-
-Serum samples and placental tissue were collected from 44 women with uncomplicated pregnancies and 105 with pruritus and/or elevated serum transaminases. Autotaxin serum levels were quantified enzymatically and by Western blotting, autotaxin gene expression by quantitative PCR.
-
-Serum autotaxin was increased in ICP (mean ± SD: 43.5 ± 18.2 nmol ml(-1)min(-1), n=55, p<0.0001) compared to other pruritic disorders of pregnancy (16.8 ± 6.7 nmol ml(-1)min(-1), n=33), pre-eclampsia complicated by HELLP-syndrome (16.8 ± 8.9 nmol ml(-1)min(-1), n=17), and pregnant controls (19.6 ± 5.7 nmol ml(-1)min(-1), n=44). Longitudinal analysis during pregnancy revealed a marked rise in serum autotaxin with onset of ICP-related pruritus. Serum autotaxin was increased in women taking oral contraceptives. Increased serum autotaxin during ICP was not associated with increased autotaxin mRNA in placenta. With a cut-off value of 27.0 nmol ml(-1)min(-1), autotaxin had an excellent sensitivity and specificity in distinguishing ICP from other pruritic disorders or pre-eclampsia/HELLP-syndrome. Serum autotaxin displayed no circadian rhythm and was not influenced by food intake.

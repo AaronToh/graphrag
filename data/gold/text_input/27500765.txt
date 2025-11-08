@@ -1,7 +1,0 @@
-Document ID: 27500765
-
-Apelin-13 (A13) regulates cardiac homeostasis. However, the effects and mechanism of A13 infusion after an acute myocardial injury (AMI) have not been elucidated. This study assesses the restorative effects and mechanism of A13 on the peri-infarct region in murine AMI model.
-
-51 FVB/N mice (12weeks, 30g) underwent AMI. A week following injury, continuous micro-pump infusion of A13 (0.5μg/g/day) and saline was initiated for 4-week duration. Dual contrast MRI was conducted on weeks 1, 2, 3, and 5, consisting of delayed-enhanced and manganese-enhanced MRI. Four mice in each group were followed for an extended period of 4weeks without further infusion and underwent MRI scans on weeks 7 and 9.
-
-A13 infusion demonstrated preserved LVEF compared to saline from weeks 1 to 4 (21.9±3.2% to 23.1±1.7%* vs. 23.5±1.7% to 16.9±2.8%, *p=0.02), which persisted up to 9weeks post-MI (+1.4%* vs. -9.4%, *p=0.03). Mechanistically, dual contrast MRI demonstrated significant decrease in the peri-infarct and scar % volume in A13 group from weeks 1 to 4 (15.1 to 7.4% and 34.3 to 25.1%, p=0.02, respectively). This was corroborated by significant increase in 5-ethynyl-2'-deoxyuridine (EdU(+)) cells by A13 vs. saline groups in the peri-infarct region (16.5±3.1% vs. 8.1±1.6%; p=0.04), suggesting active cell mitosis. Finally, significantly enhanced mobilization of CD34(+) cells in the peripheral blood and up-regulation of APJ, fibrotic, and apoptotic genes in the peri-infarct region were found.

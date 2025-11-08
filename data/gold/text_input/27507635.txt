@@ -1,9 +1,0 @@
-Document ID: 27507635
-
-Prior work shows that palliative homecare services reduce the subsequent need for hospitalizations and emergency services; however, no study has investigated whether this association is present for emergency department visits of high acuity or whether it only applies to low-acuity emergency department visits.
-
-To examine the association between palliative versus standard homecare nursing and the rate of high-acuity and low-acuity emergency department visits among cancer decedents during their last 6 months of life.
-
-This is a retrospective cohort study of end-of-life homecare patients in Ontario, Canada, who had confirmed cancer cause of death from 2004 to 2009. A multivariable Poisson regression analysis was implemented to examine the association between the receipt of palliative homecare nursing (vs standard homecare nursing) and the rate of high- and low-acuity emergency department visits, separately.
-
-There were 54,743 decedents who received homecare nursing in the last 6 months of life. The receipt of palliative homecare nursing decreased the rate of low-acuity emergency department visits (relative rate = 0.53, 95% confidence interval = 0.50-0.56) and was significantly associated with a larger decrease in the rate of high-acuity emergency department visits (relative rate = 0.37, 95% confidence interval = 0.35-0.38).

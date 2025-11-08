@@ -1,7 +1,0 @@
-Document ID: 25425321
-
-Prolonged P wave duration is a marker of delayed inter-atrial conduction which may predict cardiovascular disease (CVD). Type 2 diabetes is a risk factor for all atherosclerotic manifestations including stroke. We evaluated the prognostic significance of prolonged P wave duration among middle-aged Finnish type 2 diabetes patients with and without prevalent non-major macrovascular disease (PNMMVD) with respect to total and stroke mortality.
-
-We followed up for 18 years 739 type 2 diabetic patients without previous major CVD event at baseline. Participants were stratified according to P wave duration (<114 or ≥ 114 ms) and PNMMVD (i.e. coronary heart disease defined as ischaemic ECG changes and typical symptoms of angina pectoris, or claudication; yes or no). The Cox proportional hazards model was used to estimate the joint association between P wave duration, PNMMVD and the mortality risk.
-
-During the follow-up, 509 patients died, and 59 of them died from stroke. Those who had prolonged P wave duration had 2.45 (95% confidence interval: 1.11-5.37) increased stroke mortality among PNMMVD patients. In patients without PNMMVD, there was no relationship between P wave duration and stroke mortality.

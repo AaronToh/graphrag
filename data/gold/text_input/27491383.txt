@@ -1,7 +1,0 @@
-Document ID: 27491383
-
-The endogenous opioid system has been reportedly implicated in tobacco/nicotine dependence.
-
-We examined the genetic effects of eight SNPs in opioid receptor-related genes on smoking status and smoking-related traits in Japanese.
-
-The genotypic and allelic variations of the rs2229205 SNP in the OPRL1 gene were significantly associated with smoking status, but no significant differences were found in the genetic variations of any of the SNPs with regard to smoking-related traits. The rs2229205 SNP did not show high linkage disequilibrium with the other SNPs in the linkage disequilibrium block that contained the SNP.

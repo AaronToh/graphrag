@@ -1,7 +1,0 @@
-Document ID: 27516122
-
-To determine the association of statin use with oncological outcomes and risk of pathologic upgrading following radical prostatectomy.
-
-Using a prospectively populated database of 3042 men who underwent open radical prostatectomy, patients were grouped according to reported statin use at the time of surgery. The primary outcome was time to biochemical recurrence. The secondary outcome was risk of pathologic upgrading among a subset of 1256 patients with Gleason pattern 3 + 3 = 6 on biopsy. A multivariable Cox model was used to assess risk of biochemical recurrence, and multivariable logistic regression was used to assess risk of pathologic upgrading.
-
-Eight hundred twenty-four men (27%) reported statin use at the time of radical prostatectomy. Statin users were older and had higher body mass index, higher Charlson Comorbidity Index, and lower pretreatment prostate-specific antigen values than statin nonusers. Over a median follow-up of 70 months (interquartile range: 36-107), a total of 455 men (15%) experienced biochemical recurrence. Statin use was not associated with biochemical recurrence (adjusted hazard ratio: 1.06, 95% confidence interval: 0.86-1.31). Of those men with biopsy Gleason 3 + 3 = 6 disease, 647 (52%) were upgraded to higher grade disease following radical prostatectomy; however, statin use was not associated with pathologic upgrading (adjusted odds ratio: 0.78, 95% confidence interval: 0.58-1.04).

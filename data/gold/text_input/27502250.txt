@@ -1,7 +1,0 @@
-Document ID: 27502250
-
-The present study aimed to identify the relationship between glycemic variability (GV) and the 10-y risk of cardiovascular disease (CVD) in type 2 diabetes mellitus (T2DM) patients with good glycemic control.
-
-Two-hundred forty consecutive T2DM patients (HbA1c≤7.0%) without CVD were included to calculate the 10-y CVD risk by Framingham risk score (FRS), and divided into 3 groups: low-risk group (FRS≤10%), intermediate-risk group (>10%, ≤20%) and high-risk group (>20%). Inter-group differences of GV were determined by comparing the SD of blood glucose (SDBG), mean amplitudes of glycemic excursion (MAGE), and mean of daily differences (MODD) gathered from 72-h continuous glucose monitoring system.
-
-The levels of SDBG and MAGE significantly increased along with the raises of 10-y CVD risk of T2DM patients (p<0.01). FRS was positively correlated with age, systolic blood pressure, SDBG and MAGE (r=0.717, 0.525, 0.509 and 0.485 respectively, p<0.01), while negatively correlated with the level of HDL-C (r=-0.348, p<0.01). Furthermore, multivariate logistic regression analysis confirmed that increased MAGE [OR: 1.623(1.198-2.316), p<0.001] and patients with high urine albumin excretion rates [OR: 1.743(1.247-2.793), p<0.001] were independent predictors for high 10-y CVD risk.

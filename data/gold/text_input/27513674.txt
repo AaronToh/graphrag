@@ -1,9 +1,0 @@
-Document ID: 27513674
-
-Characteristic clinical heterogeneity and mostly slow-growing behavior of gastroenteropancreatic neuroendocrine neoplasms (GEP-NENs) cause problems in finding appropriate treatments. Thus, current therapy options are not satisfactory. PKI-587 is a highly potent novel dual inhibitor of PI3K and mTORC1/C2.
-
-We assessed the effects of PKI-587 in different GEP-NEN tumor models, including poorly differentiated cell line LCC-18, compared with the established mTORC1 inhibitor everolimus.
-
-We treated the cell lines BON, QGP1, KRJ-I and LCC-18 with increasing concentrations of the inhibitor PKI-587, and compared with everolimus and DMSO. We assessed the impact of treatments on viability (WST-1 assay), on apoptotic processes (Caspase 3/7 assay, JC-1) and on cell cycle regulation (flow cytometry). We determined alterations of signaling mediators by phosphor-specific western blot analysis and conducted multiplexed gene expression analysis (nCounter® technology).
-
-In all cell lines, PKI-587 dose-dependently inhibited proliferation whereas everolimus was less effective. Treatment with PKI-587 led to cell cycle arrest, induction of apoptosis and successfully suppressed activity of direct mTORC1 target 4E-BP1, a crucial factor for tumor genesis only partially inhibited by everolimus. Gene expression analyses revealed relevant changes of RAS, MAPK, STAT and PI3K pathway genes after treatment. Treatment dependent and cell line characteristic effects on AKT/RB/E2F signaling regarding cell cycle control and apoptosis are extensively discussed in this article.

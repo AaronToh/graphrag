@@ -1,7 +1,0 @@
-Document ID: 27500275
-
-Preterm delivery and sub-optimal fetal growth are associated with each other and affect both mother and infant. Our aim was to determine (i) whether there are detectable differences in DNA methylation between early and late gestation and (ii) whether changes in DNA methylation from entry are associated with spontaneous preterm delivery with and without reduced fetal growth.
-
-We conducted a case-control study nested within a large prospective cohort. Gene specific methylation was measured by Methyl-Profiler PCR Array in a Human Breast Cancer Signature Panel of 24 genes from maternal peripheral leukocytes genomic DNA at entry and 3
-
-There was significantly decrease in DNA methylation in 15 of 24 genes during the 3

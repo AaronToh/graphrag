@@ -1,7 +1,0 @@
-Document ID: 25444002
-
-To evaluate pedestrian behavior, including reaction time, impulsivity, risk-taking, attention, and decision-making, in children with obstructive sleep apnea syndrome (OSAS) compared with healthy controls.
-
-Using a case control design, 8- to 16-year-olds (n = 60) with newly diagnosed and untreated OSAS engaged in a virtual reality pedestrian environment. Sixty-one healthy children matched using a yoke-control procedure by age, race, sex, and household income served as controls.
-
-Children with OSAS were riskier pedestrians than healthy children of the same age, race, and sex. Children with OSAS waited less time to cross (P < .01). The groups did not differ in looking at oncoming traffic or taking longer to decide to cross.

@@ -1,7 +1,0 @@
-Document ID: 27509369
-
-To determine the effect of diagnostic ureteroscopy on intravesical recurrence in patients with upper tract urothelial carcinoma (UTUC) after radical nephroureterec¬tomy (RNU).
-
-We conducted a retrospective analysis of 664 patients who were treated with RNU for UTUC from June 2000 to December 2011, excluding those who had concomitant/prior bladder tumors. Of the 664 patients, 81 underwent di¬agnostic ureteroscopy (URS). We analyzed the impact of diagnostic ureteroscopy on intravesical recurrence (IVR) using the Kaplan-Meier method. Univariate and multi¬variate analyses were used to determine the independent risk factors.
-
-The median follow-up time was 48 months (interquartile range (IQR): 31- 77 months). Patients who underwent ureteroscopy were more likely to have a small (p<0.01), early-staged (p=0.019), multifocality (p=0.035) and ureteral tumor (p<0.001). IVR occurred in 223 patients during follow-up within a median of 17 months (IQR: 7-33). Patients without preoperative ureteroscopy have a statistically significant better 2-year (79.3%±0.02 versus 71.4%±0.02, p<0.001) and 5-year intravesical recurrence-free survival rates (64.9%±0.05 versus 44.3%±0.06, p<0.001) than patients who un¬derwent ureteroscopy. In multivariate analysis, the diagnostic ureteroscopy (p=0.006), multiple tumors (p=0.001), tumor size <3cm (p=0.008), low-grade (p=0.022) and pN0 stage tumor (p=0.045) were independent predictors of IVR.

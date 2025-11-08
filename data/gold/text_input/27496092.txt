@@ -1,7 +1,0 @@
-Document ID: 27496092
-
-Organ/space surgical site infections (OSIs) constitute an important postoperative metric. We sought to assess the impact of a previously described air leak test (ALT) on the incidence of OSI following major hepatectomies.
-
-A single-institution hepatobiliary database was queried for patients who underwent a major hepatectomy without biliary-enteric anastomosis between January 2009 and June 2015. Demographic, clinicopathologic, and intraoperative data-including application of ALT-were analyzed for associations with postoperative outcomes, including OSI, hospital length of stay (LOS), morbidity and mortality rates, and readmission rates.
-
-Three hundred eighteen patients were identified who met inclusion criteria, of whom 210 had an ALT. ALT and non-ALT patients did not differ in most disease and treatment characteristics, except for higher rates of trisegmentectomy among ALT patients (53 vs. 34 %, p = 0.002). ALT patients experienced lower rates of OSI and 90-day morbidity than non-ALT patients (5.2 vs. 13.0 %, p = 0.015 and 24.8 vs. 40.7 %, p = 0.003, respectively). In turn, OSI was the strongest independent predictor of longer LOS (OR = 4.89; 95 % CI, 2.80-6.97) and higher rates of 30- (OR = 32.0; 95 % CI, 10.9-93.8) and 45-day readmissions (OR = 29.4; 95 % CI, 10.2-84.6).

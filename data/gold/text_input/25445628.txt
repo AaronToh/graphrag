@@ -1,9 +1,0 @@
-Document ID: 25445628
-
-Oxidative stress generated within inflammatory joints can produce autoimmune phenomena and joint destruction. Radical species with oxidative activity, including reactive nitrogen species, represent mediators of inflammation and cartilage damage.
-
-To assess serum nitric oxide as a marker of oxidative stress in Egyptian patients with rheumatoid arthritis and its relation to disease activity.
-
-80 patients with rheumatoid arthritis were divided into 2 groups, according to the DAS-28 score: Group I: 42 patients with disease activity, and Group II: 38 patients with no disease activity. Forty age- and sex-matched individuals were included as control group (Group III). Routine laboratory investigations were done, and nitric oxide was measured using Elisa. Hand plain radiographies were done for radiological status scoring using the Sharp method.
-
-A comparison between nitric oxide in all three groups showed a highly significant difference (p < 0.001), significantly higher levels were obtained among rheumatoid arthritis patients in comparison to controls, and higher levels were obtained in patients with active disease (mean±SD 82.38±20.46) in comparison to patients without active disease (35.53±7.15). Nitric oxide in Group I showed a significant positive correlation with morning stiffness (r=0.45), arthritis (r=0.43), platelet count (r=0.46), erythrocyte sedimentation rate (r=0.83), C-reactive protein (r=0.76) and Disease Activity Score (r=0.85). Nitric oxide showed a significant positive correlation (r=0.43) with hand radiographies (Sharp score) in Group I.

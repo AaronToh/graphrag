@@ -1,7 +1,0 @@
-Document ID: 27496822
-
-Obese persons have low circulating natriuretic peptide (NP) concentrations. It has been proposed that this 'natriuretic handicap' could play a role in obesity-related hypertension. The normal physiological response of the NP system to an increase in blood pressure (BP) is an increase in NP secretion with concomitant higher circulating NP concentrations. In this study, we investigated whether higher BP would also be related to higher circulating NP concentrations in obese men; furthermore, we verified that BP had affected the hearts of our study participants, by determining left ventricular mass (LVM).
-
-We examined 103 obese healthy medication-free men. We measured 24-hour ambulatory BP (ABP). LVM was calculated using the Cornell voltage-duration product method. Fasting serum concentrations of midregional proatrial NP (MR-proANP), a surrogate for active ANP, were measured. Linear regression analysis was used to calculate age-adjusted standardised regression coefficients (β).
-
-LVM and BP increased across systolic ABP quartiles (mean LVM±SD: 1599.1±387.2 mm ms in first vs 2188.5±551.3 mm ms in fourth quartile, p<0.001; mean systolic ABP±SD: 114.5±4.2 mm Hg in first vs 149.0±7.7 mm Hg in fourth quartile, p<0.001). Systolic ABP was robustly associated with LVM (ß=0.48, p<0.001). Despite evidence of BP-related increases in LVM, serum MR-proANP was negatively associated with systolic ABP (ß=-0.32, p=0.004) and with diastolic ABP (ß=-0.45, p<0.001).

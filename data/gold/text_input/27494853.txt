@@ -1,7 +1,0 @@
-Document ID: 27494853
-
-Sei-1 is an oncogene capable of inducing double minute chromosomes (DMs) formation. DMs are hallmarks of amplification and contribute to oncogenesis. However, the mechanism of Sei-1 inducing DMs formation remains unelucidated.
-
-DMs formation significantly increased during serial passage in vivo and gradually decreased following culture in vitro. micro nuclei (MN) was found to be responsible for the reduction. Of the DMs-carrying genes, Met was found to be markedly amplified, overexpressed and highly correlated with DMs formation. Inhibition of Met signaling decreased the number of DMs and reduced the amplification of the DMs-carrying genes. We identified a 3.57Mb DMs representing the majority population, which consists of the 1.21 Mb AMP1 from locus 6qA2 and the 2.36 Mb AMP2 from locus 6qA2-3.
-
-We employed NIH-3T3 cell line with Sei-1 overexpression to monitor and characterize DMs in vivo and in vitro. Array comparative genome hybridization (aCGH) and fluorescence in situ hybridization (FISH) were performed to reveal amplification regions and DMs-carrying genes. Metaphase spread was prepared to count the DMs. Western blot and Met inhibition rescue experiments were performed to examine for involvement of altered Met signaling in Sei-1 induced DMs. Genomic walking and PCR were adopted to reveal DMs structure.

@@ -1,7 +1,0 @@
-Document ID: 27495797
-
-The symptoms of sleep apnea, such as sleep fragmentation and oxygen desaturation, might be risk factors for subsequent mood disorder (MD), but associations between sleep apnea and MD remain unclear. This nationwide population-based study thus aimed to identify the risk of MD in patients with vs. without sleep apnea.
-
-This cohort study used data from the National Health Insurance database. In total, 5415 patients diagnosed with sleep apnea between 2000 and 2010 were evaluated, and 27,075 matched non-sleep apnea enrollees were included as a comparison cohort. All subjects were followed until 2011. The Cox proportional hazard ratio (HR) was used to investigate the relationship between MD and sleep apnea while controlling covariates and comorbidities of sleep apnea.
-
-Of 5415, 154 patients with sleep apnea (2.84 %) were diagnosed with MD during the follow-up period in comparison with 306 of 27,075 individuals (1.13 %) without antecedent sleep apnea. After adjusting for the selected factors and comorbidities, we found that patients with sleep apnea were from 1.82- to 2.07-fold greater risk of MD than the comparisons. Of the three subcategories of MD (major depressive disorder, bipolar disorder, and unspecified MD), sleep apnea had the highest predisposing risk with respect to major depressive disorder (adjusted HR from 1.82 to 2.07) and bipolar disorder (adjusted HR from 2.15 to 3.24).

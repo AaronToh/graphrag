@@ -1,9 +1,0 @@
-Document ID: 25444850
-
-Electrogram fractionation and atrial fibrosis are both thought to be pathophysiological hallmarks of evolving persistence of atrial fibrillation (AF), but recent studies in humans have shown that they do not colocalize. The interrelationship and relative roles of fractionation and fibrotic change in AF persistence therefore remain unclear.
-
-The aim of the study was to examine the hypothesis that electrogram fractionation with increasing persistence of AF results from localized conduction slowing or block due to changes in atrial connexin distribution in the absence of fibrotic change.
-
-Of 12 goats, atrial burst pacemakers maintained AF in 9 goats for up to 3 consecutive 4-week periods. After each 4-week period, 3 goats underwent epicardial mapping studies of the right atrium and examination of the atrial myocardium for immunodetection of connexins 43 and 40 (Cx43 and Cx40) and quantification of connective tissue.
-
-Despite refractoriness returning to normal in between each 4-week period of AF, there was a cumulative increase in the prevalence of fractionated atrial electrograms during both atrial pacing (control and 1, 2, and 3 months period of AF 0.3%, 1.3% ± 1.5%, 10.6% ± 2%, and 17% ± 5%, respectively; analysis of variance, P < .05) and AF (0.3% ± 0.1%, 2.3% ± 1.2%, 14% ± 2%, and 23% ± 3%; P < .05) caused by colocalized areas of conduction block during both pacing (local conduction velocity <10 cm/s: 0.1% ± 0.1%, 0.3% ± 0.6%, 6.5% ± 3%, and 6.9% ± 4%; P < .05) and AF (1.5% ± 0.5%, 2.7% ± 1.1%, 10.1% ± 1.2%, and 13.6% ± 0.4%; P < .05), associated with an increase in the heterogeneity of Cx40 and lateralization of Cx43 (lateralization scores: 1.75 ± 0.89, 1.44 ± 0.31, 2.85 ± 0.96, and 2.94 ± 0.31; P < .02), but not associated with change in connective tissue content or net conduction velocity.

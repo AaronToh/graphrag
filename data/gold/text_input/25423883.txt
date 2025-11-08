@@ -1,7 +1,0 @@
-Document ID: 25423883
-
-Assessment of the activity of thioridazine towards Mycobacterium tuberculosis (Mtb), in vitro and in vivo as a single drug and in combination with tuberculosis (TB) drugs.
-
-The in vitro activity of thioridazine as single drug or in combination with TB drugs was assessed in terms of MIC and by use of the time-kill kinetics assay. Various Mtb strains among which the Beijing genotype strain BE-1585 were included. In vivo, mice with TB induced by BE-1585 were treated with a TB drug regimen with thioridazine during 13 weeks. Therapeutic efficacy was assessed by the change in mycobacterial load in the lung, spleen and liver during treatment and 13 weeks post-treatment.
-
-In vitro, thioridazine showed a concentration-dependent and time-dependent bactericidal activity towards both actively-replicating and slowly-replicating Mtb. Thioridazine at high concentrations could enhance the activity of isoniazid and rifampicin, and in case of isoniazid resulted in elimination of mycobacteria and prevention of isoniazid-resistant mutants. Thioridazine had no added value in combination with moxifloxacin or amikacin. In mice with TB, thioridazine was poorly tolerated, limiting the maximum tolerated dose (MTD). The addition of thioridazine at the MTD to an isoniazid-rifampicin-pyrazinamide regimen for 13 weeks did not result in enhanced therapeutic efficacy.

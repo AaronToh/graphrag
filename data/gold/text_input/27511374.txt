@@ -1,7 +1,0 @@
-Document ID: 27511374
-
-Long non-coding RNAs (LncRNAs) are an important class of widespread molecules involved in diverse biological functions, which are exceptionally expressed in numerous types of diseases. Currently, limited study on LncRNA in rheumatoid arthritis (RA) is available. In this study, we aimed to identify the specifically expressed LncRNA that are relevant to adjuvant-induced arthritis (AA) in rats, and to explore the possible molecular mechanisms of RA pathogenesis.
-
-To identify LncRNAs specifically expressed in rheumatoid arthritis, the expression of LncRNAs in synoviums of rats from the model group (n=3) was compared with that in the control group (n=3) using Arraystar Rat LncRNA/mRNA microarray and real-time polymerase chain reaction (RT-PCR).
-
-Up to 260 LncRNAs were found to be differentially expressed (≥1.5-fold-change) in the synoviums between AA model and the normal rats (170 up-regulated and 90 down-regulated LncRNAs in AA rats compared with normal rats). Coding-non-coding gene co-expression networks (CNC network) were drawn based on the correlation analysis between the differentially expressed LncRNAs and mRNAs. Six LncRNAs, XR_008357, U75927, MRAK046251, XR_006457, DQ266363 and MRAK003448, were selected to analyze the relationship between LncRNAs and RA via the CNC network and GO analysis. Real-time PCR result confirmed that the six LncRNAs were specifically expressed in the AA rats.

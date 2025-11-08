@@ -1,7 +1,0 @@
-Document ID: 25444522
-
-Brivaracetam (BRV) is an antiepileptic drug in Phase III clinical development. BRV binds to synaptic vesicle 2A (SV2A) protein and is also suggested to inhibit voltage-gated sodium channels (VGSCs). To evaluate whether the effect of BRV on VGSCs represents a relevant mechanism participating in its antiepileptic properties, we explored the pharmacology of BRV on VGSCs in different cell systems and tested its efficacy at reducing the sustained repetitive firing (SRF).
-
-Brivaracetam investigations on the voltage-gated sodium current (I(Na)) were performed in N1E-155 neuroblastoma cells, cultured rat cortical neurons, and adult mouse CA1 neurons. SRF was measured in cultured cortical neurons and in CA1 neurons. All BRV (100-300 μM) experiments were performed in comparison with 100 μM carbamazepine (CBZ).
-
-Brivaracetam and CBZ reduced IN a in N1E-115 cells (30% and 40%, respectively) and primary cortical neurons (21% and 47%, respectively) by modulating the fast-inactivated state of VGSCs. BRV, in contrast to CBZ, did not affect I(Na) in CA1 neurons and SRF in cortical and CA1 neurons. CBZ consistently inhibited neuronal SRF by 75-93%.

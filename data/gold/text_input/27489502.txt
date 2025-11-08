@@ -1,9 +1,0 @@
-Document ID: 27489502
-
-PTH stimulates bone formation in Fgfr3 knockout mice through promotion of proliferation and differentiation in osteoblasts.
-
-Previous studies showed that endogenous fibroblast growth factor 2 (FGF-2) is required for parathyroid hormone (PTH)-stimulated bone anabolic effects, however, the exact mechanisms by which PTH stimulate bone formation and the function of FGF receptors in mediating these actions are not fully defined. FGF receptor 3 (FGFR3) has been characterized as an important regulator of bone metabolism and is confirmed to cross-talk with PTH/PTHrP signal in cartilage and bone development.
-
-Fgfr3 knockout and wild-type mice at 2-month-old and 4-month-old were intraperitoneally injected with PTH intermittently for 4 weeks and then the skeletal responses to PTH were assessed by dual energy X-ray absorptiometry (DEXA), micro-computed tomography (μCT) and bone histomorphometry.
-
-Intermittent PTH treatment improved bone mineral density (BMD) and femoral mechanical properties in both Fgfr3 (-/-) and wild-type mice. Histomorphometric analysis showed that bone formation and bone resorption were increased in both genotypes following PTH treatment. PTH treatment increased trabecular bone volume (BV/TV) in WT and Fgfr3-deficient mice. The anabolic response in Fgfr3-deficient and wild-type bone is characterized by an increase of both bone formation and resorption-related genes following PTH treatment. In addition, we found that Fgfr3 null osteoblasts (compared to wild-type controls) maintained normal abilities to response to PTH-stimulated increase of proliferation, differentiation, expression of osteoblastic marker genes (Cbfa1, Osteopontin and Osteocalcin), and phosphorylation of Erk1/2.

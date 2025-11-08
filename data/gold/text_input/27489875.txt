@@ -1,7 +1,0 @@
-Document ID: 27489875
-
-Cognitive tests and nonamyloid imaging biomarkers do not consistently identify preclinical AD. The objective of this study was to evaluate whether white matter hyperintensity (WMH) volume, a cerebrovascular disease marker, is more associated with preclinical AD than conventional AD biomarkers and cognitive tests.
-
-Elderly controls enrolled in the Alzheimer's Disease Neuroimaging Initiative (ADNI, n = 158) underwent florbetapir-PET scans, psychometric testing, neuroimaging with MRI and PET, and APOE genetic testing. Elderly controls the Parkinson's progression markers initiative (PPMI, n = 58) had WMH volume, cerebrospinal fluid (CSF) Aβ1-42, and APOE status measured.
-
-In the ADNI cohort, only WMH volume and APOE ε4 status were associated with cerebral Aβ (standardized β = 0.44 and 1.25, P = .03 and .002). The association between WMH volume and APOE ε4 status with cerebral Aβ (standardized β = 1.12 and 0.26, P = .048 and .045) was confirmed in the PPMI cohort.

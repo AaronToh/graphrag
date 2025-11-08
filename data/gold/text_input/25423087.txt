@@ -1,5 +1,0 @@
-Document ID: 25423087
-
-Matrix metalloproteinase-11 (MMP-11) is reported to be overexpressed in several cancers and may contribute to tumorigenesis. The current study investigated the association between the clinicopathological characteristics and plasma level of MMP-11 in oral squamous cell carcinoma (OSCC) patients.
-
-The plasma MMP-11 concentration was determined by ELISA on 330 male OSCC patients. In addition, the metastatic effects of the MMP-11 knockdown on the oral cancer cells were investigated by cell migration assay. Our results showed that the plasma MMP-11 levels were significantly higher in patients with advanced T status (p = 0.001), lymph node metastasis (p = 0.006) and higher TNM stages (p<0.001). Moreover, treatment with the MMP-11 shRNA exerted an inhibitory effect on migration in SCC9 oral cancer cells.

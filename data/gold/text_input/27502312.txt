@@ -1,9 +1,0 @@
-Document ID: 27502312
-
-Previously, using imaging mass spectrometry (IMS), we discovered proteomic differences between Spitz nevi and Spitzoid melanomas.
-
-We sought to determine whether IMS can assist in the classification of diagnostically challenging atypical Spitzoid neoplasms (ASN), to compare and correlate the IMS and histopathological diagnoses with clinical behavior.
-
-We conducted a retrospective collaborative study involving centers from 11 countries and 11 US institutions analyzing 102 ASNs by IMS. Patients were divided into clinical groups 1 to 4 representing best to worst clinical behavior. The association among IMS findings, histopathological diagnoses, and clinical groups was assessed.
-
-There was a strong association between a diagnosis of Spitzoid melanoma by IMS and lesions categorized as clinical groups 2, 3, and 4 (recurrence of disease, metastases, or death) compared with clinical group 1 (no recurrence or metastasis beyond a sentinel node) (P < .0001). Older age and greater tumor thickness were strongly associated with poorer outcome (P = .01).

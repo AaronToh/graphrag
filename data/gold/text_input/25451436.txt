@@ -1,9 +1,0 @@
-Document ID: 25451436
-
-There is a significant comorbidity between mood disorders and tobacco use disorder (TUD), which may be related to both genetic and environmental factors. Gene variants of the 5-HT transporter, such as STin2 VNTR (a variable number of tandem repeats in the functional serotonin transporter intron 2) may be associated with mood disorders and TUD.
-
-This study aimed to delineate the association between the STin2 genetic polymorphism and comorbid TUD and mood disorders, including depression or bipolar disorder.
-
-We examined the STin2 VNTR polymorphism in never-smokers (n=113); patients with mood disorders without TUD (n=62); patients with TUD without mood disorders (n=90); and patients with both disorders (n=95).
-
-We found a significant association between the STin2 genetic polymorphism and the above diagnostic groups whereby the STin2.12 allele shows a positive association with comorbid TUD and mood disorders (Odds ratio=3.07, 95% CI=1.41-6.68), while the STin2.10/10 homozygous genotype shows a negative association (Odds ratio=0.34, 95% CI=0.16-0.74). Adjusting for years of education, age, gender, marital status and ethnicity did not change these results, but showed that TUD was associated with lower education levels and less stable relationships, whereas mood disorders were related to female gender. A family history of TUD was significantly associated with TUD in subjects without mood disorders only.

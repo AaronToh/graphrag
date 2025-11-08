@@ -1,7 +1,0 @@
-Document ID: 25449231
-
-The capacity of toll-like receptor (TLR) 7/8 agonist-conjugated hepatitis B virus (HBV) proteins (HBV-Ag) to overcome established hepatitis B surface antigen (HBsAg)-specific immune tolerance was explored.
-
-A TLR7/8 agonist, CL097, was conjugated with alum-absorbed HBsAg and hepatitis B core antigen (HBcAg), as confirmed by ultra performance liquid chromatography quadrupole time-of-flight mass spectrometry (UPLC-Q/TOF MS). Mice from two independently generated HBV-transgenic (HBV-Tg) colonies, C57BL/6J-TgN (AlblHBV) 44Bri/J mice and C57BL/6-HBV-1.3 genome-eq mice, were immunized with CL097-conjugated HBV-Ag every 2 weeks, four times.
-
-After immunization, 8/11 (72.7%) of the AlblHBV mice and 10/13 (76.9%) of the HBV-1.3 genome-eq mice generated serum detectable antibodies against HBsAg (anti-HBs). HBsAg-specific interferon gamma (IFN-γ)-producing CD4(+) and CD8(+) T-cells were detected in splenocytes from these mice. Naïve normal mice receiving splenocytes from the mice immunized with CL097-conjugated HBV-Ag generated immediate recall immune responses, e.g., the mice that received CD4(+)CD25(+)-depleted splenocytes generated anti-HBs on day 3 after HBsAg challenge while those receiving cells from sham-immunized mice did not.

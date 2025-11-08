@@ -1,7 +1,0 @@
-Document ID: 27497085
-
-Psychomotor abnormalities characterize both unipolar (UP) depression and bipolar (BP) depression. We aimed to assess their neurobiological correlates in terms of motor activity (AL) and resting-state cerebral blood flow (rCBF) and investigate their association in BP, UP, and healthy controls (HC).
-
-We enrolled 42 depressed patients (22 BP, 20 UP) and 19 HC matched for age, gender, education, income. AL and rCBF were objectively assessed with the use of wrist actigraphy and arterial spin labeling. Group differences and the association of AL and rCBF were computed.
-
-Activity level was significantly reduced in patients, but no difference was found between BP and UP. Increased perfusion was found in BP compared with UP and HC, in multiple brain areas. We found positive correlations of rCBF and AL in BP and UP, in different parts of the insula and frontal regions. Only BP showed a cluster in the left precentral gyrus. In HC, only inverse correlations of AL and rCBF were found.

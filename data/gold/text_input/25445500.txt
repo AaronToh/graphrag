@@ -1,9 +1,0 @@
-Document ID: 25445500
-
-The aim of the present work was to investigate the mechanism of transforming growth factor (TGF)-β1 and Sloan-Kettering Institute (Ski) in the pathogenesis of hypertrophic scars (HS).
-
-Wound healing is an inherent process, but the aberrant wound healing of skin injury may lead to HS. There has been growing evidence suggesting a role for TGF-β1 and Ski in the pathogenesis of fibrosis.
-
-The MTT assay was used to detect the cell proliferation induced by TGF-β1. The Ski gene was transduced into cells with an adenovirus, and then the function of Ski in cell proliferation and differentiation was observed. Ski mRNA levels were measured by RT-PCR. Western blotting was used to detect the protein expression of α-SMA, E-cadherin, Meox1, Meox2, Zeb1 and Zeb2.
-
-TGF-β1 can promote human skin fibroblast (HSF) cell proliferation in a time-dependent manner, but the promoting effect could be suppressed by Ski. TGF-β1 also induces the formation of the myofibroblast phenotype and the effect of TGF-β1 could be diminished by Ski. Also, Ski modulates the cardiac myofibroblast phenotype and function through suppression of Zeb2 by up-regulating the expression of Meox2.

@@ -1,7 +1,0 @@
-Document ID: 27497320
-
-Despite modern antiretroviral therapy, HIV-associated neuropathy is one of the most prevalent, disabling and treatment-resistant complications of HIV disease. The presence and intensity of distal neuropathic pain is not fully explained by the degree of peripheral nerve damage. A better understanding of brain structure in HIV distal neuropathic pain may help explain why some patients with HIV neuropathy report pain while the majority does not. Previously, we reported that more intense distal neuropathic pain was associated with smaller total cerebral cortical gray matter volumes. The objective of this study was to determine which parts of the cortex are smaller.
-
-HIV positive individuals with and without distal neuropathic pain enrolled in the multisite (N = 233) CNS HIV Antiretroviral Treatment Effects (CHARTER) study underwent structural brain magnetic resonance imaging. Voxel-based morphometry was used to investigate regional brain volumes in these structural brain images.
-
-Left ventral posterior cingulate cortex was smaller for HIV positive individuals with versus without distal neuropathic pain (peak P = 0.017; peak t = 5.15; MNI coordinates x = -6, y = -54, z = 20). Regional brain volumes within cortical gray matter structures typically associated with pain processing were also smaller for HIV positive individuals having higher intensity ratings of distal neuropathic pain.

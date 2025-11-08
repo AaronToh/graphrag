@@ -1,7 +1,0 @@
-Document ID: 25429050
-
-Lynch syndrome is caused by germline mutations in DNA mismatch repair genes leading to microsatellite instability (MSI) and colorectal cancer. Mesalazine, commonly used for the treatment of UC, reduces MSI in vitro. Here, we tested natural compounds for such activity and applied mesalazine and thymoquinone in a Msh2(loxP/loxP) Villin-Cre mouse model for Lynch syndrome.
-
-Flow cytometry was used for quantitation of mutation rates at a CA13 microsatellite in human colon cancer (HCT116) cells that had been stably transfected with pIREShyg2-enhanced green fluorescent protein/CA13, a reporter for frameshift mutations. Mice were treated for 43 weeks with mesalazine, thymoquinone or control chow. Intestines were analysed for tumour incidence, tumour multiplicity and size. MSI testing was performed from microdissected normal intestinal or tumour tissue, compared with mouse tails and quantified by the number of mutations per marker (NMPM).
-
-Besides mesalazine, thymoquinone significantly improved replication fidelity at 1.25 and 2.5 µM in HCT116 cells. In Msh2(loxP/loxP) Villin-Cre mice, tumour incidence was reduced by mesalazine from 94% to 69% (p=0.04) and to 56% (p=0.003) by thymoquinone. The mean number of tumours was reduced from 3.1 to 1.4 by mesalazine (p=0.004) and to 1.1 by thymoquinone (p<0.001). Interestingly, MSI was reduced in normal intestinal tissue from 1.5 to 1.2 NMPM (p=0.006) and to 1.1 NMPM (p=0.01) by mesalazine and thymoquinone, respectively. Thymoquinone, but not mesalazine, reduced MSI in tumours.

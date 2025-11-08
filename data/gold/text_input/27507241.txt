@@ -1,7 +1,0 @@
-Document ID: 27507241
-
-Age-related cataract (ARC) is the leading cause of visual impairment worldwide, and α-crystallin (CRYAA) is the predominant structural protein involved in the maintenance of lens clarity and refractive properties. We previously demonstrated that CRYAA genes undergo epigenetic repression in the lens epithelia in ARC. We further analyze the underlying mechanism in the current study.
-
-The transcription factor binding sites of the CpG island of CRYAA promoter were predicted by TESS website. An electrophoretic mobility shift assay (EMSA) was used to analyze the impact of the methylation of CpG sites on transcription factors. Human lens epithelial B-3 (HLE B-3) Cells were treated with demethylation agent zebularine in the concentrations of 0 (PBS as control), 10 μM, 20 μM, 50 μM, 100 μM and 200 μM, respectively. After treatment in the above concentrations for 24 h, 48 h and 72 h, respectively, CRYAA mRNA expression levels were detected by Quantitative Real-Time RT-PCR.
-
-The methylation of the CpG site of the CRYAA promoter decreased the DNA-binding capacity of transcription factor Sp1. Zebularine increased CRYAA expression in HLE B-3 Cells in a dose- dependent and time- dependent pattern.

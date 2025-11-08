@@ -1,9 +1,0 @@
-Document ID: 25440433
-
-Histiocytoid Sweet syndrome (HSS) is a rare variant of Sweet syndrome (SS). The nature of histiocytoid cells is still uncertain.
-
-We sought to offer a comprehensive overview on clinical features of HSS and further information on immunohistochemical phenotype of the infiltrate.
-
-The clinical, histologic, and immunohistochemical features of 12 of our patients with HSS and all cases retrieved through a PubMed search were analyzed.
-
-Lesions consisted of erythematous-violaceous papules and plaques, randomly distributed mostly on the trunk and the limbs. Three patients had myelodysplastic syndrome and 1 had a monoclonal gammopathy. The infiltrate was mainly composed of CD68(+)CD163(+)myeloperoxidase(+)myeloid cell nuclear differentiation antigen(+)CD117(-)CD15(-)CD34(-), a phenotype suggestive of M2-like macrophages. A few mature neutrophils and lymphocytes were also present. Review of all HSS cases showed no sex predominance and no extracutaneous infiltrates; inconstant presence of fever and blood neutrophilia; association with hematologic or solid neoplasms (26%), autoimmune conditions (12%), and infectious diseases (10%); and good response to steroid treatment, with rare relapses or recurrences.

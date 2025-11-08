@@ -1,7 +1,0 @@
-Document ID: 27514378
-
-Beta defensins are secreted from ovine oviduct epithelial cells (OOECs) in response to microbial infection, and are potential alternatives to antibiotic agents in the treatment of microorganism infection, particularly given the abuse of antibiotic agents and the increasing number of drug-resistant bacteria. The aberrant expression of defensins may result in disorders involving organ and oviduct inflammation, such as salpingitis.
-
-In the present study, we investigated the effects of LPS on the mRNA expression levels of sheep β-defensin-1 (SBD-1) in ovine oviduct epithelial cells. The OOECs in vitro culturing system were established and treated with different concentrations of LPS for indicated time. In addition, MAPK inhibitors and TLR4 antibodies were pretreated to investigate the potential mechanism which involves in LPS regulating SBD-1 expression.
-
-LPS markedly upregulated SBD-1 expression in a concentration- and time-dependent manner. Treatment with 100 ng/mL LPS resulted in the phosphorylation of JNK, ERK and P38 MAPK. Interestingly, the LPS stimulated SBD-1 expression was attenuated by pretreatment with the P38 MAPK inhibitors SB203580 and SB202190 but not the JNK inhibitor SP600125, while the ERK inhibitor PD98059 had a minor effect. Furthermore, treatment with a Toll-like receptor 4 (TLR4) neutralizing antibody significantly decreased P38 MAPK phosphorylation and LPS induced SBD-1 expression.

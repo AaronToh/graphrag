@@ -1,7 +1,0 @@
-Document ID: 25430740
-
-Not all patients with warfarin-related acute intracranial hemorrhage (ICH) achieve full reversal of international normalized ratio (INR) after the first dose of weight-based prothrombin complex concentrate (PCC). We sought to identify factors associated with anticoagulation reversal failure after the first dose of PCC.
-
-Consecutive patients who were hospitalized with warfarin-related acute ICH at a tertiary center between 1 January 2010 and 31 December 2012 were studied. Anticoagulation reversal failure was defined as INR ≥ 1.5 after the first dose of PCC. Logistic regression was performed to determine the predictors of anticoagulation reversal failure.
-
-Fifty-one patients with acute ICH received PCC for warfarin reversal using a weight-based protocol. Overall, 23 (45%) patients did not achieve full reversal of INR after the first dose. Those with anticoagulation reversal failure were obese (body mass index > 30 kg/m(2)) (41% vs. 14%, p = 0.03), had a higher initial INR (3.0 ± 1.4 vs. 2.0 ± 0.7, p = 0.001), and had a higher prevalence of initial INR >2.0 (22% vs. 67%, p = 0.001), compared with those who were successfully reversed. Multivariable logistic regression identified obesity (odds ratio 7.88, 95% CI 1.12 to 55.68) and initial INR >2.0 (odds ratio 12.49, 95% CI 2.27 to 68.87) as independent predictors of anticoagulation reversal failure.

@@ -1,7 +1,0 @@
-Document ID: 25445437
-
-Aminoguanidine (AG), a well known inhibitor of advanced glycation end products, has been reported to attenuate cardiac hypertrophy and fibrosis. However, the underlying mechanism by which AG exerts its anti-fibrotic activity is not well understood. Reactive oxygen species (ROS) and matrix metalloproteinases (MMPs) are implicated as playing a major role in the development of cardiac fibrosis. Hence, the present study was designed to investigate the effect of AG on ROS generation and MMPs during the progress of hypertrophic growth.
-
-Isoproterenol (ISO) (7 mg/kg/day, s.c., for 15 days) was used to induce cardiac hypertrophy in experimental adult Wistar rats. ISO-treated rats were co-treated with AG (50 mg/kg/day, i.p., for 15 days). Ventricular collagen deposition, gelatinase activity of MMP-2 and MMP-9, and the level of tissue inhibitors of metalloproteinases (TIMP-1 and TIMP-2) were investigated. In addition, in silico docking of MMP-2 and MMP-9 proteins, ROS generation, and nuclear translocation of NF-κB-p65 were also studied.
-
-AG co-treatment markedly attenuated the ISO-induced hypertrophic growth and fibrosis. Heart-weight-to-body weight ratio and ventricular collagen levels were normalized upon AG co-treatment. A significantly decreased level of ventricular ROS generation (p < 0.001) and NF-κB-p65 nuclear translocation was observed in the rat hearts co-treated with AG. Furthermore, in silico docking analysis revealed that AG interacts at the active site of MMP-2 and MMP-9.

@@ -1,9 +1,0 @@
-Document ID: 27489308
-
-Developmental coordination disorder is a common neurodevelopment disorder that frequently co-occurs with other neurodevelopmental disorders including attention-deficit hyperactivity disorder (ADHD). Copy-number variations (CNVs) have been implicated in a number of neurodevelopmental and psychiatric disorders; however, the proportion of heritability in developmental coordination disorder (DCD) attributed to CNVs has not been explored.
-
-This study aims to investigate how CNVs may contribute to the genetic architecture of DCD.
-
-CNV analysis was performed on 82 extensively phenotyped Canadian children with DCD, with or without co-occurring ADHD and/or reading disorder, and 2988 healthy European controls using identical genome-wide SNP microarrays and CNV calling algorithms.
-
-An increased rate of large and rare genic CNVs (p=0.009) was detected, and there was an enrichment of duplications spanning brain-expressed genes (p=0.039) and genes previously implicated in other neurodevelopmental disorders (p=0.043). Genes and loci of particular interest in this group included: GAP43, RBFOX1, PTPRN2, SHANK3, 16p11.2 and distal 22q11.2. Although no recurrent CNVs were identified, 26% of DCD cases, where sample availability permitted segregation analysis, were found to have a de novo rare CNV. Of the inherited CNVs, 64% were from a parent who also had a neurodevelopmental disorder.

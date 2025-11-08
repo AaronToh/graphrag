@@ -1,7 +1,0 @@
-Document ID: 27502180
-
-Glioblastoma (GBM) tumors exhibit strong phenotypic differences that can be quantified using magnetic resonance imaging (MRI), but the underlying biological drivers of these imaging phenotypes remain largely unknown. An Imaging-Genomics analysis was performed to reveal the mechanistic associations between MRI derived quantitative volumetric tumor phenotype features and molecular pathways.
-
-One hundred fourty one patients with presurgery MRI and survival data were included in our analysis. Volumetric features were defined, including the necrotic core (NE), contrast-enhancement (CE), abnormal tumor volume assessed by post-contrast T1w (tumor bulk or TB), tumor-associated edema based on T2-FLAIR (ED), and total tumor volume (TV), as well as ratios of these tumor components. Based on gene expression where available (n = 91), pathway associations were assessed using a preranked gene set enrichment analysis. These results were put into context of molecular subtypes in GBM and prognostication.
-
-Volumetric features were significantly associated with diverse sets of biological processes (FDR < 0.05). While NE and TB were enriched for immune response pathways and apoptosis, CE was associated with signal transduction and protein folding processes. ED was mainly enriched for homeostasis and cell cycling pathways. ED was also the strongest predictor of molecular GBM subtypes (AUC = 0.61). CE was the strongest predictor of overall survival (C-index = 0.6; Noether test, p = 4x10(-4)).

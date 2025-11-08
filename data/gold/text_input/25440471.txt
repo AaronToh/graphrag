@@ -1,7 +1,0 @@
-Document ID: 25440471
-
-We hypothesized that myocardial scar characterization using cardiac magnetic resonance imaging (CMR) may be associated with the occurrence of ventricular tachyarrhythmia (VT), appropriate implantable cardioverter-defibrillator (ICD) therapy and mortality.
-
-Since a minority of patients with prophylactic ICD implantation receive appropriate ICD therapy, there is a need for more effective risk stratification for primary prevention in patients with ischemic cardiomyopathy.
-
-In 99 patients with ischemic cardiomyopathy, CMR was performed prior to ICD implantation. We assessed if CMR indices (cardiac mass, LVEF) and CMR scar characteristics (infarct core mass, peri-infarction mass and the ratio's between left ventricular mass, infarct core mass and peri-infarction mass) were associated with outcome. The primary endpoint was sustained VT and/or appropriate ICD therapy. The secondary endpoint was all-cause mortality. During a median follow-up of 5.4 years (IQR 4.5-6.6 years), 34 patients reached the primary end-point (17 appropriate ICD shocks) and 26 patients died. In multivariable Cox regression analysis, peri-infarction to core-infarction ratio (HR 2.01, 95%CI: 1.17-3.44, p=0.01) was independently and significantly associated with the primary endpoint, whereas NYHA-class and lower LVEF were not. Conversely, age (HR 1.06, 95% CI: 1.01-1.12, p=0.02) and lower LVEF (HR 0.95, 95% CI: 0.91-1.00, p=0.04) were independently associated with all-cause mortality, mainly due to heart failure.

@@ -1,7 +1,0 @@
-Document ID: 27506416
-
-Continuous exposure to particulate air pollution (PM) is a serious worldwide threat to public health as it coherently links with increased morbidity and mortality of cardiorespiratory diseases (CRD), and of type 2 diabetes (T2D). Extracellular vesicles (EVs) are circular plasma membrane fragments released from human cells that transfer microRNAs between tissues. In the present work it was explored the hypothesis that EVs with their encapsulated microRNAs (EVmiRNAs) contents might mediate PM effects by triggering key pathways in CRD and T2D.
-
-Expression of EVmiRNAs analyzed by real-time PCR was correlated with oxidative stress, coagulation and inflammation markers, from healthy steel plant workers (n=55) with a well-characterized exposure to PM and PM-associated metals. All p-values were adjusted for multiple comparisons. In-silico Ingenuity Pathway Analysis (IPA) was performed to identify biological pathways regulated by PM-associated EVmiRNAs.
-
-Increased expression in 17 EVmiRNAs is associated with PM and metal exposure (p<0.01). Mir-196b that tops the list, being related to 9 different metals, is fundamental in insulin biosynthesis, however three (miR-302b, miR-200c, miR-30d) out of these 17 EVmiRNAs are in turn also related to disruptions (p<0.01) in inflammatory and coagulation markers.

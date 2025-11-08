@@ -1,7 +1,0 @@
-Document ID: 25422792
-
-Multiple myeloma (MM) is an incurable B-cell cancer with accumulated clonal abnormal plasma cells in bone marrow of patients. MCL-1 (myeloid cell leukemia sequence 1) protein is an anti-apoptotic molecule in MM cells and regulated by pro-inflammatory cytokine IL-6 and downstream signaling molecules STAT3, PI3K and MAPK. The purpose of this study is to investigate the effect of STAT3, PI3K and MAPK gene silence on MCL-1 expression in human MM cells and the consequence of cell survival.
-
-Lentivirus small hairpin RNA (shRNA) interference techniques were utilized to knock down STAT3, PI3K or MAPK genes. Gene and protein expression was quantified by quantitative real-time PCR and Western Blot. MM cell apoptosis was examined by annexin-V FITC/propidium iodide staining.
-
-Efficient silence of STAT3, PI3K, MAPK1 or MAPK2 gene robustly abrogated IL-6 enhanced MCL-1 expression and suppressed MM cell growth. Silencing STAT3 gene inhibited PI3K expression, silencing PI3K markedly abrogated STAT3 and MAPK production. Inhibition of MAPK2 gene by shMAPK2 suppressed STAT3, PI3K and MAPK1 expression in the cells. Silencing of STAT3, PI3K and MAPK2 together completely blocked MCL-1 expression in MM cells.

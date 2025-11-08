@@ -1,7 +1,0 @@
-Document ID: 25435628
-
-A Chinese herb Corydalis yanhusuo W.T. Wang that showed anticancer and anti-angiogenesis effects in our previous studies was presented for further studies. In the present study, we studied the anticancer proliferation and adhesion effects of five alkaloids which were isolated from Corydalis yanhusuo.
-
-MTT dose response curves, cell migration assay, cell invasion assay, as well as three types of cell adhesive assay were performed on MDA-MB-231 human breast cancer cells. The mechanism of the compounds on inhibiting heterotypic cell adhesion were further explored by determining the expression of epidermal growth factor receptor (EGFR), Intercellular adhesion molecule 1 (ICAM-1), αv-integrin, β1-integrin and β5-integrin by western blotting assay.
-
-In five tested alkaloids, only protopine exhibited anti-adhesive and anti-invasion effects in MDA-MB-231 cells, which contributed to the anti-metastasis effect of Corydalis yanhusuo. The results showed that after treatment with protopine for 90 min, the expression of EGFR, ICAM-1, αv-integrin, β1-integrin and β5-integrin were remarkably reduced.

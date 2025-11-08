@@ -1,7 +1,0 @@
-Document ID: 25443902
-
-To investigate how statin use is associated with the probability of having an abnormal screening prostate-specific antigen (PSA) result according to common PSA thresholds for biopsy (>2.5, >4.0, and >6.5 ng/mL).
-
-We conducted a cross-sectional study of 323,426 men aged ≥65 years who had a screening PSA test in 2003 at a Veterans Affairs facility. The primary predictor was the use of statin medications at the time of index screening PSA test. The main outcome was the screening PSA value. Poisson regressions were performed to calculate adjusted relative risks for having an abnormal screening PSA result according to statin usage.
-
-Percentages of men with PSA results exceeding commonly used thresholds of >2.5, >4.0, and >6.5 ng/mL were 21.0%, 7.6%, and 1.6%, respectively. These percentages decreased with statin use, increasing statin dose, duration of statin use, and potency of the statin. For example, after adjusting for age, the percentage of men having a PSA level >4.0 ng/mL ranged from 8.2% in non-statin users to 6.2% in men prescribed with >40 mg of simvastatin dose. Adjusted relative risks of having a PSA level >4.0 ng/mL were 0.89 (95% confidence interval [CI], 0.86-0.93), 0.87 (95% CI, 0.84-0.91), and 0.83 (95% CI, 0.80-0.87), respectively for men on simvastatin dose of 5-20, >20-40, and >40 mg vs non-statin users.

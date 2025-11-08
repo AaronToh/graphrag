@@ -1,7 +1,0 @@
-Document ID: 27519883
-
-There are conflicting results for relationships between serum vitamin D levels and metabolic diseases. The aim of this study was to investigate whether serum vitamin D levels were associated with various metabolic diseases including insulin resistance (IR), metabolic syndrome (MS), fatty liver (FL), and coronary artery calcification (CAC), along with assessing gender differences for these relationships in Korean adults.
-
-A total of 180,918 subjects (98,412 men and 82,506 women) who participated in a comprehensive health examination in the 2012-2013 period at Kangbuk Samsung Hospital, College of Medicine, Sungkyunkwan University were included. Serum vitamin D and metabolic markers were analyzed and CAC was estimated. Subjects were divided according to quartile groups of serum vitamin D. To examine the relationships of serum vitamin D to metabolic diseases and metabolic factors, multivariate logistic analysis was conducted.
-
-High levels of serum vitamin D was associated with lower ORs for MS, IR and FL both in men and women (all p < 0.05). For men, ORs for CAC were significantly higher in third and the highest quartile groups for serum vitamin D in all the analyzed models (all p < 0.05). However, women showed no significant results between serum vitamin D and CAC.

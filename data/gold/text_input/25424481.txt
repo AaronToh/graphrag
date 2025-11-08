@@ -1,7 +1,0 @@
-Document ID: 25424481
-
-The aim of this study was to determine the association between 25-hydroxyvitamin D (25(OH)D) and neuroimaging correlates of cerebral small vessel disease.
-
-We identified 759 consecutive patients with acute ischemic stroke or transient ischemic attack. Lacunes, white matter hyperintensity, and cerebral microbleed (CMB) were assessed using MR images. Deep CMB was defined as the presence of CMB in basal ganglia, thalamus, or brain stem. The association between 25(OH)D and small vessel disease was tested using linear and logistic regression analyses.
-
-Mean age was 68 (±13) years. Mean level of 25(OH)D was 34.1±17.8 nmol/L. On bivariate analysis, a 25-nmol/L decrease in 25(OH)D was associated with lacunes (regression coefficient, 0.23; 95% confidence interval [CI], 0.02-0.45), severe white matter hyperintensity (odds ratio, 2.05; 95% CI, 1.41-3.08), and deep CMB (odds ratio, 1.28; 95% CI, 1.01-1.63). Also, 25(OH)D deficiency (≤25 nmol/L) was associated with lacunes (regression coefficient, 0.5; 95% CI, 0.04-0.95), severe white matter hyperintensity (odds ratio, 2.74; 95% CI, 1.31-6.45), and deep CMB (odds ratio, 1.68; 95% CI, 1.03-2.78). The association remained significant even after multivariable adjustment and in the subgroup of previously healthy patients.

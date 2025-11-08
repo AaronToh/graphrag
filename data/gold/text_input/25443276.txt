@@ -1,7 +1,0 @@
-Document ID: 25443276
-
-In renal cell carcinoma (RCC), the prediction of metastasis via tumor prognostic markers remains a major problem. The objective of our study was to evaluate the efficacy of cyclin-dependent kinase (CDK)1 and CDK2 activity as a prognostic marker in human RCC.
-
-Surgical specimens were obtained from 125 patients with RCC without metastasis. Protein expression and kinase activity of CDKs were analyzed using a newly developed assay system named C2P (Sysmex, Kobe, Japan). We then examined the specific activities (SAs) of CDK1 and CDK2 and calculated CDK2SA-CDK1SA ratio in RCC. Also, risk score (RS) was examined.
-
-A total of 125 cases were tested, though 34 cases were excluded because of low sample quality (25 cases) and assay failure (9 cases). In total, 91 cases were analyzed. They included 68 male and 23 female patients, ranging in age from 19 to 83 years. At a median follow-up of 36 months (1-109M), tumor with low CDK2SA-CDK1SA ratio showed significantly better 5-year recurrence-free survival than those with high CDK2SA-CDK1SA ratio (88.7% vs. 54.7%, P = 0.00141). Also, RS enabled the classification of RCCs into high-risk and low-risk groups, and patients with tumors classified as low RS showed better recurrence-free survival than patients with tumors with high RS (88.7% vs. 54.7%, P = 0.0141).

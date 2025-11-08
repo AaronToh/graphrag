@@ -51,13 +51,17 @@ def convert_jsonl_to_text(
             for line_num, line in enumerate(f, 1):
                 try:
                     record = json.loads(line.strip())
-                    doc_id = record['doc_id']
+                    
+                    # Extract the passage ID (e.g., "MH_train_0::support_0")
+                    passage_id = record['id']
                     text = record['text']
                     
-                    # Write text file
-                    text_file = output_dir / f"{doc_id}.txt"
+                    # Create a safe filename from the passage ID
+                    safe_filename = passage_id.replace("::", "_")
+                    
+                    # Write text file with only the text content
+                    text_file = output_dir / f"{safe_filename}.txt"
                     with open(text_file, "w") as tf:
-                        tf.write(f"Document ID: {doc_id}\n\n")
                         tf.write(text)
                     
                     processed += 1

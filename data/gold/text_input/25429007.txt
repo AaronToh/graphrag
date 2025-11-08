@@ -1,7 +1,0 @@
-Document ID: 25429007
-
-Clonal plants can plastically modify their traits in response to competition, but little is known regarding the spatio-temporal scale at which a competitive neighbourhood determines the variability in species traits. This study tests the hypothesis that the local neighbourhood can be expected to influence the processes that are involved in competition tolerance and avoidance, and that this effect depends on organ lifespan.
-
-Fragments of the rhizomatous Elytrigia repens (Poaceae) were sampled in 2012 in experimental plant communities that varied in species identity and abundance. These communities had been cultivated since 2009 in mesocosms in a common garden. Fragment performance, shoot and clonal traits were measured, and the effects of past and present local neighbourhoods of five different radius sizes (5-25 cm) were examined. Past and present local neighbourhood compositions were assessed in 2011 and 2012, respectively.
-
-Most of the measured traits of E. repens responded to the local neighbourhood (5-10 cm radius), with an additional effect of the larger neighbourhood (20-25 cm radius) on ramet height, leaf dry matter content, maximal internode length and specific rhizome mass. Contrary to the expectation of the hypothesis, the temporal influence was not due to the organ lifespan. Indeed, five of the eight traits studied responded to both the past and present neighbourhoods. With the exception of specific rhizome mass, all trait responses were explained by the abundance of specific species.

@@ -1,7 +1,0 @@
-Document ID: 27507944
-
-Sleep plays a central role in maintaining health and cognition. In most epidemiologic studies, sleep is evaluated by self-report questionnaires but several reports suggest that these evaluations might be less accurate than objective measures such as polysomnography or actigraphy. Determinants of the discrepancy between objective and subjective measures remain to be investigated. The aim of this pilot-study was to examine the role of mood states in determining the discrepancy observed between objective and subjective measures of sleep duration in older adults.
-
-Objective sleep quantity and quality were recorded by actigraphy in a sample of 45 elderly subjects over at least three consecutive nights. Subjective sleep duration and supplementary data, such as mood status and memory, were evaluated using ecological momentary assessment (EMA).
-
-A significant discrepancy was observed between EMA and actigraphic measures of sleep duration (p < 0.001). The magnitude of this difference was explained by the patient's mood status (p = 0.020). No association was found between the magnitude of this discrepancy and age, sex, sleep quality or memory performance.

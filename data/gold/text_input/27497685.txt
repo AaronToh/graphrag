@@ -1,9 +1,0 @@
-Document ID: 27497685
-
-The effect of the interaction between type 2 diabetes and dyslipidemia on inflammation and lipid peroxidation (LPO) has not been assessed.
-
-To investigate whether diabetes coupled with dyslipidemia alters oxidative metabolism leading to increased LPO products and inflammatory status.
-
-100 patients were divided into four groups based upon diabetic and dyslipidemic status: poorly controlled diabetes with dyslipidemia (DM-PC/D), well-controlled diabetes with dyslipidemia (DM-WC/D), normoglycemic individuals with dyslipidemia (NG/D), and normoglycemic individuals without dyslipidemia (NG/ND). Plasma was evaluated for an LPO product (MDA), antioxidant levels and inflammatory cytokines.
-
-Diabetics presented significantly higher levels of LPO (p<0.05) and the DM-PC/D had higher levels of proinflammatory cytokines and MDA in the plasma in comparison with normoglycemics (p<0.05). Interestingly IL1-β, IL-6, and TNF-α in DM-WC/D were not statistically different from those in DM-PC/D. Normoglycemic individuals with dyslipidemia presented significantly increased levels of IL-6 and TNF-α when compared to normoglycemic without dyslipidemia (p<0.05). MDA levels were also positively correlated with the presence of DM complications (r=0.42, p<0.01).

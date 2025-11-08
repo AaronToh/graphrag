@@ -1,7 +1,0 @@
-Document ID: 27504157
-
-Malignant astrocytic gliomas are the most common and lethal brain malignancies due to their refractory to the current therapies. Nowadays, molecular targeted therapy has attracted great attention in treatment of glioma. Connexin 43 (Cx43) and micro ribonucleic acid-21(miR-21) are among molecules that are involved in glioma development and progression. These molecules showed potential to be as target molecules with regard to glioma. Some studies have reported that cyclic adenosine monophosphate (cAMP) signaling could be effective on Cx43 and miR-21 in tissues other than in brain. We investigate possible relationship between β-adrenergic receptor and its newly described downstream, exchange protein directly activated by cAMP (Epac) signaling pathway and expression of Cx43 and miR-21 in low (1321N1) and high grade (U87MG) glioma cell lines.
-
-We treated cells with β-adrenergic agonist and Epac activator with and without adenyl cyclase inhibitor. Cx43 and miR-21 expression were measured with real-time PCR.
-
-Our data showed that in 1321N1 cells, β-adrenergic-Epac pathway stimulation up and down-regulated Cx43 and miR-21 expression respectively. Whereas, in U87MG cells these interventions had no effect on Cx43 and miR-21 expression.

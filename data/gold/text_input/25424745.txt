@@ -1,7 +1,0 @@
-Document ID: 25424745
-
-Little is known about endothelial function in adolescents with type 1 diabetes, and we evaluated endothelial dysfunction, using reactive hyperaemia peripheral arterial tonometry (RH-PAT).
-
-This prospective, observational, 1-year study focused on 73 adolescents with type 1 diabetes, using multiple daily injections or continuous subcutaneous insulin infusion. The subjects were assessed using RH-PAT, body mass index, blood pressure, fasting lipid profile, glycated haemoglobin, insulin requirements and hours of physical exercise per week.
-
-Endothelial dysfunction was observed in 56 patients (76.7%), with lower mean RH-PAT scores (1.26 ± 0.22 versus 2.24 ± 0.48, p < 0.0001) and higher glycated haemoglobin values at baseline (8.27 ± 1.24% versus 7.37 ± 0.54%, p = 0.006) and as a mean of the whole period since diagnosis (8.25 ± 1.22% versus 7.72 ± 0.82%, p = 0.034). A higher percentage of patients with endothelial dysfunction showed abnormal cardiac autonomic tests (p = 0.02) and were more sedentary, exercising <4 hours a week, than patients with normal endothelial function. After follow-up in 64/73 patients, we observed endothelial dysfunction in 81.8% of patients, despite a modest improvement in glycated haemoglobin.

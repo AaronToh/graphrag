@@ -1,7 +1,0 @@
-Document ID: 27490714
-
-Although posttraumatic stress disorder (PTSD) and chronic pain frequently occur in tandem, the pathophysiological mechanisms mediating this comorbidity are poorly understood. Because excessive inflammation occurs in both conditions, we examined the cerebrospinal fluid (CSF) concentrations of inflammatory response mediators interleukin 1-beta (IL-1β), interleukin 6 (IL-6), interleukin 8 (IL-8), tumor necrosis factor-alpha (TNFα) and interleukin 10 (IL-10) after prolonged suprathreshold pain stimulus in 21 male combat veterans; 10 with PTSD and 11 combat controls (CC).
-
-After completing baseline quantitative sensory testing (QST) and psychological profiling, all patients received an injection of capsaicin into the quadriceps muscle. Spontaneously reported pain was measured for 30min after the capsaicin injection. The evoked pain measure of temporal summation was tested between 70 and 110min post capsaicin injection. Inflammatory (IL-1β, IL-6, IL-8 TNFα) and anti-inflammatory (IL-10) CSF cytokines were measured before (baseline) and after capsaicin injection over a time frame of 110min.
-
-Following intramuscular capsaicin injection, pro-inflammatory cytokines [TNFα, IL-6, IL-8] significantly increased (percent rise from baseline) in both groups, whereas IL-1β significantly increased in the PTSD group only. The anti-inflammatory cytokine IL-10 showed an immediate (within 10min) increase in the CC group; however, the IL-10 increase in the PTSD group was delayed and not consistently elevated until 70min post injection.

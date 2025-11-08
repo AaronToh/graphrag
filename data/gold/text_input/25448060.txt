@@ -1,7 +1,0 @@
-Document ID: 25448060
-
-To determine whether recent reimbursement cuts have resulted in a shift of outpatient MRI from private offices to hospital outpatient departments (HOPDs); and to study office MRI utilization trends among radiologists and other specialists.
-
-The Medicare Part B Physician/Supplier Procedure Summary Master Files were used. MRI codes were aggregated, and total MRI volumes from 2002 to 2012 were studied. Medicare place-of-service codes were used to identify studies performed in private offices and HOPDs and create trend lines. Specialty codes were used to categorize private office MRI users as radiologists, orthopedic surgeons, other physicians, and independent diagnostic testing facilities.
-
-Medicare office and HOPD utilization of MRI (all specialties) rose rapidly from 2002 to 2006, reaching 2,727,807 in offices and 2,355,641 in HOPDs. Thereafter, office volume steadily declined, whereas HOPD volume steadily increased. By 2012, more studies were done in HOPDs than in offices. Over the entire period from 2002 and 2012, office MRI volume among radiologists increased 27%, compared with 216% among orthopedic surgeons and 124% among other physicians.

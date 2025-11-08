@@ -1,7 +1,0 @@
-Document ID: 27517515
-
-Oral epithelial cells have currently been found to play an important role in inflammatory modulation in periodontitis. Mangiferin is a natural glucosylxanthone with anti-inflammatory activity. The aim of this study was to investigate the regulatory effect of mangiferin on lipopolysaccharide (LPS)-induced production of proinflammatory cytokine interleukin-6 (IL-6) in oral epithelial cells and the underlying mechanisms.
-
-The levels of LPS-induced IL-6 production in OKF6/TERT-2 oral keratinocytes were detected using enzyme-linked immunosorbent assay (ELISA). The expression of Toll-like receptor (TLR) 2 and TLR4 was determined using western blot analysis. And the phosphorylation of TLR downstream nuclear factor-κB (NF-κB), p38 mitogen-activated protein kinase (p38 MAPK) and c-Jun N-terminal kinase (JNK) was examined using cell-based protein phosphorylation ELISA kits.
-
-We found that mangiferin reduced LPS-upregulated IL-6 production in OKF6/TERT-2 cells. Additionally, mangiferin inhibited LPS-induced TLR2 and TLR4 overexpression, and suppressed the phosphorylation of NF-κB, p38 MAPK and JNK. Moreover, mangiferin repressed IL-6 production and TLR signaling activation in a dose-dependent manner after 24h treatment.

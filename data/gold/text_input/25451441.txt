@@ -1,7 +1,0 @@
-Document ID: 25451441
-
-Disturbed sleep is associated with mood disorders. Both depression and insomnia may increase the risk of disability retirement. The longitudinal links among insomnia, depression and work incapacity are poorly known.
-
-We examined association of self-reported sleep quality with incident symptoms of depression and disability retirement due to depressive disorders in a longitudinal population-based sample of twins (n=12,063 individuals). These adults were categorized by their sleep quality in 1975 and 1981, excluding individuals with depressed mood in 1975/1981. The outcomes were the Beck Depression Inventory (BDItot) and its subscale Negative Attitudes Towards Self (BDINATS) in 1990 as dichotomized measures, and the incidence of disability retirement due to depressive disorder during 1991-2004.
-
-Onset of poor sleep between 1975 and 1981 predicted incident depression (BDItot OR=4.5, 95% CI: 2.7-7.4, BDINATS OR=2.0, 95% CI: 1.4-2.7), while persistent poor sleep showed somewhat weaker effects (BDItot; OR=2.5, 95% CI: 1.0-6.0, BDINATS OR=1.9, 95% CI: 1.1-3.3). Among those with few recent stressful life events, onset of poor sleep predicted strongly depression (BDINATS OR=9.5, 95% CI: 3.7-24.2). Likewise onset of poor sleep by 1981 increased the risk of disability retirement due to depression (OR=2.9, 95% CI: 1.8-4.9) with a similar risk among those with persistent poor sleep (OR=2.7, 95% CI: 1.3-5.7).

@@ -1,7 +1,0 @@
-Document ID: 27509845
-
-Young children with sickle cell disease (SCD) are at risk for cognitive delay. In addition to biologic risk factors associated with SCD, environmental factors contribute to cognitive dysfunction within this cohort.
-
-We completed a single-arm, prospective cohort study. Children with SCD between the ages of 3 and 36 months and their caregivers were followed between October 2010 and December 2013. The aim was to describe the role of a home visitation model, the home environment, and socioeconomic status in the development of young children with SCD. Primary outcome measures were the Bayley Scales of Infant and Toddler Development, Third Edition (BSID-III) and the Home Observation for Measurement of the Environment (HOME). We hypothesized that the home visitation model, Parents as Teachers
-
-Thirty-five participants had at least two PAT visits and BSID-III assessments. Mean scores within all five subtests of the BSID-III improved between enrollment and exit, with significant changes within cognitive (P = 0.016) and expressive language (EL) domains (P = 0.002). Multivariate modeling found the HOME score associated with the exit results of the cognitive domain.

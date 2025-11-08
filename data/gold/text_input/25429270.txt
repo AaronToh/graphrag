@@ -1,9 +1,0 @@
-Document ID: 25429270
-
-Gases, such as nitric oxide (NO), carbon monoxide (CO), or hydrogen sulfide (H2S), termed gasotransmitters, play an increasingly important role in understanding of how electrical signaling of cells is modulated. H2S is well-known to act on various ion channels and receptors. In a previous study we reported that H2S increased calcium-activated potassium (BK) channel activity.
-
-The goal of the present study is to investigate the modulatory effect of BK channel phosphorylation on the action of H2S on the channel as well as to recalculate and determine the H2S concentrations in aqueous sodium hydrogen sulfide (NaHS) solutions.
-
-Single channel recordings of GH3, GH4, and GH4 STREX cells were used to analyze channel open probability, amplitude, and open dwell times. H2S was measured with an anion selective electrode.
-
-The concentration of H2S produced from NaHS was recalculated taking pH, temperature salinity of the perfusate, and evaporation of H2S into account. The results indicate that from a concentration of 300 μM NaHS, only 11-13%, i.e., 34-41 μM is effective as H2S in solution. GH3, GH4, and GH4 STREX cells respond differently to phosphorylation. BK channel open probability (Po) of all cells lines used was increased by H2S in ATP-containing solutions. PKA prevented the action of H2S on channel Po in GH4 and GH4 STREX, but not in GH3 cells. H2S, high significantly increased Po of all PKG pretreated cells. In the presence of PKC, which lowers channel activity, H2S increased channel Po of GH4 and GH4 STREX, but not those of GH3 cells. H2S increased open dwell times of GH3 cells in the absence of ATP significantly. A significant increase of dwell times with H2S was also observed in the presence of okadaic acid.

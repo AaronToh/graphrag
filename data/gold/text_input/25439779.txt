@@ -1,7 +1,0 @@
-Document ID: 25439779
-
-Skeletal myoblasts fuse to form functional syncytial myotubes as an integral part of the skeletal muscle. During this differentiation process, expression of proteins for mechanical and electrical integration is seized, which is a major drawback for the application of skeletal myoblasts in cardiac regenerative cell therapy, because global heart function depends on intercellular communication.
-
-Mechanically preconditioned engineered tissue constructs containing neonatal mouse skeletal myoblasts were transplanted epicardially. A Y-chromosomal specific polymerase chain reaction (PCR) was undertaken up to 10 weeks after transplantation to confirm the presence of grafted cells. Histologic and electrophysiologic analyses were carried out 1 week after transplantation.
-
-Cells within the grafted construct expressed connexin 43 at the interface to the host myocardium, indicating electrical coupling, confirmed by sharp electrode recordings. Analyses of the maximum stimulation frequency (5.65 ± 0.37 Hz), conduction velocity (0.087 ± 0.011 m/s) and sensitivity for pharmacologic conduction block (0.736 ± 0.080 mM 1-heptanol) revealed effective electrophysiologic coupling between graft and host cells, although significantly less robust than in native myocardial tissue (maximum stimulation frequency, 11.616 ± 0.238 Hz, P < .001; conduction velocity, 0.300 ± 0.057 m/s, P < .01; conduction block, 1.983 ± 0.077 mM 1-heptanol, P < .001).

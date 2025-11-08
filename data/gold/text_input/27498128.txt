@@ -1,7 +1,0 @@
-Document ID: 27498128
-
-Immunohistochemical 4 (IHC4) score plus Clinical Treatment Score (CTS) is an inexpensive tool predicting risk of distant recurrence in women with early breast cancer (EBC). IHC4 score is based on ER, PR, HER2 and Ki67 index. This study explores the role of the combined score (IHC4 + CTS) in predicting risk of locoregional recurrence (LRR) in women with EBC who had breast conservation surgery (BCS) without adjuvant radiotherapy (study group). The secondary objective was to evaluate the clinicopathological differences between our study group and women who had adjuvant radiation following BCS (control group).
-
-Patients were selected from the local database over a 13-year period. IHC testing was done where results were missing. Combined scores were calculated using the appropriate formulae.
-
-Patients in the study group (81 patients) had favorable clinicopathological features compared to the control group (1406 patients). The Cox regression indicated a statistically significant association between the combined score and the risk of LRR (p = 0.03). The incidence of LRR was zero, 20% and 33.3% in the low, intermediate and high risk groups respectively (p = 0.007). Margin status was the only variable not included in the combined score. The Cox regression analysis demonstrated that the combined score (p = 0.02) and the ordinal measure of margins (p = 0.03) were significant independent predictors of LRR.

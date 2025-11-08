@@ -1,7 +1,0 @@
-Document ID: 25436304
-
-The purpose of this study was to assess liver-type fatty acid-binding protein (L-FABP) expression and its association with clinicopathological features in hepatocellular carcinoma (HCC).
-
-L-FABP mRNA expression in 57 samples of HCC and corresponding adjacent liver tissue and 8 normal liver tissue samples were examined by real-time reverse transcriptase (RT)–PCR analyses. Tissue microarray technique and immunohistochemistry (IHC) were used to detect the expression of L-FABP in 163 HCCs. The association between L-FABP expression and the clinicopathological factors and prognosis was analyzed.
-
-The average expression of L-FABP mRNA was 0.233 in the HCC tissues, 1.407 in the peri-carcinoma tissues, and 1.0 in the normal liver tissues. IHC analysis showed that there were 47% (76/163) HCCs exhibited weak or even no immunoreactivity of L-FABP. The L-FABP expression in HCC showed significant associations with preoperative levels of AFP (p=0.039), tumor size (p=0.026), histological grade (p=0.000), differential degree (p=0.000), vascular invasion (p=0.016), capsular invasion (p=0.029) and recurrence (p=0.004). Patients with L-FABP high-expression showed better prognosis than patients with L-FABP low-expression (p=0.008).

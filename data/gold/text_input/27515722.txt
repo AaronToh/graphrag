@@ -1,7 +1,0 @@
-Document ID: 27515722
-
-Substance use and crime/recidivism are irrevocably linked. We explore the nuances of this association by highlighting the prevalence, trends, and correlates of substance use dsorders in a large group of probationers/parolees.
-
-We examined SUDs among probationers and parolees in the United States using data from the National Study on Drug Use and Health (NSDUH). Logistic regression models were computed to examine eight distinct outcomes: alcohol abuse, illicit drug abuse, marijuana/hashish abuse, comorbid alcohol and illicit drug abuse, alcohol dependence, illicit drug dependence, marijuana/hashish dependence, and comorbid alcohol and illicit drug dependence.
-
-Probationers/parolees have high prevalence rates across all SUDs categories and these trends have been relatively constant. Prevalence rates for alcohol abuse and dependence are two to six times higher than for marijuana and other illicit drug abuse and dependence. Key correlates of substance abuse for probationers/parolees include: age, gender, race/ethnicity, education, income, risk propensity, crime/violence measures, and comorbid substance abuse. Similar correlates were found for substance dependence, in addition to employment and mental health treatment.

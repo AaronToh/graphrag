@@ -1,7 +1,0 @@
-Document ID: 25428515
-
-To investigate the role of preoperative neutrophil-to-lymphocyte ratio (NLR) in prediction of response to first-line platinum-based chemotherapy and survival outcome in serous ovarian cancer (SOC) patients.
-
-Clinicopathologic data were reviewed for patients with SOC treated with primary cytoreduction followed by platinum-based chemotherapy. The correlations of NLR value with clinicopathological features, clinical response to chemotherapy, and survival outcome were further explored.
-
-High preoperative NLR was significantly associated with advanced FIGO stage, histological grade, increased serum CA-125 level, and positive lymph node metastasis (P < 0.05, respectively). SOC patients in the third and fourth NLR quartile had significantly lower complete response rates compared to those in the first NLR quartile. In addition, survival analysis identified NLR as an independent prognostic factor for both PFS (HR 2.262, 95% CI 1.342-3.811; P = 0.002) and OS (HR 3.254, 95% CI 1.741-6.084; P < 0.001) in SOC patients.

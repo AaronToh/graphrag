@@ -1,7 +1,0 @@
-Document ID: 27505451
-
-New generation synthetic surfactants represent a promising alternative in the treatment of respiratory distress syndrome in preterm infants. CHF5633, a new generation reconstituted agent, has demonstrated biophysical effectiveness in vitro and in vivo. In accordance to several well-known surfactant preparations, we recently demonstrated anti-inflammatory effects on LPS-induced cytokine responses in human adult monocytes. The present study addressed pro- and anti-inflammatory effects of CHF5633 in human cord blood monocytes.
-
-Purified neonatal CD14(+) cells, either native or simultaneously stimulated with E. coli LPS, were exposed to CHF5633. TNF-α, IL-1β, IL-8 and IL-10 as well as TLR2 and TLR4 expression were analyzed by means of real-time quantitative PCR and flow cytometry.
-
-CHF5633 did not induce pro-inflammation in native human neonatal monocytes and did not aggravate LPS-induced cytokine responses. Exposure to CHF5633 led to a significant decrease in LPS-induced intracellular TNF-α protein expression, and significantly suppressed LPS-induced mRNA and intracellular protein expression of IL-1β. CHF5633 incubation did not affect cell viability, indicating that the suppressive activity was not due to toxic effects on neonatal monocytes. LPS-induced IL-8, IL-10, TLR2 and TLR4 expression were unaffected.

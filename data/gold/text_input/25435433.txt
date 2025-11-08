@@ -1,7 +1,0 @@
-Document ID: 25435433
-
-MicroRNA (miRNA) machinery regulates cancer cell behavior, and has been implicated in patients' clinical status and prognosis. We found that microRNA-29b (miR-29b) increased significantly in advanced migratory cells. However, miR-29b controls the migration ability, and its regulatory mechanism in oral squamous cell carcinoma (OSCC) remains unknown.
-
-We triggered miR-29b expression in OSCC patients and cell lines by conducting real-time quantitative PCR. We determined the functions of miR-29b in the migration of OSCC cells by using gain- and loss-of-function approaches. We elevated the target genes of miR29b through software predictions and a luciferase report assay. We used an orthotopic OSCC animal model to investigate the effects of miR29b on OSCC cell metastasis in vivo.
-
-The clinical data revealed that miR-29b expression was correlated with lymph node metastasis and an advanced tumor stage in 98 OSCC patients. Furthermore, multivariate analysis revealed that miR-29b expression was significantly correlated with recurrence, and indicated poor survival. MiR-29b promoted OSCC cell migration and downregulated CX3CL1, a cell-cell adhesion regulator, which plays an essential role in miR-29b-regulated OSCC cell migration machinery. Furthermore, we found that CX3CL1 expression was correlated with lymph node metastasis and an early tumor stage in OSCC patients, and negatively correlated with miR-29b expression.

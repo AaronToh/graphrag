@@ -1,7 +1,0 @@
-Document ID: 25424625
-
-Antibody resistance, not only de novo but also acquired cases, usually exists and is related with lower survival rate and high risk of recurrence. Reversing the resistance often results in better clinical therapeutic effect. Previously, we established a trastuzumab-resistant ovarian cancer cell line, named as SKOV3-T, with lower HER2 and induced higher IGF-1R expression level to keep cell survival.
-
-IGF-1R was identified important for SKOV3-T growth. Then, a novel anti-IGF-1R monoclonal antibody, named as LMAb1, was used to inhibit SKOV3-T in cell growth/proliferation, migration, clone formation and in vivo carcinogenicity.
-
-In both in vitro and in vivo assays, LMAb1 showed effective anti-tumor function, especially when being used in combination with trastuzumab, which was beneficial to longer survival time of mice as well as smaller tumor. It was also confirmed preliminarily that the mechanism of antibody might be to inhibit the activation of IGF-1R and downstream MAPK, AKT pathway transduction.

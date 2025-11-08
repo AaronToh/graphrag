@@ -1,7 +1,0 @@
-Document ID: 27511352
-
-In order to determine the synergistic effects of human placental mesenchymal stem cells (PMSCs) on hematopoiesis in vivo, we compared the intrabone marrow injection (IBMI) with the conventional intravenous injection (IVI).
-
-C57BL/6 recipient mice conditioned with lethal doses of irradiation were transplanted with bone marrow mononuclear cells (MNCs) and bone marrow-derived mesenchymal stem cells (BMSCs) from BALB/c mice by IBMI or IVI. NOD/SCID recipient mice conditioned with sublethal doses of irradiation were transplanted with human umbilical cord blood MNCs (UCB-MNCs) and PMSCs by IBMI or IVI.
-
-The number of hematopoietic cells was significantly higher in mice transplanted with BMSCs by IBMI than in those transplanted by IVI in a murine transplantation model (BALB/c→C57BL/6). Moreover, the percentage of human hematopoietic cells in the tibiae of the NOD/SCID mice that were transplanted with PMSCs plus UCB-MNCs was higher than that in mice transplanted with UCB-MNCs alone. In addition, in mice that were transplanted with PMSCs, PMSCs injected by IBMI were more efficient than those injected by IVI.

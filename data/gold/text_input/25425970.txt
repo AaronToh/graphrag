@@ -1,7 +1,0 @@
-Document ID: 25425970
-
-Foxhead box M1 (FOXM1) expression has been shown to be linked with human papillomavirus (HPV) 16/18-infected cervical cancer. However, the mechanism underlying the induction of FOXM1 in HPV 16/18-infected cancers remains elusive.
-
-The mechanistic actions of FOXM1 induced by the E6/NKX2-1 axis in tumor aggressiveness were elucidated in cellular and animal models. The prognostic value of FOXM1 for overall survival (OS) and relapse-free survival (RFS) in HPV-positive oral and lung cancers was assessed using Kaplan-Meier and Cox regression models.
-
-Herein, FOXM1 expression is upregulated by E6-mediated NKX2-1 in HPV-positive cervical, oral, and lung cancer cells. Induction of FOXM1 by E6 through the MZF1/NKX2-1 axis is responsible for HPV-mediated soft agar growth, invasiveness, and stemness through activating Wnt/β-catenin signaling pathway. In a nude mice model, metastatic lung tumor nodules in HPV 18 E6-positive GNM or HPV 16 E6-positive TL-1-injected nude mice were markedly decreased in both cell types with E6 knockdown, FOXM1 knockdown, or treatment with FOXM1 inhibitor (thiostrepton). Among the four subgroup patients, the worst FOXM1 prognostic value for OS and RFS was observed in HPV 16/18-positive patients with tumors with high-expressing FOXM1.

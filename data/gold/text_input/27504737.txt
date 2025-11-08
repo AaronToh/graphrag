@@ -1,7 +1,0 @@
-Document ID: 27504737
-
-Osteolysis which leads to aseptic loosening of implants is a fundamental problem in joint replacement surgery (arthroplasty) and the leading cause for implant failure and revision surgery. Metal (CoCr) particles separated from implants by wear cause osteolysis and the failure of orthopedic implants, but the molecular mechanism is not clear. The chemokine receptor CXCR4 has been shown to play a pivotal role in periprosthetic osteolysis. The aim of this study was to determine which signal transduction pathway (PLC-DAG-PKC or MAPK/ERK) induces CXCR4 expression in osteoblast-like cells (MG63) cells.
-
-MG63 and Jurkat cells were stimulated with different amounts of particles (10
-
-Real-time PCR data showed that CXCR4 mRNA expression in MG63 cells induced by CoCr particles was significantly diminished by the PKC-specific inhibitor chelerythrine. This effect was not observed with the MAPK/ERK inhibitor PD98059. The involvement of PKC was also confirmed by an intensified phosphorylation pattern after stimulation with CoCr particles. In Jurkat cells, none of the inhibitors exhibited any effect.

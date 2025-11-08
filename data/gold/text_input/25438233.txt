@@ -1,7 +1,0 @@
-Document ID: 25438233
-
-We evaluated the prognostic value of mid-regional proadrenomedullin (MR-proADM) in atrial fibrillation (AF) patients undergoing radiofrequency ablation.
-
-Plasma concentrations of MR-proADM were measured at baseline and after 12months in 87 AF patients in whom radiofrequency ablation was performed. The association between MR-proADM and AF recurrence was tested by univariable and multivariable Cox models.
-
-In all 87 patients radiofrequency ablation was successfully performed. Of the total population 54% had paroxysmal AF. The mean left ventricular ejection fraction was 54% (minimum 25%). After 12months of follow-up, 71% of the patients were free of AF recurrence. At baseline, mean MR-proADM in the total population was 0.72nmol/l±0.22. Patients with AF recurrence had significantly higher baseline MR-proADM (0.89nmol/l±0.29) as compared with patients without AF recurrence (0.65nmol/l±0.14; p<0.001). After 12months, mean MR-proADM plasma concentration remained higher in patients with AF recurrence (0.81nmol/l±0.22 as compared with patients free of AF 0.54nmol/l±0.20; p<0.001). Receiver operating characteristic (ROC) curve analysis for MR-proADM yields a specificity of 98% and a sensitivity of 64% with an optimal cut-off value of 0.82nmol/l to predict recurrence of AF after catheter ablation. In the logistic regression analysis only MR-proADM remained independently predictive for AF recurrence.

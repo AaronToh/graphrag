@@ -1,7 +1,0 @@
-Document ID: 27510704
-
-Atrial natriuretic peptide is a cardiac atrium-derived hormone and its cardioprotective effects have recently been confirmed, but the actual mechanism underlying these effects has not been well elucidated. In this study, we proposed that atrial natriuretic peptide achieves its effects in part via peroxisome proliferator activated receptor γ, a nuclear receptor.
-
-Hemodynamic data in swine heart ischemia-reperfusion model were measured under the conditions of no medication for control (Group N, n = 8) or that of carperitide (synthetic human atrial natriuretic peptide) systemic administration (Group A, n = 8). After 30 min of left anterior descending artery total occlusion and 4 h of reperfusion, peroxisome proliferator activated receptor γ mRNA and protein expressions in cardiac muscle were examined. The mRNA expression of Liver X receptor α, the downstream agent of peroxisome proliferator activated receptor γ, was also evaluated. Creatine kinase-myocardial band and Troponin T elevations after reperfusion were evaluated as markers of cardiac damage.
-
-The dP/dT decrease during reperfusion was ameliorated in Group A. Peroxisome proliferator activated receptor γ mRNA expression in Group A was significantly higher in ischemic area than that in Group N, although the difference was not significant in the marginal and non-ischemic areas. The peroxisome proliferator activated receptor γ protein expression in ischemic area was also significantly dominant in Group A.

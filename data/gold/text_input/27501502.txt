@@ -1,7 +1,0 @@
-Document ID: 27501502
-
-MicroRNA-622 has been proven down-regulated in many human malignancies and correlated with tumor progression. However, its role in esophageal squamous cell carcinoma (ESCC) is still unclear. The aim of this study was to explore the expression and function of miR-622 in ESCC.
-
-Using quantitative RT-PCR, we detected miR-622 expression in ESCC cell lines and primary tumor tissues. The association of miR-622 expression with clinicopathological factors and prognosis was also analyzed. Then, the effects of miR-622 on the biological behavior of ESCC cells were investigated. At last, the potential regulatory function of miR-622 on E2F1 expression was confirmed.
-
-miR-622 was found to be down-regulated in ESCC tissues and cell lines. Decreased miR-622 expression was closely correlated with aggressive clinicopathological features and poor overall survival. Multivariate regression analysis corroborated that low level of miR-622 expression was an independent unfavourable prognostic factor for patients with ESCC. Up-regulation of miR-622 could significantly reduce ESCC cell proliferation, enhance cell apoptosis, and impair cell invasion and migration in vitro, while down-regulation of miR-622 showed opposite effects. Further, E2F1 was confirmed as a direct target of miR-622 by using Luciferase Reporter Assay.

@@ -1,7 +1,0 @@
-Document ID: 27489522
-
-Nicotinamide adenine dinucleotide (NAD(+)) and its phosphorylated form (NADP(+)) are key molecules in ubiquitous bioenergetic and cellular signaling pathways, regulating cellular metabolism and homeostasis. Thus, supplementation with NAD(+) and NADP(+) precursors emerged as a promising strategy to gain many and multifaceted health benefits. In this proof-of-concept study, we sought to investigate whether chronic nicotinamide riboside administration (an NAD(+) precursor) affects exercise performance.
-
-Eighteen Wistar rats were equally divided in two groups that received either saline vehicle or nicotinamide riboside at a dose of 300 mg/kg body weight/day for 21 days via gavage. At the end of the 21-day administration protocol, both groups performed an incremental swimming performance test.
-
-The nicotinamide riboside group showed a tendency towards worse physical performance by 35 % compared to the control group at the final 10 % load (94 ± 53 s for the nicotinamide riboside group and 145 ± 59 s for the control group; P = 0.071).

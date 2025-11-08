@@ -1,7 +1,0 @@
-Document ID: 27513385
-
-High rates of 23S rDNA mutations implicated in macrolide resistance have been identified in Treponema pallidum samples from syphilis patients in many countries. Nonetheless, some clinicians have been reluctant to abandon azithromycin as a treatment for syphilis, citing the lack of a causal association between these mutations and clinical evidence of drug resistance. Although azithromycin resistance has been demonstrated in vivo for the historical Street 14 strain, no recent T. pallidum isolates have been tested. We used the well-established rabbit model of syphilis to determine the in vivo efficacy of azithromycin against 23S rDNA mutant strains collected in 2004 to 2005 from patients with syphilis in Seattle, Wash.
-
-Groups of 9 rabbits were each infected with a strain containing 23S rDNA mutation A2058G (strains UW074B, UW189B, UW391B) or A2059G (strains UW228B, UW254B, and UW330B), or with 1 wild type strain (Chicago, Bal 3, and Mexico A). After documentation of infection, 3 animals per strain were treated with azithromycin, 3 were treated with benzathine penicillin G, and 3 served as untreated control groups. Treatment efficacy was documented by darkfield microscopic evidence of T. pallidum, serological response, and rabbit infectivity test.
-
-Azithromycin uniformly failed to cure rabbits infected with strains harboring either 23S rDNA mutation, although benzathine penicillin G was effective. Infections caused by wild type strains were successfully treated by either azithromycin or benzathine penicillin G.

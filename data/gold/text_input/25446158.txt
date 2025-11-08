@@ -1,9 +1,0 @@
-Document ID: 25446158
-
-Right ventricular pacing (RVP) has been associated with heart failure and increased mortality. His-bundle pacing (HBP) is more physiological but requires a mapping catheter or a backup right ventricular lead and is technically challenging.
-
-We sought to assess the feasibility, safety, and clinical outcomes of permanent HBP in an unselected population as compared to RVP.
-
-All patients requiring pacemaker implantation routinely underwent attempt at permanent HBP using the Select Secure (model 3830) pacing lead in the year 2011 delivered through a fixed-shaped catheter (C315 HIS) at one hospital and RVP at the second hospital. Patients were followed from implantation, 2 weeks, 2 months, 1 year, and 2 years. Fluoroscopy time (FT), pacing threshold (PTh), complications, heart failure hospitalization, and mortality were compared.
-
-HBP was attempted in 94 consecutive patients, while 98 patients underwent RVP. HBP was successful in 75 patients (80%). FT was similar (12.7 ± 8 minutes vs 10 ± 14 minutes; median 9.1 vs 6.4 minutes; P = .14) and PTh was higher in the HBP group than in the RVP group (1.35 ± 0.9 V vs 0.6 ± 0.5 V at 0.5 ms; P < .001) and remained stable over a 2-year follow-up period. In patients with >40% ventricular pacing (>60% of patients), heart failure hospitalization was significantly reduced in the HBP group than in the RVP group (2% vs 15%; P = .02). There was no difference in mortality between the 2 groups (13% in the HBP group vs 18% in the RVP group; P = .45).

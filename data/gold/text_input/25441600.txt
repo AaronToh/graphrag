@@ -1,7 +1,0 @@
-Document ID: 25441600
-
-Several reports have indicated the benefits of the acute care surgery (ACS) model in surgical outcomes. We tried to delineate the impact of the ACS model on surgical efficiency and quality.
-
-Before the ACS model was implemented, abdominal surgical emergencies were evaluated by an on-call nontrauma general surgeon (pre-ACS model). An in-house trauma surgeon treated all patients with trauma or nontrauma abdominal surgical emergencies after the ACS model. Patients with acute appendicitis who underwent appendectomies were included. We conducted a pre- and poststudy to compare the time patients were in the emergency department and surgical qualities.
-
-There were 146 and 159 patients enrolled in the pre-ACS model and ACS model, respectively. The overall ED length of stay in the ACS model was significantly shorter than that in the pre-ACS model (300.3 ± 61.7 vs 719.1 ± 339.0 minutes, P < .001). Hospital LOS was also significantly shorter in the ACS model than in the pre-ACS model (2.44 ± 1.39 vs 3.83 ± 2.21 days, P = .022).

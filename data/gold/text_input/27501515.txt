@@ -1,7 +1,0 @@
-Document ID: 27501515
-
-Blood oxygen level-dependent (BOLD) MRI has been effectively used to monitor changes in renal oxygenation. However, R2* (or T2*) is not specific to blood oxygenation and is dependent on other factors. This study investigates the use of a statistical model that takes these factors into account and maps BOLD MRI measurements to blood pO2.
-
-Spin echo and gradient echo images were obtained in six Sprague-Dawley rats and R2 and R2* maps were computed. Measurements were made at baseline, post-nitric oxide synthase inhibitor (L-NAME), and post-furosemide administration. A simulation of each region was performed to map R2' (computed as R2*-R2) to blood pO2.
-
-At baseline, blood pO2 in the outer medulla was 30.5 ± 1.2 mmHg and 51.9 ± 5.2 mmHg in the cortex, in agreement with previous invasive studies. Blood pO2 was found to decrease within the outer medulla following L-NAME (P < 0.05) and increase after furosemide (P < 0.05). Blood pO2 in the cortex increased following furosemide (P < 0.05).

@@ -1,7 +1,0 @@
-Document ID: 27504119
-
-Data on the association of memory performance with cerebrospinal fluid (CSF) biomarkers of Alzheimer's disease (AD) are inconsistent. The Consortium to Establish a Registry for Alzheimer's Disease neuropsychological battery (CERAD-NB) is a commonly used validated cognitive tool; however, only few studies have examined its relationship with CSF biomarkers for AD. We studied the correlation of pathological changes in CSF biomarkers with various CERAD-NB subtests and total scores.
-
-Out of 79 subjects (36 men, mean age 70.5 years), 63 had undergone an assessment of cognitive status with CERAD-NB and a CSF biomarker analysis due to a suspected memory disorder, and 16 were controls with no memory complaint.
-
-In women we found a significant correlation between CSF amyloid-beta (Aβ1-42) and several subtests measuring delayed recall. Word List Recall correlated with all markers: Aβ1-42 (r = 0.323, p = 0.035), tau (r = -0.304, p = 0.050) and hyperphosphorylated tau (r = -0.331, p = 0.046). No such correlations were found in men.

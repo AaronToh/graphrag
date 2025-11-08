@@ -1,7 +1,0 @@
-Document ID: 25436308
-
-To date, no data is available about procalcitonin (PCT) levels and its relevance to morbidity and graft function in the early phase after pediatric liver transplantation (pLTx). The aim of this study was to analyse the prognostic relevance of early postoperative PCT elevations in pediatric liver recipients.
-
-Thirty pediatric patients who underwent 32 liver transplantations were included into this observational single-center study.
-
-Patients with high PCT levels on postoperative day (POD) 2 had higher International Normalized Ratio values on POD 5 (p<0.05) and suffered more often from primary graft non-function (p<0.05). They also had a longer stay in the pediatric intensive care unit (p<0.01) and on mechanical ventilation (p=0.001). There was no correlation between PCT elevation and systemic infection. However, PCT levels were correlated with peak serum lactate levels immediately after graft reperfusion and elevation of serum aminotransferases on POD 1 (r2=0.61, p<0.001).

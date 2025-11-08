@@ -1,9 +1,0 @@
-Document ID: 25431044
-
-Most hepatocellular carcinomas (HCCs) are associated with cirrhosis. Portal hypertension (PHT) and esophageal variceal bleeding (EVB) can limit the patient's treatment options. Surgical therapy in such patients is challenging. We performed devascularization plus liver resection or radiofrequency ablation (RFA) to treat HCC patients with concomitant EVB resulting from PHT secondary to cirrhosis. Such combined operations have never been reported for the management of HCC patients with variceal esophageal bleeding.
-
-To evaluate two different treatment regimens for patients with HCC and EVB.
-
-We evaluated 35 BCLC stage 0/A patients with HCC and EVB who underwent either devascularization plus liver resection (Group A) or devascularization plus RFA (Group B). We reviewed the safety and outcomes of the two groups and assessed risk factors for patient survival and tumor recurrence.
-
-Significant factors for overall survival were surgical approach and Child-Pugh classification. Child-Pugh classification was the only independent risk factor for overall postoperative survival [hazard ratio (HR) 8.320, 95 % confidence interval (CI) 1.739-39.799, P = 0.008]. Age was the only independent risk factor for tumor recurrence (HR 4.025, 95 % CI 1.343-12.062, P = 0.013).

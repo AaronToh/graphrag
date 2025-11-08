@@ -1,7 +1,0 @@
-Document ID: 25440044
-
-Peroxisome proliferator-activated receptor gamma coactivator 1α (PGC-1α) is a metabolic regulator induced during ischemia that prevents cardiac remodeling in animal models. The activity of PGC-1α can be estimated in patients with ST-segment elevation acute myocardial infarction. The aim of the present study was to evaluate the value of blood PGC-1α levels in predicting the extent of necrosis and ventricular remodeling after infarction.
-
-In this prospective study of 31 patients with a first myocardial infarction in an anterior location and successful reperfusion, PGC-1α expression in peripheral blood on admission and at 72 hours was correlated with myocardial injury, ventricular volume, and systolic function at 6 months. Edema and myocardial necrosis were estimated using cardiac magnetic resonance imaging during the first week. At 6 months, infarct size and ventricular remodeling, defined as an increase > 10% of the left ventricular end-diastolic volume, was evaluated by follow-up magnetic resonance imaging. Myocardial salvage was defined as the difference between the edema and necrosis areas.
-
-Greater myocardial salvage was seen in patients with detectable PGC-1α levels at admission (mean [standard deviation (SD)], 18.3% [5.3%] vs 4.5% [3.9%]; P = .04). Induction of PGC-1α at 72 hours correlated with greater ventricular remodeling (change in left ventricular end-diastolic volume at 6 months, 29.7% [11.2%] vs 1.2% [5.8%]; P = .04).

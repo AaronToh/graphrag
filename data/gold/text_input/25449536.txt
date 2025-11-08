@@ -1,7 +1,0 @@
-Document ID: 25449536
-
-Antibody-mediated rejection (ABMR) is dependent on complement activating donor-specific anti-HLA antibodies (DSA). This is commonly detected by C4d deposition in allografts. However, recent data define a C4d negative ABMR phenotype suggesting a role for complement-independent DSA injury, antibody-dependent cellular cytotoxicity (ADCC).
-
-Here, we established an in vitro ADCC model that identified human ADCC-activated genes using microarray analysis. We subsequently interrogated renal allograft biopsies from patients with ABMR and controls for mRNA expression of the ADCC-activated gene set.
-
-We identified 13 ADCC-activated genes. Six gene expression assays including 8 of the 13 genes (CCL3, CCL4/CCL4L1/CCL4L2, CD160, IFNG, NR4A3 and XCL1/XCL2) were analyzed in 127 kidney biopsies obtained from HLA-sensitized (HS), non-HS patients and control individuals. Most ADCC-activated genes showed significantly higher expression in the transplant samples compared to the controls (p<0.0005). The gene expression levels were significantly higher in HS and non-HS transplant patients who developed ABMR compared to those who did not (p=0.04-0.002). There was no difference in the gene expression levels between C4d positive and negative ABMR (p=0.26-0.99). Samples from high PRA (>80%) or positive DSA patients showed higher gene expression levels for the ADCC-activated genes compared to low PRA (<80%) and negative DSA patients (p=0.04-0.001).

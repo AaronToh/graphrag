@@ -1,7 +1,0 @@
-Document ID: 27495386
-
-The EuroSCORE (European System for cardiac operative risk evaluation) stratifies cardiac risk surgery in easy and accessible manner; it was validated in North America with good results but in many countries of Latin America is used routinely without prior validation. Our objective was to validate the EuroSCORE in patients with cardiac valve surgery at the Instituto Nacional de Cardiología Ignacio Chávez (INCICh) in México.
-
-EuroSCORE additive and logistic models were used to predict mortality in adults undergoing cardiac valve surgery from march 2004 to march 2008. The goodness of fit test of Hosmer-Lemeshow was used to evaluate the calibration. The area under the ROC curve was calculated to determinate discrimination.
-
-We included 1188 patients with ages of 51.3±14.5 years, 52% women. There were significant differences in the prevalence of risk factors among the INCICh and the EuroSCORE populations. Total mortality was 9.68% versus 5% and 5.6% predicted by additive and logistic EuroSCORE. According to additive EuroSCORE the risk was low in 11.3%, intermediate in 52.9% and high in 35.9%; for these groups the mortality was .7%, 6.34% and 17.4% against those predicted of 2%, 3.9% and 7.64%. Hosmer-Lemeshow test had a P<.001 for both models and the area under the ROC curve was .707 and .694 for additive and logistic EuroSCORE.

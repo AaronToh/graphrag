@@ -1,7 +1,0 @@
-Document ID: 27499091
-
-18β-glycyrrhetinic acid (18β-GA) has multiple beneficial and therapeutic effects. However, its protective roles on methotrexate (MTX)-induced renal injury are not well defined. In the present study, we investigated the possible protective effects of 18β-GA against MTX-induced nephrotoxicity in rats.
-
-18β-GA (50 and 100 mg/kg) was administered for 7 days either before or after MTX. The rats were decapitated and kidney and serum samples were collected.
-
-MTX-induced renal injury in rats was evidenced by the significant (p < 0.001) increase in circulating kidney function markers and tumor necrosis factor alpha (TNF-α), as well as the histopathological alterations. MTX-induced rats exhibited significantly increased lipid peroxidation (p < 0.05) and nitric oxide (p < 0.001) levels, with concomitant marked (p < 0.001) decline in the antioxidant defenses. 18β-GA, administered either before or after MTX, produced a significant amelioration of circulating kidney function markers, TNF-α, kidney lipid peroxidation, nitric oxide, and antioxidant defenses. In addition, 18β-GA supplementation significantly up-regulated the mRNA abundance of both nuclear factor-erythroid 2-related factor 2 (Nrf2) and hemoxygenase 1 (HO-1) in the kidney of MTX-induced rats.

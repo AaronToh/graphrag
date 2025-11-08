@@ -1,7 +1,0 @@
-Document ID: 25430473
-
-Stroke is a leading cause of disability. However, there is no pharmacological therapy available for promoting recovery. Although treatment of stroke with cystamine has gained increasing interest, the detailed mechanisms underlying this process remain elusive. Thus, our aim is to examine the effect of cystamine on the function recovery after stroke and investigate further cystamine mechanisms.
-
-Adult male C57BL/6J mice were subjected to photothrombotic model of focal stroke or sham operation. Cystamine or saline was administered intraperitoneally at 24 h after stroke. Functional recovery was analyzed using behavioral tests; axon remodeling was analyzed using magnetic resonance diffusion tensor imaging (DTI) and histological assessment. ANA-12, an antagonist of tropomyosin-related kinase B (TrkB), was administrated to examine the mechanisms underlying the neuroprotection mediated by cystamine.
-
-Treatment with cystamine resulted in amelioration of impaired function with concomitant enhancement of axonal remodeling. Cystamine treatment significantly increased brain-derived neurotrophic factor (BDNF) levels and phosphorylation of TrkB in brain after stroke. Cystamine significantly enhanced neuronal progenitor cell proliferation, neuronal survival, and plasticity through BDNF/TrkB pathway.

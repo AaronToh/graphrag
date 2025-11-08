@@ -1,5 +1,0 @@
-Document ID: 27505125
-
-The use of doxorubicin, a potent chemotherapeutic agent, is limited by cardiotoxicity. We tested the hypothesis that decreased soluble guanylate cyclase (sGC) enzyme activity contributes to the development of doxorubicin-induced cardiotoxicity.
-
-Doxorubicin administration (20 mg/kg, intraperitoneally [IP]) reduced cardiac sGC activity in wild-type (WT) mice. To investigate whether decreased sGC activity contributes to doxorubicin-induced cardiotoxicity, we studied mice with cardiomyocyte-specific deficiency of the sGC α1-subunit (mice with cardiomyocyte-specific deletion of exon 6 of the sGCα1 allele [sGCα1

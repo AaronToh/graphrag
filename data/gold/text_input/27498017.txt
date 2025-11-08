@@ -1,7 +1,0 @@
-Document ID: 27498017
-
-To describe the variability in rheumatology visits and referrals to other medical specialties of patients with spondyloarthritis (SpA) and to explore factors that may influence such variability.
-
-Nation-wide cross-sectional study performed in 2009-2010. Randomly selected records of patients with a diagnosis of SpA and at least one visit to a rheumatology unit within the previous 2 years were audited. The rates of rheumatology visits and of referrals to other medical specialties were estimated-total and between centres-in the study period. Multilevel regression was used to analyse factors associated with variability and to adjust for clinical and patient characteristics.
-
-1168 patients' records (45 centres) were reviewed, mainly ankylosing spondylitis (55.2 %) and psoriatic arthritis (22.2 %). The patients had incurred in 5908 visits to rheumatology clinics (rate 254 per 100 patient-years), 4307 visits to other medical specialties (19.6 % were referrals from rheumatology), and 775 visits to specialised nurse clinics. An adjusted variability in frequenting rheumatology clinics of 15.7 % between centres was observed. This was partially explained by the number of faculties and trainees. The adjusted intercentre variability for referrals to other specialties was 12.3 %, and it was associated with urban settings, number of procedures, and existence of SpA dedicated clinics; the probability of a patient with SpA of being referred to other specialist may increase up to 25 % depending on the treating centre.

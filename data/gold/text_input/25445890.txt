@@ -1,7 +1,0 @@
-Document ID: 25445890
-
-It has been reported that beta-blockers (BB) reduce cardiovascular events in patients with atherosclerotic disease. However, little is known about the efficacy of these drugs in patients with critical limb ischemia (CLI). We investigated whether beta-blocker therapy affects the clinical outcomes of CLI patients.
-
-Between March 2004 and December 2011, 1,873 consecutive CLI patients who received endovascular therapy (EVT) (394 BB-treated patients and 1,479 non-BB-treated patients) for de novo infrainguinal lesions were identified retrospectively. A propensity score analysis was used for risk adjustment in a multivariable analysis and one-to-one matching (BB: 305, non-BB 305). The primary endpoint was amputation-free survival (AFS), and the secondary endpoints were overall survival and the rates of limb salvage and freedom from major adverse limb events (MALE; including repeat reintervention, surgical conversion and major amputation). The mean follow-up period was 22 ± 15 months.
-
-In the propensity score-matched pair analysis, there were no significant differences in AFS between the patients treated with and without beta-blockers (58.8% vs. 58.5% at three years, log-rank p = 0.76). There were also no significant differences in the limb salvage rate (88.3% vs. 88.8 at three years, log-rank P = 0.41), overall survival (63.0% vs. 62.4% at three years, log-rank P = 0.70) and freedom from MALE (43.6% vs. 44.9% at three years, log-rank P = 0.58) between the patients treated with and without beta-blockers.

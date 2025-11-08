@@ -1,7 +1,0 @@
-Document ID: 27513417
-
-Inflammation plays an important role in the pathophysiology of vascular disease. In this study, we aimed to evaluate the associations of neutrophil to lymphocyte ratio (NLR; an indicator of inflammation) with left ventricular ejection fraction and ascending aorta diameter in patients with a bicuspid aortic valve (BAV).
-
-One hundred and thirty-nine consecutive patients with the diagnosis of BAV were enrolled in the study. Complete blood counts were analyzed for neutrophil and lymphocyte levels and NLR. The subjects were separated into two groups based on their ascending aorta diameter. The patients with ascending aorta diameter equal to or above 3.9 cm were included in group 1 whereas those with ascending aorta diameter below 3.9 cm were included in group 2.
-
-When the results were compared, it was demonstrated that there was a positive correlation between NLR and ascending aorta diameter (r: 0.485, P = 0.026), whereas there was a negative correlation between NLR and left ventricular end-diastolic diameter (r: 0.475, P = 0.030), left ventricular end-systolic diameter (r: 0.482, P = 0.027), and left ventricular ejection fraction (r: -0.467, P = 0.033) in BAV patients with ascending aorta dilatation (group 1).

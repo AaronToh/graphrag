@@ -1,7 +1,0 @@
-Document ID: 25438689
-
-The cyclooxygenase-2 (cox-2) pathway is now recognized to be important in human cancer development and progression. The gene for cox-2 carries a common single nucleotide polymorphism, T8473C, located within a potential functional region in the 3'-UTR of cox-2 gene was identified. We have investigated the frequencies of cox-2 genotypes in Tunisian population to determine whether that polymorphism was associated with the risk of nasopharyngeal carcinoma (NPC) in Tunisian population.
-
-One hundred and eighty-nine NPC patients were compared to 237 healthy controls.
-
-The cox-2 T8473C polymorphism was significantly associated with NPC (P=0.031). The CC-genotype and C allele were more frequent in control compared to patients group [CC: OR=0.37; P=0.013; 95% CI: 0.17-0.81; C: OR=0.72; P=0.032; 95% CI: 0.53-0.97]. Multivariate logistic regression analyses revealed that the CC-genotype was associated with a significantly decreased risk of NPC (P=0.013). Tumor sizes, histologic grade, presence of primary lymph node metastases, age or sex were not associated with cox-2 genotypes.

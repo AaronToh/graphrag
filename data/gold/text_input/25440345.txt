@@ -1,7 +1,0 @@
-Document ID: 25440345
-
-We aimed to test the outcome-predictive power of routine fasting glucose (FG) obtained at second day after onset in intravenous thrombolysis (IVT) acute ischemic stroke (AIS) patients.
-
-We identified AIS patients presenting to our institution between December 2011 and July 2013 within 4.5 hours of onset, who received admission glucose (AG) before IVT, FG, and glycated hemoglobin (HbA1c) the second day after admission, from our prospectively recorded stroke database. Multivariate logistic regression was used to assess the association of FG and 90-day modified Rankin Scale (mRS).
-
-Between December 2011 and July 2013, a total of 166 AIS patients received intravenous plasminogen activator. Of those, 119 patients who have AG before IVT, FG, and HbA1c the second day were included in the study. FG independently predicted 90-day clinical unfavorable outcome (mRS, 3-6 with an odds ratio of 1.576; 95% confidence interval [CI], 1.053-2.358; P = .027). This association was not significant in AG (P = .714), HbA1c (P = .655), and history of diabetes (P = .547). In receiver operating characteristic analysis, increased FG was associated with 90-day mRS (3-6) with an area under curve of .72, (95% CI, .65-.9; P = .001).

@@ -1,7 +1,0 @@
-Document ID: 27499941
-
-Decortication for thoracic empyema is associated with significant blood loss and prolonged postoperative air leak. We sought to assess the potential application of an irrigated-tip radiofrequency (RF) sealing device, in an attempt to reduce this morbidity.
-
-Data for all patients undergoing open decortication (OD) for stage II thoracic empyema, using either conventional approach or facilitated by use of the Aquamantys(®) device, at a single thoracic surgical unit between April 2010 and July 2014, were retrospectively analysed. Unpaired t-test and Fisher's exact test were used for statistical analysis.
-
-Thirty-three patients, aged 54±15 years (mean ± SD), and with a Charlson comorbidity index of 2.5±1.9 were included. Preoperative and intraoperative characteristics, including surgical time, were similar in the conventional and Aquamantys(®) groups. Patients in the Aquamantys group were less likely to require red cell transfusion (9/22 vs. 10/11 patients, P=0.024) and received lower volume transfusions [0.0 (2.0) vs. 3.0 (1.6) units (median, IQR), P<0.0001]; chest drain duration was shorter [3.0 (1.0) vs. 6.5 (6.8) days, P=0.006], as was length of postoperative hospital stay [6.0 (8.7) vs. 10.0 (4.6) days, P=0.031]. There was no demonstrable difference in mortality.

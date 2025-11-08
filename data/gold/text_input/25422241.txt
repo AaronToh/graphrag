@@ -1,7 +1,0 @@
-Document ID: 25422241
-
-Structural maintenance of chromosomes 4 (SMC-4) is a chromosomal ATPase which plays an important role in regulate chromosome assembly and segregation. However, the role of SMC-4 in the incidence of malignancies, especially colorectal cancer is still poorly understood.
-
-We here used quantitative PCR and Western blot analysis to examine SMC-4 mRNA and protein levels in primary colorectal cancer and paired normal colonic mucosa. SMC-4 clinicopathological significance was assessed by immunohistochemical staining in a tissue microarray (TMA) in which 118 cases of primary colorectal cancer were paired with noncancerous tissue. The biological function of SMC-4 knockdown was measured by CCK8 and plate colony formation assays. Fluorescence detection has been used to detect cell cycling and apoptosis.
-
-SMC-4 expression was significantly higher in colorectal cancer and associated with T stage, N stage, AJCC stage and differentiation. Knockdown of SMC-4 expression significantly suppressed the proliferation of cancer cells and degraded its malignant degree.

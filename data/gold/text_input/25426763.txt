@@ -1,7 +1,0 @@
-Document ID: 25426763
-
-Developmental dyslexia (DD) is a complex heritable condition associated with impairments in multiple neurocognitive domains. Substantial heritability has been reported for DD and related phenotypes, and candidate genes have been identified. Recently, a candidate gene for human cognitive processes, that is, GRIN2B, has been found to be associated significantly with working memory in a German DD sample. In this study, we explored the contribution of six GRIN2B markers to DD and key DD-related phenotypes by association analyses in a sample of Italian nuclear families. Moreover, we assessed potential gene-by-environment interactions on DD-related phenotypes.
-
-We carried out a family-based association study to determine whether the GRIN2B gene influences both DD as a categorical trait and its related cognitive traits in a large cohort of 466 Italian nuclear families ascertained through a proband affected by DD. Moreover, we tested the role of the selected GRIN2B markers and a set of commonly described environmental moderators using a test for G×E interaction in sib pair-based association analysis of quantitative traits in 178 Italian nuclear families.
-
-Evidence for a significant association was found with the categorical diagnosis of DD, performance intelligence quotient, phonemic elision, and auditory short-term memory. No significant gene-by-environment effects were found.

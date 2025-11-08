@@ -1,7 +1,0 @@
-Document ID: 27509250
-
-Cardiovascular disease contributes to excess morbidity and mortality in HIV infection, and endothelial dysfunction may contribute to this pattern. We aimed to determine the endothelial function in treated and untreated HIV-infected individuals and investigate potential associations with viral replication, immune activation, coagulation, platelet function, and subclinical atherosclerosis.
-
-Asymmetric dimethylarginine (ADMA, marker of endothelial dysfunction) and soluble CD14 (sCD14, marker of monocyte activation) were measured in plasma from two previously established cross-sectional cohorts: cohort A including 50 untreated and 50 antiretroviral therapy (ART)-treated HIV-infected individuals with previously assessed coagulation and platelet function and cohort B including 105 HIV-infected individuals on ART and 105 uninfected controls with previously assessed coronary artery calcium score, myocardial perfusion defects, and carotid intima-media thickness.
-
-Concentrations of ADMA were higher in HIV-infected individuals compared with uninfected controls, and higher ADMA was found in ART-treated compared with untreated HIV-infected individuals. ADMA was associated with viral load, sCD14, D-dimer, and low CD4 T-cell count in untreated HIV infection. Only viral load remained significant in multivariate analyses. In ART-treated HIV-infected individuals, ADMA was not associated with coronary artery calcium score, myocardial perfusion defects, or intima-media thickness.

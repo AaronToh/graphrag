@@ -1,7 +1,0 @@
-Document ID: 25428923
-
-ST22-IV is a successful hospital-associated MRSA clone. Due to its known ability to replace other MRSA clones in hospitals, it became a dominant clone in Europe and beyond. So far, there are no studies investigating the relationship between the epidemiological success of MRSA clones and their capacity to withstand commonly encountered stresses.
-
-We investigated the fitness of ST22-IV in comparison with the replaced clone ST228-I, evaluating its resistance to oxidative stress, autolytic activity, growth at high osmolarity and in acid and alkaline environments and survival under desiccation and heat shock. We also compared their phenotypic characteristics and examined the impact of antibiotic consumption on epidemiological success.
-
-Here we demonstrate that the dominance of ST22-IV is linked neither to changes in antibiotic consumption nor to acquisition of additional resistances over time. Strong α-haemolysin activity, the production of β-haemolysin and the presence of an active agr could partly explain the virulence of ST22-IV previously observed in a murine model of pneumonia. Most importantly, we show that ST22-IV compared with ST228-I, besides retaining susceptibility to most antibiotics over time, has a superior capacity to survive under all stress conditions tested, which bacteria commonly face during their life cycle.

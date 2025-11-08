@@ -1,9 +1,0 @@
-Document ID: 27517618
-
-Evidence that atopic eczema partly originates in utero is increasing, with some studies linking the risk of developing the condition with aspects of maternal diet during pregnancy. Nicotinamide, a naturally occurring nutrient that is maintained through the dietary intakes of vitamin B3 and tryptophan, has been used in the treatment of some skin conditions including atopic eczema.
-
-To examine the relation of maternal serum concentrations of nicotinamide and related tryptophan metabolites to the risk of atopic eczema in the offspring.
-
-Within the UK Southampton Women Survey, infantile atopic eczema at ages 6 and 12 months was ascertained (modified UK Working Party Criteria for the Definition of Atopic Dermatitis). Maternal serum levels of kynurenine, kynurenic acid, anthranilic acid, tryptophan, nicotinamide and N1-methylnicotinamide were measured in late pregnancy by mass spectrometry (n = 497) and related to the odds ratio of infantile atopic eczema.
-
-Maternal nicotinamide and related metabolite concentrations were not associated with offspring atopic eczema at age 6 months. Higher concentrations of nicotinamide and anthranilic acid were, however, associated with a lower risk of eczema at age 12 months (odds ratios 0.69, 95% CI 0.53-0.91/SD change, P = 0.007 and 0.63, 0.48-0.83, P = 0.001, respectively). The associations were robust to adjustment for potentially confounding variables.

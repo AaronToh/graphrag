@@ -1,7 +1,0 @@
-Document ID: 27511297
-
-Impaired spatial working memory is a core cognitive deficit observed in people with 22q11 Deletion syndrome (22q11DS) and has been suggested as a candidate endophenotype for schizophrenia. However, to date, the neuroanatomical mechanisms describing its structural and functional underpinnings in 22q11DS remain unclear. We quantitatively investigate the cognitive processes and associated neuroanatomy of spatial working memory in people with 22q11DS compared to matched controls. We examine whether there are significant between-group differences in spatial working memory using task related fMRI, Voxel based morphometry and white matter fiber tractography.
-
-Multimodal magnetic resonance imaging employing functional, diffusion and volumetric techniques were used to quantitatively assess the cognitive and neuroanatomical features of spatial working memory processes in 22q11DS. Twenty-six participants with genetically confirmed 22q11DS aged between 9 and 52 years and 26 controls aged between 8 and 46 years, matched for age, gender, and handedness were recruited.
-
-People with 22q11DS have significant differences in spatial working memory functioning accompanied by a gray matter volume reduction in the right precuneus. Gray matter volume was significantly correlated with task performance scores in these areas. Tractography revealed extensive differences along fibers between task-related cortical activations with pronounced differences localized to interhemispheric commissural fibers within the parietal section of the corpus callosum.

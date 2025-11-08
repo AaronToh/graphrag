@@ -1,7 +1,0 @@
-Document ID: 25431352
-
-This large cross-sectional, multi-centre study evaluated the association of body composition measurements by a novel dual frequency bioimpedance device (BIA-ACC) with chronic stress/inflammation biomarkers and the presence of medically unexplained symptoms (MUS).
-
-Participants were adult Caucasians of both sexes and included 10,416 lean subjects with no MUS (Group A), 58,710 lean subjects with MUS (Group B) and 30,445 overweight/obese subjects with no MUS and excessive fat mass (FM) (Group C).
-
-Total body extracellular water (ECW) was higher, while intracellular water (ICW) was lower in Group B than both other groups (P < 0.01). Group A had significantly lower FM and higher skeletal mass (SK) and phase angle (PA) than Group B and lower circulating high sensitivity (hs) CRP levels than both other groups. hsCRP was higher in Group C than Group A though (P < 0.01). Salivary cortisol in Group B was lower in the morning and higher in the evening than both other groups (P < 0.001), indicating circadian rhythm obliteration or reversal in this group. ECW correlated positively with serum hsCRP and 8 p.m. salivary cortisol, but negatively with 8 a.m. salivary cortisol, while PA correlated positively with 8 a.m. and negatively with 8 p.m. salivary cortisol and serum hsCRP. Both 8 a.m. and 8 p.m. salivary cortisol and serum hsCRP were associated with the presence of MUS and BIA-ACC measurements, including ECW, ICW, FM, SK and PA.

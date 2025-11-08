@@ -1,7 +1,0 @@
-Document ID: 25438949
-
-To study the association between self-reported sleep disturbances and dementia risk.
-
-Self-reported sleep disturbances and established risk factors for dementia were measured in men at ages 50 (n = 1574) and 70 (n = 1029) years. Dementia incidence was determined by reviewing their patient history between ages 50 and 90 years. In addition, plasma levels of β-amyloid (Aβ) peptides 1-40 and 1-42 were measured at ages 70, 77, and 82 years.
-
-Cox regression demonstrated that men with self-reported sleep disturbances had a higher risk of developing dementia (+33%) and Alzheimer's disease (AD, +51%) than men without self-reported sleep disturbances (both P < .05). Binary logistic regression showed the increased risk for both dementia (+114%) and AD (+192%) were highest when sleep disturbance was reported at age 70 years (both P < .001). No group differences were found in Aβ levels.
