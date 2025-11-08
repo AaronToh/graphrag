@@ -249,7 +249,7 @@ async def query_graphrag_api(
                 community_level=3,
                 response_type="simple",
                 query=question,
-                verbose=True,
+                verbose=False,
             )
         else:
             answer, context = await global_search(
