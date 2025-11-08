@@ -11,6 +11,7 @@ from haystack import Pipeline, Document
 from haystack.components.evaluators.document_mrr import DocumentMRREvaluator
 from haystack.components.evaluators.faithfulness import FaithfulnessEvaluator
 from haystack.components.evaluators.sas_evaluator import SASEvaluator
+from haystack.components.evaluators import AnswerExactMatchEvaluator
 from haystack.evaluation.eval_run_result import EvaluationRunResult
 from haystack.components.generators.chat import OpenAIChatGenerator
 from haystack.utils import Secret
@@ -135,19 +136,19 @@ def evaluate_rag_pipeline(
     # Add evaluators based on available data
     evaluators_to_run = {}
 
-    # Always add faithfulness evaluator (doesn't require ground truth)
-    faithfulness_evaluator = create_faithfulness_evaluator(
-        llm_provider=faithfulness_llm_provider,
-        model=faithfulness_llm_model,
-        api_base_url=faithfulness_api_base_url,
-        api_key=faithfulness_api_key,
-    )
-    eval_pipeline.add_component("faithfulness", faithfulness_evaluator)
-    evaluators_to_run["faithfulness"] = {
-        "questions": questions,
-        "contexts": contexts,
-        "predicted_answers": predicted_answers,
-    }
+    # # Always add faithfulness evaluator (doesn't require ground truth)
+    # faithfulness_evaluator = create_faithfulness_evaluator(
+    #     llm_provider=faithfulness_llm_provider,
+    #     model=faithfulness_llm_model,
+    #     api_base_url=faithfulness_api_base_url,
+    #     api_key=faithfulness_api_key,
+    # )
+    # eval_pipeline.add_component("faithfulness", faithfulness_evaluator)
+    # evaluators_to_run["faithfulness"] = {
+    #     "questions": questions,
+    #     "contexts": contexts,
+    #     "predicted_answers": predicted_answers,
+    # }
 
     # Add MRR evaluator if ground truth documents are provided
     if ground_truth_documents is not None:
@@ -161,6 +162,14 @@ def evaluate_rag_pipeline(
     if ground_truth_answers is not None:
         eval_pipeline.add_component("sas_evaluator", SASEvaluator(model=model))
         evaluators_to_run["sas_evaluator"] = {
+            "predicted_answers": predicted_answers,
+            "ground_truth_answers": ground_truth_answers,
+        }
+
+    # Add AnswerExactMatch evaluator if ground truth answers are provided
+    if ground_truth_answers is not None:
+        eval_pipeline.add_component("answer_exact_match", AnswerExactMatchEvaluator())
+        evaluators_to_run["answer_exact_match"] = {
             "predicted_answers": predicted_answers,
             "ground_truth_answers": ground_truth_answers,
         }
