@@ -249,7 +249,7 @@ async def query_graphrag_api(
                 community_level=3,
                 response_type="simple",
                 query=question,
-                verbose=False,
+                verbose=True,
             )
         else:
             answer, context = await global_search(
@@ -263,6 +263,21 @@ async def query_graphrag_api(
                 query=question,
                 verbose=False,
             )
+
+        # Convert context to JSON-serializable format
+        def convert_to_serializable(obj):
+            """Recursively convert DataFrames and other non-serializable objects."""
+            if isinstance(obj, pd.DataFrame):
+                return obj.to_dict(orient="records")
+            elif isinstance(obj, dict):
+                return {k: convert_to_serializable(v) for k, v in obj.items()}
+            elif isinstance(obj, (list, tuple)):
+                return [convert_to_serializable(item) for item in obj]
+            else:
+                return obj
+
+        context_for_print = convert_to_serializable(context)
+        # print(f"Context: {json.dumps(context_for_print, default=str, indent=2)}")
 
         elapsed = time.time() - start_time
         retrieved_doc_ids = extract_source_doc_ids(context, text_units, documents)
