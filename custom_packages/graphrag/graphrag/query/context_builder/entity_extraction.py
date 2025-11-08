@@ -39,6 +39,7 @@ def map_query_to_entities(
     query: str,
     text_embedding_vectorstore: BaseVectorStore,
     text_embedder: EmbeddingModel,
+    entity_title_lookup: dict[str, Entity],
     all_entities_dict: dict[str, Entity],
     embedding_vectorstore_key: str = EntityVectorStoreKey.ID,
     include_entity_names: list[str] | None = None,
@@ -62,11 +63,9 @@ def map_query_to_entities(
 
         # For each DrugBank ID, find the entity with matching title
         for drugbank_id in drugbank_ids:
-            # Search through all entities for matching title
-            for entity in all_entities:
-                if entity.title == drugbank_id:
-                    matched_entities.append(entity)
-                    break  # Only add the first match for each DrugBank ID
+            matched = entity_title_lookup.get(drugbank_id)
+            if matched:
+                matched_entities.append(matched)
     else:
         all_entities.sort(key=lambda x: x.rank if x.rank else 0, reverse=True)
         matched_entities = all_entities[:k]

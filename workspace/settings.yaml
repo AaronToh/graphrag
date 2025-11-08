@@ -40,7 +40,7 @@ models:
 input:
   storage:
     type: file # or blob
-    base_dir: "../data/text_input"
+    base_dir: '../data/text_input'
   file_type: text # [csv, text, json]
 
 chunks:
@@ -54,15 +54,15 @@ chunks:
 
 output:
   type: file # [file, blob, cosmosdb]
-  base_dir: "output"
+  base_dir: 'output'
 
 cache:
   type: file # [file, blob, cosmosdb]
-  base_dir: "cache"
+  base_dir: 'cache'
 
 reporting:
   type: file # [file, blob]
-  base_dir: "logs"
+  base_dir: 'logs'
 
 vector_store:
   default_vector_store:
@@ -78,7 +78,7 @@ embed_text:
 
 extract_graph:
   model_id: default_chat_model
-  prompt: "prompts/extract_graph.txt"
+  prompt: 'prompts/extract_graph.txt'
   entity_types:
     [
       organization,
@@ -95,7 +95,7 @@ extract_graph:
 
 summarize_descriptions:
   model_id: default_chat_model
-  prompt: "prompts/summarize_descriptions.txt"
+  prompt: 'prompts/summarize_descriptions.txt'
   max_length: 500
 
 extract_graph_nlp:
@@ -109,14 +109,14 @@ cluster_graph:
 extract_claims:
   enabled: false
   model_id: default_chat_model
-  prompt: "prompts/extract_claims.txt"
-  description: "Any claims or facts that could be relevant to information discovery."
+  prompt: 'prompts/extract_claims.txt'
+  description: 'Any claims or facts that could be relevant to information discovery.'
   max_gleanings: 1
 
 community_reports:
   model_id: default_chat_model
-  graph_prompt: "prompts/community_report_graph.txt"
-  text_prompt: "prompts/community_report_text.txt"
+  graph_prompt: 'prompts/community_report_graph.txt'
+  text_prompt: 'prompts/community_report_text.txt'
   max_length: 2000
   max_input_length: 8000
 
@@ -137,21 +137,22 @@ snapshots:
 local_search:
   chat_model_id: default_chat_model
   embedding_model_id: default_embedding_model
-  prompt: "prompts/local_search_system_prompt.txt"
+  prompt: 'prompts/local_search_system_prompt.txt'
+  max_context_tokens: 50000
 
 global_search:
   chat_model_id: default_chat_model
-  map_prompt: "prompts/global_search_map_system_prompt.txt"
-  reduce_prompt: "prompts/global_search_reduce_system_prompt.txt"
-  knowledge_prompt: "prompts/global_search_knowledge_system_prompt.txt"
+  map_prompt: 'prompts/global_search_map_system_prompt.txt'
+  reduce_prompt: 'prompts/global_search_reduce_system_prompt.txt'
+  knowledge_prompt: 'prompts/global_search_knowledge_system_prompt.txt'
 
 drift_search:
   chat_model_id: default_chat_model
   embedding_model_id: default_embedding_model
-  prompt: "prompts/drift_search_system_prompt.txt"
-  reduce_prompt: "prompts/drift_search_reduce_prompt.txt"
+  prompt: 'prompts/drift_search_system_prompt.txt'
+  reduce_prompt: 'prompts/drift_search_reduce_prompt.txt'
 
 basic_search:
   chat_model_id: default_chat_model
   embedding_model_id: default_embedding_model
-  prompt: "prompts/basic_search_system_prompt.txt"
+  prompt: 'prompts/basic_search_system_prompt.txt'

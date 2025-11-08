@@ -71,6 +71,7 @@ class LocalSearchMixedContext(LocalContextBuilder):
         if text_units is None:
             text_units = []
         self.entities = {entity.id: entity for entity in entities}
+        self.entity_title_lookup = {entity.title: entity for entity in entities}
         self.community_reports = {
             community.community_id: community for community in community_reports
         }
@@ -140,6 +141,7 @@ class LocalSearchMixedContext(LocalContextBuilder):
             query=query,
             text_embedding_vectorstore=self.entity_text_embeddings,
             text_embedder=self.text_embedder,
+            entity_title_lookup=self.entity_title_lookup,
             all_entities_dict=self.entities,
             embedding_vectorstore_key=self.embedding_vectorstore_key,
             include_entity_names=include_entity_names,
