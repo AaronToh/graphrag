@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-11-07T19:16:27.633600",
+  "method": "adaptive_multi_strategy",
+  "config": {
+    "target_reduction": 0.6,
+    "min_connectivity_pct": 0.85,
+    "protected_fraction": 0.2,
+    "hub_degree_percentile": 0.75
+  },
+  "baseline_stats": {
+    "num_entities": 47030,
+    "num_relationships": 113352,
+    "num_communities": 5068
+  },
+  "pruned_stats": {
+    "num_entities": 18768,
+    "num_relationships": 82441,
+    "num_communities": 5068
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-11-07T18:43:22.584537",
+  "method": "kgtrimmer",
+  "config": {
+    "collective_weight": 0.5,
+    "holistic_weight": 0.5,
+    "min_importance_percentile": 0.45,
+    "preserve_connectivity": true,
+    "max_iterations": 1
+  },
+  "baseline_stats": {
+    "num_entities": 47030,
+    "num_relationships": 113352,
+    "num_communities": 5068
+  },
+  "pruned_stats": {
+    "num_entities": 21056,
+    "num_relationships": 86672,
+    "num_communities": 5068
+  }
+}

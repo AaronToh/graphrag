@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-11-07T19:16:23.726027",
+  "method": "pog_hybrid",
+  "config": {
+    "num_seeds": 400,
+    "top_k_paths": 4000,
+    "max_path_length": 7,
+    "node_retention_pct": 0.45,
+    "node_scoring_method": "degree_centrality",
+    "seed_method": "degree_centrality"
+  },
+  "baseline_stats": {
+    "num_entities": 47030,
+    "num_relationships": 113352,
+    "num_communities": 5068
+  },
+  "pruned_stats": {
+    "num_entities": 21174,
+    "num_relationships": 87860,
+    "num_communities": 5068
+  }
+}
